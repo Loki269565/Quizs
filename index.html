@@ -781,7 +781,7 @@ function loadJsonFilesAsPapers(fileEntries, categoryName){
   ).then(groups => groups.flat());
 }
 
-fetch("https://api.github.com/repos/Loki269565/Quiz/contents/data")
+fetch("https://api.github.com/repos/Loki269565/Quizs/contents/data")
 .then(response => response.json())
 .then(entries => {
 
@@ -796,7 +796,7 @@ fetch("https://api.github.com/repos/Loki269565/Quiz/contents/data")
 
     folders.forEach(folder => {
       tasks.push(
-        fetch(`https://api.github.com/repos/Loki269565/Quiz/contents/data/${encodeURIComponent(folder.name)}`)
+        fetch(`https://api.github.com/repos/Loki269565/Quizs/contents/data/${encodeURIComponent(folder.name)}`)
           .then(res => res.json())
           .then(subEntries => loadJsonFilesAsPapers(subEntries, folder.name))
       );
