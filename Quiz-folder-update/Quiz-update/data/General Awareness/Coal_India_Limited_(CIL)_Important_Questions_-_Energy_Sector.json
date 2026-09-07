@@ -1,0 +1,252 @@
+{
+  "id": "paper_1783583207835",
+  "title": "Coal India Limited (CIL) Important Questions - Energy Sector",
+  "sections": [
+    {
+      "name": "Coal and Energy Awareness",
+      "durationMinutes": 30,
+      "questions": [
+        {
+          "q": "What is the major component of natural gas?",
+          "options": [
+            "Ethane",
+            "Methane",
+            "Propane",
+            "Butane"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the correct order of coal ranks from lowest to highest carbon content?",
+          "options": [
+            "Anthracite, Bituminous, Lignite, Peat",
+            "Peat, Lignite, Bituminous, Anthracite",
+            "Lignite, Peat, Anthracite, Bituminous",
+            "Bituminous, Peat, Lignite, Anthracite"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Coal India Limited was formed as a holding company in which year?",
+          "options": [
+            "1956",
+            "1969",
+            "1975",
+            "1985"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which of the following is NOT a coal producing subsidiary of Coal India Limited?",
+          "options": [
+            "BCCL",
+            "MCL",
+            "CMPDI",
+            "SECL"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Bharat Coking Coal Limited (BCCL) is primarily associated with:",
+          "options": [
+            "Solar Energy",
+            "Coking Coal",
+            "Uranium Mining",
+            "Wind Energy"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Mahanadi Coalfields Limited (MCL) was incorporated after bifurcation of which company?",
+          "options": [
+            "BCCL",
+            "CCL",
+            "SECL",
+            "WCL"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which CIL unit directly controls coal mines in Assam and neighbouring areas?",
+          "options": [
+            "North Eastern Coalfields",
+            "Mahanadi Coalfields",
+            "BCCL",
+            "Central Coalfields"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "NTPC Vindhyachal Super Thermal Power Station is located in which state?",
+          "options": [
+            "Uttar Pradesh",
+            "Madhya Pradesh",
+            "Chhattisgarh",
+            "Jharkhand"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Coal for NTPC Vindhyachal is mainly sourced from which mine?",
+          "options": [
+            "Jharia Mine",
+            "Nigahi Mines",
+            "Raniganj Mine",
+            "Talcher Mine"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Kudankulam Nuclear Power Station is located in which state?",
+          "options": [
+            "Maharashtra",
+            "Gujarat",
+            "Tamil Nadu",
+            "Rajasthan"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The reactor type used in Kudankulam Units 1 and 2 is:",
+          "options": [
+            "PHWR",
+            "PWR",
+            "VVER",
+            "FBR"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The combined commercial operational capacity of Kudankulam Units 1 and 2 is:",
+          "options": [
+            "1000 MW",
+            "1400 MW",
+            "2000 MW",
+            "3000 MW"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "NPCIL works under the administrative control of:",
+          "options": [
+            "Ministry of Coal",
+            "Department of Atomic Energy",
+            "Ministry of Power",
+            "Ministry of Mines"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The first nuclear power station in India was:",
+          "options": [
+            "Narora Atomic Power Station",
+            "Tarapur Atomic Power Station",
+            "Kakrapar Atomic Power Station",
+            "Kaiga Generating Station"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The headquarters of International Solar Alliance is located at:",
+          "options": [
+            "New Delhi",
+            "Gurugram",
+            "Jaipur",
+            "Ahmedabad"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "India's National Green Hydrogen Mission targets annual green hydrogen production of about:",
+          "options": [
+            "1 Million Metric Ton by 2030",
+            "5 Million Metric Ton by 2030",
+            "10 Million Metric Ton by 2040",
+            "20 Million Metric Ton by 2050"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "According to MNRE data, which renewable source has the highest installed capacity in India?",
+          "options": [
+            "Wind Power",
+            "Solar Power",
+            "Small Hydro",
+            "Biomass"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Bhadla Solar Park is located in which state?",
+          "options": [
+            "Gujarat",
+            "Rajasthan",
+            "Madhya Pradesh",
+            "Karnataka"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Fly ash is mainly produced by:",
+          "options": [
+            "Hydro Power Plants",
+            "Coal Based Thermal Power Plants",
+            "Wind Farms",
+            "Solar Parks"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Super critical thermal power plants operate at:",
+          "options": [
+            "Below critical pressure only",
+            "Above critical pressure and temperature",
+            "Atmospheric pressure",
+            "Without steam generation"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "id": "dsssb_tgt_cs_24june2023_shift3",
+  "title": "DSSSB TGT Computer Science - 24 June 2023 Shift 3",
+  "sections": [
+    {
+      "name": "General Intelligence and Reasoning Ability",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "q": "Which two signs should be interchanged to make the following equation correct? 234 ÷ 18 + 47 − 14 × 18 = 653",
+          "options": [
+            "+ and −",
+            "+ and ×",
+            "× and −",
+            "+ and +"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. XGC, UHD, RIF, OJI, ?",
+          "options": [
+            "LKL",
+            "LKN",
+            "LKM",
+            "LLM"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which of the following letters is the 7th to the left of the 11th letter from the right end of the series? (Left) A D F G W R W S F G B C S X A D G H J K L Y O R E D H K H (Right)",
+          "options": [
+            "B",
+            "C",
+            "G",
+            "S"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation. 19 * 23 * 221 * 17 * 89 * 361",
+          "options": [
+            "÷, +, ×, −, =",
+            "+, +, ×, −, =",
+            "×, +, +, −, =",
+            "−, +, +, ×, ="
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the following equation. 45 * 45 * 45 * 45 * 45 * 1979",
+          "options": [
+            "+, ÷, =, ×, −",
+            "−, +, =, +, ×",
+            "÷, +, ×, −, =",
+            "×, +, ÷, −, ="
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "In the evening, before sunset, X is facing towards the right hand side of the direction where his shadow is falling. He then turns right and walks 20 m. Then, he turns right again and walks 10 m. Then, he turns left and walks 10 m, and then turning right, he walks 20 m. Then, he turns right again and walks 30 m. At what distance and in which direction is X now from the starting point?",
+          "options": [
+            "30 m, north",
+            "20 m, north",
+            "30 m, south",
+            "20 m, south"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Study the given information, statement and conclusions carefully, and decide which of the given conclusions logically follow(s) from the statement. P # Q means P is greater than Q. P $ Q means P is either greater than or equal to Q. P = Q means P is smaller than Q. Statement: C $ E, F # C, D = E. Conclusions: I. C # D  II. E # D",
+          "options": [
+            "Only conclusion II follows",
+            "Both conclusions I and II follow",
+            "Only conclusion I follows",
+            "Either conclusion I or II follows"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Four number-pairs have been given, out of which three are alike in some manner and one is different. Select the one that is different.",
+          "options": [
+            "16 - 72",
+            "24 - 108",
+            "18 - 81",
+            "22 - 97"
+          ],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What approximate value should come in place of the question mark (?) in the following equation? 23.87 ÷ 12.19 − 76.69 ÷ 29.89 × 17.37 = ?",
+          "options": [
+            "567",
+            "234",
+            "345",
+            "435"
+          ],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "In a row of a picture hall where all are facing north, Khalid is 25th from the left end and Kapil is 29th from the right end. They interchange their seats, and Sham who is sitting 34th from the left end is sitting at the 5th place to the left of Khalid new position. How many persons are there in one row of the picture hall?",
+          "options": [
+            "56",
+            "67",
+            "76",
+            "62"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Four number-pairs have been given, out of which three are alike in some manner and one is different. Select the one that is different.",
+          "options": [
+            "13 - 39",
+            "27 - 81",
+            "23 - 69",
+            "17 - 51"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements. Statements: A. Some dogs are goats. B. All goats are peacocks. C. All peacocks are eagles. Conclusions: I. Some peacocks are dogs. II. All dogs are peacocks. III. All eagles are peacocks.",
+          "options": [
+            "Only conclusion I follows",
+            "Only conclusions II and III follow",
+            "Only conclusions I and II follow",
+            "All the conclusions, I, II and III, follow"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Three different positions of the same dice are shown. Which pattern will be on the face opposite to the one having '①'? [Image-based dice question - see original PDF for figures]",
+          "options": [
+            "Option 1 (figure)",
+            "Option 2 (figure)",
+            "Option 3 (figure)",
+            "Option 4 (figure)"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "In a row of 80 students, Ram is at the 15th position to the right of Rohit, who is at the 40th position from the right end. What will be the position of Ram from the left end?",
+          "options": [
+            "54th",
+            "56th",
+            "55th",
+            "57th"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Select the figure from among the given options that can replace the question mark (?) in the following series. [Image-based series question - see original PDF for figures]",
+          "options": [
+            "Option 1 (figure)",
+            "Option 2 (figure)",
+            "Option 3 (figure)",
+            "Option 4 (figure)"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "If P # Q means P is the brother of Q, P @ Q means P is the father of Q, and P & Q means P is the sister of Q, then how is A related to E in the expression A # B @ C & D # E?",
+          "options": [
+            "Paternal uncle",
+            "Father",
+            "Grandfather",
+            "Maternal uncle"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "AOPQRSTUVDEFMNWXBZGHIJKLYC. How many letters in the above string occupy the same position as they occupy in the English alphabet?",
+          "options": [
+            "Four",
+            "Two",
+            "One",
+            "Three"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Select the correct mirror image of the given combination when the mirror is held at the right side. ACCESS [Image-based mirror image question - see original PDF for figures]",
+          "options": [
+            "Option 1 (figure)",
+            "Option 2 (figure)",
+            "Option 3 (figure)",
+            "Option 4 (figure)"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Select the alternative figure in which the given figure (X) is embedded. [Image-based embedded figure question - see original PDF for figures]",
+          "options": [
+            "Option 1 (figure)",
+            "Option 2 (figure)",
+            "Option 3 (figure)",
+            "Option 4 (figure)"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "A statement is given, followed by two courses of action numbered I and II. You have to assume everything in the statement to be true, and on the basis of the information given in the statement, decide which of the suggested courses of action logically follow(s) for pursuing. Statement: False cases on dowry are on the increase in the last few years. Courses of Action: I. Government should instruct the local police administration to properly verify dowry complaints before registering an FIR. II. Local police should take strict action on false cases of dowry.",
+          "options": [
+            "Only II follows",
+            "Only I follows",
+            "Either I or II follows",
+            "Both I and II follow"
+          ],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    }
+  ]
+}

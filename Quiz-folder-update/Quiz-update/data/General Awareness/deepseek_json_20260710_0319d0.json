@@ -1,0 +1,540 @@
+{
+  "id": "energy_coal_ntpc_mock_1",
+  "title": "Energy, Coal, NTPC, and General Awareness Mock Test",
+  "sections": [
+    {
+      "name": "Energy and Natural Resources",
+      "durationMinutes": 10,
+      "questions": [
+        {
+          "q": "Which country is the largest producer of coal in the world?",
+          "options": [
+            "India",
+            "USA",
+            "China",
+            "Australia"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Tertiary coal deposits in India, which are younger than Gondwana coal and contain higher moisture and sulfur content, are mostly found in which region?",
+          "options": [
+            "Peninsular India",
+            "North-Eastern States",
+            "Western Ghats",
+            "Coastal Plains"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Panna in Madhya Pradesh is famously known for the mining of which precious metal?",
+          "options": [
+            "Gold",
+            "Diamond",
+            "Emerald",
+            "Silver"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which Indian state is the largest producer of iron ore?",
+          "options": [
+            "Karnataka",
+            "Odisha",
+            "Jharkhand",
+            "Goa"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The International Solar Alliance (ISA) is headquartered in which country?",
+          "options": [
+            "France",
+            "India",
+            "Germany",
+            "USA"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the primary greenhouse gas released from coal combustion?",
+          "options": [
+            "Methane",
+            "Carbon Dioxide",
+            "Nitrous Oxide",
+            "Sulfur Dioxide"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the full form of FGD used in thermal power plants?",
+          "options": [
+            "Fuel Gas Desulfurization",
+            "Flue Gas Desulfurization",
+            "Flue Gas De-neutralization",
+            "Fuel Gas De-neutralization"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which of the following coal fields is the oldest coal field in India where mining first started in 1774?",
+          "options": [
+            "Jharia Coalfield",
+            "Raniganj Coalfield",
+            "Singrauli Coalfield",
+            "Korba Coalfield"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which is the nodal agency for nuclear power generation in India?",
+          "options": [
+            "BARC",
+            "NPCIL",
+            "DAE",
+            "AERB"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The District Mineral Foundation (DMF) was established under which amendment of the MMDR Act?",
+          "options": [
+            "2010 Amendment",
+            "2015 Amendment",
+            "2018 Amendment",
+            "2020 Amendment"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    },
+    {
+      "name": "General Science and Discoveries",
+      "durationMinutes": 8,
+      "questions": [
+        {
+          "q": "Who discovered the circulation of blood in the human body?",
+          "options": [
+            "William Harvey",
+            "Edward Jenner",
+            "Louis Pasteur",
+            "Robert Hooke"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The technique of vaccination was first developed by:",
+          "options": [
+            "Alexander Fleming",
+            "Edward Jenner",
+            "Joseph Lister",
+            "Ronald Ross"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Who discovered the malaria parasite?",
+          "options": [
+            "Ronald Ross",
+            "Charles Laveran",
+            "Louis Pasteur",
+            "Robert Hooke"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Who proved that malaria is transmitted by the mosquito?",
+          "options": [
+            "Ronald Ross",
+            "Edward Jenner",
+            "Alexander Fleming",
+            "Joseph Lister"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which disease is caused by the bacterium Mycobacterium tuberculosis?",
+          "options": [
+            "Cholera",
+            "Tuberculosis",
+            "Typhoid",
+            "Leprosy"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which disease is caused by the Vibrio cholerae bacteria?",
+          "options": [
+            "Cholera",
+            "Malaria",
+            "Dengue",
+            "Plague"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    },
+    {
+      "name": "Books and Authors",
+      "durationMinutes": 3,
+      "questions": [
+        {
+          "q": "The book 'The Argumentative Indian' was written by:",
+          "options": [
+            "Amrita Sen",
+            "Shashi Tharoor",
+            "Ramachandra Guha",
+            "Arundhati Roy"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The book 'The God of Small Things' was authored by:",
+          "options": [
+            "Kiran Desai",
+            "Arundhati Roy",
+            "Jhumpa Lahiri",
+            "Anita Desai"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "'The God of Small Things' won the Booker Prize in which year?",
+          "options": [
+            "1995",
+            "1997",
+            "1999",
+            "2001"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    },
+    {
+      "name": "Atomic Structure and Physics",
+      "durationMinutes": 3,
+      "questions": [
+        {
+          "q": "Who discovered the neutron?",
+          "options": [
+            "J.J. Thomson",
+            "Ernest Rutherford",
+            "James Chadwick",
+            "Niels Bohr"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Who discovered the nucleus of an atom?",
+          "options": [
+            "J.J. Thomson",
+            "Ernest Rutherford",
+            "John Dalton",
+            "James Chadwick"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The book 'Freedom Is' is associated with which of the following? (Homework Question)",
+          "options": [
+            "Maulana Abdul Kalam Azad",
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Dr. B.R. Ambedkar"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    },
+    {
+      "name": "Specific Energy and Power Sector (CIL/NTPC)",
+      "durationMinutes": 15,
+      "questions": [
+        {
+          "q": "SJVN Limited is a joint venture of the Government of India and which state government?",
+          "options": [
+            "Uttarakhand",
+            "Jammu and Kashmir",
+            "Himachal Pradesh",
+            "Punjab"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Supercritical technology in thermal power plants is primarily used to achieve which objective?",
+          "options": [
+            "Increase the life span of the boiler",
+            "Reduce the need for cooling water",
+            "Higher thermal efficiency and lower coal consumption per unit electricity",
+            "Eliminate carbon dioxide emissions completely"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The Pavagada Solar Park in Karnataka has an installed capacity of approximately how many megawatts (MW)?",
+          "options": [
+            "1000",
+            "1500",
+            "2550",
+            "3000"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The Ramagundam Super Thermal Power Station, operated by NTPC, is located in which state?",
+          "options": [
+            "Karnataka",
+            "Telangana",
+            "Andhra Pradesh",
+            "Tamil Nadu"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "India's three-stage nuclear power programme was formulated by which scientist?",
+          "options": [
+            "C.V. Raman",
+            "Vikram Sarabhai",
+            "Homi J. Bhabha",
+            "A.P.J. Abdul Kalam"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The Talcher Coalfield, which supplies coal to nearby thermal power stations, is located in which state?",
+          "options": [
+            "Jharkhand",
+            "West Bengal",
+            "Chhattisgarh",
+            "Odisha"
+          ],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Muppandal Wind Farm, one of the largest onshore wind farms in India, is located in which state?",
+          "options": [
+            "Gujarat",
+            "Maharashtra",
+            "Tamil Nadu",
+            "Andhra Pradesh"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which CIL subsidiary primarily supplies coal to the Korba Super Thermal Power Station in Chhattisgarh?",
+          "options": [
+            "ECL",
+            "SECL",
+            "BCCL",
+            "NCL"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the primary fuel used in the KAPS (Kakrapar Atomic Power Station) in Gujarat?",
+          "options": [
+            "Enriched Uranium",
+            "Natural Uranium",
+            "Thorium",
+            "Plutonium"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The Integrated Power Development Scheme (IPDS) launched by the Government of India primarily focuses on which aspect?",
+          "options": [
+            "Setting up new ultra-mega power projects",
+            "Strengthening of distribution networks in urban areas",
+            "Building new nuclear power plants",
+            "Increasing coal production for the power sector"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which state in India has the highest installed capacity of wind parks?",
+          "options": [
+            "Gujarat",
+            "Rajasthan",
+            "Tamil Nadu",
+            "Karnataka"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The Rihand Super Thermal Power Station, one of the largest NTPC plants, is located near which reservoir?",
+          "options": [
+            "Govind Sagar Lake",
+            "Rihand Reservoir (Govind Ballabh Pant Sagar)",
+            "Hirakund Reservoir",
+            "Nagarjuna Sagar"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The Jawaharlal Nehru National Solar Mission originally set a target of achieving how much solar capacity by 2022?",
+          "options": [
+            "10,000 MW",
+            "20,000 MW",
+            "5,000 MW",
+            "1,00,000 MW"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The Koyna Hydroelectric Power Plant, one of the largest in Western India, is located in which state?",
+          "options": [
+            "Goa",
+            "Gujarat",
+            "Karnataka",
+            "Maharashtra"
+          ],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the Plant Load Factor (PLF) in the context of thermal power plants?",
+          "options": [
+            "Ratio of fuel consumed to fuel available",
+            "Ratio of actual electricity generated to maximum possible generation in a given period",
+            "Number of hours the plant operates in a year",
+            "Weight of coal loaded per hour"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The Kudgi Super Thermal Power Plant, operated by NTPC, is located in which state?",
+          "options": [
+            "Telangana",
+            "Maharashtra",
+            "Karnataka",
+            "Goa"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which is the nodal ministry for renewable energy development in India?",
+          "options": [
+            "Ministry of Power",
+            "Ministry of Coal",
+            "Ministry of New and Renewable Energy",
+            "Ministry of Environment, Forest and Climate Change"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The Durgapur Steel Thermal Power Station is associated with which DVC project area?",
+          "options": [
+            "Maithon",
+            "Panchet",
+            "Mujia",
+            "Durgapur"
+          ],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which renewable energy concept combines solar photovoltaic panels with wind turbines in the same location to optimize land use?",
+          "options": [
+            "Solar Thermal Storage",
+            "Hybrid Renewable Energy Park",
+            "Floating Solar Plant",
+            "Pumped Storage Hydroelectric Plant"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The Singrauli Super Thermal Power Station, the first super thermal power station of NTPC, is located in which state?",
+          "options": [
+            "Madhya Pradesh",
+            "Uttar Pradesh",
+            "Chhattisgarh",
+            "Jharkhand"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    }
+  ]
+}
