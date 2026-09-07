@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Exam Platform</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: Arial, sans-serif; font-size: 14px; color: #222; margin: 0; background: #e8e8e8; }
+  .wrap { max-width: 1200px; margin: 0 auto; background: #fff; min-height: 100vh; }
+  .topbar { background:#37474f;color:#ffeb3b;padding:10px 16px;font-weight:bold;display:flex;justify-content:space-between;align-items:center; }
+  .topbar .right { color:#fff;font-weight:normal;font-size:13px;display:flex;align-items:center;gap:14px; }
+  .topbar .right button { background:transparent;border:1px solid #fff;color:#fff;padding:5px 10px;border-radius:3px;cursor:pointer;font-size:12px; }
+  .center-card { max-width:420px;margin:60px auto;border:1px solid #ddd;border-radius:6px;padding:28px; }
+  .center-card h2 { margin-top:0; }
+  .field { margin-bottom:14px; }
+  .field label { display:block;font-size:12px;color:#555;margin-bottom:4px; }
+  .field input, .field select { width:100%;padding:8px;border:1px solid #ccc;border-radius:3px;font-size:14px; }
+  .btn { padding:9px 16px;border:1px solid #999;background:#fff;border-radius:3px;cursor:pointer;font-size:13px; }
+  .btn-primary { background:#1565c0;color:#fff;border-color:#1565c0; }
+  .btn-danger { background:#e53935;color:#fff;border-color:#e53935; }
+  .btn-block { width:100%; }
+  .page { padding:20px; }
+  .paper-card { border:1px solid #ddd;border-radius:6px;padding:16px;margin-bottom:12px;display:flex;justify-content:space-between;align-items:center; }
+  .paper-card .meta { font-size:12px;color:#666;margin-top:4px; }
+  .section-box { border:1px solid #ddd;border-radius:6px;padding:14px;margin-bottom:14px; }
+  .section-box h4 { margin:0 0 8px; }
+  .q-row { border-top:1px solid #eee;padding:10px 0;font-size:13px; }
+  table.results { width:100%;border-collapse:collapse;font-size:13px; }
+  table.results th, table.results td { border:1px solid #ddd;padding:8px;text-align:left; }
+  table.results th { background:#f5f5f5; }
+
+  .subjects { display:flex;border-bottom:1px solid #ccc;background:#f5f5f5;overflow-x:auto; }
+  .subj-tab { padding:12px 16px;cursor:pointer;white-space:nowrap;border-right:1px solid #ddd;font-size:13px; }
+  .subj-tab.active { background:#1565c0;color:#fff; }
+  .body-row { display:flex;gap:16px;padding:14px; }
+  .main { flex:1;min-width:0; }
+  .meta-row { display:flex;justify-content:space-between;align-items:center;font-size:13px;color:#444;margin-bottom:6px; }
+  .qheader { background:#1565c0;color:#fff;padding:10px 14px;font-weight:bold; }
+  .qbody { border:1px solid #ddd;border-top:none;padding:20px;min-height:220px; }
+  .qtext { font-weight:500;margin:0 0 18px;font-size:15px; }
+  label.opt { display:block;margin-bottom:12px;cursor:pointer;font-size:14px; }
+  .actions { display:flex;justify-content:space-between;margin-top:12px; }
+  .actions button, .side button { padding:8px 14px;border:1px solid #999;border-radius:3px;cursor:pointer;font-size:13px; }
+  .side { width:240px;flex-shrink:0; }
+  .legend { border:1px solid #ddd;border-radius:6px;padding:12px;font-size:12px; }
+  .legend div { display:flex;gap:8px;align-items:center;margin-bottom:8px; }
+  .legend div:last-child { margin-bottom:0; }
+  .badge { color:#fff;border-radius:50%;width:22px;height:22px;display:inline-flex;align-items:center;justify-content:center;font-size:11px;flex-shrink:0; }
+  .side-header { background:#1565c0;color:#fff;padding:8px 10px;margin-top:14px;font-size:13px;font-weight:bold; }
+  .choose-label { font-size:12px;color:#555;margin:8px 0; }
+  #palette { display:grid;grid-template-columns:repeat(4,1fr);gap:6px; }
+  .pal-btn { text-align:center;padding:8px 0;border-radius:4px;cursor:pointer;font-size:12px;color:#fff; }
+  #submit-btn { width:100%;margin-top:16px;padding:10px; }
+
+  .review-q { border:1px solid #ddd;border-radius:6px;padding:14px;margin-bottom:12px; }
+  .opt-line { padding:6px 10px;border-radius:3px;margin-bottom:6px;font-size:13px; }
+  .opt-correct { background:#e6f4ea;border:1px solid #43a047; }
+  .opt-wrong { background:#fdecea;border:1px solid #e53935; }
+  .opt-neutral { background:#fafafa;border:1px solid #eee; }
+  .summary-grid { display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:18px; }
+  .summary-card { border:1px solid #ddd;border-radius:6px;padding:12px;text-align:center; }
+  .summary-card .num { font-size:22px;font-weight:bold; }
+  .hidden { display:none; }
+  textarea.jsonbox { width:100%;height:120px;font-family:monospace;font-size:12px; }
+  .folder-grid { display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px; }
+  .folder-card { border:1px solid #ddd;border-radius:8px;padding:20px 16px;cursor:pointer;text-align:center;background:#fafafa;transition:box-shadow .15s,transform .15s; }
+  .folder-card:hover { box-shadow:0 2px 8px rgba(0,0,0,0.15);transform:translateY(-2px);background:#fff; }
+  .folder-icon { font-size:40px;margin-bottom:8px; }
+  .folder-name { font-weight:bold;font-size:14px;margin-bottom:4px; }
+  .folder-count { font-size:12px;color:#666; }
+  .back-link { display:inline-block;margin-bottom:14px;cursor:pointer;color:#1565c0;font-size:13px; }
+  .back-link:hover { text-decoration:underline; }
+</style>
+</head>
+<body>
+<div class="wrap" id="app"></div>
+
+<script>
+/* ---------- storage helpers ---------- */
+
+let githubPapers = [];
+let githubFolders = [];
+
+const DB = {
+  get papers(){
+    return githubPapers;
+  },
+
+  get results(){
+    return JSON.parse(localStorage.getItem('examapp_results') || '[]');
+  },
+
+  set results(v){
+    localStorage.setItem('examapp_results', JSON.stringify(v));
+  },
+
+  get currentUser(){
+    return JSON.parse(localStorage.getItem('examapp_currentUser') || 'null');
+  },
+
+  set currentUser(v){
+    localStorage.setItem('examapp_currentUser', JSON.stringify(v));
+  }
+};
+
+/* sample paper seeded on first run */
+// if (DB.papers.length === 0){
+//   DB.papers = [{
+//     id: 'sample1',
+//     title: 'DSSSB Mock Test 1',
+//     sections: [
+//       { name: 'Mental Ability', durationMinutes: 5, questions: [
+//         { q: 'What is the value of Pi?', options: ['3.43','3','2.47','3.14'], answer: 3, marks: 1, negative: 0.25 },
+//         { q: 'Find the odd one out: 4, 9, 16, 25, 30', options: ['4','16','25','30'], answer: 3, marks: 1, negative: 0.25 },
+//         { q: 'Complete the series: 2, 6, 12, 20, 30, ?', options: ['36','40','42','44'], answer: 2, marks: 1, negative: 0.25 }
+//       ]},
+//       { name: 'General Awareness', durationMinutes: 3, questions: [
+//         { q: 'Who is the first Prime Minister of India?', options: ['Mahatma Gandhi','Jawaharlal Nehru','Sardar Patel','Rajendra Prasad'], answer: 1, marks: 1, negative: 0.25 },
+//         { q: 'The Sun rises in the:', options: ['North','South','East','West'], answer: 2, marks: 1, negative: 0.25 }
+//       ]}
+//     ]
+//   }];
+// }
+//  if (!githubPapers) {
+//     githubPapers = [];
+// }
+function paperTotalMinutes(p){
+  return p.sections.reduce((sum, s) => sum + (s.durationMinutes || 30), 0);
+}
+
+/* ---------- app state ---------- */
+let view = DB.currentUser ? 'folders' : 'login';
+let currentCategory = null;
+const CATEGORY_ORDER = [
+  'General Awareness',
+  'General Intelligence & Reasoning Ability',
+  'Arithmetical & Numerical Ability',
+  'Hindi Language & Comprehension',
+  'English Language & Comprehension',
+  'Computer Science',
+  'Teaching Methodology'
+];
+let testState = null;
+let timerHandle = null;
+let editingPaper = null;
+
+const app = document.getElementById('app');
+
+
+
+function nav(v){ view = v; render(); }
+
+/* ---------- LOGIN ---------- */
+function renderLogin(){
+  app.innerHTML = `
+    <div class="topbar"><span>Exam Platform</span><span class="right"></span></div>
+    <div class="center-card">
+      <h2>Sign in</h2>
+      <div class="field">
+        <label>Your name</label>
+        <input id="login-name" placeholder="e.g. Priya Sharma">
+      </div>
+      <div class="field">
+        <label>Role</label>
+        <select id="login-role">
+          <option value="student">Student</option>
+          <option value="admin">Admin</option>
+        </select>
+      </div>
+      <button class="btn btn-primary btn-block" id="login-btn">Continue</button>
+    </div>`;
+  document.getElementById('login-btn').addEventListener('click', () => {
+    const name = document.getElementById('login-name').value.trim();
+    const role = document.getElementById('login-role').value;
+    if (!name){ alert('Enter your name to continue.'); return; }
+    DB.currentUser = { name, role };
+    nav(role === 'admin' ? 'admin' : 'folders');
+  });
+}
+
+/* ---------- TOPBAR (logged in) ---------- */
+function topbarHTML(){
+  const u = DB.currentUser;
+  return `<div class="topbar">
+    <span>Exam Platform</span>
+    <span class="right">
+      ${u.name} (${u.role})
+      ${u.role === 'student' ? '<button id="nav-dashboard">Categories</button><button id="nav-results">My results</button>' : '<button id="nav-admin">Admin</button>'}
+      <button id="logout-btn">Log out</button>
+    </span>
+  </div>`;
+}
+function wireTopbar(){
+  const d = document.getElementById('nav-dashboard');
+  const r = document.getElementById('nav-results');
+  const a = document.getElementById('nav-admin');
+  const l = document.getElementById('logout-btn');
+  if (d) d.addEventListener('click', () => { currentCategory = null; nav('folders'); });
+  if (r) r.addEventListener('click', () => nav('results'));
+  if (a) a.addEventListener('click', () => nav('admin'));
+  l.addEventListener('click', () => { DB.currentUser = null; nav('login'); });
+}
+
+/* ---------- STUDENT FOLDERS (categories) ---------- */
+function getCategories(){
+  const map = {};
+  githubFolders.forEach(name => { map[name] = []; });
+  githubPapers.forEach(p => {
+    const cat = p.category || 'Uncategorized';
+    if (!map[cat]) map[cat] = [];
+    map[cat].push(p);
+  });
+  const names = Object.keys(map);
+  names.sort((a, b) => {
+    const ia = CATEGORY_ORDER.indexOf(a);
+    const ib = CATEGORY_ORDER.indexOf(b);
+    if (ia === -1 && ib === -1) return a.localeCompare(b);
+    if (ia === -1) return 1;
+    if (ib === -1) return -1;
+    return ia - ib;
+  });
+  return names.map(name => ({ name, papers: map[name] }));
+}
+function renderFolders(){
+  const categories = getCategories();
+  app.innerHTML = `
+    ${topbarHTML()}
+    <div class="page">
+      <h3>Test categories</h3>
+      ${categories.length === 0 ? '<p>No tests available yet.</p>' : `
+      <div class="folder-grid">
+        ${categories.map(c => `
+          <div class="folder-card" data-folder="${escapeAttr(c.name)}">
+            <div class="folder-icon">&#128193;</div>
+            <div class="folder-name">${escapeHtml(c.name)}</div>
+            <div class="folder-count">${c.papers.length} test${c.papers.length === 1 ? '' : 's'}</div>
+          </div>`).join('')}
+      </div>`}
+    </div>`;
+  wireTopbar();
+  document.querySelectorAll('[data-folder]').forEach(card => {
+    card.addEventListener('click', () => {
+      currentCategory = card.getAttribute('data-folder');
+      nav('dashboard');
+    });
+  });
+}
+
+/* ---------- STUDENT DASHBOARD (tests inside a category) ---------- */
+function renderDashboard(){
+  const papers = githubPapers.filter(p => (p.category || 'Uncategorized') === currentCategory);
+ app.innerHTML = `
+    ${topbarHTML()}
+    <div class="page">
+      <div class="back-link" id="back-to-folders">&larr; Back to categories</div>
+      <h3>${escapeHtml(currentCategory)}</h3>
+      ${papers.length === 0 ? '<p>No tests available yet in this category.</p>' : papers.map(p => {
+        const totalQ = p.sections.reduce((a,s) => a + s.questions.length, 0);
+        const secList = p.sections.map(s => escapeHtml(s.name) + ' (' + (s.durationMinutes || 30) + ' min)').join(', ');
+        return `<div class="paper-card">
+          <div>
+            <b>${escapeHtml(p.title)}</b>
+            <div class="meta">${totalQ} questions &middot; ${paperTotalMinutes(p)} minutes total</div>
+            <div class="meta">${secList}</div>
+          </div>
+          <button class="btn btn-primary" data-start="${p.id}">Start test</button>
+        </div>`;
+      }).join('')}
+    </div>`;
+  wireTopbar();
+  document.getElementById('back-to-folders').addEventListener('click', () => { currentCategory = null; nav('folders'); });
+  document.querySelectorAll('[data-start]').forEach(btn => {
+    btn.addEventListener('click', () => startTest(btn.getAttribute('data-start')));
+  });
+}
+
+/* ---------- RESULTS HISTORY ---------- */
+function renderResults(){
+  const u = DB.currentUser;
+  const mine = DB.results.filter(r => r.user === u.name).sort((a,b) => b.date - a.date);
+  app.innerHTML = `
+    ${topbarHTML()}
+    <div class="page">
+      <h3>My results</h3>
+      ${mine.length === 0 ? '<p>You have not attempted any tests yet.</p>' : `
+      <table class="results">
+        <tr><th>Test</th><th>Date</th><th>Score</th><th>Correct</th><th>Wrong</th><th>Unattempted</th><th></th></tr>
+        ${mine.map(r => `<tr>
+          <td>${escapeHtml(r.paperTitle)}</td>
+          <td>${new Date(r.date).toLocaleString()}</td>
+          <td>${r.score} / ${r.maxScore}</td>
+          <td>${r.correctCount}</td>
+          <td>${r.wrongCount}</td>
+          <td>${r.unattempted}</td>
+          <td><button class="btn" data-view="${r.id}">View review</button></td>
+        </tr>`).join('')}
+      </table>`}
+    </div>`;
+  wireTopbar();
+  document.querySelectorAll('[data-view]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const r = DB.results.find(x => x.id === btn.getAttribute('data-view'));
+      showReview(r);
+    });
+  });
+}
+
+/* ---------- ADMIN ---------- */
+function renderAdmin(){
+const papers = githubPapers || [];
+ app.innerHTML = `
+    ${topbarHTML()}
+    <div class="page">
+      <h3>Manage tests</h3>
+      <div style="display:flex;gap:10px;margin-bottom:18px;">
+        <button class="btn btn-primary" id="new-manual">Build a new test</button>
+        <button class="btn" id="new-json">Upload test as JSON</button>
+      </div>
+      <div id="admin-editor"></div>
+      <h4>Existing tests</h4>
+      ${papers.map(p => {
+        const totalQ = p.sections.reduce((a,s) => a + s.questions.length, 0);
+        const secList = p.sections.map(s => escapeHtml(s.name) + ' (' + (s.durationMinutes || 30) + ' min)').join(', ');
+        return `<div class="paper-card">
+          <div>
+            <b>${escapeHtml(p.title)}</b>
+            <div class="meta">${totalQ} questions &middot; ${paperTotalMinutes(p)} minutes total</div>
+            <div class="meta">${secList}</div>
+          </div>
+          <div style="display:flex;gap:8px;">
+            <button class="btn" data-download="${p.id}">Download JSON</button>
+            <button class="btn btn-danger" data-delete="${p.id}">Delete</button>
+          </div>
+        </div>`;
+      }).join('')}
+      <h4>All submitted results</h4>
+      ${renderAllResultsTable()}
+    </div>`;
+  wireTopbar();
+  document.getElementById('new-manual').addEventListener('click', showManualBuilder);
+  document.getElementById('new-json').addEventListener('click', showJsonUploader);
+  document.querySelectorAll('[data-delete]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      if (confirm('Delete this test?')){
+        DB.papers = DB.papers.filter(p => p.id !== btn.getAttribute('data-delete'));
+        render();
+      }
+    });
+  });
+  document.querySelectorAll('[data-download]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const p = DB.papers.find(x => x.id === btn.getAttribute('data-download'));
+      const blob = new Blob([JSON.stringify(p, null, 2)], {type:'application/json'});
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = p.title.replace(/\s+/g,'_') + '.json';
+      a.click();
+    });
+  });
+}
+
+function renderAllResultsTable(){
+  const all = DB.results.slice().sort((a,b) => b.date - a.date);
+  if (all.length === 0) return '<p>No attempts recorded yet.</p>';
+  return `<table class="results">
+    <tr><th>User</th><th>Test</th><th>Date</th><th>Score</th></tr>
+    ${all.map(r => `<tr>
+      <td>${escapeHtml(r.user)}</td>
+      <td>${escapeHtml(r.paperTitle)}</td>
+      <td>${new Date(r.date).toLocaleString()}</td>
+      <td>${r.score} / ${r.maxScore}</td>
+    </tr>`).join('')}
+  </table>`;
+}
+
+function showJsonUploader(){
+  const box = document.getElementById('admin-editor');
+  box.innerHTML = `
+    <div class="section-box">
+      <h4>Upload test JSON</h4>
+      <p style="font-size:12px;color:#666;">
+        Expected format (each section has its own time limit):<br>
+        {"title":"Paper name","sections":[{"name":"Section name","durationMinutes":30,"questions":[{"q":"Question text","options":["A","B","C","D"],"answer":0,"marks":1,"negative":0.25}]}]}
+      </p>
+      <input type="file" id="json-file" accept=".json"><br><br>
+      <textarea class="jsonbox" id="json-paste" placeholder="...or paste JSON here"></textarea><br><br>
+      <button class="btn btn-primary" id="json-save">Save test</button>
+      <button class="btn" id="json-cancel">Cancel</button>
+    </div>`;
+  document.getElementById('json-file').addEventListener('change', (e) => {
+    const file = e.target.files[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = () => { document.getElementById('json-paste').value = reader.result; };
+    reader.readAsText(file);
+  });
+  document.getElementById('json-cancel').addEventListener('click', () => { box.innerHTML = ''; });
+  document.getElementById('json-save').addEventListener('click', () => {
+    let data;
+    try { data = JSON.parse(document.getElementById('json-paste').value); }
+    catch(e){ alert('That is not valid JSON: ' + e.message); return; }
+    if (!data.title || !Array.isArray(data.sections)){
+      alert('JSON must include a title and a sections array.'); return;
+    }
+    data.id = 'paper_' + Date.now();
+    data.sections.forEach(s => { s.durationMinutes = s.durationMinutes || 30; });
+    delete data.durationMinutes;
+    DB.papers = [...DB.papers, data];
+    box.innerHTML = '';
+    render();
+  });
+}
+
+let manualDraft = null;
+function showManualBuilder(){
+  manualDraft = { id: 'paper_' + Date.now(), title: '', sections: [] };
+  renderManualBuilder();
+}
+function renderManualBuilder(){
+  const box = document.getElementById('admin-editor');
+  box.innerHTML = `
+    <div class="section-box">
+      <h4>Build a new test</h4>
+      <div class="field"><label>Test title</label><input id="mb-title" value="${escapeAttr(manualDraft.title)}"></div>
+      <div id="mb-sections"></div>
+      <button class="btn" id="mb-add-section">Add section</button>
+      <div style="margin-top:14px;">
+        <button class="btn btn-primary" id="mb-save">Save test</button>
+        <button class="btn" id="mb-cancel">Cancel</button>
+      </div>
+    </div>`;
+  renderMbSections();
+  document.getElementById('mb-title').addEventListener('input', e => manualDraft.title = e.target.value);
+  document.getElementById('mb-add-section').addEventListener('click', () => {
+    manualDraft.sections.push({ name: 'New section', durationMinutes: 30, questions: [] });
+    renderMbSections();
+  });
+  document.getElementById('mb-cancel').addEventListener('click', () => { box.innerHTML = ''; });
+  document.getElementById('mb-save').addEventListener('click', () => {
+    if (!manualDraft.title.trim()){ alert('Give the test a title.'); return; }
+    if (manualDraft.sections.length === 0){ alert('Add at least one section.'); return; }
+    DB.papers = [...DB.papers, manualDraft];
+    box.innerHTML = '';
+    render();
+  });
+}
+function renderMbSections(){
+  const wrap = document.getElementById('mb-sections');
+  wrap.innerHTML = manualDraft.sections.map((s, si) => `
+    <div class="section-box">
+      <div style="display:flex;gap:10px;margin-bottom:8px;">
+        <input value="${escapeAttr(s.name)}" data-sec-name="${si}" style="font-weight:bold;flex:1;padding:6px;">
+        <input type="number" value="${s.durationMinutes || 30}" data-sec-duration="${si}" style="width:120px;padding:6px;" title="Minutes for this section">
+        <span style="align-self:center;font-size:12px;color:#666;">minutes</span>
+      </div>
+      ${s.questions.map((q, qi) => `
+        <div class="q-row">
+          Q${qi+1}: ${escapeHtml(q.q)} <span style="color:#666;">(correct: ${q.options[q.answer]})</span>
+          <button class="btn btn-danger" style="float:right;padding:2px 8px;" data-del-q="${si}:${qi}">Remove</button>
+        </div>`).join('')}
+      <button class="btn" data-add-q="${si}" style="margin-top:8px;">Add question</button>
+      <button class="btn btn-danger" data-del-sec="${si}" style="margin-top:8px;">Remove section</button>
+    </div>`).join('');
+  wrap.querySelectorAll('[data-sec-name]').forEach(inp => {
+    inp.addEventListener('input', e => {
+      manualDraft.sections[parseInt(inp.getAttribute('data-sec-name'))].name = e.target.value;
+    });
+  });
+  wrap.querySelectorAll('[data-sec-duration]').forEach(inp => {
+    inp.addEventListener('input', e => {
+      manualDraft.sections[parseInt(inp.getAttribute('data-sec-duration'))].durationMinutes = parseInt(e.target.value) || 30;
+    });
+  });
+  wrap.querySelectorAll('[data-del-sec]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      manualDraft.sections.splice(parseInt(btn.getAttribute('data-del-sec')), 1);
+      renderMbSections();
+    });
+  });
+  wrap.querySelectorAll('[data-del-q]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const [si, qi] = btn.getAttribute('data-del-q').split(':').map(Number);
+      manualDraft.sections[si].questions.splice(qi, 1);
+      renderMbSections();
+    });
+  });
+  wrap.querySelectorAll('[data-add-q]').forEach(btn => {
+    btn.addEventListener('click', () => addQuestionPrompt(parseInt(btn.getAttribute('data-add-q'))));
+  });
+}
+function addQuestionPrompt(sectionIdx){
+  const q = prompt('Question text:');
+  if (!q) return;
+  const opts = [];
+  for (let i = 0; i < 4; i++){
+    const o = prompt('Option ' + (i+1) + ':');
+    opts.push(o || ('Option ' + (i+1)));
+  }
+  let answer = parseInt(prompt('Which option number is correct? (1-4)', '1')) - 1;
+  if (isNaN(answer) || answer < 0 || answer > 3) answer = 0;
+  manualDraft.sections[sectionIdx].questions.push({ q, options: opts, answer, marks: 1, negative: 0.25 });
+  renderMbSections();
+}
+
+/* ---------- TEST TAKING ---------- */
+function startTest(paperId){
+const paper = githubPapers.find(p => p.id === paperId);
+ testState = {
+    paper,
+    sectionIdx: 0,
+    qIdx: 0,
+    answers: paper.sections.map(s => s.questions.map(() => ({ selected: null, status: 'notvisited' }))),
+    sectionLocked: paper.sections.map(() => false),
+    sectionSecondsLeft: (paper.sections[0].durationMinutes || 30) * 60
+  };
+  nav('test');
+  timerHandle = setInterval(tick, 1000);
+}
+function tick(){
+  if (!testState) return;
+  testState.sectionSecondsLeft--;
+  const el = document.getElementById('timer');
+  if (el) el.textContent = formatTime(testState.sectionSecondsLeft);
+  if (testState.sectionSecondsLeft <= 0){
+    advanceSection(true);
+  }
+}
+function advanceSection(dueToTimeout){
+  const t = testState;
+  t.sectionLocked[t.sectionIdx] = true;
+  if (t.sectionIdx < t.paper.sections.length - 1){
+    t.sectionIdx++;
+    t.qIdx = 0;
+    t.sectionSecondsLeft = (t.paper.sections[t.sectionIdx].durationMinutes || 30) * 60;
+    renderTest();
+    if (dueToTimeout){
+      alert('Time for the previous section is up. Moving to the next section: ' + t.paper.sections[t.sectionIdx].name);
+    }
+  } else {
+    clearInterval(timerHandle);
+    finishTest(dueToTimeout);
+  }
+}
+function formatTime(sec){
+  sec = Math.max(0, sec);
+  const h = Math.floor(sec/3600), m = Math.floor((sec%3600)/60), s = sec%60;
+  return String(h).padStart(2,'0')+':'+String(m).padStart(2,'0')+':'+String(s).padStart(2,'0');
+}
+function statusColor(s){
+  if (s === 'answered') return '#43a047';
+  if (s === 'notanswered') return '#e53935';
+  if (s === 'review' || s === 'answeredreview') return '#7b1fa2';
+  return '#9e9e9e';
+}
+function renderTest(){
+  const t = testState;
+  const section = t.paper.sections[t.sectionIdx];
+  const ans = t.answers[t.sectionIdx][t.qIdx];
+  if (ans.status === 'notvisited') ans.status = 'notanswered';
+  const q = section.questions[t.qIdx];
+
+  app.innerHTML = `
+    <div class="topbar"><span>${escapeHtml(t.paper.title)}</span><span class="right">${DB.currentUser.name}</span></div>
+    <div class="subjects" id="subjects">
+      ${t.paper.sections.map((s, si) => {
+        const isCurrent = si === t.sectionIdx;
+        const isLocked = t.sectionLocked[si];
+        const label = escapeHtml(s.name) + (isLocked ? ' (submitted)' : isCurrent ? '' : ' (upcoming)');
+        const style = isLocked ? 'opacity:0.5;cursor:not-allowed;' : (!isCurrent ? 'opacity:0.6;cursor:not-allowed;' : '');
+        return `<div class="subj-tab ${isCurrent ? 'active' : ''}" style="${style}">${label}</div>`;
+      }).join('')}
+    </div>
+    <div class="body-row">
+      <div class="main">
+        <div class="meta-row">
+          <span>Question Type: MCQ &nbsp;|&nbsp; Marks: ${q.marks} &nbsp;|&nbsp; Negative: ${q.negative}</span>
+          <span>Section time left: <b id="timer" style="color:#c62828;">${formatTime(t.sectionSecondsLeft)}</b></span>
+        </div>
+        <div class="qheader">Question No. ${t.qIdx + 1}</div>
+        <div class="qbody">
+          <p class="qtext">${escapeHtml(q.q)}</p>
+          <div id="options">
+            ${q.options.map((opt, idx) => `
+              <label class="opt">
+                <input type="radio" name="opt" value="${idx}" ${ans.selected === idx ? 'checked' : ''}> ${escapeHtml(opt)}
+              </label>`).join('')}
+          </div>
+        </div>
+        <div class="actions">
+          <button id="review-btn">Mark for review and next</button>
+          <div style="display:flex;gap:8px;">
+            <button id="prev-btn">Previous</button>
+            <button id="clear-btn">Clear response</button>
+            <button id="next-btn" class="btn-primary">Save and next</button>
+          </div>
+        </div>
+      </div>
+      <div class="side">
+        <div class="legend">
+          <div><span class="badge" style="background:#43a047;" id="cnt-answered">0</span> Answered</div>
+          <div><span class="badge" style="background:#e53935;" id="cnt-notanswered">0</span> Not answered</div>
+          <div><span class="badge" style="background:#9e9e9e;" id="cnt-notvisited">0</span> Not visited</div>
+          <div><span class="badge" style="background:#7b1fa2;" id="cnt-review">0</span> Marked for review</div>
+        </div>
+        <div class="side-header">${escapeHtml(section.name)}</div>
+        <div class="choose-label">Choose a question</div>
+        <div id="palette"></div>
+        <button id="submit-section-btn" style="width:100%;margin-top:16px;padding:10px;">
+          ${t.sectionIdx < t.paper.sections.length - 1 ? 'Submit section and move next' : 'Submit final section'}
+        </button>
+        <button id="submit-btn" class="btn-danger" style="width:100%;margin-top:8px;padding:10px;">End test now</button>
+      </div>
+    </div>`;
+
+  document.querySelectorAll('input[name="opt"]').forEach(inp => {
+    inp.addEventListener('change', () => {
+      ans.selected = parseInt(inp.value);
+      ans.status = (ans.status === 'review' || ans.status === 'answeredreview') ? 'answeredreview' : 'answered';
+      renderPalette();
+    });
+  });
+  document.getElementById('next-btn').addEventListener('click', () => moveNext());
+  document.getElementById('prev-btn').addEventListener('click', () => {
+    if (t.qIdx > 0){ t.qIdx--; renderTest(); }
+  });
+  document.getElementById('clear-btn').addEventListener('click', () => {
+    ans.selected = null; ans.status = 'notanswered'; renderTest();
+  });
+  document.getElementById('review-btn').addEventListener('click', () => {
+    ans.status = ans.selected !== null ? 'answeredreview' : 'review';
+    moveNext();
+  });
+  document.getElementById('submit-section-btn').addEventListener('click', () => {
+    const isLast = t.sectionIdx === t.paper.sections.length - 1;
+    if (confirm(isLast ? 'Submit the final section and finish the test?' : 'Submit this section? You will not be able to return to it.')){
+      advanceSection(false);
+    }
+  });
+  document.getElementById('submit-btn').addEventListener('click', () => {
+    if (confirm('End the whole test now? Any unanswered questions, including in later sections, will be marked unattempted.')){
+      clearInterval(timerHandle);
+      finishTest(false);
+    }
+  });
+
+  renderPalette();
+}
+function moveNext(){
+  const t = testState;
+  const section = t.paper.sections[t.sectionIdx];
+  if (t.qIdx < section.questions.length - 1){ t.qIdx++; renderTest(); }
+  else { renderTest(); }
+}
+function renderPalette(){
+  const t = testState;
+  const pal = document.getElementById('palette');
+  if (!pal) return;
+  const secAnswers = t.answers[t.sectionIdx];
+  pal.innerHTML = '';
+  const counts = { answered:0, notanswered:0, notvisited:0, review:0 };
+  secAnswers.forEach((a, idx) => {
+    const btn = document.createElement('div');
+    btn.textContent = idx + 1;
+    btn.className = 'pal-btn';
+    btn.style.background = statusColor(a.status);
+    if (idx === t.qIdx) btn.style.outline = '2px solid #333';
+    btn.addEventListener('click', () => { t.qIdx = idx; renderTest(); });
+    pal.appendChild(btn);
+    if (a.status === 'answered') counts.answered++;
+    else if (a.status === 'notanswered') counts.notanswered++;
+    else if (a.status === 'review' || a.status === 'answeredreview') counts.review++;
+    else counts.notvisited++;
+  });
+  document.getElementById('cnt-answered').textContent = counts.answered;
+  document.getElementById('cnt-notanswered').textContent = counts.notanswered;
+  document.getElementById('cnt-notvisited').textContent = counts.notvisited;
+  document.getElementById('cnt-review').textContent = counts.review;
+}
+
+/* ---------- SCORING + SAVE + REVIEW ---------- */
+function finishTest(auto){
+  clearInterval(timerHandle);
+  const t = testState;
+  let score = 0, maxScore = 0, correctCount = 0, wrongCount = 0, unattempted = 0;
+  const answerLog = [];
+  t.paper.sections.forEach((section, si) => {
+    section.questions.forEach((q, qi) => {
+      maxScore += q.marks;
+      const a = t.answers[si][qi];
+      let isCorrect = false;
+      if (a.selected === null){
+        unattempted++;
+      } else if (a.selected === q.answer){
+        score += q.marks; correctCount++; isCorrect = true;
+      } else {
+        score -= q.negative; wrongCount++;
+      }
+      answerLog.push({ section: section.name, q: q.q, options: q.options, correctIdx: q.answer, selectedIdx: a.selected, isCorrect });
+    });
+  });
+  score = Math.round(score * 100) / 100;
+  const result = {
+    id: 'result_' + Date.now(),
+    user: DB.currentUser.name,
+    paperId: t.paper.id,
+    paperTitle: t.paper.title,
+    date: Date.now(),
+    autoSubmitted: auto,
+    score, maxScore, correctCount, wrongCount, unattempted,
+    answers: answerLog
+  };
+  DB.results = [...DB.results, result];
+  testState = null;
+  showReview(result, auto);
+}
+
+function showReview(result, wasAuto){
+  app.innerHTML = `
+    ${topbarHTML()}
+    <div class="page">
+      ${wasAuto ? '<p style="color:#c62828;"><b>Time ended — your test was submitted automatically.</b></p>' : ''}
+      <h3>${escapeHtml(result.paperTitle)} — review</h3>
+      <div class="summary-grid">
+        <div class="summary-card"><div class="num">${result.score}</div>Score / ${result.maxScore}</div>
+        <div class="summary-card"><div class="num" style="color:#43a047;">${result.correctCount}</div>Correct</div>
+        <div class="summary-card"><div class="num" style="color:#e53935;">${result.wrongCount}</div>Wrong</div>
+        <div class="summary-card"><div class="num" style="color:#9e9e9e;">${result.unattempted}</div>Unattempted</div>
+      </div>
+      ${result.answers.map((a, i) => `
+        <div class="review-q">
+          <div style="font-size:12px;color:#666;margin-bottom:4px;">${escapeHtml(a.section)}</div>
+          <b>Q${i+1}. ${escapeHtml(a.q)}</b>
+          <div style="margin-top:8px;">
+            ${a.options.map((opt, idx) => {
+              let cls = 'opt-neutral';
+              if (idx === a.correctIdx) cls = 'opt-correct';
+              else if (idx === a.selectedIdx) cls = 'opt-wrong';
+              let tag = '';
+              if (idx === a.correctIdx) tag = ' (correct answer)';
+              else if (idx === a.selectedIdx) tag = ' (your answer)';
+              return `<div class="opt-line ${cls}">${escapeHtml(opt)}${tag}</div>`;
+            }).join('')}
+            ${a.selectedIdx === null ? '<div style="font-size:12px;color:#999;margin-top:4px;">You did not attempt this question.</div>' : ''}
+          </div>
+        </div>`).join('')}
+      <button class="btn btn-primary" id="back-btn">Back to dashboard</button>
+    </div>`;
+  wireTopbar();
+  document.getElementById('back-btn').addEventListener('click', () => nav(DB.currentUser.role === 'admin' ? 'admin' : 'folders'));
+}
+
+/* ---------- utils ---------- */
+function escapeHtml(s){ return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function escapeAttr(s){ return escapeHtml(s); }
+
+ // let githubPapers = [];
+
+function render(){
+  if (view === 'login') renderLogin();
+  else if (view === 'folders') renderFolders();
+  else if (view === 'dashboard') renderDashboard();
+  else if (view === 'results') renderResults();
+  else if (view === 'admin') renderAdmin();
+  else if (view === 'test') renderTest();
+}
+
+/* Loads data/ from GitHub. Any .json file found directly in data/ is
+   grouped under "Uncategorized". Any subfolder of data/ (e.g. data/General
+   Awareness/) is treated as a test category, named after the folder, and
+   every .json file inside it is loaded and tagged with that category. */
+function loadJsonFilesAsPapers(fileEntries, categoryName){
+  const jsonFiles = fileEntries.filter(f => f.type === 'file' && f.name.endsWith('.json'));
+  return Promise.all(
+    jsonFiles.map(file =>
+      fetch(file.download_url)
+        .then(res => res.json())
+        .then(item => {
+          const papers = Array.isArray(item) ? item : [item];
+          papers.forEach(p => { p.category = categoryName; });
+          return papers;
+        })
+    )
+  ).then(groups => groups.flat());
+}
+
+fetch("https://api.github.com/repos/Loki269565/Quizs/contents/data")
+.then(response => response.json())
+.then(entries => {
+
+    const topLevelFiles = entries.filter(e => e.type === 'file' && e.name.endsWith('.json'));
+    const folders = entries.filter(e => e.type === 'dir');
+
+    githubFolders = folders.map(f => f.name);
+
+    const tasks = [];
+
+    if (topLevelFiles.length > 0){
+      tasks.push(loadJsonFilesAsPapers(topLevelFiles, 'Uncategorized'));
+    }
+
+    folders.forEach(folder => {
+      tasks.push(
+        fetch(`https://api.github.com/repos/Loki269565/Quizs/contents/data/${encodeURIComponent(folder.name)}`)
+          .then(res => res.json())
+          .then(subEntries => loadJsonFilesAsPapers(subEntries, folder.name))
+      );
+    });
+
+    return Promise.all(tasks);
+
+})
+.then(groups => {
+
+    githubPapers = groups.flat();
+
+    render();
+
+})
+.catch(error => {
+    console.error("GitHub loading error:", error);
+});
+</script>
+</body>
+</html>
