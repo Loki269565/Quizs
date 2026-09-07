@@ -1,0 +1,438 @@
+{
+  "id": "cil_energy_minerals_polity_mock_3",
+  "title": "CIL, Energy, Minerals, and Polity Mock Test 3",
+  "sections": [
+    {
+      "name": "Coal India Limited (CIL) and its Subsidiaries",
+      "durationMinutes": 10,
+      "questions": [
+        {
+          "q": "Coal India Limited (CIL) is under the administrative control of which ministry?",
+          "options": [
+            "Ministry of Mines",
+            "Ministry of Coal",
+            "Ministry of Power",
+            "Ministry of Heavy Industries"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "In which year was Coal India Limited incorporated and where is its headquarters located?",
+          "options": [
+            "1972, Dhanbad",
+            "1975, Kolkata",
+            "1985, Ranchi",
+            "1956, New Delhi"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which subsidiary of Coal India Limited is currently the largest coal producer?",
+          "options": [
+            "South Eastern Coalfields Limited (SECL)",
+            "Western Coalfields Limited (WCL)",
+            "Mahanadi Coalfields Limited (MCL)",
+            "Eastern Coalfields Limited (ECL)"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the current Maharatna status of Coal India Limited and when was it granted?",
+          "options": [
+            "Navratna Status granted in 2011",
+            "Maharatna Status granted in 2009",
+            "Maharatna Status granted in 2011",
+            "Miniratna Status granted in 2015"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the classification status of Coal India Limited in terms of CPSE categorization?",
+          "options": [
+            "Navratna",
+            "Miniratna",
+            "Maharatna",
+            "None of these"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which is the largest coal-producing subsidiary of Coal India Limited?",
+          "options": [
+            "NCL",
+            "SECL",
+            "MCL",
+            "CCL"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which organization is responsible for coal exploration in India?",
+          "options": [
+            "Geological Survey of India (GSI)",
+            "CMPDI",
+            "ONGC",
+            "Both A and B"
+          ],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    },
+    {
+      "name": "Mining Technology and Environment",
+      "durationMinutes": 8,
+      "questions": [
+        {
+          "q": "What is the concept of fly ash utilization and why is it crucial for CIL's sustainable goals?",
+          "options": [
+            "Using ash to clean mining machinery",
+            "Utilization of by-products of burning pulverized coal in cement, bricks, and roads to reduce pollution",
+            "Converting ash into liquid petroleum gas",
+            "Dumping ash deep inside active underground mines"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What does the term 'First Mile Connectivity' mean in CIL's green initiatives?",
+          "options": [
+            "Mechanized coal transportation from pit head to dispatch point via conveyors or silos to reduce road dust",
+            "Building the first highway linking a village to a mine",
+            "Providing high-speed internet up to one mile around the coalfield",
+            "Transporting coal using fully electric hybrid heavy trucks"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the purpose of mine void reclamation?",
+          "options": [
+            "Leaving open mines as water reservoirs without backfilling",
+            "Filling open cast mine cavities with overburden and topsoil followed by afforestation",
+            "Searching for leftover coal pieces using advanced robots",
+            "Setting up underground heavy manufacturing industries"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is Coal Bed Methane (CBM)?",
+          "options": [
+            "A toxic liquid chemical layer found underneath the coal bed",
+            "A form of natural gas extracted from coal beds that serves as a clean energy source and reduces explosion risk",
+            "Artificial methane gas injected into mines to preserve coal quality",
+            "Solid crystal formation of carbon found in deep lignite mines"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the full form of CBM in the context of coal mining?",
+          "options": [
+            "Coal Bed Methane",
+            "Carbon Best Mining",
+            "Coal Beneficial Method",
+            "Central Bureau of Mining"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the target set by the Government of India for coal production by 2025-26?",
+          "options": [
+            "800 Million Tonnes",
+            "1000 Million Tonnes",
+            "1200 Million Tonnes",
+            "1500 Million Tonnes"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the process of converting coal into liquid fuel called?",
+          "options": [
+            "Coal Gasification",
+            "Coal Liquefaction",
+            "Coal Carbonization",
+            "Coal Beneficiation"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the status of Coal India Limited in terms of CPSE classification?",
+          "options": [
+            "Navratna",
+            "Miniratna",
+            "Maharatna",
+            "None of these"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    },
+    {
+      "name": "Coal and Mineral Knowledge",
+      "durationMinutes": 12,
+      "questions": [
+        {
+          "q": "Which type of coal has the highest carbon content?",
+          "options": [
+            "Peat",
+            "Lignite",
+            "Bituminous",
+            "Anthracite"
+          ],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which option correctly ranks the four main types of coal from highest to lowest carbon content?",
+          "options": [
+            "Lignite, Sub-bituminous, Bituminous, Anthracite",
+            "Anthracite, Bituminous, Sub-bituminous, Lignite",
+            "Bituminous, Anthracite, Lignite, Sub-bituminous",
+            "Anthracite, Lignite, Bituminous, Sub-bituminous"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which Indian state has the largest reserve of coal?",
+          "options": [
+            "Odisha",
+            "Chhattisgarh",
+            "Jharkhand",
+            "West Bengal"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the calorific value of coal measured in?",
+          "options": [
+            "Joules per gram",
+            "Kilocalories per kg",
+            "Watts per minute",
+            "Newtons per meter square"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which coalfield in India is the largest open cast coal mine?",
+          "options": [
+            "Rajmahal",
+            "Gevra",
+            "Kusmunda",
+            "Jayant"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is cooking coal primarily used for?",
+          "options": [
+            "Thermal power generation",
+            "Steel manufacturing",
+            "Cement production",
+            "Fertilizer manufacturing"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is Gondwana coal and why is it important for India?",
+          "options": [
+            "It is young tertiary coal found exclusively in Jammu and Kashmir",
+            "It makes up over 98% of India's coal reserves and is completely free of marine impurities",
+            "It is a low-grade coal containing more than 80% moisture",
+            "It is synthetic coal produced in high-temperature laboratories"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which mineral is known as 'Black Gold'?",
+          "options": [
+            "Iron",
+            "Coal",
+            "Petroleum",
+            "Manganese"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which Indian state has the largest lignite reserve?",
+          "options": [
+            "Gujarat",
+            "Rajasthan",
+            "Tamil Nadu",
+            "Kerala"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the primary constituent metal of brass and bronze respectively?",
+          "options": [
+            "Brass: Copper + Zinc, Bronze: Copper + Tin",
+            "Brass: Copper + Tin, Bronze: Copper + Zinc",
+            "Brass: Iron + Chromium, Bronze: Copper + Nickel",
+            "Brass: Aluminum + Copper, Bronze: Lead + Tin"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the difference between a mineral and an ore?",
+          "options": [
+            "All minerals are ores, but all ores are not minerals",
+            "Minerals are organic while ores are always synthetic",
+            "An ore is a type of mineral from which metal can be extracted profitably",
+            "Ores do not have a definite chemical composition but minerals do"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    },
+    {
+      "name": "General Knowledge and Polity",
+      "durationMinutes": 8,
+      "questions": [
+        {
+          "q": "Which international agreement guides global action on climate change and carbon emission reduction, directly impacting coal policies?",
+          "options": [
+            "Kyoto Protocol",
+            "Montreal Protocol",
+            "Paris Agreement (COP 21)",
+            "Geneva Protocol"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the full form of DGMS in the context of mining in India?",
+          "options": [
+            "Director General of Mining Safety",
+            "Directorate General of Mineral Surveys",
+            "Department of Geological and Mining Sciences",
+            "Directorate General of Mine Safety"
+          ],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "PM KUSUM scheme is related to which sector?",
+          "options": [
+            "Coal Mining",
+            "Solar Energy for Agriculture",
+            "Nuclear Energy",
+            "Wind Energy"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The National Mineral Policy 2019 replaced the earlier policy of which year?",
+          "options": [
+            "1993",
+            "2003",
+            "2008",
+            "2013"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The Mines and Mineral Development and Regulation Act was first enacted in which year?",
+          "options": [
+            "1947",
+            "1957",
+            "1972",
+            "1985"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which element is added to iron to control its hardness and convert it into steel?",
+          "options": [
+            "Chromium",
+            "Phosphorus",
+            "Sulfur",
+            "Carbon"
+          ],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the rank of India in world coal production?",
+          "options": [
+            "First",
+            "Second",
+            "Third",
+            "Fourth"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which country is the largest producer of coal in the world?",
+          "options": [
+            "India",
+            "USA",
+            "China",
+            "Australia"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    }
+  ]
+}
