@@ -1,0 +1,486 @@
+{
+  "id": "energy_inventions_polity_mock_2",
+  "title": "Energy, Inventions, and Polity Mock Test",
+  "sections": [
+    {
+      "name": "Energy and Environment",
+      "durationMinutes": 6,
+      "questions": [
+        {
+          "q": "Which of the following is a clean energy carrier but not a primary energy source?",
+          "options": [
+            "Coal",
+            "Solar Radiation",
+            "Hydrogen",
+            "Crude Oil"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the main combustible component of biogas?",
+          "options": [
+            "Oxygen",
+            "Methane",
+            "Nitrogen",
+            "Carbon Monoxide"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which of the following is considered a variable renewable energy source?",
+          "options": [
+            "Nuclear Energy",
+            "Solar PV Panels",
+            "Diesel Generator",
+            "Oxygen"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which type of coal is known as the highest quality coal with the highest carbon content?",
+          "options": [
+            "Peat",
+            "Lignite",
+            "Bituminous",
+            "Anthracite"
+          ],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which variety of coal is soft, has lower carbon content, high moisture, and is often known as brown coal?",
+          "options": [
+            "Anthracite",
+            "Bituminous",
+            "Lignite",
+            "Peat"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The process of formation of coal from dead vegetation over millions of years under high pressure and temperature is called:",
+          "options": [
+            "Distillation",
+            "Carbonization",
+            "Evaporation",
+            "Calcination"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which product is obtained by heating coal in the absence of air, leaving behind a porous black residue used in steel manufacturing?",
+          "options": [
+            "Coal Tar",
+            "Charcoal",
+            "Coke",
+            "Petroleum"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "What is the primary ore used for the extraction of aluminum?",
+          "options": [
+            "Hematite",
+            "Bauxite",
+            "Magnetite",
+            "Galena"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    },
+    {
+      "name": "Mineral and Coal Knowledge",
+      "durationMinutes": 6,
+      "questions": [
+        {
+          "q": "Which Indian state is associated with the Talcher Coalfield?",
+          "options": [
+            "Odisha",
+            "Jharkhand",
+            "Chhattisgarh",
+            "West Bengal"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which of the following is a correct pair?",
+          "options": [
+            "Kundankulam - Maharashtra",
+            "Vindhyachal - Himachal Pradesh",
+            "Tarapur - Tamil Nadu",
+            "Badla Solar Park - Kerala"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which mineral is famously known as 'Fool's Gold' due to its deceptive yellow metallic luster?",
+          "options": [
+            "Pyrite",
+            "Chalcopite",
+            "Gold",
+            "Quartz"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which scale is used to measure the hardness of minerals?",
+          "options": [
+            "Rich Scale",
+            "Mohs Scale",
+            "Celsius Scale",
+            "Beaufort Scale"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which of the following is a non-metallic mineral?",
+          "options": [
+            "Iron and Copper",
+            "Mica",
+            "Manganese",
+            "Gold"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which mineral is the softest on the Mohs hardness scale?",
+          "options": [
+            "Diamond",
+            "Talc",
+            "Gypsum",
+            "Calcite"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    },
+    {
+      "name": "Inventions and Discoveries - Science",
+      "durationMinutes": 12,
+      "questions": [
+        {
+          "q": "Who invented the safety lamp historically used in coal mines?",
+          "options": [
+            "Humphry Davy",
+            "James Watt",
+            "Michael Faraday",
+            "Thomas Newcomen"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Who discovered Penicillium (Penicillin)?",
+          "options": [
+            "Louis Pasteur",
+            "Edward Jenner",
+            "Alexander Fleming",
+            "Joseph Lister"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The laws of heredity were first formulated by:",
+          "options": [
+            "Hugo de Vries",
+            "Watson and Crick",
+            "Gregor Mendel",
+            "Charles Darwin"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Who discovered the electron?",
+          "options": [
+            "Niels Bohr",
+            "J.J. Thomson",
+            "Ernest Rutherford",
+            "James Chadwick"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Who discovered the neutron?",
+          "options": [
+            "James Chadwick",
+            "J.J. Thomson",
+            "Max Planck",
+            "Marie Curie"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Who proposed the Theory of Relativity?",
+          "options": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Johannes Kepler",
+            "Albert Einstein"
+          ],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The Raman Effect is associated with which scientist?",
+          "options": [
+            "S.N. Bose",
+            "Vikram Sarabhai",
+            "C.V. Raman",
+            "Homi Bhabha"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Who developed the smallpox vaccine?",
+          "options": [
+            "Louis Pasteur",
+            "Edward Jenner",
+            "Alexander Fleming",
+            "Jonas Salk"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Who invented the telephone?",
+          "options": [
+            "Alexander Graham Bell",
+            "Guglielmo Marconi",
+            "Thomas Edison",
+            "Nikola Tesla"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which scientist discovered radioactivity?",
+          "options": [
+            "Marie Curie",
+            "Ernest Rutherford",
+            "Wilhelm Röntgen",
+            "Henri Becquerel"
+          ],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Who discovered X-rays?",
+          "options": [
+            "James Clerk Maxwell",
+            "Robert Hooke",
+            "Wilhelm Conrad Röntgen",
+            "Max Planck"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Who invented the World Wide Web?",
+          "options": [
+            "Alan Turing",
+            "Tim Berners-Lee",
+            "Vint Cerf",
+            "Bill Gates"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Who developed the injectable polio vaccine?",
+          "options": [
+            "Jonas Salk",
+            "Edward Jenner",
+            "Robert Koch",
+            "Louis Pasteur"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The periodic table is primarily associated with which scientist?",
+          "options": [
+            "Antoine Lavoisier",
+            "John Dalton",
+            "Robert Boyle",
+            "Dmitri Mendeleev"
+          ],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Who discovered the structure of DNA along with Francis Crick?",
+          "options": [
+            "Hargovind Khurana",
+            "Charles Darwin",
+            "James Watson",
+            "Alexander Fleming"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    },
+    {
+      "name": "Indian Polity and Constitution",
+      "durationMinutes": 8,
+      "questions": [
+        {
+          "q": "The annual financial statement of the Government of India is mentioned in which article?",
+          "options": [
+            "Article 110",
+            "Article 112",
+            "Article 123",
+            "Article 148"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which organization is responsible for the monetary policy in India?",
+          "options": [
+            "SEBI",
+            "RBI",
+            "NITI Aayog",
+            "Finance Commission"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The term 'Repo Rate' refers to:",
+          "options": [
+            "The rate at which RBI lends money to commercial banks",
+            "The rate at which banks lend to the public",
+            "The rate of income tax",
+            "The rate of foreign exchange tax"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which article of the Indian Constitution deals with the Election Commission of India?",
+          "options": [
+            "Article 356",
+            "Article 324",
+            "Article 280",
+            "Article 148"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The Fundamental Duties were added to the Constitution by which amendment?",
+          "options": [
+            "42nd Amendment",
+            "44th Amendment",
+            "73rd Amendment",
+            "101st Amendment"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which part of the Constitution deals with the Directive Principles of State Policy?",
+          "options": [
+            "Part III",
+            "Part IV-A",
+            "Part VI",
+            "Part IV"
+          ],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which article defines the money bill?",
+          "options": [
+            "Article 112",
+            "Article 123",
+            "Article 110",
+            "Article 108"
+          ],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Who appoints the Comptroller and Auditor General (CAG) of India?",
+          "options": [
+            "Prime Minister",
+            "President",
+            "Speaker of Lok Sabha",
+            "Chief Justice of India"
+          ],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Which dance form is associated with Assam? (Sattriya)",
+          "options": [
+            "Sattriya",
+            "Kathakali",
+            "Bharatanatyam",
+            "Manipuri"
+          ],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    }
+  ]
+}

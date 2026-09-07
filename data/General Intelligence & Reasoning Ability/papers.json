@@ -1,0 +1,26 @@
+[
+  {
+    "id": "dsssb1",
+    "title": "DSSSB Mock Test 1",
+    "sections": [
+      {
+        "name": "Mental Ability",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "What is the value of Pi?",
+            "options": [
+              "3.43",
+              "3",
+              "2.47",
+              "3.14"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]
