@@ -1,0 +1,1220 @@
+[
+  {
+    "id": "dsssb-prog-oop-1",
+    "title": "1.Fundamentals of Programming:50 Qs and Object-Oriented Programming OOPs:50 Qs",
+    "sections": [
+      {
+        "name": "Fundamentals of Programming",
+        "durationMinutes": 50,
+        "questions": [
+          {
+            "q": "Which of the following best describes an algorithm?",
+            "options": [
+              "A programming language",
+              "A step-by-step procedure to solve a problem",
+              "A type of computer hardware",
+              "A flowchart symbol"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A flowchart uses which shape to represent a decision?",
+            "options": [
+              "Rectangle",
+              "Oval",
+              "Diamond",
+              "Parallelogram"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Pseudocode is best described as:",
+            "options": [
+              "Machine code",
+              "An informal high-level description of a program",
+              "A compiled binary",
+              "A markup language"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following translates the entire source code into machine code before execution?",
+            "options": [
+              "Interpreter",
+              "Compiler",
+              "Assembler",
+              "Linker"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An interpreter differs from a compiler because it:",
+            "options": [
+              "Converts source code line by line and executes immediately",
+              "Produces an object file",
+              "Only works with assembly language",
+              "Is faster than a compiler always"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An assembler is used to convert:",
+            "options": [
+              "High-level language to machine code",
+              "Assembly language to machine code",
+              "Machine code to assembly language",
+              "Pseudocode to flowchart"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Structured programming primarily emphasizes:",
+            "options": [
+              "Use of goto statements",
+              "Sequence, selection, and iteration constructs",
+              "Object creation",
+              "Dynamic memory allocation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT a primitive data type in most C-like languages?",
+            "options": [
+              "int",
+              "float",
+              "char",
+              "array"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Implicit type conversion is also known as:",
+            "options": [
+              "Type casting",
+              "Type coercion",
+              "Type declaration",
+              "Type overloading"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Explicit type conversion is performed using:",
+            "options": [
+              "Automatic promotion",
+              "Type casting",
+              "Operator overloading",
+              "Garbage collection"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which operator category includes +, -, *, /?",
+            "options": [
+              "Relational",
+              "Logical",
+              "Arithmetic",
+              "Bitwise"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which operator is used for logical AND in C/C++?",
+            "options": [
+              "&",
+              "&&",
+              "|",
+              "||"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The bitwise operator for XOR is:",
+            "options": [
+              "&",
+              "|",
+              "^",
+              "~"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of these is a relational operator?",
+            "options": [
+              "=",
+              "==",
+              "&&",
+              "%"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The ternary operator in C is written as:",
+            "options": [
+              "a ? b : c",
+              "a : b ? c",
+              "if(a) b else c",
+              "a && b || c"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What does the comma operator do in an expression?",
+            "options": [
+              "Separates function arguments only",
+              "Evaluates expressions left to right, returning the last value",
+              "Performs division",
+              "Declares multiple data types"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the expression 3 + 4 * 5, which operator is evaluated first due to precedence?",
+            "options": [
+              "+",
+              "*",
+              "Both simultaneously",
+              "Neither, left to right always"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Operators with the same precedence are evaluated based on:",
+            "options": [
+              "Data type",
+              "Associativity",
+              "Compiler version",
+              "Memory address"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which control structure executes a block only if a condition is true?",
+            "options": [
+              "for",
+              "if-else",
+              "while",
+              "switch only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The switch-case statement is best suited for:",
+            "options": [
+              "Complex range comparisons",
+              "Multi-way branching based on a single variable's value",
+              "Infinite loops",
+              "Recursive calls"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which loop guarantees at least one execution of its body?",
+            "options": [
+              "for",
+              "while",
+              "do-while",
+              "switch"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A for loop typically consists of:",
+            "options": [
+              "Only a condition",
+              "Initialization, condition, and increment/decrement",
+              "Only an increment",
+              "A function call"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The break statement is used to:",
+            "options": [
+              "Skip the current iteration only",
+              "Exit the nearest enclosing loop or switch",
+              "Restart the loop",
+              "Terminate the program"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The continue statement causes:",
+            "options": [
+              "Loop termination",
+              "Skipping the rest of the current iteration and moving to the next",
+              "Program termination",
+              "A compilation error"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The goto statement is generally discouraged because it:",
+            "options": [
+              "Improves readability",
+              "Can make code flow difficult to follow (spaghetti code)",
+              "Is faster than loops",
+              "Cannot be used in functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A function declaration specifies:",
+            "options": [
+              "The function's implementation",
+              "The function's name, return type, and parameters without body",
+              "Only the return type",
+              "The main function"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A function definition includes:",
+            "options": [
+              "Only the prototype",
+              "The actual body/implementation of the function",
+              "Only comments",
+              "Header files"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Recursion occurs when:",
+            "options": [
+              "A function calls another unrelated function",
+              "A function calls itself directly or indirectly",
+              "A loop calls a function",
+              "A variable references itself"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Every recursive function must have:",
+            "options": [
+              "An infinite loop",
+              "A base case to terminate recursion",
+              "Multiple return types",
+              "A goto statement"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which storage class provides local scope with automatic memory allocation by default?",
+            "options": [
+              "static",
+              "extern",
+              "register",
+              "auto"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A variable declared as static inside a function:",
+            "options": [
+              "Loses its value after the function ends",
+              "Retains its value between function calls",
+              "Cannot be initialized",
+              "Is visible in all files"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The register storage class suggests that a variable be stored in:",
+            "options": [
+              "Hard disk",
+              "CPU register for faster access",
+              "Cache memory always",
+              "Virtual memory"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The extern storage class is used to:",
+            "options": [
+              "Declare a variable local to a function",
+              "Declare a variable defined in another file/scope",
+              "Allocate register memory",
+              "Create static functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The scope of a variable refers to:",
+            "options": [
+              "Its data type",
+              "The region of the program where it can be accessed",
+              "Its memory address",
+              "Its storage size"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The lifetime of a variable refers to:",
+            "options": [
+              "Its scope",
+              "The duration for which it exists in memory during execution",
+              "Its data type",
+              "Its access specifier"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A global variable has:",
+            "options": [
+              "Local scope only",
+              "File-level or program-level scope",
+              "No lifetime",
+              "Scope limited to one loop"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is an example of an assembler-level language?",
+            "options": [
+              "Python",
+              "Java",
+              "Assembly language",
+              "SQL"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A high-level language is closer to:",
+            "options": [
+              "Machine code",
+              "Human-readable syntax",
+              "Binary instructions",
+              "CPU registers"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT a control structure?",
+            "options": [
+              "if-else",
+              "for loop",
+              "switch-case",
+              "static variable"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In C, the default storage class for a global variable is:",
+            "options": [
+              "auto",
+              "register",
+              "extern",
+              "static"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which operator has the highest precedence among the following?",
+            "options": [
+              "Assignment (=)",
+              "Logical OR (||)",
+              "Parentheses ()",
+              "Comma (,)"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A do-while loop checks its condition:",
+            "options": [
+              "Before executing the loop body",
+              "After executing the loop body at least once",
+              "Never",
+              "Only if a break exists"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of these best defines an infinite loop?",
+            "options": [
+              "A loop with zero iterations",
+              "A loop whose condition never becomes false",
+              "A loop with a break statement",
+              "A recursive function"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Type conversion from int to float automatically is an example of:",
+            "options": [
+              "Explicit conversion",
+              "Implicit conversion",
+              "Type casting",
+              "Function overloading"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is a unary operator?",
+            "options": [
+              "+",
+              "++",
+              "&&",
+              "%"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The modulus operator (%) works on:",
+            "options": [
+              "Floating point numbers only",
+              "Integer operands",
+              "Strings only",
+              "Boolean values only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A nested loop is:",
+            "options": [
+              "A loop inside a function",
+              "A loop inside another loop",
+              "A loop with two conditions",
+              "A recursive loop"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which keyword is used to define a function that does not return a value in C?",
+            "options": [
+              "int",
+              "void",
+              "null",
+              "empty"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Call by value means:",
+            "options": [
+              "The actual variable is modified",
+              "A copy of the argument is passed to the function",
+              "Only pointers are passed",
+              "No arguments are passed"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Call by reference allows a function to:",
+            "options": [
+              "Only read the value",
+              "Modify the actual argument passed",
+              "Return multiple values only via return statement",
+              "Avoid using parameters"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Object-Oriented Programming (OOPs)",
+        "durationMinutes": 50,
+        "questions": [
+          {
+            "q": "Which of the following is a fundamental principle of Object-Oriented Programming?",
+            "options": [
+              "Sequential execution",
+              "Encapsulation",
+              "Compilation",
+              "Tokenization"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Encapsulation refers to:",
+            "options": [
+              "Hiding implementation details and bundling data with methods",
+              "Creating multiple objects",
+              "Inheriting properties from a base class",
+              "Overloading operators"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Abstraction in OOP means:",
+            "options": [
+              "Showing all implementation details",
+              "Hiding complex implementation and showing only essential features",
+              "Duplicating code",
+              "Using global variables"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Inheritance allows a class to:",
+            "options": [
+              "Hide its data members",
+              "Acquire properties and behavior of another class",
+              "Overload its constructors only",
+              "Prevent object creation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Polymorphism allows:",
+            "options": [
+              "A single interface to represent different underlying forms (data types)",
+              "Only one function per class",
+              "Classes to have no methods",
+              "Variables to change data type at runtime only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A class in OOP is best described as:",
+            "options": [
+              "An instance of an object",
+              "A blueprint or template for creating objects",
+              "A function only",
+              "A loop construct"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An object is:",
+            "options": [
+              "A class definition",
+              "An instance of a class",
+              "A data type",
+              "A header file"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A constructor is a special member function that:",
+            "options": [
+              "Destroys an object",
+              "Initializes an object when it is created",
+              "Is called explicitly like a normal function",
+              "Cannot have parameters"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A destructor is called:",
+            "options": [
+              "When an object is created",
+              "When an object goes out of scope or is explicitly deleted",
+              "During compilation",
+              "Only for static objects"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is true about a default constructor?",
+            "options": [
+              "It always takes arguments",
+              "It takes no arguments and is provided automatically if none is defined",
+              "It cannot be overloaded",
+              "It is the same as a destructor"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Function overloading is an example of:",
+            "options": [
+              "Runtime polymorphism",
+              "Compile-time polymorphism",
+              "Inheritance",
+              "Encapsulation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Function overriding is an example of:",
+            "options": [
+              "Compile-time polymorphism",
+              "Runtime polymorphism",
+              "Data hiding",
+              "Static binding"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Function overloading allows multiple functions with:",
+            "options": [
+              "The same name and same parameters",
+              "The same name but different parameter lists",
+              "Different names but same parameters",
+              "No parameters at all"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Function overriding occurs when a derived class provides its own implementation of:",
+            "options": [
+              "A new function not in the base class",
+              "A function already defined in its base class",
+              "A constructor only",
+              "A static variable"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A virtual function in C++ is used to achieve:",
+            "options": [
+              "Compile-time polymorphism",
+              "Runtime polymorphism",
+              "Data encapsulation",
+              "Multiple inheritance only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A pure virtual function is declared by:",
+            "options": [
+              "Assigning it a return value of 0",
+              "Setting it equal to 0 in the declaration (= 0)",
+              "Making it static",
+              "Making it private"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A class containing at least one pure virtual function is called:",
+            "options": [
+              "A concrete class",
+              "An abstract class",
+              "A friend class",
+              "A static class"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An abstract class:",
+            "options": [
+              "Can be instantiated directly",
+              "Cannot be instantiated directly",
+              "Has no member functions",
+              "Is the same as an interface in all languages"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Access specifier 'private' means members are accessible:",
+            "options": [
+              "From anywhere in the program",
+              "Only within the class itself",
+              "Only in derived classes",
+              "Only in the main function"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Access specifier 'public' means members are accessible:",
+            "options": [
+              "Only within the class",
+              "From anywhere the object is visible",
+              "Only in derived classes",
+              "Nowhere"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Access specifier 'protected' means members are accessible:",
+            "options": [
+              "Only outside the class",
+              "Within the class and its derived classes",
+              "Nowhere",
+              "Only in static functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'this' pointer in C++ refers to:",
+            "options": [
+              "A static member",
+              "The current object invoking the member function",
+              "The base class object",
+              "A global variable"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Static members of a class are:",
+            "options": [
+              "Unique to each object",
+              "Shared among all objects of the class",
+              "Never initialized",
+              "Accessible only via objects"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A static member function can access:",
+            "options": [
+              "Only static members of the class",
+              "Both static and non-static members freely",
+              "Only private members",
+              "Only constructors"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A friend function in C++ can access:",
+            "options": [
+              "Only public members of a class",
+              "Private and protected members of the class it is friend to",
+              "No members at all",
+              "Only static members"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Multiple inheritance means a class inherits from:",
+            "options": [
+              "Only one base class",
+              "More than one base class",
+              "No base class",
+              "Only itself"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The diamond problem arises in:",
+            "options": [
+              "Single inheritance",
+              "Multiple inheritance with a common base class",
+              "Function overloading",
+              "Static binding"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following best resolves the diamond problem in C++?",
+            "options": [
+              "Function overloading",
+              "Virtual inheritance",
+              "Static members",
+              "Friend functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Method overriding requires the method in the derived class to have:",
+            "options": [
+              "A different name",
+              "The same name and signature as in the base class",
+              "No return type",
+              "Private access only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which type of binding is resolved at compile time?",
+            "options": [
+              "Dynamic binding",
+              "Static binding",
+              "Virtual binding",
+              "Late binding"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which type of binding is resolved at runtime?",
+            "options": [
+              "Static binding",
+              "Early binding",
+              "Dynamic binding",
+              "Compile-time binding"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Templates in C++ are primarily used to achieve:",
+            "options": [
+              "Runtime polymorphism",
+              "Generic programming",
+              "Data hiding",
+              "Static binding"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A generic class or function that works with any data type is enabled through:",
+            "options": [
+              "Inheritance",
+              "Templates/Generics",
+              "Encapsulation",
+              "Constructors"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Exception handling in OOP is primarily used to:",
+            "options": [
+              "Prevent compilation errors",
+              "Handle runtime errors gracefully without crashing the program",
+              "Speed up execution",
+              "Replace loops"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In C++, exceptions are typically handled using which block?",
+            "options": [
+              "if-else",
+              "try-catch",
+              "switch-case",
+              "for-while"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'throw' keyword in exception handling is used to:",
+            "options": [
+              "Catch an exception",
+              "Signal that an exception has occurred",
+              "Define a class",
+              "Declare a variable"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which keyword is used to catch and handle a thrown exception?",
+            "options": [
+              "try",
+              "catch",
+              "throw",
+              "finally"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Data hiding is closely associated with which OOP principle?",
+            "options": [
+              "Inheritance",
+              "Encapsulation",
+              "Polymorphism",
+              "Abstraction only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT an OOP principle?",
+            "options": [
+              "Encapsulation",
+              "Inheritance",
+              "Polymorphism",
+              "Compilation"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A base class is also known as:",
+            "options": [
+              "Derived class",
+              "Parent/Super class",
+              "Child class",
+              "Friend class"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A derived class is also known as:",
+            "options": [
+              "Base class",
+              "Super class",
+              "Child/Sub class",
+              "Abstract class"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Single inheritance involves:",
+            "options": [
+              "A class inheriting from multiple base classes",
+              "A class inheriting from exactly one base class",
+              "No inheritance",
+              "Only interfaces"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Hierarchical inheritance occurs when:",
+            "options": [
+              "One base class has multiple derived classes",
+              "One derived class has multiple base classes",
+              "Two classes are unrelated",
+              "A class inherits from itself"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Multilevel inheritance involves:",
+            "options": [
+              "A class inheriting from a class that itself is derived from another class",
+              "Multiple classes inheriting the same base class",
+              "No base class",
+              "Only single-level relationships"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Operator overloading allows:",
+            "options": [
+              "Operators to work with new user-defined types",
+              "Deletion of operators",
+              "Only arithmetic operators to be used",
+              "Changing operator precedence"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following operators generally CANNOT be overloaded in C++?",
+            "options": [
+              "+",
+              "-",
+              "sizeof",
+              "[]"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Constructor overloading means:",
+            "options": [
+              "A class has multiple constructors with different parameter lists",
+              "Only one constructor is allowed",
+              "A constructor calls itself",
+              "Destructors are overloaded instead"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A copy constructor is used to:",
+            "options": [
+              "Destroy an object",
+              "Create a new object as a copy of an existing object",
+              "Overload operators",
+              "Define static members"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following statements about interfaces (in languages like Java) is true?",
+            "options": [
+              "An interface can have fully implemented methods only",
+              "An interface typically defines a contract of methods without implementation",
+              "Interfaces cannot be inherited",
+              "A class cannot implement multiple interfaces"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In Java, which keyword is used by a class to implement an interface?",
+            "options": [
+              "extends",
+              "implements",
+              "inherits",
+              "override"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1304 @@
+[
+  {
+    "id": "java-core-concepts-1",
+    "title": "5. Java frequently tested alongside C++",
+    "sections": [
+      {
+        "name": "JVM, JRE, JDK",
+        "durationMinutes": 7,
+        "questions": [
+          {
+            "q": "JVM stands for:",
+            "options": [
+              "Java Virtual Machine, which executes Java bytecode",
+              "Java Verified Method",
+              "Java Virtual Module",
+              "Joint Virtual Machine"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is responsible for converting Java bytecode into machine-specific instructions at runtime?",
+            "options": [
+              "JDK",
+              "JRE",
+              "JVM",
+              "IDE"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "JRE stands for:",
+            "options": [
+              "Java Runtime Environment, which provides libraries and JVM needed to run Java applications",
+              "Java Reference Edition",
+              "Java Redistribution Engine",
+              "Java Resource Executor"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "JDK stands for:",
+            "options": [
+              "Java Development Kit, which includes JRE plus development tools like the compiler",
+              "Java Deployment Kit",
+              "Java Debugging Kernel",
+              "Java Data Kit"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following correctly describes the relationship between JDK, JRE, and JVM?",
+            "options": [
+              "JVM contains JRE, which contains JDK",
+              "JDK contains JRE, which contains JVM, along with development tools like javac",
+              "JRE contains JDK, which contains JVM",
+              "They are unrelated and independent components"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The component that makes Java 'platform independent' by allowing the same bytecode to run on different operating systems is the:",
+            "options": [
+              "Compiler (javac)",
+              "JVM, since each platform has its own JVM implementation that interprets the same bytecode",
+              "IDE",
+              "Package manager"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which tool in the JDK is used to compile .java source files into .class bytecode files?",
+            "options": [
+              "java",
+              "javac",
+              "javap",
+              "jar"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Data Types and Type Casting",
+        "durationMinutes": 7,
+        "questions": [
+          {
+            "q": "Java's primitive data types include all of the following EXCEPT:",
+            "options": [
+              "int",
+              "boolean",
+              "String",
+              "double"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Implicit type casting (widening conversion) in Java occurs when:",
+            "options": [
+              "A smaller data type is automatically converted to a larger compatible data type, e.g., int to double",
+              "A larger data type is automatically converted to a smaller data type without any cast",
+              "A String is automatically converted to an int",
+              "Casting always requires an explicit cast operator"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Explicit type casting (narrowing conversion) in Java requires:",
+            "options": [
+              "No special syntax at all",
+              "An explicit cast operator, e.g., (int) someDouble, since it may lead to data loss",
+              "The use of the new keyword",
+              "The variable to be declared final"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the default value of a boolean instance variable in Java if not explicitly initialized?",
+            "options": [
+              "true",
+              "false",
+              "0",
+              "null"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the size, in bits, of a Java int primitive type?",
+            "options": [
+              "16 bits",
+              "32 bits",
+              "64 bits",
+              "8 bits"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which primitive data type in Java is used to store a single 16-bit Unicode character?",
+            "options": [
+              "byte",
+              "char",
+              "short",
+              "int"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Converting a double value to an int in Java by narrowing conversion typically results in:",
+            "options": [
+              "Rounding to the nearest integer",
+              "Truncation of the fractional part (decimal digits are discarded)",
+              "A compile-time error always",
+              "Automatic promotion to long"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Class, Object, Constructor",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "A constructor in Java is:",
+            "options": [
+              "A special method used to initialize objects, having the same name as the class and no return type",
+              "A method that must always return an int",
+              "A static method used to destroy objects",
+              "A keyword used to declare interfaces"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If a Java class does not define any constructor explicitly, the compiler:",
+            "options": [
+              "Leaves the class without any way to be instantiated",
+              "Automatically provides a no-argument default constructor",
+              "Throws a compile-time error",
+              "Automatically makes the class abstract"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An object in Java is created using which keyword?",
+            "options": [
+              "class",
+              "new",
+              "extends",
+              "static"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Constructor overloading in Java means:",
+            "options": [
+              "A class can have multiple constructors with different parameter lists",
+              "A class can have only one constructor",
+              "A constructor can be inherited and overridden like a normal method",
+              "Constructors must always be private"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Can a Java constructor have a return type like void?",
+            "options": [
+              "Yes, constructors can return void explicitly",
+              "No, constructors have no return type at all, not even void",
+              "Yes, but only for abstract classes",
+              "Only static constructors can have a return type"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'this' keyword used inside a constructor to call another constructor of the same class is written as:",
+            "options": [
+              "this()",
+              "super()",
+              "self()",
+              "new this()"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Inheritance (extends) and Interfaces (implements)",
+        "durationMinutes": 7,
+        "questions": [
+          {
+            "q": "In Java, a class inherits from another class using the keyword:",
+            "options": [
+              "implements",
+              "extends",
+              "inherits",
+              "super"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In Java, a class implements an interface using the keyword:",
+            "options": [
+              "extends",
+              "implements",
+              "interface",
+              "abstract"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Does Java support multiple inheritance of classes (a class extending more than one class directly)?",
+            "options": [
+              "Yes, a Java class can extend multiple classes directly",
+              "No, Java does not support multiple inheritance of classes; a class can extend only one class",
+              "Yes, but only for abstract classes",
+              "Only in Java versions before 8"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Does Java support a class implementing multiple interfaces?",
+            "options": [
+              "No, a class can implement only one interface",
+              "Yes, a Java class can implement multiple interfaces separated by commas",
+              "Only abstract classes can implement multiple interfaces",
+              "Interfaces cannot be implemented by classes"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Every class in Java, unless it explicitly extends another class, implicitly extends:",
+            "options": [
+              "The Object class",
+              "The Interface class",
+              "The Abstract class",
+              "Nothing at all"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An interface in Java, prior to Java 8, could only contain:",
+            "options": [
+              "Fully implemented methods",
+              "Public abstract methods and public static final variables (constants)",
+              "Private instance variables",
+              "Constructors"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Since Java 8, interfaces can also contain:",
+            "options": [
+              "Only abstract methods as before, with no changes",
+              "Default and static methods with implementations",
+              "Instance constructors",
+              "Protected instance variables"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "super and this Keyword",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "The 'super' keyword in Java is primarily used to:",
+            "options": [
+              "Refer to the current class instance",
+              "Refer to the immediate parent class, to access its members or call its constructor",
+              "Declare a class as final",
+              "Create a new object"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'this' keyword in Java is primarily used to:",
+            "options": [
+              "Refer to the current object instance, often to resolve naming conflicts between instance variables and parameters",
+              "Refer to the parent class",
+              "Import a package",
+              "Declare a static method"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "To explicitly call the parent class constructor from a subclass constructor in Java, you use:",
+            "options": [
+              "this()",
+              "super()",
+              "parent()",
+              "base()"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If used, a call to super() or this() inside a constructor must be:",
+            "options": [
+              "Placed anywhere in the constructor body",
+              "The first statement in the constructor",
+              "The last statement in the constructor",
+              "Omitted entirely if the class has a constructor"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which keyword would you use to access a parent class's method that has been overridden in the subclass?",
+            "options": [
+              "this.methodName()",
+              "super.methodName()",
+              "static.methodName()",
+              "final.methodName()"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Can 'this()' and 'super()' both be used as the first statement in the same constructor?",
+            "options": [
+              "Yes, both can appear together as the first two statements",
+              "No, only one of this() or super() can be used, and it must be the first statement in the constructor",
+              "Neither can ever be used in a constructor",
+              "Only this() is allowed in any constructor"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Method Overloading vs Overriding",
+        "durationMinutes": 7,
+        "questions": [
+          {
+            "q": "Method overloading in Java refers to:",
+            "options": [
+              "Defining multiple methods in the same class with the same name but different parameter lists",
+              "Redefining a parent class method in a subclass with the same signature",
+              "Declaring a method as final",
+              "Using the same method name in unrelated classes"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Method overriding in Java refers to:",
+            "options": [
+              "A subclass providing a new implementation for a method already defined in its superclass, with the same signature",
+              "Defining multiple methods with different parameter lists in the same class",
+              "Declaring a method as static",
+              "Renaming a method in the subclass"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Method overloading is resolved:",
+            "options": [
+              "At compile time, based on the method signature (compile-time/static polymorphism)",
+              "At runtime, based on the actual object type (runtime polymorphism)",
+              "By the garbage collector",
+              "By the JVM class loader only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Method overriding is resolved:",
+            "options": [
+              "At compile time only",
+              "At runtime, based on the actual object type (runtime/dynamic polymorphism)",
+              "By the compiler using static binding",
+              "It cannot be resolved in Java"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which annotation is commonly used in Java to indicate that a method is intended to override a superclass method?",
+            "options": [
+              "@Overload",
+              "@Override",
+              "@Super",
+              "@Static"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Can static methods be overridden in Java?",
+            "options": [
+              "Yes, static methods can be overridden just like instance methods",
+              "No, static methods can be hidden (method hiding) but not truly overridden, since they are resolved at compile time",
+              "Only if declared final",
+              "Only in abstract classes"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "For method overriding to be valid, the overriding method in the subclass must have:",
+            "options": [
+              "A completely different parameter list from the parent method",
+              "The same name, same parameter list, and a compatible return type as the parent method",
+              "A different name but same parameters",
+              "No access modifier at all"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Abstract Class vs Interface in Java",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "An abstract class in Java is declared using the keyword:",
+            "options": [
+              "interface",
+              "abstract",
+              "final",
+              "static"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Can an abstract class in Java have both abstract and concrete (fully implemented) methods?",
+            "options": [
+              "No, it can only have abstract methods",
+              "Yes, an abstract class can have a mix of abstract methods and regular implemented methods",
+              "No, it can only have concrete methods",
+              "Only if it implements an interface"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Can an abstract class in Java be instantiated directly using new?",
+            "options": [
+              "Yes, always",
+              "No, an abstract class cannot be instantiated directly; it must be subclassed",
+              "Only if it has a constructor",
+              "Only if it has no abstract methods"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A key difference between an abstract class and an interface in Java (traditionally) is that:",
+            "options": [
+              "An abstract class can have constructors and instance variables with state, while a traditional interface primarily defines a contract",
+              "Interfaces can have constructors while abstract classes cannot",
+              "Abstract classes cannot have any methods",
+              "There is no difference between them"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Regarding multiple inheritance, a Java class can:",
+            "options": [
+              "Extend multiple abstract classes but implement only one interface",
+              "Extend only one abstract class but implement multiple interfaces",
+              "Extend multiple abstract classes and implement multiple interfaces",
+              "Neither extend multiple classes nor implement multiple interfaces"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When should you generally prefer an interface over an abstract class in Java design?",
+            "options": [
+              "When you need to define a contract that unrelated classes can implement, without needing to share a common base state",
+              "When you need to store significant shared state (instance variables) across a class hierarchy",
+              "When you never want the type to be implemented by any class",
+              "When you want to prevent polymorphism"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Access Modifiers (private, public, protected, default)",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "A member declared as private in a Java class is accessible:",
+            "options": [
+              "From anywhere in the program",
+              "Only within the class in which it is declared",
+              "Only from subclasses in other packages",
+              "Only from the same package"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A member declared as public in a Java class is accessible:",
+            "options": [
+              "Only within the same class",
+              "From anywhere the class itself is accessible, including other packages",
+              "Only within the same package",
+              "Only from subclasses"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A member declared as protected in a Java class is accessible:",
+            "options": [
+              "Only within the exact same class",
+              "Within the same package, and also from subclasses in different packages",
+              "Nowhere outside the class",
+              "From anywhere, just like public"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If no access modifier is specified for a member in Java (default/package-private access), it is accessible:",
+            "options": [
+              "From anywhere in the program",
+              "Only within classes in the same package",
+              "Only within the exact same class",
+              "Only from subclasses regardless of package"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which access modifier provides the most restrictive access in Java?",
+            "options": [
+              "public",
+              "protected",
+              "default (no modifier)",
+              "private"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Can a top-level Java class be declared as private?",
+            "options": [
+              "Yes, any class can be private",
+              "No, a top-level class can only be public or default (package-private), not private or protected",
+              "Only abstract classes can be private",
+              "Only final classes can be private"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Exception Handling (try-catch-finally, throw, throws, custom exceptions)",
+        "durationMinutes": 7,
+        "questions": [
+          {
+            "q": "In Java, the block of code that might throw an exception is placed inside:",
+            "options": [
+              "a catch block",
+              "a try block",
+              "a finally block",
+              "a throws block"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A catch block in Java is used to:",
+            "options": [
+              "Declare that a method might throw an exception",
+              "Handle an exception that was thrown in the corresponding try block",
+              "Always execute regardless of whether an exception occurred",
+              "Define a custom exception class"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The finally block in a try-catch-finally structure in Java:",
+            "options": [
+              "Executes only if an exception is thrown",
+              "Generally executes regardless of whether an exception was thrown or caught, typically used for cleanup",
+              "Never executes if the try block completes successfully",
+              "Replaces the need for a catch block entirely"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'throw' keyword in Java is used to:",
+            "options": [
+              "Declare that a method might throw a checked exception in its signature",
+              "Explicitly throw an instance of an exception from within code",
+              "Catch an exception",
+              "Define a finally block"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'throws' keyword in Java is used to:",
+            "options": [
+              "Explicitly throw an exception instance",
+              "Declare in a method signature that the method might throw one or more checked exceptions",
+              "Catch an exception in a catch block",
+              "Create a custom exception class"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A custom exception in Java is typically created by:",
+            "options": [
+              "Extending the Exception class (or a subclass like RuntimeException)",
+              "Implementing the Runnable interface",
+              "Declaring a static method named exception()",
+              "Using the throws keyword alone with no class definition"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Checked exceptions in Java differ from unchecked exceptions in that:",
+            "options": [
+              "Checked exceptions must be either caught or declared with throws, while unchecked exceptions (like RuntimeException) do not have this requirement",
+              "Unchecked exceptions must always be caught at compile time",
+              "Checked exceptions are always subclasses of Error",
+              "There is no real difference between them"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Static and Final Keywords",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "A static member in a Java class belongs to:",
+            "options": [
+              "Each individual object instance separately",
+              "The class itself, shared across all instances of that class",
+              "Only the first object created",
+              "Only subclasses of that class"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A static method in Java can be called:",
+            "options": [
+              "Only through an object instance",
+              "Directly using the class name, without creating an instance",
+              "Only from within a constructor",
+              "Only if the class is abstract"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Declaring a variable as final in Java means:",
+            "options": [
+              "Its value can be changed as many times as needed",
+              "Its value, once assigned, cannot be changed (it becomes a constant reference or value)",
+              "It automatically becomes static",
+              "It can only be used inside loops"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Declaring a method as final in Java means:",
+            "options": [
+              "The method can be overridden freely by subclasses",
+              "The method cannot be overridden by any subclass",
+              "The method must be static",
+              "The method cannot be called at all"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Declaring a class as final in Java means:",
+            "options": [
+              "The class can be extended by any number of subclasses",
+              "The class cannot be subclassed/extended at all",
+              "The class must contain only static members",
+              "The class becomes an interface"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A static block in a Java class is primarily used to:",
+            "options": [
+              "Initialize static variables or run setup code once, when the class is first loaded",
+              "Define instance-specific constructors",
+              "Override a parent class method",
+              "Declare private instance variables"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Packages",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "A package in Java is primarily used to:",
+            "options": [
+              "Group related classes and interfaces together and help avoid naming conflicts",
+              "Compile Java source code into bytecode",
+              "Manage memory allocation for objects",
+              "Define constructors for a class"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which keyword is used at the top of a Java source file to declare that its classes belong to a specific package?",
+            "options": [
+              "import",
+              "package",
+              "namespace",
+              "using"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which keyword is used in Java to bring classes from another package into the current file for use?",
+            "options": [
+              "package",
+              "import",
+              "include",
+              "extends"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The java.lang package in Java, containing classes like String and Object, is:",
+            "options": [
+              "Never available and must always be manually imported",
+              "Automatically imported into every Java program without an explicit import statement",
+              "Only available in Java versions before 8",
+              "Only usable within the same package"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If a Java class has no explicit package declaration, it belongs to:",
+            "options": [
+              "The java.lang package",
+              "The default (unnamed) package",
+              "No package at all, causing a compile error",
+              "The java.util package automatically"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The directory structure required for Java packages typically:",
+            "options": [
+              "Has no relationship to the package name at all",
+              "Mirrors the package name, e.g., classes in package com.example.util reside in a com/example/util directory",
+              "Must always be a single flat folder for all classes",
+              "Is generated only at runtime by the JVM"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Multithreading Basics",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "In Java, a thread can be created by:",
+            "options": [
+              "Extending the Thread class or implementing the Runnable interface",
+              "Only by using static methods in the Object class",
+              "Declaring a class as final",
+              "Using the package keyword"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which method is called to actually start a new thread of execution in Java (rather than running it on the current thread)?",
+            "options": [
+              "run()",
+              "start()",
+              "execute()",
+              "begin()"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Calling the run() method directly on a Thread object (instead of start()):",
+            "options": [
+              "Starts a new thread of execution as expected",
+              "Executes the run() method's code on the current calling thread, without creating a new thread",
+              "Throws a compile-time error",
+              "Automatically creates two threads"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The synchronized keyword in Java is used to:",
+            "options": [
+              "Speed up thread execution",
+              "Control access to a block of code or method so that only one thread can execute it at a time on a given object, preventing race conditions",
+              "Declare a variable as constant",
+              "Create a new thread automatically"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A thread in Java can be in which of the following states?",
+            "options": [
+              "Only 'running' or 'stopped'",
+              "New, Runnable, Blocked/Waiting, Timed Waiting, and Terminated, among others",
+              "Only 'compiled' or 'interpreted'",
+              "Only 'public' or 'private'"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The main() method in a standard Java application runs on which thread by default?",
+            "options": [
+              "A background daemon thread",
+              "The main thread, created automatically by the JVM when the program starts",
+              "No thread; it runs outside any thread",
+              "A thread the programmer must create manually"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "String Class, StringBuffer, StringBuilder",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "In Java, String objects are:",
+            "options": [
+              "Mutable, meaning their content can be changed after creation",
+              "Immutable, meaning once created, their content cannot be changed",
+              "The same as StringBuilder objects",
+              "Always stored outside the heap"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "StringBuilder in Java is primarily used when:",
+            "options": [
+              "You need thread-safe, synchronized string manipulation",
+              "You need a mutable sequence of characters that can be modified efficiently, especially in single-threaded contexts",
+              "You want an immutable string",
+              "You want to avoid using the String class entirely for constants"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "How does StringBuffer differ from StringBuilder in Java?",
+            "options": [
+              "StringBuffer is immutable while StringBuilder is mutable",
+              "StringBuffer is synchronized (thread-safe) while StringBuilder is not synchronized, making StringBuilder generally faster in single-threaded code",
+              "They are identical in every respect",
+              "StringBuffer cannot be used to build strings at all"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Concatenating Strings repeatedly using the + operator in a loop is generally discouraged because:",
+            "options": [
+              "It causes a compile-time error",
+              "Since Strings are immutable, each concatenation can create a new String object, which is inefficient; StringBuilder is preferred for such cases",
+              "The + operator does not work with Strings",
+              "It automatically converts to StringBuffer, which is always slower"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which class would you typically use for building a string through many modifications in a multithreaded environment requiring synchronization?",
+            "options": [
+              "String",
+              "StringBuilder",
+              "StringBuffer",
+              "StringConstant"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "String literals in Java, such as \"hello\", are typically stored in:",
+            "options": [
+              "The stack memory only",
+              "A special memory area called the String pool (part of the heap), enabling reuse of identical literals",
+              "Static memory reserved only for primitives",
+              "They are not stored anywhere until explicitly assigned"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Wrapper Classes",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Wrapper classes in Java are used to:",
+            "options": [
+              "Represent primitive data types as objects, e.g., Integer for int, Double for double",
+              "Replace all classes with static methods",
+              "Store only String values",
+              "Manage package imports"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The process of automatically converting a primitive type to its corresponding wrapper object in Java is called:",
+            "options": [
+              "Unboxing",
+              "Autoboxing",
+              "Casting",
+              "Serialization"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The process of automatically converting a wrapper object back to its corresponding primitive type in Java is called:",
+            "options": [
+              "Autoboxing",
+              "Unboxing",
+              "Marshalling",
+              "Type erasure"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is the wrapper class for the primitive type int in Java?",
+            "options": [
+              "Int",
+              "Integer",
+              "IntWrapper",
+              "Num"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Wrapper classes are commonly needed when working with Java Collections (like ArrayList) because:",
+            "options": [
+              "Collections can only store primitive types directly",
+              "Collections can only store objects, not primitives, so primitives must be wrapped",
+              "Wrapper classes are faster than primitives in all cases",
+              "Primitives cannot be declared in Java at all"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Wrapper classes such as Integer and Double in Java are, like String, generally:",
+            "options": [
+              "Mutable, so their wrapped value can be changed after creation",
+              "Immutable, meaning a new wrapper object is created rather than modifying the existing one's value",
+              "Only usable inside static methods",
+              "Automatically converted into arrays"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Garbage Collection Concept",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Garbage collection in Java refers to:",
+            "options": [
+              "Manual deletion of objects by the programmer using a delete keyword",
+              "The automatic process by which the JVM reclaims memory occupied by objects that are no longer reachable/referenced",
+              "A compile-time process that removes unused classes",
+              "A method used to format source code"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Does Java provide a 'delete' keyword like C++ for manually freeing object memory?",
+            "options": [
+              "Yes, Java has a delete keyword identical to C++",
+              "No, Java does not have a delete keyword; memory is reclaimed automatically by the garbage collector",
+              "Yes, but only for arrays",
+              "Only in older Java versions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An object in Java becomes eligible for garbage collection when:",
+            "options": [
+              "It is declared as final",
+              "It is no longer reachable from any active part of the program (no live references point to it)",
+              "It is declared as static",
+              "It is stored in a package"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which method, if overridden in a class, was historically used to perform cleanup actions just before an object is garbage collected (though now discouraged/deprecated)?",
+            "options": [
+              "finalize()",
+              "cleanup()",
+              "destroy()",
+              "dispose()"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Can a Java programmer force immediate garbage collection to occur at a specific moment?",
+            "options": [
+              "Yes, calling System.gc() guarantees immediate collection",
+              "No, calling System.gc() only suggests/requests garbage collection to the JVM, but it does not guarantee immediate or even eventual execution",
+              "Yes, by using the delete keyword",
+              "Only by restarting the JVM"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Array Handling in Java",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "An array in Java is:",
+            "options": [
+              "A primitive data type",
+              "An object that holds a fixed-size, ordered collection of elements of the same type",
+              "A dynamically resizable collection similar to ArrayList by default",
+              "Only usable for storing Strings"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "How is the length of an array accessed in Java?",
+            "options": [
+              "Using a method call like array.length()",
+              "Using the length field, e.g., array.length, without parentheses",
+              "Using array.size()",
+              "Arrays do not have an accessible length in Java"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the default value of elements in a newly created int array in Java, if not explicitly initialized?",
+            "options": [
+              "null",
+              "0",
+              "1",
+              "Undefined/garbage value"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Once an array is created in Java with a fixed size, can that size be changed later?",
+            "options": [
+              "Yes, arrays can be resized dynamically using a resize() method",
+              "No, the size of a Java array is fixed at creation time and cannot be changed; a new array must be created for a different size",
+              "Yes, but only for arrays of objects, not primitives",
+              "Only static arrays can be resized"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A two-dimensional array in Java, such as int[][] arr, can be thought of as:",
+            "options": [
+              "A single row of elements only",
+              "An array of arrays, where each element is itself an array",
+              "A special primitive type distinct from int[]",
+              "Something Java does not support"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following correctly declares an array of integers in Java?",
+            "options": [
+              "int arr[] = new int[5]; or int[] arr = new int[5];",
+              "array int arr(5);",
+              "int arr = new array(5);",
+              "Integer[5] arr;"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

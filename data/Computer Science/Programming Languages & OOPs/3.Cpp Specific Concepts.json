@@ -1,0 +1,1292 @@
+[
+  {
+    "id": "cpp-specific-concepts-1",
+    "title": " 3.C++ Specific Concepts",
+    "sections": [
+      {
+        "name": "Difference between C and C++",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "C++ is best described as:",
+            "options": [
+              "A purely procedural language",
+              "An object-oriented extension of C",
+              "A scripting language",
+              "A markup language"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following features is present in C++ but not in standard C?",
+            "options": [
+              "Functions",
+              "Classes and objects",
+              "Loops",
+              "Arrays"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "C is to procedural programming as C++ primarily adds support for:",
+            "options": [
+              "Machine code generation",
+              "Object-oriented programming",
+              "Assembly integration only",
+              "Database management"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which keyword used for input/output in C++ is NOT present in C?",
+            "options": [
+              "printf",
+              "scanf",
+              "cout/cin",
+              "main"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Function overloading, a feature not found in standard C, is supported in C++ because C++ uses:",
+            "options": [
+              "Dynamic typing",
+              "Name mangling to distinguish functions by signature",
+              "Interpreted execution",
+              "No compile-time type checking"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which statement about C and C++ is true?",
+            "options": [
+              "C++ is a strict subset of C",
+              "C++ is generally considered a superset of C with added OOP features",
+              "C and C++ have identical syntax rules",
+              "C supports classes while C++ does not"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Namespaces",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "A namespace in C++ is primarily used to:",
+            "options": [
+              "Allocate memory",
+              "Avoid naming conflicts between identifiers",
+              "Improve loop performance",
+              "Define macros"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which keyword is used to define a namespace?",
+            "options": [
+              "namespace",
+              "space",
+              "scope",
+              "package"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The std namespace contains:",
+            "options": [
+              "Only user defined classes",
+              "The C++ Standard Library entities like cout, cin, vector",
+              "Only macros",
+              "Only the main function"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which statement correctly brings all names from the std namespace into scope?",
+            "options": [
+              "include std;",
+              "using namespace std;",
+              "import std;",
+              "namespace std;"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The scope resolution operator used to access a namespace member is:",
+            "options": [
+              ".",
+              "->",
+              "::",
+              "&"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Nested namespaces in C++ allow:",
+            "options": [
+              "Namespaces to be declared inside other namespaces",
+              "Namespaces to override classes",
+              "Removal of namespaces at runtime",
+              "Namespaces to hold only functions"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Reference Variables vs Pointers",
+        "durationMinutes": 8,
+        "questions": [
+          {
+            "q": "A reference variable in C++ must be:",
+            "options": [
+              "Initialized at the time of declaration",
+              "Declared without initialization",
+              "Reassigned freely like a pointer",
+              "Always NULL initially"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Unlike a pointer, a reference in C++:",
+            "options": [
+              "Can be NULL",
+              "Cannot be made to refer to another variable after initialization",
+              "Requires dereferencing with *",
+              "Needs the & operator every time it is used"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which symbol is used to declare a reference variable?",
+            "options": [
+              "*",
+              "&",
+              "**",
+              "#"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Pointers can be reassigned to point to different variables, whereas references:",
+            "options": [
+              "Can also be reassigned freely",
+              "Are bound to one variable for their lifetime",
+              "Must always be NULL",
+              "Cannot be used in function parameters"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passing a variable by reference to a function allows the function to:",
+            "options": [
+              "Only read the variable's value",
+              "Modify the original variable directly",
+              "Create a completely independent copy always",
+              "Never access the variable"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is true about pointer arithmetic compared to references?",
+            "options": [
+              "Reference arithmetic is allowed just like pointers",
+              "Pointer arithmetic is allowed, but reference arithmetic is not meaningful/allowed",
+              "Neither pointers nor references allow arithmetic",
+              "Both behave identically in arithmetic"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A pointer variable, unlike a reference, can be:",
+            "options": [
+              "Assigned NULL and reassigned to different addresses",
+              "Never reassigned",
+              "Only used with objects",
+              "Implicitly created without declaration"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In C++, references are often preferred over pointers for function parameters because:",
+            "options": [
+              "They require explicit dereferencing",
+              "They provide a safer, cleaner syntax without needing dereferencing",
+              "They can be NULL and easily checked",
+              "They always create copies of large objects"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Function Overloading",
+        "durationMinutes": 7,
+        "questions": [
+          {
+            "q": "Function overloading in C++ means:",
+            "options": [
+              "Defining multiple functions with the same name but different parameter lists",
+              "Defining multiple functions with the same name and same parameters",
+              "Overriding a base class function",
+              "Using the same function in multiple files"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Two overloaded functions can differ in:",
+            "options": [
+              "Return type only",
+              "Number and/or type of parameters",
+              "Function body only",
+              "Access specifier only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is a valid example of function overloading?",
+            "options": [
+              "int add(int,int); float add(int,int);",
+              "int add(int,int); int add(int,int,int);",
+              "int add(int,int); void add(int,int);",
+              "int add(int a,int b); int add(int x,int y);"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Function overloading is resolved by the compiler at:",
+            "options": [
+              "Runtime",
+              "Compile time",
+              "Link time",
+              "Load time"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Overloading functions based solely on return type (with identical parameters) is:",
+            "options": [
+              "Allowed and commonly used",
+              "Not allowed because it causes ambiguity",
+              "Allowed only for constructors",
+              "Required for all overloaded functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which term describes the process the compiler uses to select the correct overloaded function to call?",
+            "options": [
+              "Dynamic binding",
+              "Overload resolution",
+              "Virtual dispatch",
+              "Name hiding"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Constructor overloading is an example of:",
+            "options": [
+              "Operator overloading",
+              "Function overloading applied to constructors",
+              "Template specialization",
+              "Virtual functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Default Arguments",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "A default argument in a C++ function is:",
+            "options": [
+              "A value automatically assigned to a parameter if the caller does not provide one",
+              "A mandatory value the caller must always supply",
+              "A value that changes randomly each call",
+              "Only allowed for the first parameter"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In a function declaration, default arguments must generally be specified:",
+            "options": [
+              "For all parameters or none",
+              "Starting from the leftmost parameters and moving right, with no gaps after a default begins",
+              "From right to left, meaning trailing parameters must have defaults before non-trailing ones",
+              "Only for pointer parameters"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Given void func(int a, int b=10, int c=20);, which call is valid?",
+            "options": [
+              "func();",
+              "func(5);",
+              "func(5, , 15);",
+              "func(, 5, 10);"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If a function has default arguments, the caller:",
+            "options": [
+              "Must always override all defaults",
+              "May omit trailing arguments to use their default values",
+              "Can never omit any argument",
+              "Must call it with zero arguments only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Default arguments are typically specified in:",
+            "options": [
+              "The function definition only, never the declaration",
+              "The function declaration/prototype (and not repeated in the definition)",
+              "Both declaration and definition identically each time",
+              "Neither declaration nor definition"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Providing default arguments can help reduce the need for:",
+            "options": [
+              "Inheritance",
+              "Function overloading for optional parameters",
+              "Namespaces",
+              "Templates"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Inline Functions",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "An inline function in C++ is a request to the compiler to:",
+            "options": [
+              "Allocate the function on the heap",
+              "Replace the function call with the function's actual code at the call site",
+              "Always execute the function at compile time",
+              "Convert the function into a macro literally"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Inline functions are typically used for:",
+            "options": [
+              "Very large, complex functions",
+              "Small, frequently called functions to reduce function call overhead",
+              "Recursive functions only",
+              "Functions with many local variables always"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which keyword is used to declare an inline function?",
+            "options": [
+              "static",
+              "inline",
+              "const",
+              "extern"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Excessive use of inline functions can lead to:",
+            "options": [
+              "Reduced code size always",
+              "Increased code size due to code duplication at each call site",
+              "Slower compilation with no other effect",
+              "Removal of function overhead entirely with no cost"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The compiler may ignore the inline request and treat the function as a normal function when:",
+            "options": [
+              "The function is very small",
+              "The function is too complex or recursive",
+              "The function has no parameters",
+              "The function is a member function"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Compared to macros, inline functions offer the advantage of:",
+            "options": [
+              "No type checking",
+              "Type checking and proper scoping",
+              "Faster preprocessing only",
+              "Text substitution without evaluation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "new and delete Operators",
+        "durationMinutes": 8,
+        "questions": [
+          {
+            "q": "The new operator in C++ is used to:",
+            "options": [
+              "Deallocate memory",
+              "Dynamically allocate memory on the heap",
+              "Allocate memory on the stack only",
+              "Declare static variables"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The delete operator is used to:",
+            "options": [
+              "Allocate memory",
+              "Release memory allocated with new",
+              "Create new objects",
+              "Declare pointers"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "To dynamically allocate an array of 10 integers, the correct syntax is:",
+            "options": [
+              "int *p = new int[10];",
+              "int *p = new int(10);",
+              "int *p = malloc(int, 10);",
+              "int p[] = new(10);"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "To free an array allocated with new[], the correct syntax is:",
+            "options": [
+              "delete p;",
+              "delete[] p;",
+              "free(p);",
+              "delete(array)p;"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Failing to call delete on memory allocated with new results in:",
+            "options": [
+              "Automatic garbage collection",
+              "A memory leak",
+              "A compilation error",
+              "Immediate program crash always"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Compared to malloc(), the new operator:",
+            "options": [
+              "Does not call constructors",
+              "Automatically invokes the object's constructor",
+              "Is identical to malloc in every way",
+              "Cannot allocate arrays"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What does the delete operator do to a pointer's value after freeing the memory?",
+            "options": [
+              "Automatically sets the pointer to NULL",
+              "Does not automatically set it to NULL, leaving it dangling unless done manually",
+              "Converts it to a reference",
+              "Deletes the pointer variable itself from memory"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Mixing malloc()/free() with new/delete for the same memory block is:",
+            "options": [
+              "Safe and recommended",
+              "Undefined behavior and should be avoided",
+              "Required for efficiency",
+              "The standard way to manage memory in C++"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "this Pointer",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "The this pointer in C++ is:",
+            "options": [
+              "A pointer available in static member functions only",
+              "An implicit pointer available in non-static member functions that points to the calling object",
+              "Used only in constructors",
+              "A global pointer"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The this pointer allows a member function to:",
+            "options": [
+              "Access the class definition",
+              "Refer to the specific object instance that invoked the function",
+              "Allocate memory automatically",
+              "Overload operators automatically"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In which type of member function is the this pointer NOT available?",
+            "options": [
+              "Constructor",
+              "Destructor",
+              "Static member function",
+              "Regular non-static member function"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The expression return *this; inside a member function typically:",
+            "options": [
+              "Returns a pointer to the object",
+              "Returns a reference to the current object, often used for method chaining",
+              "Deletes the current object",
+              "Creates a new object"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The this pointer is passed to member functions:",
+            "options": [
+              "Explicitly by the programmer always",
+              "Implicitly by the compiler",
+              "Only when using inheritance",
+              "Only in template classes"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What type is the this pointer within a non-const member function of class Foo?",
+            "options": [
+              "Foo",
+              "A pointer to the class type (Foo*)",
+              "void*",
+              "Foo&"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Friend Function and Friend Class",
+        "durationMinutes": 7,
+        "questions": [
+          {
+            "q": "A friend function in C++ is a function that:",
+            "options": [
+              "Is a member of the class",
+              "Is not a member of the class but has access to its private and protected members",
+              "Can never access private members",
+              "Must be declared inside another class"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which keyword is used to declare a friend function?",
+            "options": [
+              "private",
+              "friend",
+              "public",
+              "extern"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A friend function is declared:",
+            "options": [
+              "Inside the class body with the friend keyword, but it is not a member function",
+              "Outside the class only",
+              "As a private member always",
+              "Automatically for every function"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When class B is declared as a friend class of class A, it means:",
+            "options": [
+              "Class A can access private members of class B only",
+              "Class B can access private and protected members of class A",
+              "Both classes lose access to each other's private members",
+              "Class B becomes a member of class A"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Is friendship in C++ mutual (i.e., if A declares B as a friend, is A automatically a friend of B)?",
+            "options": [
+              "Yes, always mutual",
+              "No, friendship is one-directional unless explicitly declared both ways",
+              "Only for friend classes, not friend functions",
+              "Only in template classes"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Is friendship inherited by derived classes in C++?",
+            "options": [
+              "Yes, always",
+              "No, friendship is not inherited",
+              "Only for friend classes",
+              "Only for virtual friend functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A common use case for friend functions is:",
+            "options": [
+              "Hiding all class data completely",
+              "Allowing operator overloading functions to access private data of a class",
+              "Preventing any external access",
+              "Replacing member functions entirely"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Static Members (Data & Function)",
+        "durationMinutes": 7,
+        "questions": [
+          {
+            "q": "A static data member of a class:",
+            "options": [
+              "Has a separate copy for each object of the class",
+              "Is shared among all objects of the class",
+              "Cannot be accessed by any object",
+              "Is destroyed when the first object is destroyed"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A static data member must typically be defined:",
+            "options": [
+              "Only inside the class definition",
+              "Outside the class definition (in addition to declaration inside the class) to allocate storage",
+              "Never, as it is allocated automatically without any definition",
+              "Only inside a constructor"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A static member function can access:",
+            "options": [
+              "Only static data members directly (not non-static ones)",
+              "Only non-static data members directly",
+              "Both static and non-static data members equally",
+              "Neither static nor non-static data members"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Static member functions can be called:",
+            "options": [
+              "Only through an object of the class",
+              "Using the class name directly, without needing an object",
+              "Only from within the class's own member functions",
+              "Only from derived classes"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Does a static member function have access to the this pointer?",
+            "options": [
+              "Yes, always",
+              "No, because it is not associated with any particular object",
+              "Only if declared virtual",
+              "Only in constructors"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A static local variable inside a function:",
+            "options": [
+              "Is reinitialized every time the function is called",
+              "Retains its value between function calls",
+              "Is destroyed after each function call",
+              "Cannot be initialized"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is true about a static member shared across objects?",
+            "options": [
+              "Each object gets its own independent copy",
+              "All objects of the class share a single copy of that member",
+              "Static members cannot be modified after compilation",
+              "Static members require dynamic memory allocation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "const Keyword",
+        "durationMinutes": 8,
+        "questions": [
+          {
+            "q": "Declaring a variable with const means:",
+            "options": [
+              "Its value can be changed anytime",
+              "Its value cannot be modified after initialization",
+              "It is automatically a pointer",
+              "It is stored only in the heap"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A const member function in a class:",
+            "options": [
+              "Can modify any data member of the object",
+              "Promises not to modify the data members of the object (except mutable ones)",
+              "Can only be called on non-const objects",
+              "Is the same as a static member function"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following correctly declares a const pointer to an int (the pointer itself cannot change, but the value it points to can)?",
+            "options": [
+              "const int *p;",
+              "int *const p;",
+              "const int *const p;",
+              "int const p;"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following declares a pointer to a const int (the value pointed to cannot change through this pointer, but the pointer itself can point elsewhere)?",
+            "options": [
+              "int *const p;",
+              "const int *p;",
+              "int p const;",
+              "const p int;"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Calling a non-const member function on a const object is:",
+            "options": [
+              "Always allowed",
+              "Not allowed, since it may modify the object's state",
+              "Allowed only for constructors",
+              "Allowed only for static functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A const object can only call:",
+            "options": [
+              "Any member function of the class",
+              "Const member functions of the class",
+              "Only private member functions",
+              "Only friend functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which keyword allows a specific data member to be modified even inside a const member function?",
+            "options": [
+              "static",
+              "mutable",
+              "volatile",
+              "const_cast"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passing a large object to a function as a const reference (const Type&) is commonly done to:",
+            "options": [
+              "Allow the function to modify the object",
+              "Avoid copying the object while preventing the function from modifying it",
+              "Force a deep copy of the object every time",
+              "Make the object a static member"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Exception Handling (try, catch, throw)",
+        "durationMinutes": 8,
+        "questions": [
+          {
+            "q": "Exception handling in C++ primarily uses which three keywords?",
+            "options": [
+              "try, throw, catch",
+              "attempt, raise, handle",
+              "test, error, fix",
+              "safe, unsafe, error"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Code that might raise an exception is placed inside a:",
+            "options": [
+              "catch block",
+              "try block",
+              "throw block",
+              "finally block (C++ has no finally block)"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The throw keyword is used to:",
+            "options": [
+              "Catch an exception",
+              "Signal/raise an exception",
+              "Define a try block",
+              "Suppress an exception"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A catch block with ellipsis (catch(...)) is used to:",
+            "options": [
+              "Catch a specific exception type only",
+              "Catch any type of exception",
+              "Declare a template",
+              "Rethrow the last exception automatically"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If no matching catch block is found for a thrown exception, the program:",
+            "options": [
+              "Continues execution normally",
+              "Calls std::terminate() (typically ending the program)",
+              "Automatically ignores the exception",
+              "Restarts the try block"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which statement re-throws the currently caught exception from within a catch block?",
+            "options": [
+              "throw;",
+              "rethrow;",
+              "catch;",
+              "throw again;"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "C++ exception handling is primarily useful for:",
+            "options": [
+              "Improving compile time",
+              "Separating error-handling code from normal program logic and handling runtime errors gracefully",
+              "Replacing all if-else statements",
+              "Increasing recursion depth"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Can a try block have multiple catch blocks?",
+            "options": [
+              "No, only one catch block is allowed per try block",
+              "Yes, multiple catch blocks can handle different exception types thrown from the same try block",
+              "Only two catch blocks are allowed",
+              "Only if using templates"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Templates (Function & Class Templates)",
+        "durationMinutes": 9,
+        "questions": [
+          {
+            "q": "A function template in C++ allows:",
+            "options": [
+              "Writing a single function definition that works with multiple data types",
+              "Writing multiple functions with the same name and same type only",
+              "Overloading operators only",
+              "Defining static functions only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which keyword is used to declare a template?",
+            "options": [
+              "generic",
+              "template",
+              "typename only, never template",
+              "class_template"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In template<typename T> or template<class T>, the keywords typename and class in this context are:",
+            "options": [
+              "Different in meaning always",
+              "Generally interchangeable as a way to declare a template type parameter",
+              "Used only for classes, never functions",
+              "Required to be used together"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A class template allows:",
+            "options": [
+              "Creating a blueprint for a class that can operate on generic data types",
+              "Only one instantiation of the class ever",
+              "Inheritance without base classes",
+              "Static-only class members"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The process of creating a specific version of a template for a given type (e.g., Stack<int>) is called:",
+            "options": [
+              "Template overloading",
+              "Template instantiation",
+              "Template inheritance",
+              "Template deletion"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Template specialization allows:",
+            "options": [
+              "Removing templates entirely",
+              "Providing a custom implementation of a template for a specific data type",
+              "Preventing a template from being instantiated",
+              "Converting a template into a macro"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Compared to function overloading, function templates:",
+            "options": [
+              "Require writing separate code for each data type",
+              "Let the compiler generate type-specific code from a single generic definition",
+              "Cannot work with built-in data types",
+              "Are resolved only at runtime"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Templates in C++ are primarily processed:",
+            "options": [
+              "At runtime by the interpreter",
+              "At compile time, generating code for each type used",
+              "By the linker only",
+              "By the operating system"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "std::vector is an example of:",
+            "options": [
+              "A function template",
+              "A class template (template class) from the STL",
+              "A friend function",
+              "A static member function"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "STL Basics (vector, list, map, set, stack, queue, iterators)",
+        "durationMinutes": 8,
+        "questions": [
+          {
+            "q": "The Standard Template Library (STL) in C++ primarily provides:",
+            "options": [
+              "Only mathematical functions",
+              "Generic, reusable data structures and algorithms like containers, iterators, and algorithms",
+              "Only string manipulation functions",
+              "Only file handling utilities"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which STL container stores elements in contiguous memory and allows dynamic resizing, similar to a dynamic array?",
+            "options": [
+              "list",
+              "vector",
+              "map",
+              "stack"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which STL container is implemented as a doubly linked list, allowing efficient insertion/deletion at any position but no direct random access?",
+            "options": [
+              "vector",
+              "list",
+              "array",
+              "deque"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A std::map in the STL stores elements as:",
+            "options": [
+              "Unordered single values",
+              "Key-value pairs, typically sorted by key",
+              "Only integer values",
+              "Function pointers"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A std::set in the STL stores:",
+            "options": [
+              "Duplicate elements allowed, unsorted",
+              "Unique elements, typically maintained in sorted order",
+              "Key-value pairs only",
+              "Only characters"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which STL container follows Last-In-First-Out (LIFO) ordering?",
+            "options": [
+              "queue",
+              "stack",
+              "vector",
+              "map"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which STL container follows First-In-First-Out (FIFO) ordering?",
+            "options": [
+              "stack",
+              "queue",
+              "set",
+              "list"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the STL, an iterator is best described as:",
+            "options": [
+              "A function that sorts a container",
+              "An object that allows traversal through the elements of a container, similar in concept to a pointer",
+              "A type of exception",
+              "A static class member"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

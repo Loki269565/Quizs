@@ -1,0 +1,1304 @@
+[
+  {
+    "id": "oop-core-concepts-1",
+    "title": "4. Object-Oriented Programming (OOPs) - Core Concepts",
+    "sections": [
+      {
+        "name": "Class and Object",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "A class in C++ is best described as:",
+            "options": [
+              "A running instance of a program",
+              "A blueprint or template that defines the properties and behaviors of objects",
+              "A built-in data type like int or float",
+              "A function that returns a value"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An object in C++ is:",
+            "options": [
+              "A syntax error",
+              "An instance of a class, occupying its own memory for data members",
+              "The same as a class definition",
+              "A keyword used to declare variables"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which statement about classes and objects is correct?",
+            "options": [
+              "Multiple objects of a class share the same copy of non-static data members",
+              "Each object of a class typically has its own copy of the non-static data members",
+              "A class can have only one object",
+              "Objects cannot call member functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The process of creating an object from a class is called:",
+            "options": [
+              "Inheritance",
+              "Instantiation",
+              "Encapsulation",
+              "Overloading"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Member functions of a class are typically defined:",
+            "options": [
+              "Only outside the class using the class name and scope resolution operator, or inside the class body",
+              "Only inside main()",
+              "Only as friend functions",
+              "Only as static functions"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A class definition in C++ typically ends with:",
+            "options": [
+              "A closing brace followed by a semicolon",
+              "A closing brace with no semicolon",
+              "The keyword end",
+              "Nothing special is required"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Encapsulation (Data Hiding)",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "Encapsulation in OOP refers to:",
+            "options": [
+              "Bundling data and the functions that operate on it into a single unit, while restricting direct access to some components",
+              "Creating multiple objects from one class",
+              "Hiding a class from the linker",
+              "Allowing global access to all class members"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Encapsulation is primarily implemented in C++ using:",
+            "options": [
+              "Loops and conditionals",
+              "Access specifiers (private, protected, public) to control visibility of members",
+              "Templates",
+              "The this pointer"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following best demonstrates encapsulation?",
+            "options": [
+              "Making all data members public for easy access",
+              "Making data members private and providing public getter/setter functions to access them",
+              "Declaring all functions as friend functions",
+              "Using global variables instead of class members"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The main benefit of encapsulation is:",
+            "options": [
+              "Faster compilation",
+              "Protecting an object's internal state from unintended or invalid external modification",
+              "Automatic memory management",
+              "Enabling multiple inheritance"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Encapsulation is often referred to as:",
+            "options": [
+              "Data hiding",
+              "Data duplication",
+              "Data overloading",
+              "Data casting"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which access specifier is most commonly used to enforce encapsulation for a class's internal data?",
+            "options": [
+              "public",
+              "private",
+              "extern",
+              "static"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Abstraction",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "Abstraction in OOP refers to:",
+            "options": [
+              "Showing only essential features/behavior to the user while hiding implementation details",
+              "Combining data and functions into a class",
+              "Creating multiple copies of an object",
+              "Converting one data type to another"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A real-world analogy for abstraction is:",
+            "options": [
+              "Driving a car using the steering wheel and pedals without needing to know the internal engine mechanics",
+              "Copying a class definition into another file",
+              "Declaring a variable as static",
+              "Using a for loop to iterate an array"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In C++, abstraction is commonly achieved using:",
+            "options": [
+              "Global variables",
+              "Abstract classes with pure virtual functions to define an interface",
+              "The sizeof operator",
+              "Preprocessor directives only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which statement best distinguishes abstraction from encapsulation?",
+            "options": [
+              "Abstraction focuses on hiding complexity/implementation details, while encapsulation focuses on bundling data with restricted access",
+              "They are exactly the same concept with different names",
+              "Abstraction is about memory allocation, encapsulation is about loops",
+              "Encapsulation hides implementation, abstraction restricts data access"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Abstraction helps developers primarily by:",
+            "options": [
+              "Exposing all internal details of a class to the user",
+              "Reducing complexity by letting users interact with a simplified interface",
+              "Increasing the number of global variables",
+              "Preventing the use of functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A user calling a library function without knowing its internal implementation is an example of:",
+            "options": [
+              "Inheritance",
+              "Abstraction",
+              "Operator overloading",
+              "Static binding only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Inheritance: Single, Multiple, Multilevel, Hierarchical, Hybrid",
+        "durationMinutes": 7,
+        "questions": [
+          {
+            "q": "Inheritance in OOP allows a class to:",
+            "options": [
+              "Acquire properties and behaviors of another class",
+              "Delete another class's definition",
+              "Become a namespace",
+              "Overload the main function"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When one derived class inherits from exactly one base class, this is called:",
+            "options": [
+              "Multiple inheritance",
+              "Single inheritance",
+              "Hierarchical inheritance",
+              "Hybrid inheritance"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When a derived class inherits from more than one base class directly, this is called:",
+            "options": [
+              "Multilevel inheritance",
+              "Multiple inheritance",
+              "Single inheritance",
+              "Hierarchical inheritance"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When a class is derived from a base class, and that derived class itself acts as a base class for another class, forming a chain, this is called:",
+            "options": [
+              "Hierarchical inheritance",
+              "Multilevel inheritance",
+              "Hybrid inheritance",
+              "Single inheritance"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When multiple derived classes inherit from a single common base class, this is called:",
+            "options": [
+              "Multilevel inheritance",
+              "Hierarchical inheritance",
+              "Multiple inheritance",
+              "Single inheritance"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A combination of two or more types of inheritance (e.g., multiple and multilevel together) is called:",
+            "options": [
+              "Hybrid inheritance",
+              "Simple inheritance",
+              "Static inheritance",
+              "Virtual inheritance only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which type of inheritance is most likely to lead to the diamond problem?",
+            "options": [
+              "Single inheritance",
+              "Hierarchical inheritance combined with multiple inheritance (hybrid)",
+              "Multilevel inheritance only",
+              "None of the inheritance types can cause it"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Base/Derived Class and Access Specifiers in Inheritance",
+        "durationMinutes": 7,
+        "questions": [
+          {
+            "q": "In inheritance terminology, the class whose properties are inherited is called the:",
+            "options": [
+              "Derived class",
+              "Base class",
+              "Friend class",
+              "Abstract class"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In inheritance terminology, the class that inherits properties from another class is called the:",
+            "options": [
+              "Base class",
+              "Derived class",
+              "Static class",
+              "Virtual class"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When a class is publicly inherited, public members of the base class become:",
+            "options": [
+              "Private in the derived class",
+              "Public in the derived class",
+              "Protected in the derived class",
+              "Inaccessible in the derived class"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When a class is privately inherited, public and protected members of the base class become:",
+            "options": [
+              "Public in the derived class",
+              "Private in the derived class",
+              "Protected in the derived class",
+              "Removed from the derived class"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When a class is protectedly inherited, public members of the base class become:",
+            "options": [
+              "Private in the derived class",
+              "Protected in the derived class",
+              "Public in the derived class",
+              "Inaccessible"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Private members of a base class are:",
+            "options": [
+              "Always accessible directly in any derived class regardless of inheritance mode",
+              "Never directly accessible in a derived class, regardless of the inheritance mode used",
+              "Accessible only through public inheritance",
+              "Automatically converted to protected members"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If no access specifier is mentioned during inheritance of a class (using the class keyword), the default inheritance type is:",
+            "options": [
+              "public",
+              "private",
+              "protected",
+              "friend"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Virtual Base Class (Diamond Problem)",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "The diamond problem in C++ occurs when:",
+            "options": [
+              "A class inherits from a single base class only",
+              "A derived class inherits from two base classes that both inherit from a common base class, causing ambiguous duplicate copies of the common base",
+              "A function is overloaded too many times",
+              "A constructor is called recursively"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The diamond problem is resolved in C++ by declaring the shared base class as a:",
+            "options": [
+              "Static base class",
+              "Virtual base class",
+              "Friend base class",
+              "Const base class"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Using virtual inheritance for a shared base class ensures that:",
+            "options": [
+              "Multiple copies of the base class subobject are created",
+              "Only a single shared copy of the base class subobject exists in the most derived object",
+              "The base class becomes inaccessible",
+              "The derived classes can no longer be instantiated"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which keyword is placed before the base class name in the derived class declaration to make it a virtual base class?",
+            "options": [
+              "static",
+              "virtual",
+              "const",
+              "friend"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Without virtual inheritance, in a diamond-shaped hierarchy, accessing an ambiguous member of the common base class through the most derived object typically results in:",
+            "options": [
+              "Automatic resolution by the compiler with no issue",
+              "A compile-time ambiguity error unless explicitly qualified",
+              "A runtime crash only",
+              "Silent selection of the leftmost base class always"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The diamond problem is most closely associated with which type of inheritance?",
+            "options": [
+              "Single inheritance",
+              "Multilevel inheritance",
+              "Multiple/hybrid inheritance forming a diamond shape",
+              "Hierarchical inheritance with one base only"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Polymorphism: Compile-time (Overloading)",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "Compile-time polymorphism in C++ is also known as:",
+            "options": [
+              "Dynamic polymorphism",
+              "Static or early binding polymorphism",
+              "Runtime polymorphism",
+              "Late binding polymorphism"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is an example of compile-time polymorphism?",
+            "options": [
+              "Virtual functions",
+              "Function overloading and operator overloading",
+              "Function overriding through base class pointers",
+              "Dynamic binding via vtables"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Compile-time polymorphism is resolved:",
+            "options": [
+              "At runtime by the vtable",
+              "By the compiler at compile time, based on function signatures",
+              "By the linker only",
+              "By the operating system loader"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Operator overloading, as a form of compile-time polymorphism, allows:",
+            "options": [
+              "Operators to work only with built-in data types",
+              "Operators to be redefined to work with user-defined types like classes",
+              "The compiler to ignore operator precedence",
+              "Operators to be removed from the language"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Compared to compile-time polymorphism, run-time polymorphism generally:",
+            "options": [
+              "Is faster because it avoids any lookup",
+              "Involves a small performance overhead due to dynamic dispatch via a vtable",
+              "Is not supported in C++ at all",
+              "Is resolved at compile time as well"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Function overloading achieves compile-time polymorphism by allowing:",
+            "options": [
+              "The same function name to behave differently based on parameters, chosen by the compiler",
+              "Functions to be resolved only at runtime",
+              "Only one version of a function to exist",
+              "Functions to override base class behavior dynamically"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Polymorphism: Run-time (Virtual Functions & Overriding)",
+        "durationMinutes": 7,
+        "questions": [
+          {
+            "q": "Run-time polymorphism in C++ is primarily achieved through:",
+            "options": [
+              "Function overloading",
+              "Virtual functions and function overriding",
+              "Default arguments",
+              "Namespaces"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Function overriding occurs when:",
+            "options": [
+              "A derived class provides a new implementation for a virtual function already defined in its base class, with the same signature",
+              "A function is defined twice with different parameters in the same class",
+              "A base class calls a derived class constructor",
+              "Two unrelated classes have functions with the same name"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "For run-time polymorphism to work correctly via base class pointers/references, the base class function should be declared:",
+            "options": [
+              "static",
+              "virtual",
+              "inline",
+              "const only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Run-time polymorphism is also known as:",
+            "options": [
+              "Static binding or early binding",
+              "Dynamic binding or late binding",
+              "Compile-time binding",
+              "No binding"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following enables a base class pointer to call the derived class's overridden version of a function at runtime?",
+            "options": [
+              "Function overloading",
+              "Virtual functions",
+              "Default arguments",
+              "Static member functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If a base class function is NOT declared virtual, calling it through a base class pointer pointing to a derived object will:",
+            "options": [
+              "Always call the derived class version",
+              "Call the base class version regardless of the actual object type (no polymorphic behavior)",
+              "Cause a compilation error",
+              "Call both versions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Run-time polymorphism typically incurs a small overhead because:",
+            "options": [
+              "The function call is resolved through a virtual table (vtable) lookup at runtime",
+              "All variables become global",
+              "The program must recompile at runtime",
+              "It requires multiple inheritance"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Pure Virtual Functions and Abstract Classes",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "A pure virtual function in C++ is declared by:",
+            "options": [
+              "Assigning it a value of 0 in its declaration, e.g., virtual void func() = 0;",
+              "Marking it static",
+              "Marking it const only",
+              "Declaring it inside a namespace"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A class containing at least one pure virtual function is called:",
+            "options": [
+              "A concrete class",
+              "An abstract class",
+              "A friend class",
+              "A static class"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Can an abstract class in C++ be instantiated directly?",
+            "options": [
+              "Yes, always",
+              "No, an abstract class cannot be instantiated directly; only derived concrete classes can be",
+              "Only if it has a constructor",
+              "Only if it has no data members"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A derived class that does not override all pure virtual functions inherited from an abstract base class:",
+            "options": [
+              "Becomes a concrete class automatically",
+              "Remains an abstract class itself",
+              "Causes a runtime error only",
+              "Is not allowed to compile under any circumstances"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Pure virtual functions are primarily used to:",
+            "options": [
+              "Provide a complete implementation that cannot be changed",
+              "Define an interface that derived classes must implement",
+              "Prevent inheritance entirely",
+              "Make a class static"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is true about abstract classes in C++?",
+            "options": [
+              "They can have both pure virtual functions and regular member functions with implementations",
+              "They cannot have any data members",
+              "They cannot have constructors",
+              "They cannot be used as base classes"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Constructors and Destructors",
+        "durationMinutes": 7,
+        "questions": [
+          {
+            "q": "A default constructor in C++ is a constructor that:",
+            "options": [
+              "Takes at least one mandatory parameter",
+              "Takes no parameters (or has all parameters defaulted)",
+              "Is always automatically deleted",
+              "Can only be used for abstract classes"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A parameterized constructor allows:",
+            "options": [
+              "Initializing object data members with values passed as arguments during object creation",
+              "Only default initialization of data members",
+              "Destroying an object early",
+              "Overloading operators"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A copy constructor is used to:",
+            "options": [
+              "Delete an existing object",
+              "Initialize a new object as a copy of an existing object of the same class",
+              "Convert a class into a template",
+              "Overload the assignment operator automatically"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which statement about destructors is correct?",
+            "options": [
+              "A destructor can take parameters and be overloaded",
+              "A destructor takes no parameters, cannot be overloaded, and has the same name as the class prefixed with a tilde (~)",
+              "A destructor must always be declared static",
+              "A class can have multiple destructors with different signatures"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Unlike constructors, destructors:",
+            "options": [
+              "Can be declared virtual, which is important for proper cleanup in inheritance hierarchies",
+              "Can never be virtual under any circumstances",
+              "Must always take one integer parameter",
+              "Are called before the object's constructor"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If a class does not explicitly define a constructor, the compiler:",
+            "options": [
+              "Leaves the object completely uninitialized with no constructor at all",
+              "Automatically provides a default constructor",
+              "Refuses to compile",
+              "Automatically makes the class abstract"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The order in which a destructor is called relative to the object's scope is:",
+            "options": [
+              "Destructors are called in the same order as constructors",
+              "Destructors are typically called in the reverse order of construction, when the object goes out of scope or is deleted",
+              "Destructors are called before constructors",
+              "Destructors are never called automatically"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Constructor Overloading & Order of Ctor/Dtor Calls in Inheritance",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "Constructor overloading refers to:",
+            "options": [
+              "Having multiple constructors in a class with different parameter lists",
+              "Having only one constructor per class",
+              "Overriding a base class constructor",
+              "Declaring a constructor as virtual"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When an object of a derived class is created, the order of constructor calls is typically:",
+            "options": [
+              "The derived class constructor runs first, then the base class constructor",
+              "The base class constructor runs first, followed by the derived class constructor",
+              "Both constructors run simultaneously",
+              "Only the derived class constructor runs"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When an object of a derived class is destroyed, the order of destructor calls is typically:",
+            "options": [
+              "The derived class destructor runs first, followed by the base class destructor (reverse of construction order)",
+              "The base class destructor runs first, followed by the derived class destructor",
+              "Both destructors run simultaneously",
+              "Only the base class destructor runs"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If a derived class does not explicitly call a specific base class constructor, which base class constructor is invoked by default?",
+            "options": [
+              "The parameterized constructor with the most arguments",
+              "The base class's default constructor",
+              "No constructor is called",
+              "A randomly chosen constructor"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "To explicitly call a specific parameterized base class constructor from a derived class, you typically use:",
+            "options": [
+              "An initializer list in the derived class constructor",
+              "A separate function named base_init()",
+              "The this pointer only",
+              "A friend function"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Constructor overloading is a specific application of which broader OOP concept?",
+            "options": [
+              "Inheritance",
+              "Function overloading (compile-time polymorphism)",
+              "Encapsulation",
+              "Abstraction"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Operator Overloading (Unary/Binary, Member vs Friend)",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "Operator overloading in C++ allows:",
+            "options": [
+              "Creating entirely new operators not already in the language",
+              "Giving additional meaning to existing operators when used with user-defined types",
+              "Removing operators from the language",
+              "Changing the precedence of operators"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A unary operator overload (e.g., overloading the ++ operator for a single object) operates on:",
+            "options": [
+              "Two operands",
+              "A single operand",
+              "Three operands",
+              "No operands"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A binary operator overload (e.g., overloading the + operator to add two objects) operates on:",
+            "options": [
+              "A single operand",
+              "Two operands",
+              "No operands",
+              "An unlimited number of operands"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When overloading an operator as a member function, the left-hand operand is:",
+            "options": [
+              "Passed as an explicit parameter",
+              "Implicitly the calling object (accessed via this)",
+              "Always a global variable",
+              "Ignored entirely"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Overloading an operator using a friend function is often necessary when:",
+            "options": [
+              "The left-hand operand is not an object of the class (e.g., overloading << for cout)",
+              "The operator must remain a member function only",
+              "The class has no private data",
+              "The operator has only one operand"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following operators CANNOT be overloaded in C++?",
+            "options": [
+              "+ (plus)",
+              ":: (scope resolution)",
+              "== (equality)",
+              "[] (subscript)"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Virtual Functions and Dynamic Binding (vtable, Early vs Late Binding)",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "A virtual table (vtable) in C++ is:",
+            "options": [
+              "A table storing all local variables of a function",
+              "A compiler-generated table of function pointers used to support dynamic dispatch of virtual functions",
+              "A user-defined data structure required for all classes",
+              "A table used only for static member functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Each object of a class with virtual functions typically contains:",
+            "options": [
+              "A copy of all the function code",
+              "A hidden pointer (vptr) to the class's vtable",
+              "A duplicate of the base class",
+              "No additional overhead at all"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Early binding (static binding) means that:",
+            "options": [
+              "The function to be called is determined at runtime based on the object type",
+              "The function to be called is determined at compile time",
+              "Functions are bound only when the program exits",
+              "Binding never occurs for non-virtual functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Late binding (dynamic binding) means that:",
+            "options": [
+              "The function call is resolved at compile time",
+              "The function call is resolved at runtime, typically via the vtable, based on the actual object type",
+              "Binding is performed by the preprocessor",
+              "It only applies to non-member functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Non-virtual member functions in C++ are resolved using:",
+            "options": [
+              "Late binding via the vtable",
+              "Early binding at compile time",
+              "No binding at all",
+              "Random binding"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Declaring a base class destructor as virtual is important primarily to:",
+            "options": [
+              "Improve compilation speed",
+              "Ensure the correct derived class destructor is called when deleting an object through a base class pointer",
+              "Prevent the class from being inherited",
+              "Make all member functions static"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Abstract Class vs Interface Concept",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "Does C++ have a dedicated 'interface' keyword like some other languages (e.g., Java)?",
+            "options": [
+              "Yes, C++ has a built-in interface keyword",
+              "No, C++ does not have an interface keyword; the interface concept is simulated using abstract classes",
+              "Yes, but only in C++20",
+              "No, C++ does not support interfaces in any form"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In C++, an interface-like class is typically implemented as:",
+            "options": [
+              "A class with only private data members",
+              "An abstract class containing only pure virtual functions (and no data members or implemented functions)",
+              "A namespace with function declarations",
+              "A struct with static members only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Compared to a general abstract class, a pure 'interface' style abstract class in C++:",
+            "options": [
+              "May contain fully implemented member functions and data members",
+              "Typically contains only pure virtual functions, providing a contract with no implementation",
+              "Cannot be inherited by any class",
+              "Must contain at least one static member"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A class implementing an interface-like abstract class in C++ must:",
+            "options": [
+              "Leave all pure virtual functions unimplemented",
+              "Provide concrete implementations for all inherited pure virtual functions to become instantiable",
+              "Avoid using virtual functions entirely",
+              "Redeclare the abstract class as a friend"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The main purpose of an abstract class acting as an interface is to:",
+            "options": [
+              "Store large amounts of data efficiently",
+              "Define a common contract/behavior that multiple unrelated derived classes must implement",
+              "Speed up compilation significantly",
+              "Avoid the use of constructors entirely"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Can an abstract class used as an interface have a constructor in C++?",
+            "options": [
+              "No, abstract classes can never have constructors",
+              "Yes, an abstract class can have a constructor, which is called when a derived concrete object is created",
+              "Only if it has no pure virtual functions",
+              "Only if it is declared static"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Object Composition/Aggregation vs Inheritance",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "Inheritance typically represents which kind of relationship between two classes?",
+            "options": [
+              "A 'has-a' relationship",
+              "An 'is-a' relationship",
+              "A 'friend-of' relationship",
+              "No relationship at all"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Object composition (or aggregation) typically represents which kind of relationship?",
+            "options": [
+              "An 'is-a' relationship",
+              "A 'has-a' relationship, where one class contains an object of another class as a member",
+              "A purely static relationship",
+              "A virtual relationship only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An example of composition would be:",
+            "options": [
+              "A Car class inheriting from a Vehicle class",
+              "A Car class containing an Engine object as one of its data members",
+              "A Car class overloading the + operator",
+              "A Car class with only static members"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An example of inheritance would be:",
+            "options": [
+              "A Car class that contains a Wheel object as a member",
+              "A SportsCar class deriving from a Car class, extending its behavior",
+              "A Car class using a friend function",
+              "A Car class with a private constructor"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Compared to inheritance, composition is often preferred in design when:",
+            "options": [
+              "A strict 'is-a' relationship exists between two classes",
+              "A 'has-a' relationship better models the real-world scenario, offering more flexibility and looser coupling",
+              "Polymorphism is required",
+              "Virtual functions must be used"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Aggregation is often described as a specialized form of association where:",
+            "options": [
+              "The contained object's lifetime is entirely dependent on the container in every case",
+              "One object contains or is associated with another, but the contained object can often exist independently",
+              "No relationship exists between the two objects",
+              "The two classes must be in the same inheritance hierarchy"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Access Modifiers: private, public, protected",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "Members declared as private in a class are accessible:",
+            "options": [
+              "From anywhere in the program",
+              "Only within the class itself (and its friends)",
+              "Only from derived classes",
+              "Only from the main function"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Members declared as public in a class are accessible:",
+            "options": [
+              "Only within the class itself",
+              "From anywhere the object is visible, including outside the class",
+              "Only from friend functions",
+              "Only from derived classes"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Members declared as protected in a class are accessible:",
+            "options": [
+              "From anywhere in the program, just like public members",
+              "Within the class itself and its derived classes, but not generally from outside code",
+              "Only from unrelated classes",
+              "Nowhere at all"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "By default, members of a class declared using the class keyword (with no explicit access specifier) are:",
+            "options": [
+              "public",
+              "private",
+              "protected",
+              "static"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "By default, members of a struct in C++ (with no explicit access specifier) are:",
+            "options": [
+              "private",
+              "public",
+              "protected",
+              "friend"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which access specifier would you use for a data member that should be hidden from outside code but still accessible to derived classes?",
+            "options": [
+              "public",
+              "private",
+              "protected",
+              "extern"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]
