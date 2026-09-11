@@ -1,0 +1,1214 @@
+[
+  {
+    "id": "output-error-based-1",
+    "title": "8.Output/Error-Based Programming Mock Test",
+    "sections": [
+      {
+        "name": "Common MCQ-Style Areas (Output/Error-based Questions)",
+        "durationMinutes": 120,
+        "questions": [
+          {
+            "q": "#include <stdio.h>\nint main(){\n  int x=5;\n  printf(\"%d\", x++);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "5",
+              "6",
+              "4",
+              "Compilation error"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int x=5;\n  printf(\"%d\", ++x);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "5",
+              "6",
+              "4",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a=5, b=2;\n  printf(\"%d\", a/b);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "2.5",
+              "2",
+              "3",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a=5, b=2;\n  printf(\"%d\", a%b);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "0",
+              "1",
+              "2",
+              "2.5"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a=10;\n  if(a=0) printf(\"yes\");\n  else printf(\"no\");\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "yes",
+              "no",
+              "Compilation error",
+              "10"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  printf(\"%d\", (int)sizeof(int));\n  return 0;\n}\nWhat is the typical output on a standard 32/64-bit system?",
+            "options": [
+              "2",
+              "4",
+              "8",
+              "Depends, cannot be determined at all"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int i;\n  for(i=0;i<3;i++);\n  printf(\"%d\", i);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "2",
+              "3",
+              "0",
+              "Infinite loop"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int x=1,y=2,z;\n  z = x++ + ++y;\n  printf(\"%d\", z);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "3",
+              "4",
+              "5",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a[5]={1,2,3,4,5};\n  printf(\"%d\", *(a+2));\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "2",
+              "3",
+              "4",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  char *s=\"Hello\";\n  printf(\"%c\", *(s+1));\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "H",
+              "e",
+              "l",
+              "o"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a=2, b=3, c;\n  c = a++ + b++;\n  printf(\"%d %d %d\", a, b, c);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "2 3 5",
+              "3 4 5",
+              "3 4 6",
+              "2 3 6"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a=5;\n  printf(\"%d\", a>3 ? 100 : 200);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "100",
+              "200",
+              "5",
+              "Compilation error"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int x=0;\n  while(x<3){\n    printf(\"%d\",x);\n    x++;\n  }\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "123",
+              "012",
+              "0123",
+              "Infinite loop"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a=1;\n  switch(a){\n    case 1: printf(\"one\");\n    case 2: printf(\"two\");\n    break;\n    default: printf(\"default\");\n  }\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "one",
+              "two",
+              "onetwo",
+              "default"
+            ],
+            "answer": 2,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a=10, b=20;\n  int *p=&a;\n  *p = *p + b;\n  printf(\"%d\", a);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "10",
+              "20",
+              "30",
+              "Compilation error"
+            ],
+            "answer": 2,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "#include<iostream>\nusing namespace std;\nint main(){\n  cout << 5+3 << endl;\n}\nWhat is the output?",
+            "options": [
+              "53",
+              "8",
+              "5 3",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int x=5;\n  x++;\n  cout << x;\n}\nWhat is the output?",
+            "options": [
+              "5",
+              "6",
+              "4",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class A{\npublic:\n  A(){ cout << \"A\"; }\n};\nint main(){\n  A obj;\n}\nWhat is the output?",
+            "options": [
+              "A",
+              "No output",
+              "Compilation error",
+              "obj"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class A{\npublic:\n  A(){ cout << \"Cons \"; }\n  ~A(){ cout << \"Dest \"; }\n};\nint main(){\n  A obj;\n  cout << \"Main \";\n}\nWhat is the output?",
+            "options": [
+              "Cons Dest Main",
+              "Cons Main Dest",
+              "Main Cons Dest",
+              "Dest Cons Main"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a=5;\n  int &b=a;\n  b=10;\n  cout << a;\n}\nWhat is the output?",
+            "options": [
+              "5",
+              "10",
+              "0",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "void fun(int x){ cout << \"int\"; }\nvoid fun(double x){ cout << \"double\"; }\nint main(){\n  fun(5);\n}\nWhat is the output?",
+            "options": [
+              "int",
+              "double",
+              "int double",
+              "Compilation error"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Base{\npublic:\n  virtual void show(){ cout << \"Base\"; }\n};\nclass Derived: public Base{\npublic:\n  void show(){ cout << \"Derived\"; }\n};\nint main(){\n  Base *b;\n  Derived d;\n  b=&d;\n  b->show();\n}\nWhat is the output?",
+            "options": [
+              "Base",
+              "Derived",
+              "BaseDerived",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Base{\npublic:\n  void show(){ cout << \"Base\"; }\n};\nclass Derived: public Base{\npublic:\n  void show(){ cout << \"Derived\"; }\n};\nint main(){\n  Base *b;\n  Derived d;\n  b=&d;\n  b->show();\n}\nWhat is the output (note: show() is NOT virtual)?",
+            "options": [
+              "Derived",
+              "Base",
+              "BaseDerived",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int arr[3]={10,20,30};\n  cout << *arr << \" \" << *(arr+1);\n}\nWhat is the output?",
+            "options": [
+              "10 20",
+              "10 30",
+              "20 30",
+              "Compilation error"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Counter{\n  static int count;\npublic:\n  Counter(){ count++; }\n  static int getCount(){ return count; }\n};\nint Counter::count=0;\nint main(){\n  Counter c1,c2,c3;\n  cout << Counter::getCount();\n}\nWhat is the output?",
+            "options": [
+              "0",
+              "1",
+              "3",
+              "Compilation error"
+            ],
+            "answer": 2,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int fact(int n){\n  if(n<=1) return 1;\n  return n*fact(n-1);\n}\nint main(){\n  cout << fact(4);\n}\nWhat is the output?",
+            "options": [
+              "4",
+              "16",
+              "24",
+              "12"
+            ],
+            "answer": 2,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class A{\npublic:\n  A(int x){ cout << x; }\n};\nint main(){\n  A a1(5), a2(10);\n}\nWhat is the output?",
+            "options": [
+              "510",
+              "5 10",
+              "15",
+              "Compilation error"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int x=10;\n  {\n    int x=20;\n    cout << x;\n  }\n  cout << x;\n}\nWhat is the output?",
+            "options": [
+              "1010",
+              "2020",
+              "2010",
+              "Compilation error"
+            ],
+            "answer": 2,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Shape{\npublic:\n  virtual void area()=0;\n};\nclass Circle: public Shape{\npublic:\n  void area(){ cout << \"Circle area\"; }\n};\nint main(){\n  Circle c;\n  c.area();\n}\nWhat is the output?",
+            "options": [
+              "Circle area",
+              "Compilation error (abstract class)",
+              "No output",
+              "Shape area"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int x=5;\n  const int *p=&x;\n  cout << *p;\n}\nWhat is the output?",
+            "options": [
+              "5",
+              "Address of x",
+              "Compilation error",
+              "0"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "public class Main{\n  public static void main(String[] args){\n    int x=5;\n    System.out.println(x++);\n  }\n}\nWhat is the output?",
+            "options": [
+              "5",
+              "6",
+              "4",
+              "Compilation error"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "public class Main{\n  public static void main(String[] args){\n    int x=5;\n    System.out.println(++x);\n  }\n}\nWhat is the output?",
+            "options": [
+              "5",
+              "6",
+              "4",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "public class Main{\n  public static void main(String[] args){\n    String s1=\"Hello\";\n    String s2=\"Hello\";\n    System.out.println(s1==s2);\n  }\n}\nWhat is the output?",
+            "options": [
+              "true",
+              "false",
+              "Compilation error",
+              "null"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "public class Main{\n  public static void main(String[] args){\n    String s1=new String(\"Hello\");\n    String s2=new String(\"Hello\");\n    System.out.println(s1==s2);\n  }\n}\nWhat is the output?",
+            "options": [
+              "true",
+              "false",
+              "Compilation error",
+              "null"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "public class Main{\n  public static void main(String[] args){\n    int a=5,b=2;\n    System.out.println(a/b);\n  }\n}\nWhat is the output?",
+            "options": [
+              "2.5",
+              "2",
+              "3",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "public class Main{\n  public static void main(String[] args){\n    int a=5;\n    double b=2;\n    System.out.println(a/b);\n  }\n}\nWhat is the output?",
+            "options": [
+              "2",
+              "2.5",
+              "2.0",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Animal{\n  void sound(){ System.out.println(\"Animal sound\"); }\n}\nclass Dog extends Animal{\n  void sound(){ System.out.println(\"Bark\"); }\n}\npublic class Main{\n  public static void main(String[] args){\n    Animal a=new Dog();\n    a.sound();\n  }\n}\nWhat is the output?",
+            "options": [
+              "Animal sound",
+              "Bark",
+              "Animal soundBark",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class A{\n  A(){ System.out.println(\"A constructor\"); }\n}\nclass B extends A{\n  B(){ System.out.println(\"B constructor\"); }\n}\npublic class Main{\n  public static void main(String[] args){\n    B b=new B();\n  }\n}\nWhat is the output?",
+            "options": [
+              "B constructor followed by A constructor",
+              "A constructor followed by B constructor",
+              "Only B constructor",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Sample{\n  void fun(int x){ System.out.println(\"int:\"+x); }\n  void fun(String x){ System.out.println(\"String:\"+x); }\n  public static void main(String[] args){\n    new Sample().fun(5);\n  }\n}\nWhat is the output?",
+            "options": [
+              "int:5",
+              "String:5",
+              "Compilation error",
+              "No output"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "public class Main{\n  static int count=0;\n  Main(){ count++; }\n  public static void main(String[] args){\n    new Main(); new Main(); new Main();\n    System.out.println(count);\n  }\n}\nWhat is the output?",
+            "options": [
+              "0",
+              "1",
+              "3",
+              "Compilation error"
+            ],
+            "answer": 2,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "public class Main{\n  public static void main(String[] args){\n    int[] arr={1,2,3};\n    for(int i : arr) System.out.print(i);\n  }\n}\nWhat is the output?",
+            "options": [
+              "1 2 3",
+              "123",
+              "0 1 2",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "public class Main{\n  public static void main(String[] args){\n    try{\n      int x=5/0;\n    } catch(ArithmeticException e){\n      System.out.println(\"Caught\");\n    }\n  }\n}\nWhat is the output?",
+            "options": [
+              "Caught",
+              "5",
+              "Infinity",
+              "Program crashes with no output"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "public class Main{\n  public static void main(String[] args){\n    StringBuilder sb=new StringBuilder(\"Hi\");\n    sb.append(\" there\");\n    System.out.println(sb);\n  }\n}\nWhat is the output?",
+            "options": [
+              "Hi",
+              "there",
+              "Hi there",
+              "Compilation error"
+            ],
+            "answer": 2,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "public class Main{\n  static int fact(int n){\n    if(n==0) return 1;\n    return n*fact(n-1);\n  }\n  public static void main(String[] args){\n    System.out.println(fact(5));\n  }\n}\nWhat is the output?",
+            "options": [
+              "100",
+              "120",
+              "24",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "public class Main{\n  public static void main(String[] args){\n    int x=10;\n    System.out.println(x>5 ? \"big\" : \"small\");\n  }\n}\nWhat is the output?",
+            "options": [
+              "big",
+              "small",
+              "10",
+              "Compilation error"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "#include <stdio.h>\nint main(){\n    int x = 10\n    printf(\"%d\", x);\n    return 0;\n}\nWhat is the compilation error?",
+            "options": [
+              "Undeclared variable x",
+              "Missing semicolon after 'int x = 10'",
+              "Missing return type",
+              "No error, compiles fine"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n    int 1x=5;\n    return 0;\n}\nWhat is the compilation error?",
+            "options": [
+              "Missing semicolon",
+              "Invalid identifier (cannot start with a digit)",
+              "Undeclared variable",
+              "No error, compiles fine"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "#include <stdio.h>\nint main(){\n    if(x>5){\n        printf(\"big\");\n    }\n    return 0;\n}\nWhat is the compilation error?",
+            "options": [
+              "Missing semicolon",
+              "'x' undeclared",
+              "Missing header file",
+              "No error, compiles fine"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "void fun(){\n    return 5;\n}\nWhat is the compilation error?",
+            "options": [
+              "Missing semicolon",
+              "'fun' undeclared",
+              "A void function cannot return a value",
+              "No error, compiles fine"
+            ],
+            "answer": 2,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class A{\n    int x;\npublic:\n    void show(){ cout << x; }\n};\nint main(){\n    A obj;\n    obj.x = 5;\n    return 0;\n}\nWhat is the compilation error?",
+            "options": [
+              "'x' is a private member and cannot be accessed outside the class",
+              "Missing constructor",
+              "'obj' undeclared",
+              "No error, compiles fine"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "public class Main{\n    public static void main(String[] args){\n        int x = \"Hello\";\n    }\n}\nWhat is the compilation error?",
+            "options": [
+              "Missing semicolon",
+              "Incompatible types: cannot convert String to int",
+              "'x' undeclared",
+              "No error, compiles fine"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "public class Main{\n    public void main(String[] args){\n        System.out.println(\"Hi\");\n    }\n}\nWhy does this program fail to run as expected?",
+            "options": [
+              "Missing semicolon",
+              "The main method must be declared static",
+              "'Hi' is not a valid string",
+              "No error, runs fine"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Test{\npublic:\n    Test(){\n        cout << \"Constructor\";\n    }\n};\n(No #include <iostream> or using namespace std present)\nWhat is the compilation error?",
+            "options": [
+              "'cout' was not declared in this scope",
+              "Missing constructor body",
+              "'Test' undeclared",
+              "No error, compiles fine"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n    int arr[5];\n    arr[5] = 10;\n    return 0;\n}\nWhat happens when this is compiled?",
+            "options": [
+              "Compilation error: array index out of bounds",
+              "Compiles fine (C does not perform bounds checking; this causes undefined behavior at runtime)",
+              "Compilation error: missing semicolon",
+              "Compilation error: undeclared array"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Base{\npublic:\n    virtual void show()=0;\n};\nint main(){\n    Base b;\n    return 0;\n}\nWhat is the compilation error?",
+            "options": [
+              "Missing semicolon",
+              "Cannot instantiate an abstract class",
+              "'Base' undeclared",
+              "No error, compiles fine"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "public class Main{\n    public static void main(String[] args){\n        int x;\n        System.out.println(x);\n    }\n}\nWhat is the compilation error?",
+            "options": [
+              "Missing semicolon",
+              "Variable 'x' might not have been initialized",
+              "'System' undeclared",
+              "No error, compiles fine"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "#include <stdio.h>\nint main(){\n    for(int i=0; i<5; i++)\n        printf(\"%d\", i);\n    return 0\n}\nWhat is the compilation error?",
+            "options": [
+              "Missing semicolon after 'return 0'",
+              "'i' undeclared",
+              "Missing header file",
+              "No error, compiles fine"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class A{\npublic:\n    void show(){ cout << \"A\"; }\n};\nclass B : public A{\npublic:\n    void show(){ cout << \"B\"; }\n};\nint main(){\n    B obj;\n    obj.A::show();\n}\nWhat happens when this is compiled?",
+            "options": [
+              "Compilation error: ambiguous call to show()",
+              "No error; explicitly calls Base class A's show() using the scope resolution operator",
+              "Compilation error: A::show() is inaccessible",
+              "No error, but nothing is printed"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "public class Main{\n    static void greet(){\n        System.out.println(\"Hello\");\n    }\n    public static void main(String[] args){\n        greet;\n    }\n}\nWhat is the compilation error?",
+            "options": [
+              "Missing semicolon",
+              "'greet' is a method and must be called with parentheses: greet()",
+              "'greet' undeclared",
+              "No error, compiles fine"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n    int x = 5;\n    int x = 10;\n    printf(\"%d\", x);\n    return 0;\n}\nWhat is the compilation error?",
+            "options": [
+              "Missing semicolon",
+              "Redeclaration of variable 'x' in the same scope",
+              "'x' undeclared",
+              "No error, compiles fine"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a[5]={10,20,30,40,50};\n  int *p=a;\n  printf(\"%d\", *(p+3));\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "30",
+              "40",
+              "50",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a=10;\n  int *p=&a;\n  int **q=&p;\n  printf(\"%d\", **q);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "10",
+              "Address of a",
+              "Address of p",
+              "Compilation error"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a[3]={1,2,3};\n  int *p=a;\n  p++;\n  printf(\"%d\", *p);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "1",
+              "2",
+              "3",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a[4]={5,10,15,20};\n  int *p=a+2;\n  printf(\"%d\", *p);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "5",
+              "10",
+              "15",
+              "20"
+            ],
+            "answer": 2,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  char str[]=\"World\";\n  char *p=str;\n  printf(\"%s\", p+2);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "World",
+              "rld",
+              "orl",
+              "Wor"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a=5,b=10;\n  int *p=&a, *q=&b;\n  p=q;\n  printf(\"%d\", *p);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "5",
+              "10",
+              "15",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a[5]={1,2,3,4,5};\n  printf(\"%d\", *a + 1);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "1",
+              "2",
+              "5",
+              "6"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a[5]={1,2,3,4,5};\n  printf(\"%d\", *(a+1) - *(a+0));\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "0",
+              "1",
+              "2",
+              "3"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a=100;\n  int *p=&a;\n  *p += 50;\n  printf(\"%d\", a);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "50",
+              "100",
+              "150",
+              "Compilation error"
+            ],
+            "answer": 2,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int arr[3][2]={{1,2},{3,4},{5,6}};\n  printf(\"%d\", arr[1][1]);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "2",
+              "3",
+              "4",
+              "6"
+            ],
+            "answer": 2,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int arr[3][2]={{1,2},{3,4},{5,6}};\n  printf(\"%d\", *(*(arr+2)+1));\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "4",
+              "5",
+              "6",
+              "2"
+            ],
+            "answer": 2,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a[5]={2,4,6,8,10};\n  int *p=a;\n  p=p+4;\n  printf(\"%d\", *p);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "8",
+              "10",
+              "6",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int x=10;\n  void *vp=&x;\n  int *ip=(int*)vp;\n  printf(\"%d\", *ip);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "10",
+              "Address of x",
+              "Compilation error",
+              "0"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a[]={1,2,3,4,5};\n  int n=sizeof(a)/sizeof(a[0]);\n  printf(\"%d\", n);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "4",
+              "5",
+              "20",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int main(){\n  int a=5;\n  int *p=&a;\n  *p = *p * 2;\n  printf(\"%d\", a);\n  return 0;\n}\nWhat is the output?",
+            "options": [
+              "5",
+              "10",
+              "25",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int fun(int n){\n    if(n==0) return 0;\n    return n + fun(n-1);\n}\nint main(){\n    printf(\"%d\", fun(4));\n    return 0;\n}\nWhat is the output?",
+            "options": [
+              "4",
+              "10",
+              "24",
+              "Infinite recursion"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "void fun(int n){\n    if(n==0) return;\n    printf(\"%d\", n);\n    fun(n-1);\n}\nint main(){\n    fun(3);\n    return 0;\n}\nWhat is the output?",
+            "options": [
+              "123",
+              "321",
+              "012",
+              "Infinite recursion"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "void fun(int n){\n    if(n==0) return;\n    fun(n-1);\n    printf(\"%d\", n);\n}\nint main(){\n    fun(3);\n    return 0;\n}\nWhat is the output?",
+            "options": [
+              "123",
+              "321",
+              "012",
+              "Infinite recursion"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int fib(int n){\n    if(n<=1) return n;\n    return fib(n-1)+fib(n-2);\n}\nint main(){\n    printf(\"%d\", fib(5));\n    return 0;\n}\nWhat is the output?",
+            "options": [
+              "3",
+              "5",
+              "8",
+              "13"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int power(int b,int e){\n    if(e==0) return 1;\n    return b*power(b,e-1);\n}\nint main(){\n    printf(\"%d\", power(2,5));\n    return 0;\n}\nWhat is the output?",
+            "options": [
+              "10",
+              "16",
+              "32",
+              "64"
+            ],
+            "answer": 2,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int sum(int n){\n    if(n==1) return 1;\n    return n+sum(n-1);\n}\nint main(){\n    printf(\"%d\", sum(5));\n    return 0;\n}\nWhat is the output?",
+            "options": [
+              "10",
+              "15",
+              "20",
+              "5"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "void fun(int n){\n    if(n>3) return;\n    printf(\"%d \", n);\n    fun(n+1);\n    printf(\"%d \", n);\n}\nint main(){\n    fun(1);\n    return 0;\n}\nWhat is the output?",
+            "options": [
+              "1 2 3",
+              "1 2 3 3 2 1",
+              "3 2 1",
+              "1 2 3 4"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int gcd(int a,int b){\n    if(b==0) return a;\n    return gcd(b, a%b);\n}\nint main(){\n    printf(\"%d\", gcd(12,18));\n    return 0;\n}\nWhat is the output?",
+            "options": [
+              "3",
+              "6",
+              "12",
+              "18"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "int fun(int n){\n    if(n==0) return 1;\n    else return n*fun(n-1);\n}\nint main(){\n    printf(\"%d\", fun(0));\n    return 0;\n}\nWhat is the output?",
+            "options": [
+              "0",
+              "1",
+              "Compilation error",
+              "Infinite recursion"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "void fun(int n){\n    if(n<1) return;\n    fun(n/2);\n    printf(\"%d \", n);\n}\nint main(){\n    fun(8);\n    return 0;\n}\nWhat is the output?",
+            "options": [
+              "8 4 2 1",
+              "1 2 4 8",
+              "8 4 2",
+              "1 2 4"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class A{\npublic:\n  A(){ cout<<\"A \"; }\n  ~A(){ cout<<\"~A \"; }\n};\nclass B{\npublic:\n  B(){ cout<<\"B \"; }\n  ~B(){ cout<<\"~B \"; }\n};\nint main(){\n  A a;\n  B b;\n}\nWhat is the output?",
+            "options": [
+              "A B ~A ~B",
+              "A B ~B ~A",
+              "B A ~A ~B",
+              "A ~A B ~B"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Base{\npublic:\n  Base(){ cout<<\"Base \"; }\n  ~Base(){ cout<<\"~Base \"; }\n};\nclass Derived: public Base{\npublic:\n  Derived(){ cout<<\"Derived \"; }\n  ~Derived(){ cout<<\"~Derived \"; }\n};\nint main(){\n  Derived d;\n}\nWhat is the output?",
+            "options": [
+              "Derived Base ~Base ~Derived",
+              "Base Derived ~Derived ~Base",
+              "Base Derived ~Base ~Derived",
+              "Derived Base ~Derived ~Base"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Test{\npublic:\n  Test(){ cout<<\"Constructed \"; }\n  ~Test(){ cout<<\"Destructed \"; }\n};\nvoid fun(){\n  Test t;\n  cout<<\"Inside fun \";\n}\nint main(){\n  fun();\n  cout<<\"Main end\";\n}\nWhat is the output?",
+            "options": [
+              "Constructed Destructed Inside fun Main end",
+              "Constructed Inside fun Destructed Main end",
+              "Inside fun Constructed Destructed Main end",
+              "Constructed Inside fun Main end Destructed"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class A{\npublic:\n  A(){ cout<<\"A \"; }\n  ~A(){ cout<<\"~A \"; }\n};\nint main(){\n  A a1;\n  {\n    A a2;\n  }\n  cout<<\"End \";\n}\nWhat is the output?",
+            "options": [
+              "A A ~A End",
+              "A A End ~A",
+              "A ~A A End",
+              "A A ~A ~A End"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Base{\npublic:\n  Base(){ cout<<\"Base \"; }\n  virtual ~Base(){ cout<<\"~Base \"; }\n};\nclass Derived: public Base{\npublic:\n  Derived(){ cout<<\"Derived \"; }\n  ~Derived(){ cout<<\"~Derived \"; }\n};\nint main(){\n  Base *b = new Derived();\n  delete b;\n}\nWhat is the output (note the virtual destructor)?",
+            "options": [
+              "Base Derived ~Base",
+              "Base Derived ~Derived ~Base",
+              "Base ~Base",
+              "Derived ~Derived"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Base{\npublic:\n  Base(){ cout<<\"Base \"; }\n  ~Base(){ cout<<\"~Base \"; }\n};\nclass Derived: public Base{\npublic:\n  Derived(){ cout<<\"Derived \"; }\n  ~Derived(){ cout<<\"~Derived \"; }\n};\nint main(){\n  Base *b = new Derived();\n  delete b;\n}\nWhat is the output (note the destructor is NOT virtual)?",
+            "options": [
+              "Base Derived ~Derived ~Base",
+              "Base Derived ~Base",
+              "Base Derived ~Derived",
+              "Base ~Base"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class A{\n  A(){ System.out.println(\"A()\"); }\n}\nclass B extends A{\n  B(){\n    super();\n    System.out.println(\"B()\");\n  }\n}\npublic class Main{\n  public static void main(String[] args){\n    new B();\n  }\n}\nWhat is the output?",
+            "options": [
+              "B() A()",
+              "A() B()",
+              "Only B()",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class A{\npublic:\n  A(int x){ cout<<\"A(\"<<x<<\") \"; }\n};\nclass B{\n  A a;\npublic:\n  B():a(5){ cout<<\"B \"; }\n};\nint main(){\n  B b;\n}\nWhat is the output?",
+            "options": [
+              "B A(5)",
+              "A(5) B",
+              "A B(5)",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class A{\npublic:\n  A(){ cout<<\"A1 \"; }\n  A(int x){ cout<<\"A2 \"; }\n};\nint main(){\n  A a1;\n  A a2(5);\n}\nWhat is the output?",
+            "options": [
+              "A1 A1",
+              "A2 A2",
+              "A1 A2",
+              "A2 A1"
+            ],
+            "answer": 2,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Test{\npublic:\n  static int count;\n  Test(){ count++; cout<<\"Obj\"<<count<<\" \"; }\n};\nint Test::count=0;\nint main(){\n  Test t1,t2,t3;\n}\nWhat is the output?",
+            "options": [
+              "Obj1 Obj1 Obj1",
+              "Obj1 Obj2 Obj3",
+              "Obj0 Obj1 Obj2",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class A{\npublic:\n  void show(int x){ cout<<\"int\"; }\n  void show(double x){ cout<<\"double\"; }\n};\nThe two show() methods in class A demonstrate:",
+            "options": [
+              "Overloading",
+              "Overriding",
+              "Both overloading and overriding",
+              "Neither"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Base{\npublic:\n  void display(){ cout<<\"Base\"; }\n};\nclass Derived: public Base{\npublic:\n  void display(){ cout<<\"Derived\"; }\n};\nThe display() method in Derived demonstrates:",
+            "options": [
+              "Overloading",
+              "Overriding",
+              "Both overloading and overriding",
+              "Neither"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Calc{\npublic:\n  int add(int a, int b){ return a+b; }\n  double add(double a, double b){ return a+b; }\n};\nThe two add() methods in class Calc demonstrate:",
+            "options": [
+              "Overloading",
+              "Overriding",
+              "Both overloading and overriding",
+              "Neither"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Animal{\n  void eat(){ System.out.println(\"Animal eats\"); }\n}\nclass Dog extends Animal{\n  @Override\n  void eat(){ System.out.println(\"Dog eats\"); }\n}\nThe eat() method in Dog demonstrates:",
+            "options": [
+              "Overloading",
+              "Overriding",
+              "Both overloading and overriding",
+              "Neither"
+            ],
+            "answer": 1,
+            "marks": 2,
+            "negative": 0.5
+          },
+          {
+            "q": "class Printer{\npublic:\n  void print(string s){ cout<<s; }\n  void print(int n){ cout<<n; }\n  void print(string s, int n){ cout<<s<<n; }\n};\nThe three print() methods in class Printer demonstrate:",
+            "options": [
+              "Overloading",
+              "Overriding",
+              "Both overloading and overriding",
+              "Neither"
+            ],
+            "answer": 0,
+            "marks": 2,
+            "negative": 0.5
+          }
+        ]
+      }
+    ]
+  }
+]

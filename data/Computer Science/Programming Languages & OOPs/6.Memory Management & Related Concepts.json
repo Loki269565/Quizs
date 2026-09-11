@@ -1,0 +1,1238 @@
+[
+  {
+    "id": "dsssb-memory-management-1",
+    "title": "DSSSB Memory Management & Related Concepts - Complete Practice Test",
+    "sections": [
+      {
+        "name": "Stack vs Heap Memory",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "The stack memory area is primarily used for storing:",
+            "options": [
+              "Dynamically allocated objects",
+              "Function call frames, local variables, and return addresses",
+              "Global constants only",
+              "The program's executable code"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Heap memory is primarily used for:",
+            "options": [
+              "Storing function parameters",
+              "Dynamically allocated memory during program execution",
+              "Storing the program counter",
+              "CPU register values"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Memory allocation and deallocation on the stack is managed:",
+            "options": [
+              "Manually by the programmer",
+              "Automatically, in a Last-In-First-Out (LIFO) manner",
+              "Randomly by the OS",
+              "Only via malloc/free"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Memory allocation on the heap is managed:",
+            "options": [
+              "Automatically without any programmer control",
+              "Manually by the programmer (allocated and freed explicitly)",
+              "In strict LIFO order",
+              "Only at compile time"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Compared to heap allocation, stack allocation is generally:",
+            "options": [
+              "Slower",
+              "Faster, due to simple pointer increment/decrement",
+              "The same speed",
+              "Not possible in most languages"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A stack overflow typically occurs due to:",
+            "options": [
+              "Excessive heap allocation",
+              "Excessive or infinite recursion consuming stack space",
+              "Freeing memory twice",
+              "Using global variables"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is stored on the stack in a typical function call?",
+            "options": [
+              "Dynamically allocated arrays via malloc",
+              "Local variables and function parameters",
+              "Heap-allocated objects",
+              "Static global data"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Heap memory, unlike stack memory, is generally:",
+            "options": [
+              "Limited to a fixed small size determined at compile time",
+              "Larger and more flexible, but slower to allocate/deallocate",
+              "Automatically cleaned up in C",
+              "Only accessible within one function"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fragmentation is a memory issue most commonly associated with:",
+            "options": [
+              "Stack memory",
+              "Heap memory",
+              "CPU cache",
+              "Register memory"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The lifetime of a stack-allocated local variable ends when:",
+            "options": [
+              "The program terminates",
+              "The function/block in which it is declared returns",
+              "It is explicitly freed",
+              "The heap is cleared"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which memory area is typically thread-specific (each thread gets its own)?",
+            "options": [
+              "Heap",
+              "Stack",
+              "Global/static data segment",
+              "Code segment"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Accessing a stack variable's address after its function has returned results in:",
+            "options": [
+              "Safe and defined behavior",
+              "Undefined behavior, since the memory may be reused",
+              "A compilation error",
+              "Automatic reinitialization"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which memory region typically has a fixed maximum size set by the OS or compiler at thread creation?",
+            "options": [
+              "Heap",
+              "Stack",
+              "Free store expandable indefinitely",
+              "Code segment only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following operations is generally NOT associated with heap memory?",
+            "options": [
+              "malloc()",
+              "free()",
+              "Automatic deallocation on function return",
+              "new/delete in C++"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Function call information such as return address and saved registers is stored in a structure called:",
+            "options": [
+              "A heap block",
+              "A stack frame (activation record)",
+              "A data segment",
+              "A macro"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Heap memory access is generally slower than stack access mainly because:",
+            "options": [
+              "Heap memory uses a simple pointer bump for allocation",
+              "Heap allocation involves more complex bookkeeping to find suitable free blocks",
+              "Heap memory is always on a remote disk",
+              "Stack memory does not exist in most systems"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In a multi-threaded program, the heap is typically:",
+            "options": [
+              "Private to each thread",
+              "Shared among all threads of the process",
+              "Not accessible from any thread",
+              "The same as the stack"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Excessively large local arrays declared inside a function can cause:",
+            "options": [
+              "Heap corruption",
+              "Stack overflow",
+              "Compile-time-only errors with no runtime effect",
+              "Automatic conversion to heap allocation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is true about the relative growth direction of stack and heap in many system memory layouts?",
+            "options": [
+              "Both grow in the same direction from the same starting address",
+              "The stack and heap typically grow toward each other from opposite ends of the address space",
+              "Neither grows during program execution",
+              "Only the heap grows; the stack is fixed"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Recursive functions with deep recursion primarily consume additional memory from the:",
+            "options": [
+              "Heap",
+              "Stack, due to repeated stack frame creation",
+              "Data segment",
+              "Code segment"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following best describes 'automatic' variables in C in relation to memory?",
+            "options": [
+              "They are allocated on the heap and must be freed manually",
+              "They are allocated on the stack and automatically deallocated when their scope ends",
+              "They persist for the entire program duration",
+              "They are stored in the code segment"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Static vs Dynamic Memory Allocation",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "Static memory allocation means memory is allocated:",
+            "options": [
+              "At runtime based on user input",
+              "At compile time, with a fixed size",
+              "Only on the heap",
+              "Only for pointers"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Dynamic memory allocation means memory is allocated:",
+            "options": [
+              "At compile time only",
+              "At runtime, as needed by the program",
+              "Only for global variables",
+              "Only once per program"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is an example of static memory allocation?",
+            "options": [
+              "int *p = malloc(sizeof(int));",
+              "int arr[10]; declared inside a function",
+              "calloc(10, sizeof(int));",
+              "realloc(ptr, 20);"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is an example of dynamic memory allocation?",
+            "options": [
+              "int arr[5];",
+              "int a;",
+              "int *p = malloc(5 * sizeof(int));",
+              "static int x;"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A key advantage of dynamic memory allocation is:",
+            "options": [
+              "Fixed size determined before execution",
+              "Flexibility to allocate memory size based on runtime requirements",
+              "It is always faster than static allocation",
+              "No need to manage memory at all"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A key disadvantage of dynamic memory allocation is:",
+            "options": [
+              "It cannot resize memory",
+              "The programmer is responsible for freeing memory, risking leaks",
+              "It cannot be used with structures",
+              "It always wastes more memory than static allocation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In static memory allocation, the size of data structures must be known:",
+            "options": [
+              "At runtime",
+              "At compile time",
+              "Never",
+              "Only after execution"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Global and static variables in C are typically stored in:",
+            "options": [
+              "The stack",
+              "The heap",
+              "The data segment",
+              "CPU cache only"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which allocation type is generally more memory-efficient when the exact size requirement is unknown beforehand?",
+            "options": [
+              "Static allocation",
+              "Dynamic allocation",
+              "Both are equally efficient",
+              "Neither allocation type applies"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is a limitation of static memory allocation?",
+            "options": [
+              "It adapts automatically to changing data sizes at runtime",
+              "The array or data structure size cannot be changed once compiled",
+              "It requires manual deallocation",
+              "It always causes memory leaks"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In C, the keyword used to allocate memory that persists for the program's lifetime and is initialized once is:",
+            "options": [
+              "auto",
+              "static",
+              "register",
+              "extern only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which statement about resizing memory dynamically is correct?",
+            "options": [
+              "Statically allocated arrays can be resized using realloc()",
+              "Dynamically allocated memory (via malloc/calloc) can be resized using realloc()",
+              "Neither static nor dynamic memory can ever be resized",
+              "Resizing is only possible for stack variables"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A program that reads an unknown number of records from a file at runtime would most appropriately use:",
+            "options": [
+              "A statically sized array only",
+              "Dynamic memory allocation to grow storage as needed",
+              "Only register variables",
+              "No memory allocation at all"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following best contrasts static and dynamic allocation in terms of control?",
+            "options": [
+              "Static gives the programmer runtime control; dynamic gives compile-time control",
+              "Static size is fixed at compile time; dynamic size and lifetime are controlled by the programmer at runtime",
+              "Both are identical in terms of control",
+              "Static allocation requires calling free()"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of these is typically allocated statically in a C program?",
+            "options": [
+              "A node created via malloc() in a linked list",
+              "A global array declared with a fixed size",
+              "Memory returned by calloc()",
+              "Memory resized by realloc()"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "One reason dynamic allocation can be riskier than static allocation is:",
+            "options": [
+              "It cannot store integers",
+              "It requires explicit management, increasing risk of leaks or dangling pointers",
+              "It is not supported in C",
+              "It always uses more memory than needed"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is an advantage of static allocation over dynamic allocation?",
+            "options": [
+              "It can grow at runtime",
+              "It is simpler and avoids the overhead and risks of manual memory management",
+              "It always uses less total memory",
+              "It supports variable-length arrays without any restriction"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A variable declared with the static keyword inside a function, in terms of memory, behaves most like:",
+            "options": [
+              "A stack variable that disappears after the function returns",
+              "A variable with a fixed memory location for the program's duration, similar to global storage",
+              "Heap memory freed after use",
+              "Register memory only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which allocation approach is more appropriate for implementing a dynamically growing linked list?",
+            "options": [
+              "Static allocation",
+              "Dynamic allocation",
+              "Neither is needed",
+              "Register allocation only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A key trade-off when choosing dynamic allocation over static allocation is:",
+            "options": [
+              "Reduced flexibility but improved safety",
+              "Greater flexibility in size/lifetime at the cost of manual memory management overhead",
+              "No trade-off exists between the two",
+              "Dynamic allocation always uses less code"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of these best describes memory allocated with the 'new' operator in C++?",
+            "options": [
+              "Statically allocated and automatically freed",
+              "Dynamically allocated on the heap and must be released with 'delete'",
+              "Allocated on the stack only",
+              "Allocated in read-only memory"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Memory Leak and Dangling Pointer",
+        "durationMinutes": 19,
+        "questions": [
+          {
+            "q": "A memory leak occurs when:",
+            "options": [
+              "Memory is allocated and properly freed",
+              "Dynamically allocated memory is no longer needed but never freed",
+              "A pointer is set to NULL after use",
+              "Stack memory is automatically reclaimed"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A common cause of memory leaks in C is:",
+            "options": [
+              "Using static variables",
+              "Forgetting to call free() on dynamically allocated memory",
+              "Declaring too many local variables",
+              "Using arrays instead of pointers"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A dangling pointer is created when:",
+            "options": [
+              "A pointer is initialized to NULL",
+              "The memory a pointer refers to is freed or goes out of scope, but the pointer still references it",
+              "A pointer is assigned a valid new address",
+              "Two pointers point to the same valid object"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which practice helps prevent dangling pointers after freeing memory?",
+            "options": [
+              "Leaving the pointer unchanged",
+              "Setting the pointer to NULL immediately after freeing it",
+              "Reusing the pointer without reassignment",
+              "Declaring it as static"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Dereferencing a dangling pointer typically results in:",
+            "options": [
+              "Guaranteed correct output",
+              "Undefined behavior, such as a crash or corrupted data",
+              "A compile-time error",
+              "Automatic memory reallocation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following tools/techniques is commonly used to detect memory leaks in C/C++?",
+            "options": [
+              "printf debugging only",
+              "Valgrind or similar memory profiling tools",
+              "Using more global variables",
+              "Increasing stack size"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A double-free error occurs when:",
+            "options": [
+              "Memory is allocated twice for the same pointer",
+              "free() is called twice on the same memory block",
+              "malloc() is called without free()",
+              "A pointer is never initialized"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Long-running programs (like servers) are particularly vulnerable to:",
+            "options": [
+              "Stack overflow only",
+              "Gradual memory leaks that degrade performance over time",
+              "Compile-time errors",
+              "Static allocation failures"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following best prevents memory leaks in dynamically allocated linked structures?",
+            "options": [
+              "Never using pointers",
+              "Ensuring every allocated node is freed when no longer needed",
+              "Using only static arrays",
+              "Avoiding recursion"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A wild pointer differs from a dangling pointer in that a wild pointer:",
+            "options": [
+              "Points to freed memory",
+              "Is uninitialized and points to an unknown/random memory location",
+              "Always points to NULL",
+              "Is always valid"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which scenario is most likely to cause a memory leak?",
+            "options": [
+              "Calling free() immediately after malloc() when memory is no longer needed",
+              "Losing the only pointer reference to allocated memory before freeing it",
+              "Setting a pointer to NULL after freeing it",
+              "Allocating memory on the stack"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In garbage-collected languages (like Java), memory leaks can still occur when:",
+            "options": [
+              "All objects are automatically freed instantly",
+              "Objects are still referenced (e.g., in a collection) even though they are no longer needed",
+              "The garbage collector is disabled permanently",
+              "Static variables are never used"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is the safest practice when working with dynamically allocated memory?",
+            "options": [
+              "Never checking if malloc() returned NULL",
+              "Always pairing each allocation with a corresponding deallocation and avoiding reuse after freeing",
+              "Freeing memory multiple times to be safe",
+              "Ignoring pointer lifetimes"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A common symptom of a memory leak in a long-running application is:",
+            "options": [
+              "Decreasing memory usage over time",
+              "Gradually increasing memory consumption over time",
+              "Immediate program crash on startup",
+              "Faster execution speed over time"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Using a pointer to access an array element after the array's dynamically allocated memory has been freed is an example of:",
+            "options": [
+              "Safe pointer usage",
+              "Dangling pointer usage, leading to undefined behavior",
+              "Static allocation",
+              "Deep copying"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If a function returns a pointer to a local (automatic) variable, the safest fix is to:",
+            "options": [
+              "Return the pointer as-is; it is always valid",
+              "Allocate the variable dynamically (e.g., with malloc) or pass a buffer from the caller",
+              "Declare the variable as register",
+              "Use a goto statement instead"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following can help detect dangling pointer usage during development?",
+            "options": [
+              "Ignoring compiler warnings",
+              "Using memory debugging tools and setting freed pointers to NULL",
+              "Avoiding the use of any pointers",
+              "Disabling all runtime checks"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In smart pointer usage (e.g., C++ unique_ptr/shared_ptr), the primary benefit for memory management is:",
+            "options": [
+              "Manual tracking of every allocation is still required",
+              "Automatic memory deallocation when the pointer goes out of scope, reducing leaks and dangling pointers",
+              "They eliminate the need for a heap entirely",
+              "They only work with static memory"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Returning the address of a local variable from a function is a common cause of:",
+            "options": [
+              "Memory leaks",
+              "Dangling pointers, since the local variable's stack memory is invalid after return",
+              "Static allocation errors",
+              "Compile-time type mismatches only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Shallow Copy vs Deep Copy",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "A shallow copy of an object copies:",
+            "options": [
+              "Only primitive fields, creating new copies of all referenced objects too",
+              "The top-level fields, but referenced objects/pointers are shared between original and copy",
+              "Nothing; it is identical to a deep copy",
+              "Only the object's memory address"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A deep copy of an object copies:",
+            "options": [
+              "Only the reference/pointer to nested objects",
+              "The object and recursively all objects it references, creating fully independent copies",
+              "Only static members",
+              "Nothing at all"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A key risk of shallow copying is:",
+            "options": [
+              "Excessive memory usage",
+              "Both copies sharing the same underlying dynamic memory, so changes in one affect the other",
+              "Slower program execution",
+              "Compilation failure"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When two shallow-copied objects both go out of scope, their destructors freeing the same shared pointer will most likely cause:",
+            "options": [
+              "No issue at all",
+              "A double-free error",
+              "Automatic deep copy conversion",
+              "A stack overflow"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Deep copy is generally preferred over shallow copy when:",
+            "options": [
+              "The object contains no pointers or dynamically allocated members",
+              "The object contains pointers/dynamic memory that must be independently owned by each copy",
+              "Performance is the only concern",
+              "The object is immutable"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In C++, the default copy constructor performs:",
+            "options": [
+              "A deep copy by default",
+              "A shallow (member-wise) copy by default",
+              "No copying at all",
+              "Only static copying"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "To implement deep copy behavior in a C++ class with pointer members, a programmer typically needs to:",
+            "options": [
+              "Rely entirely on the default copy constructor",
+              "Explicitly define a custom copy constructor (and often assignment operator) that allocates new memory",
+              "Avoid using constructors",
+              "Use only static members"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If two objects share the same dynamically allocated memory due to a shallow copy, freeing memory in one object's destructor can lead to:",
+            "options": [
+              "Safe deallocation for both objects",
+              "A dangling pointer or double-free issue in the other object",
+              "Automatic deep copy creation",
+              "No effect on the other object"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is true regarding shallow copy performance compared to deep copy?",
+            "options": [
+              "Shallow copy is generally slower",
+              "Shallow copy is generally faster since it does not duplicate nested data",
+              "Both have identical performance always",
+              "Deep copy is always faster"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In Python, which module/function is commonly used to perform a deep copy of an object?",
+            "options": [
+              "copy.shallow()",
+              "copy.deepcopy()",
+              "clone()",
+              "duplicate()"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When an object containing only primitive (non-pointer) data members is copied, shallow copy and deep copy produce:",
+            "options": [
+              "Different results always",
+              "Effectively the same result, since there are no shared references to worry about",
+              "Undefined behavior",
+              "A compilation error"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In Java, the default behavior of Object.clone() performs:",
+            "options": [
+              "A deep copy of all fields automatically",
+              "A shallow copy by default unless overridden",
+              "No copying at all",
+              "Only copies static fields"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If a class has a raw pointer member pointing to dynamically allocated memory, relying on the compiler-generated copy constructor risks:",
+            "options": [
+              "Automatic deep copying with no issues",
+              "Multiple objects sharing and potentially double-freeing the same memory",
+              "Compilation failure",
+              "Loss of the pointer's data type"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'Rule of Three' in C++ suggests that if a class defines one of the destructor, copy constructor, or copy assignment operator, it should generally define:",
+            "options": [
+              "None of the others",
+              "All three, to properly manage resources like deep copies",
+              "Only the destructor",
+              "Only a default constructor"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A deep copy is generally more expensive than a shallow copy in terms of:",
+            "options": [
+              "Correctness",
+              "Time and memory, since it duplicates all nested data",
+              "Code readability only",
+              "Compilation time only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which technique can be used in C++ to allocate independent memory for each object during a deep copy?",
+            "options": [
+              "Copying only the pointer value",
+              "Allocating new memory and copying the pointed-to data's contents",
+              "Sharing the same memory block",
+              "Using a NULL pointer"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When would a shallow copy be an acceptable and efficient choice?",
+            "options": [
+              "When the object owns dynamically allocated resources that must not be shared",
+              "When the object contains only simple, non-owning data with no dynamic resources",
+              "Never, deep copy should always be used",
+              "Only for arrays"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Object copying issues due to shallow copies are most critical for classes that manage:",
+            "options": [
+              "Static constants",
+              "Dynamically allocated resources such as memory, file handles, or network connections",
+              "Enumerations",
+              "Preprocessor macros"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following best distinguishes a deep copy's independence from the original object?",
+            "options": [
+              "Changes to the copy affect the original object",
+              "Changes to the copy do not affect the original object, since all nested data is duplicated",
+              "Deep copies cannot be modified",
+              "Deep copies and originals always occupy the same memory"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The copy assignment operator, if not explicitly defined for a class with dynamic memory members, will by default perform:",
+            "options": [
+              "A deep copy",
+              "A shallow (member-wise) copy, similar to the default copy constructor",
+              "No assignment at all",
+              "Only a move operation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Object Slicing",
+        "durationMinutes": 19,
+        "questions": [
+          {
+            "q": "Object slicing in C++ occurs when:",
+            "options": [
+              "A derived class object is assigned to a base class object, losing derived-class-specific members",
+              "A base class object is converted to a derived class object",
+              "An object is deep copied",
+              "A pointer is dereferenced incorrectly"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Object slicing typically happens when objects are passed or assigned:",
+            "options": [
+              "By reference or pointer",
+              "By value, from a derived class to a base class type",
+              "Using dynamic allocation only",
+              "Through virtual functions only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following helps avoid object slicing when working with polymorphic classes?",
+            "options": [
+              "Passing objects by value",
+              "Using pointers or references to the base class instead of passing by value",
+              "Removing all virtual functions",
+              "Avoiding inheritance entirely"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "After object slicing occurs, which part of the derived object is lost?",
+            "options": [
+              "The base class portion",
+              "The additional members and overridden behavior specific to the derived class",
+              "Nothing is lost",
+              "Only static members are lost"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Object slicing is most relevant in the context of:",
+            "options": [
+              "Function overloading",
+              "Polymorphism and inheritance in object-oriented languages like C++",
+              "File handling",
+              "Preprocessor macros"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If a function parameter is declared to take a base class object by value, passing a derived class object will result in:",
+            "options": [
+              "Full preservation of derived class data",
+              "Object slicing, retaining only the base class part",
+              "A compilation error always",
+              "Automatic upcasting without data loss"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Storing derived class objects by value in a container of base class type (e.g., a vector of base objects) will result in:",
+            "options": [
+              "Full polymorphic behavior being preserved",
+              "Object slicing for each stored element",
+              "A compile-time error in all cases",
+              "Automatic conversion to pointers"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which container/approach is recommended to store polymorphic objects of different derived types safely?",
+            "options": [
+              "A container of base class objects by value",
+              "A container of pointers (or smart pointers) to the base class",
+              "A union of all derived types",
+              "A static array of base class objects only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "After object slicing, calling a virtual function on the sliced object will invoke:",
+            "options": [
+              "The derived class's overridden version",
+              "The base class's version, since the derived part was sliced away",
+              "Both versions simultaneously",
+              "No function at all, causing a crash"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Object slicing is generally considered:",
+            "options": [
+              "A desirable feature to simplify code",
+              "An unintended and often problematic side effect that programmers should avoid",
+              "Only relevant to static variables",
+              "A synonym for deep copying"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Assigning a derived class object to an already existing base class object (not through a pointer/reference) will:",
+            "options": [
+              "Also copy the derived-specific members",
+              "Only copy the base class members, slicing off the rest",
+              "Cause a runtime exception in all languages",
+              "Automatically convert the base object into a derived object"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which C++ feature, when combined with pass-by-value, makes object slicing a notable concern?",
+            "options": [
+              "Templates",
+              "Inheritance and polymorphism",
+              "Preprocessor macros",
+              "File handling"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A common fix for object slicing when a function needs to operate polymorphically on an object is to change the parameter from pass-by-value to:",
+            "options": [
+              "Pass-by-value with a copy",
+              "Pass-by-reference or pass-by-pointer",
+              "Pass by macro substitution",
+              "Pass by static allocation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following statements about object slicing is true?",
+            "options": [
+              "It only affects primitive data types",
+              "It occurs specifically with object composition, not assignment or parameter passing",
+              "It results in loss of derived-class data when a derived object is treated as a base object by value",
+              "It improves performance with no downsides"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Returning a derived class object by value from a function whose return type is declared as the base class will result in:",
+            "options": [
+              "The full derived object being returned intact",
+              "Object slicing, returning only the base class portion",
+              "A compilation error",
+              "An exception being thrown automatically"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT a typical consequence of object slicing?",
+            "options": [
+              "Loss of derived class member data",
+              "Loss of derived class overridden behavior when accessed through the sliced object",
+              "Automatic memory leak in every case",
+              "The object effectively behaving as a base class instance"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A defensive coding practice to detect potential slicing issues during design is to:",
+            "options": [
+              "Avoid documenting class hierarchies",
+              "Mark classes not meant to be sliced as non-copyable or use pointers/references for polymorphic use",
+              "Always pass objects by value for simplicity",
+              "Avoid using virtual functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Object slicing can be safely avoided when a derived object is explicitly assigned to a base class pointer (not object) because:",
+            "options": [
+              "The pointer only stores an address, so the full derived object remains intact in memory",
+              "Pointers automatically convert derived objects into base objects",
+              "Pointers cannot reference derived class objects",
+              "Slicing always occurs regardless of pointer or value usage"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which scenario best illustrates object slicing with function arguments?",
+            "options": [
+              "A function taking a base class pointer as a parameter",
+              "A function taking a base class object by value, called with a derived class argument",
+              "A function taking a base class reference as a parameter",
+              "A function using a template parameter"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

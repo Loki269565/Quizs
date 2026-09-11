@@ -1,0 +1,1268 @@
+[
+  {
+    "id": "dsssb-c-language-1",
+    "title": "DSSSB C Language - Complete Practice Test",
+    "sections": [
+      {
+        "name": "Arrays (1D, 2D, Multidimensional)",
+        "durationMinutes": 12,
+        "questions": [
+          {
+            "q": "In C, array indices start from:",
+            "options": [
+              "1",
+              "0",
+              "-1",
+              "Depends on compiler"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the correct declaration of a 1D integer array of size 10?",
+            "options": [
+              "int arr[10];",
+              "array int arr(10);",
+              "int arr{10};",
+              "int[10] arr;"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If int arr[5] = {1,2,3}; then arr[3] and arr[4] are initialized to:",
+            "options": [
+              "Garbage values",
+              "0",
+              "1",
+              "Compilation error"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A 2D array declared as int a[3][4] has how many total elements?",
+            "options": [
+              "7",
+              "12",
+              "3",
+              "4"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In C, a 2D array is stored in memory in which order by default?",
+            "options": [
+              "Column-major order",
+              "Row-major order",
+              "Diagonal order",
+              "Random order"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The expression a[i][j] in a 2D array is internally treated as:",
+            "options": [
+              "*(a + i*cols + j)",
+              "a[i] * a[j]",
+              "a[j][i]",
+              "i + j"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the size (in bytes) of int arr[10] on a system where int is 4 bytes?",
+            "options": [
+              "10",
+              "20",
+              "40",
+              "4"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following correctly initializes all elements of an array to 0?",
+            "options": [
+              "int arr[5] = {0};",
+              "int arr[5] = 0;",
+              "int arr[5] == 0;",
+              "int arr[5] = null;"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passing an array to a function in C actually passes:",
+            "options": [
+              "A copy of the entire array",
+              "The base address (pointer) of the array",
+              "Only the first element",
+              "Nothing, arrays cannot be passed"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A multidimensional array int a[2][3][4] represents:",
+            "options": [
+              "2 rows and 12 columns",
+              "A 3-dimensional array with 2x3x4 elements",
+              "24 separate arrays",
+              "A single dimensional array"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which statement about array bounds checking in C is true?",
+            "options": [
+              "C performs automatic bounds checking",
+              "C does NOT perform automatic bounds checking",
+              "Bounds checking is done only for 2D arrays",
+              "Only global arrays are checked"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The array name in C, when used in an expression, decays to:",
+            "options": [
+              "The array's total size",
+              "A pointer to its first element",
+              "A copy of the whole array",
+              "An integer value of the last index"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Strings and String Handling Functions",
+        "durationMinutes": 12,
+        "questions": [
+          {
+            "q": "In C, a string is terminated by which character?",
+            "options": [
+              "'\\\\0'",
+              "'\\\\n'",
+              "EOF",
+              "'\\\\t'"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which header file is required for string handling functions like strlen and strcpy?",
+            "options": [
+              "stdlib.h",
+              "string.h",
+              "stdio.h",
+              "ctype.h"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The strlen() function returns:",
+            "options": [
+              "The total memory allocated for the string",
+              "The number of characters before the null terminator",
+              "The number of words",
+              "The ASCII value of the first character"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which function is used to copy one string into another?",
+            "options": [
+              "strcat()",
+              "strcpy()",
+              "strcmp()",
+              "strlen()"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The strcat() function is used to:",
+            "options": [
+              "Compare two strings",
+              "Concatenate two strings",
+              "Copy a string",
+              "Reverse a string"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The strcmp() function returns 0 when:",
+            "options": [
+              "The strings are of equal length only",
+              "The two strings are identical",
+              "The first string is greater",
+              "The second string is greater"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the size of the character array needed to store the string \"DSSSB\"?",
+            "options": [
+              "5",
+              "6",
+              "4",
+              "10"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which function converts a string to an integer in C?",
+            "options": [
+              "atoi()",
+              "itoa()",
+              "strtol() only",
+              "toint()"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "gets() function is generally considered unsafe because it:",
+            "options": [
+              "Is too slow",
+              "Does not check array bounds, causing buffer overflow",
+              "Cannot read spaces",
+              "Only works with integers"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which function is a safer alternative to gets() for reading strings?",
+            "options": [
+              "scanf() with %s",
+              "fgets()",
+              "getchar()",
+              "puts()"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A string literal \"Hello\" occupies how many bytes in memory (including null terminator)?",
+            "options": [
+              "5",
+              "6",
+              "4",
+              "10"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which function is used to find a character within a string?",
+            "options": [
+              "strchr()",
+              "strlen()",
+              "strcmp()",
+              "strdup()"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Pointers",
+        "durationMinutes": 15,
+        "questions": [
+          {
+            "q": "A pointer variable in C stores:",
+            "options": [
+              "The value of a variable",
+              "The memory address of a variable",
+              "The data type of a variable",
+              "The size of a variable"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which symbol is used to declare a pointer variable?",
+            "options": [
+              "&",
+              "*",
+              "#",
+              "%"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The & operator in C is used to:",
+            "options": [
+              "Dereference a pointer",
+              "Get the address of a variable",
+              "Perform bitwise AND only",
+              "Declare a pointer"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If p is a pointer to an integer, *p refers to:",
+            "options": [
+              "The address stored in p",
+              "The value at the address stored in p",
+              "The size of p",
+              "Another pointer"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Pointer arithmetic on an int pointer increments the address by:",
+            "options": [
+              "1 byte always",
+              "The size of the pointed data type (e.g., 4 bytes for int)",
+              "0 bytes",
+              "8 bytes always"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A pointer to a pointer is declared using:",
+            "options": [
+              "*p",
+              "**p",
+              "&&p",
+              "p**"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If int a=10, *p=&a, **q=&p; then **q equals:",
+            "options": [
+              "The address of a",
+              "The address of p",
+              "10",
+              "Garbage value"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Incrementing a pointer to a structure moves it forward by:",
+            "options": [
+              "1 byte",
+              "The size of the structure",
+              "4 bytes always",
+              "0 bytes"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If int *p; and int a=5; p=&a; then *p is equal to:",
+            "options": [
+              "The address of a",
+              "5",
+              "Garbage value",
+              "0"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A function pointer is used to:",
+            "options": [
+              "Store the return value of a function",
+              "Store the address of a function so it can be called indirectly",
+              "Declare a function's parameters",
+              "Allocate memory for a function"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A NULL pointer points to:",
+            "options": [
+              "A valid memory address",
+              "No valid memory location (address 0)",
+              "The first array element",
+              "The last function called"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following correctly relates arrays and pointers in C?",
+            "options": [
+              "Array names can never behave like pointers",
+              "The array name decays to a pointer to its first element in most expressions",
+              "Pointers cannot point to arrays",
+              "Arrays and pointers are unrelated concepts"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Given char *s = \"DSSSB\"; the expression *(s+2) accesses:",
+            "options": [
+              "The first character",
+              "The third character",
+              "The last character",
+              "An invalid location"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A dangling pointer is a pointer that:",
+            "options": [
+              "Points to a valid allocated memory location",
+              "Points to memory that has already been freed or deallocated",
+              "Is always NULL",
+              "Points to a function"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following declares a pointer to a function returning int and taking two int parameters?",
+            "options": [
+              "int *fp(int, int);",
+              "int (*fp)(int, int);",
+              "int fp(*int, *int);",
+              "pointer int fp(int, int);"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Void pointers in C are used to:",
+            "options": [
+              "Point to a specific data type only",
+              "Point to any data type generically",
+              "Store integer values only",
+              "Represent NULL always"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Structures and Unions",
+        "durationMinutes": 12,
+        "questions": [
+          {
+            "q": "A structure in C is used to:",
+            "options": [
+              "Group variables of the same data type only",
+              "Group variables of different data types under one name",
+              "Store only functions",
+              "Perform arithmetic operations"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The keyword used to define a structure in C is:",
+            "options": [
+              "struct",
+              "union",
+              "class",
+              "typedef"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Members of a structure are accessed using the dot (.) operator when using:",
+            "options": [
+              "A pointer to the structure",
+              "A structure variable directly",
+              "An array only",
+              "A function pointer"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "To access structure members through a pointer, which operator is used?",
+            "options": [
+              "Dot (.) operator",
+              "Arrow (->) operator",
+              "Ampersand (&) operator",
+              "Asterisk (*) operator only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In a union, all members:",
+            "options": [
+              "Have separate memory locations",
+              "Share the same memory location",
+              "Cannot be accessed individually",
+              "Must be of the same data type"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The size of a union is generally equal to:",
+            "options": [
+              "The sum of sizes of all its members",
+              "The size of its largest member",
+              "The size of its smallest member",
+              "Always 4 bytes"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The size of a structure is generally:",
+            "options": [
+              "Always equal to the sum of member sizes",
+              "Greater than or equal to the sum of member sizes, due to padding",
+              "Always less than the sum of member sizes",
+              "Fixed at 8 bytes"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is true about structures and unions?",
+            "options": [
+              "Both allocate separate memory for all members simultaneously",
+              "Structures allocate separate memory for each member; unions share memory",
+              "Unions allocate more memory than structures always",
+              "They are identical in memory behavior"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A nested structure means:",
+            "options": [
+              "A structure inside a function",
+              "A structure as a member of another structure",
+              "A union inside an array",
+              "A structure with no members"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "typedef in C is primarily used to:",
+            "options": [
+              "Create a new data type",
+              "Give an alternative name to an existing data type",
+              "Declare pointers only",
+              "Allocate dynamic memory"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An array of structures is used to:",
+            "options": [
+              "Store multiple instances of a structure",
+              "Store only structure names",
+              "Convert a structure to a union",
+              "Declare enumerations"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Bit fields within a structure are used to:",
+            "options": [
+              "Increase structure size unnecessarily",
+              "Specify the exact number of bits a member should occupy, saving memory",
+              "Store floating point values only",
+              "Replace unions entirely"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Enumerations",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "An enumeration (enum) in C is used to:",
+            "options": [
+              "Perform mathematical operations",
+              "Assign meaningful names to a set of integer constants",
+              "Declare pointers",
+              "Allocate dynamic memory"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "By default, the first value in an enum starts from:",
+            "options": [
+              "1",
+              "0",
+              "-1",
+              "Depends on compiler always as 100"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the declaration enum Days {MON, TUE, WED}; the value of WED is:",
+            "options": [
+              "0",
+              "1",
+              "2",
+              "3"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Enum constants can be explicitly assigned values, for example:",
+            "options": [
+              "enum Color {RED=5, GREEN, BLUE};",
+              "enum Color {RED:5};",
+              "enum Color = {5};",
+              "enum {RED} = 5;"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If enum Color {RED=5, GREEN, BLUE}; then the value of BLUE is:",
+            "options": [
+              "5",
+              "6",
+              "7",
+              "0"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Dynamic Memory Allocation",
+        "durationMinutes": 10,
+        "questions": [
+          {
+            "q": "Which function is used to dynamically allocate memory and initialize it to zero?",
+            "options": [
+              "malloc()",
+              "calloc()",
+              "realloc()",
+              "alloc()"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The malloc() function allocates memory but does NOT:",
+            "options": [
+              "Return a pointer",
+              "Initialize the allocated memory",
+              "Take a size argument",
+              "Work with dynamic memory"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which function is used to resize a previously allocated memory block?",
+            "options": [
+              "malloc()",
+              "calloc()",
+              "realloc()",
+              "free()"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The free() function is used to:",
+            "options": [
+              "Allocate new memory",
+              "Release previously allocated dynamic memory",
+              "Initialize memory to zero",
+              "Copy memory blocks"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Failing to free dynamically allocated memory leads to:",
+            "options": [
+              "Faster execution",
+              "Memory leaks",
+              "Compilation errors",
+              "Automatic garbage collection"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which header file must be included to use malloc(), calloc(), and free()?",
+            "options": [
+              "string.h",
+              "stdlib.h",
+              "stdio.h",
+              "math.h"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "calloc(n, size) allocates memory for:",
+            "options": [
+              "A single block of given size",
+              "n blocks, each of the given size, initialized to zero",
+              "n blocks without initialization",
+              "Only static arrays"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What does malloc() return if memory allocation fails?",
+            "options": [
+              "0",
+              "NULL",
+              "-1",
+              "A garbage pointer"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Dynamic memory in C is typically allocated from:",
+            "options": [
+              "The stack",
+              "The heap",
+              "The data segment",
+              "The code segment"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Calling free() on a pointer and then using that pointer again without reassignment causes:",
+            "options": [
+              "Safe reuse of memory",
+              "Undefined behavior via a dangling pointer",
+              "Automatic reallocation",
+              "A compile-time error"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "File Handling",
+        "durationMinutes": 10,
+        "questions": [
+          {
+            "q": "Which function is used to open a file in C?",
+            "options": [
+              "fopen()",
+              "open()",
+              "fread()",
+              "openfile()"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which mode opens a file for reading only in C?",
+            "options": [
+              "\"w\"",
+              "\"r\"",
+              "\"a\"",
+              "\"rw\""
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which mode opens a file for writing, overwriting existing content?",
+            "options": [
+              "\"r\"",
+              "\"w\"",
+              "\"a\"",
+              "\"x\""
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which mode opens a file for appending data without deleting existing content?",
+            "options": [
+              "\"w\"",
+              "\"r\"",
+              "\"a\"",
+              "\"r+\""
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which function is used to close an opened file?",
+            "options": [
+              "fclose()",
+              "close()",
+              "fexit()",
+              "fend()"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which function reads formatted input from a file?",
+            "options": [
+              "fprintf()",
+              "fscanf()",
+              "fwrite()",
+              "fputs()"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which function writes formatted output to a file?",
+            "options": [
+              "fscanf()",
+              "fprintf()",
+              "fread()",
+              "fgets()"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The fread() function is primarily used for:",
+            "options": [
+              "Reading formatted text data",
+              "Reading binary data from a file",
+              "Writing data to a file",
+              "Closing a file"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The fwrite() function is primarily used for:",
+            "options": [
+              "Reading binary data",
+              "Writing binary data to a file",
+              "Opening a file",
+              "Deleting a file"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "fopen() returns NULL when:",
+            "options": [
+              "The file is successfully opened",
+              "The file cannot be opened (e.g., does not exist for reading)",
+              "The file is empty",
+              "The mode is \"r\""
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Preprocessor Directives",
+        "durationMinutes": 10,
+        "questions": [
+          {
+            "q": "The #define directive in C is used to:",
+            "options": [
+              "Declare a variable",
+              "Define a macro or constant",
+              "Include a header file",
+              "Define a function only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which directive is used to include a header file in a C program?",
+            "options": [
+              "#include",
+              "#define",
+              "#import",
+              "#header"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Macros defined using #define are processed by:",
+            "options": [
+              "The compiler",
+              "The preprocessor before compilation",
+              "The linker",
+              "The operating system at runtime"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is a conditional compilation directive?",
+            "options": [
+              "#define",
+              "#ifdef",
+              "#include",
+              "#pragma"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The #ifndef directive is commonly used for:",
+            "options": [
+              "Defining constants",
+              "Preventing multiple inclusion of a header file (include guards)",
+              "Including libraries",
+              "Declaring functions"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Macros in C are expanded through:",
+            "options": [
+              "Simple text substitution",
+              "Function calls at runtime",
+              "Type checking",
+              "Dynamic linking"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Unlike functions, macros do NOT perform:",
+            "options": [
+              "Text substitution",
+              "Type checking",
+              "Simple replacement",
+              "Preprocessing"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The #pragma directive is used to:",
+            "options": [
+              "Include header files",
+              "Give special instructions to the compiler (implementation-specific)",
+              "Define macros",
+              "Declare pointers"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The #undef directive is used to:",
+            "options": [
+              "Redefine a macro",
+              "Undefine a previously defined macro",
+              "Include a file",
+              "Declare a union"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of these is a predefined macro in C that gives the current line number?",
+            "options": [
+              "__FILE__",
+              "__LINE__",
+              "__DATE__",
+              "__TIME__"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Command Line Arguments",
+        "durationMinutes": 6,
+        "questions": [
+          {
+            "q": "In the function signature int main(int argc, char *argv[]), argc represents:",
+            "options": [
+              "The name of the program",
+              "The count of command-line arguments",
+              "The array of arguments",
+              "The return type"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In command-line arguments, argv[0] typically contains:",
+            "options": [
+              "The first user-supplied argument",
+              "The name of the program itself",
+              "NULL always",
+              "The total argument count"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The last element of the argv array, argv[argc], is typically:",
+            "options": [
+              "Another valid argument",
+              "NULL",
+              "An empty string always undefined",
+              "The program name"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If a program is run as \"./prog abc xyz\", what is the value of argc?",
+            "options": [
+              "1",
+              "2",
+              "3",
+              "0"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Command-line arguments in C are passed to which function?",
+            "options": [
+              "main()",
+              "printf()",
+              "scanf()",
+              "exit()"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The data type of argv in main(int argc, char *argv[]) is:",
+            "options": [
+              "An array of integers",
+              "An array of strings (char pointers)",
+              "A single character",
+              "A structure"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Memory Storage of Arrays/Structures & Padding",
+        "durationMinutes": 8,
+        "questions": [
+          {
+            "q": "Structure padding is added by the compiler primarily to:",
+            "options": [
+              "Reduce memory usage",
+              "Align data members on memory boundaries for faster access",
+              "Increase compilation time",
+              "Store extra data values"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Padding bytes inserted in a structure are:",
+            "options": [
+              "Used to store actual data",
+              "Unused filler bytes added for alignment",
+              "Always exactly 4 bytes",
+              "Removed automatically at runtime"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Arrays in C are stored in memory as:",
+            "options": [
+              "Non-contiguous blocks",
+              "Contiguous memory locations",
+              "Random scattered locations",
+              "Linked list nodes"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following can help minimize structure padding?",
+            "options": [
+              "Increasing the number of members",
+              "Ordering members from largest to smallest data type",
+              "Using unions instead always",
+              "Removing all data types"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The concept of memory alignment ensures that data is stored at addresses that are:",
+            "options": [
+              "Random",
+              "Multiples of the data type's size (or a compiler-defined boundary)",
+              "Always odd numbers",
+              "Irrelevant to performance"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Compared to a structure, a union with the same members generally occupies:",
+            "options": [
+              "More memory",
+              "Equal or less memory",
+              "Always exactly double the memory",
+              "Undefined memory"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Two-dimensional array storage order (row-major vs column-major) affects:",
+            "options": [
+              "The values stored in the array",
+              "The memory access pattern and performance",
+              "The array's data type",
+              "The number of elements"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "software_engineering_basics_100",
+    "title": "9.Software Engineering Basics - 100 Questions",
+    "sections": [
+      {
+        "name": "Software Engineering Basics",
+        "durationMinutes": 60,
+        "questions": [
+          {
+            "q": "SDLC stands for:",
+            "options": [
+              "Software Design Life Cycle",
+              "Software Development Life Cycle",
+              "System Development Logic Cycle",
+              "Software Debugging Life Cycle"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The primary purpose of the SDLC is to:",
+            "options": [
+              "Design computer hardware",
+              "Provide a structured process for developing software",
+              "Replace software testing",
+              "Manage only project finances"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which SDLC model is also called the linear sequential model?",
+            "options": [
+              "Spiral",
+              "Waterfall",
+              "Agile",
+              "Incremental"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the Waterfall model, development proceeds:",
+            "options": [
+              "Randomly",
+              "Sequentially through defined phases",
+              "Only through testing",
+              "Without documentation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A major characteristic of the Waterfall model is:",
+            "options": [
+              "Continuous change in requirements",
+              "Sequential phase completion",
+              "No planning",
+              "No maintenance"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The first typical phase of the Waterfall model is:",
+            "options": [
+              "Testing",
+              "Requirements analysis",
+              "Maintenance",
+              "Deployment"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which phase generally follows requirements analysis in Waterfall?",
+            "options": [
+              "Design",
+              "Maintenance",
+              "Acceptance",
+              "Retirement"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the Waterfall model, coding is generally performed after:",
+            "options": [
+              "Maintenance",
+              "System design",
+              "Deployment",
+              "Acceptance testing"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A major drawback of Waterfall is that:",
+            "options": [
+              "It has no phases",
+              "Changes are difficult after a phase is completed",
+              "It cannot be documented",
+              "It does not require requirements"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Waterfall is most suitable when requirements are:",
+            "options": [
+              "Unclear and constantly changing",
+              "Well understood and stable",
+              "Unknown until deployment",
+              "Not needed"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The final typical phase of the Waterfall model is:",
+            "options": [
+              "Maintenance",
+              "Requirements",
+              "Design",
+              "Feasibility"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "One advantage of the Waterfall model is:",
+            "options": [
+              "Simple structure and clear milestones",
+              "Unlimited flexibility",
+              "Continuous releases every day",
+              "No need for customer requirements"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In Waterfall, customer feedback is usually received:",
+            "options": [
+              "Continuously during every coding task",
+              "At selected review or acceptance points",
+              "Never",
+              "Only before requirements"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Waterfall model is often less appropriate for projects with:",
+            "options": [
+              "Stable requirements",
+              "High uncertainty and frequent changes",
+              "Clear documentation",
+              "Defined deliverables"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which activity belongs to the requirements phase?",
+            "options": [
+              "Understanding and documenting user needs",
+              "Writing final code only",
+              "Fixing production defects only",
+              "Removing the product"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which activity belongs primarily to the design phase?",
+            "options": [
+              "Defining architecture and system structure",
+              "Collecting customer complaints after retirement",
+              "Executing acceptance tests only",
+              "Installing printers"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Spiral model is primarily known for its emphasis on:",
+            "options": [
+              "Risk analysis",
+              "Avoiding iteration",
+              "Eliminating planning",
+              "Fixed sequential delivery only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Spiral model was proposed by:",
+            "options": [
+              "Barry Boehm",
+              "Kent Beck",
+              "Alan Turing",
+              "Edsger Dijkstra"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Spiral model combines iterative development with:",
+            "options": [
+              "Risk management",
+              "Hardware manufacturing",
+              "Payroll processing",
+              "Only code formatting"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Each loop of the Spiral model represents:",
+            "options": [
+              "A development cycle",
+              "A compiler error",
+              "A single source-code statement",
+              "A hardware component"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A typical Spiral cycle includes planning, risk analysis, engineering, and:",
+            "options": [
+              "Customer evaluation",
+              "Employee recruitment",
+              "Hardware disposal",
+              "Marketing only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Risk analysis in the Spiral model is performed:",
+            "options": [
+              "Only after project completion",
+              "During each cycle",
+              "Never",
+              "Only after deployment"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Spiral model is particularly suitable for:",
+            "options": [
+              "Large, complex, high-risk projects",
+              "Very simple projects with no risk",
+              "Projects without users",
+              "One-line scripts only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Prototyping in the Spiral model may be used to:",
+            "options": [
+              "Reduce uncertainty and explore risks",
+              "Avoid all requirements",
+              "Replace every form of testing",
+              "Eliminate customer evaluation"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A key disadvantage of the Spiral model is:",
+            "options": [
+              "Its risk-analysis overhead can be costly",
+              "It cannot handle risks",
+              "It has no iterations",
+              "It forbids prototypes"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Spiral model is considered a:",
+            "options": [
+              "Risk-driven process model",
+              "Purely hardware model",
+              "Database-only model",
+              "Testing-only model"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the Spiral model, customer evaluation helps to:",
+            "options": [
+              "Guide the next cycle",
+              "Delete all requirements",
+              "Prevent iteration",
+              "Replace project planning"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The number of Spiral cycles is generally:",
+            "options": [
+              "Fixed at exactly two",
+              "Determined by project needs and risk",
+              "Always ten",
+              "Zero"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Compared with Waterfall, Spiral provides more opportunity for:",
+            "options": [
+              "Risk assessment and refinement",
+              "Avoiding documentation",
+              "Skipping design",
+              "Removing feedback"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A project with new technology and significant uncertainty may benefit from:",
+            "options": [
+              "Spiral",
+              "Only Waterfall",
+              "No SDLC model",
+              "Manual filing"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Agile development primarily emphasizes:",
+            "options": [
+              "Flexibility, collaboration, and responding to change",
+              "Rigid sequential phases",
+              "No customer involvement",
+              "Complete planning with no revision"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Agile development commonly delivers software in:",
+            "options": [
+              "Small, usable increments",
+              "One final delivery only",
+              "Hardware batches only",
+              "Unrelated documents"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Agile Manifesto values individuals and interactions over:",
+            "options": [
+              "Processes and tools",
+              "Working software",
+              "Customer collaboration",
+              "Responding to change"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Agile Manifesto values working software over:",
+            "options": [
+              "Comprehensive documentation",
+              "Customer collaboration",
+              "Individuals and interactions",
+              "Responding to change"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Agile Manifesto values customer collaboration over:",
+            "options": [
+              "Contract negotiation",
+              "Working software",
+              "Team communication",
+              "Frequent delivery"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Agile Manifesto values responding to change over:",
+            "options": [
+              "Following a plan",
+              "Customer collaboration",
+              "Working software",
+              "Teamwork"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Agile work is commonly organized into short iterations called:",
+            "options": [
+              "Sprints",
+              "Waterfalls",
+              "Audits",
+              "Compilers"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Scrum is an example of a(n):",
+            "options": [
+              "Agile framework",
+              "Operating system",
+              "Database language",
+              "Testing tool only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In Scrum, the person responsible for maximizing product value is the:",
+            "options": [
+              "Product Owner",
+              "Scrum Master",
+              "System Administrator",
+              "Test Manager"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Scrum Master primarily helps the team by:",
+            "options": [
+              "Facilitating Scrum and removing impediments",
+              "Owning the product budget only",
+              "Writing every line of code",
+              "Approving customer contracts"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Scrum artifact containing ordered work items is the:",
+            "options": [
+              "Product Backlog",
+              "Test Log",
+              "Design Register",
+              "Risk Invoice"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A short daily Scrum meeting is called the:",
+            "options": [
+              "Daily Scrum or daily stand-up",
+              "Sprint review",
+              "Sprint retrospective",
+              "Release audit"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Scrum event used to inspect the increment with stakeholders is the:",
+            "options": [
+              "Sprint Review",
+              "Daily Scrum",
+              "Sprint Retrospective",
+              "Requirements freeze"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Scrum event focused on improving team processes is the:",
+            "options": [
+              "Sprint Retrospective",
+              "Sprint Review",
+              "Daily Scrum",
+              "Product launch"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A Sprint is best described as:",
+            "options": [
+              "A fixed-length development iteration",
+              "A project cancellation",
+              "A testing defect",
+              "A requirements document"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A major advantage of Agile is:",
+            "options": [
+              "Early and frequent feedback",
+              "No planning at all",
+              "No testing",
+              "No customer participation"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Agile is especially useful when requirements are:",
+            "options": [
+              "Expected to evolve",
+              "Completely impossible to discuss",
+              "Guaranteed never to change",
+              "Not relevant"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Continuous customer feedback in Agile helps teams:",
+            "options": [
+              "Adapt the product to changing needs",
+              "Avoid delivering software",
+              "Eliminate collaboration",
+              "Freeze all requirements"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Agile teams generally prioritize:",
+            "options": [
+              "Working software and customer value",
+              "Documentation alone",
+              "Long approval chains",
+              "Avoiding demonstrations"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which model is most associated with adaptive planning?",
+            "options": [
+              "Agile",
+              "Waterfall",
+              "Big Bang only",
+              "Code-and-fix only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Incremental development delivers the system:",
+            "options": [
+              "In separate functional portions",
+              "Only after all features are complete",
+              "Without testing",
+              "Without design"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An increment is:",
+            "options": [
+              "A usable addition to the software",
+              "A project budget",
+              "A defect report only",
+              "A programming language"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The main benefit of incremental development is:",
+            "options": [
+              "Early delivery of useful functionality",
+              "No need for integration",
+              "No customer feedback",
+              "No maintenance"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Iterative development means software is developed through:",
+            "options": [
+              "Repeated cycles of refinement",
+              "One irreversible step",
+              "Only documentation",
+              "Only deployment"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An iterative approach allows requirements to be:",
+            "options": [
+              "Refined as learning increases",
+              "Ignored permanently",
+              "Removed from the project",
+              "Defined only after retirement"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The V-Model emphasizes a relationship between development phases and:",
+            "options": [
+              "Corresponding testing activities",
+              "Marketing activities",
+              "Payroll activities",
+              "Hardware assembly"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the V-Model, system testing is commonly associated with:",
+            "options": [
+              "System requirements",
+              "Source-code formatting",
+              "Project closure",
+              "Employee training"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The choice of an SDLC model depends on:",
+            "options": [
+              "Risk, complexity, requirements, budget, and project context",
+              "Only the developer's favorite color",
+              "Only office size",
+              "Only the number of computers"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Software testing is primarily performed to:",
+            "options": [
+              "Find defects and assess whether requirements are met",
+              "Increase defects",
+              "Replace design",
+              "Eliminate documentation"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A defect in software is:",
+            "options": [
+              "An error or flaw that may cause incorrect behavior",
+              "A completed feature",
+              "A user manual",
+              "A project milestone"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Unit testing focuses on:",
+            "options": [
+              "Individual components or modules",
+              "The entire organization",
+              "Only the deployed system",
+              "Customer contracts"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Unit testing is commonly performed by:",
+            "options": [
+              "Developers",
+              "Only end users",
+              "Only project sponsors",
+              "Only accountants"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The main purpose of unit testing is to:",
+            "options": [
+              "Detect defects at the smallest practical level",
+              "Test all integrated systems",
+              "Validate business contracts",
+              "Measure office productivity"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A unit may be:",
+            "options": [
+              "A function, method, class, or small component",
+              "A complete company",
+              "A project invoice",
+              "A network cable only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Unit tests are usually executed:",
+            "options": [
+              "During development and after code changes",
+              "Only after product retirement",
+              "Before requirements are gathered",
+              "Only by customers"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A benefit of unit testing is:",
+            "options": [
+              "Early defect detection",
+              "Eliminating all other testing",
+              "Guaranteeing zero defects",
+              "Avoiding code execution"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Integration testing focuses on:",
+            "options": [
+              "Interactions between combined modules",
+              "One isolated function only",
+              "Only user documentation",
+              "Only project costs"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The primary goal of integration testing is to detect:",
+            "options": [
+              "Interface and interaction defects",
+              "Spelling mistakes in advertisements",
+              "Employee attendance issues",
+              "Hardware manufacturing defects"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Integration testing is generally performed after:",
+            "options": [
+              "Relevant unit testing",
+              "Software retirement",
+              "Customer cancellation",
+              "Project budgeting only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Top-down and bottom-up are approaches to:",
+            "options": [
+              "Integration testing",
+              "Black-box testing only",
+              "Requirements gathering",
+              "Maintenance planning"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In top-down integration testing, testing begins with:",
+            "options": [
+              "Higher-level modules",
+              "Only database tables",
+              "The lowest utility functions only",
+              "The user manual"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In bottom-up integration testing, testing begins with:",
+            "options": [
+              "Lower-level modules",
+              "The final user interface only",
+              "Project documentation",
+              "Customer contracts"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Big Bang integration testing combines:",
+            "options": [
+              "Most or all modules at once",
+              "Only one function",
+              "Only the user interface",
+              "Only test data"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A disadvantage of Big Bang integration testing is:",
+            "options": [
+              "Defects are difficult to isolate",
+              "It requires no integration",
+              "It cannot combine modules",
+              "It is always risk-free"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Black-box testing evaluates software based mainly on:",
+            "options": [
+              "Inputs, outputs, and specifications",
+              "Internal source-code structure",
+              "Compiler implementation",
+              "Variable names"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In black-box testing, the tester generally:",
+            "options": [
+              "Does not need knowledge of internal code",
+              "Must inspect every statement",
+              "Must rewrite the application",
+              "Tests only hardware"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Black-box testing is also called:",
+            "options": [
+              "Behavioral or functional testing",
+              "Structural testing only",
+              "Code compilation",
+              "White-box inspection"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A login test that checks valid and invalid credentials is an example of:",
+            "options": [
+              "Black-box testing",
+              "White-box testing",
+              "Code coverage",
+              "Static analysis only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Equivalence partitioning is a:",
+            "options": [
+              "Black-box test design technique",
+              "White-box coverage metric",
+              "Deployment strategy",
+              "Version-control system"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Boundary value analysis focuses on:",
+            "options": [
+              "Values at the edges of valid and invalid ranges",
+              "Only internal loops",
+              "Only code comments",
+              "Only database indexes"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Decision table testing is useful when behavior depends on:",
+            "options": [
+              "Combinations of conditions",
+              "Only source-code formatting",
+              "Only screen colors",
+              "Only hardware speed"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "White-box testing is based on knowledge of:",
+            "options": [
+              "Internal code structure and logic",
+              "Only user expectations",
+              "Only marketing plans",
+              "Only installation instructions"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "White-box testing is also known as:",
+            "options": [
+              "Structural or glass-box testing",
+              "Behavioral-only testing",
+              "Acceptance-only testing",
+              "Exploratory marketing"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Statement coverage measures whether:",
+            "options": [
+              "Executable statements have been exercised",
+              "Users have read the manual",
+              "All requirements are profitable",
+              "Every device is connected"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Branch coverage measures whether:",
+            "options": [
+              "Decision outcomes or branches are exercised",
+              "All documentation is printed",
+              "Every user is trained",
+              "All files are compressed"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Path testing focuses on:",
+            "options": [
+              "Execution paths through code",
+              "Customer billing paths",
+              "Deployment locations",
+              "Marketing channels"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A white-box test may require access to:",
+            "options": [
+              "Source code or internal design",
+              "Only the product logo",
+              "Only the user name",
+              "Only the installation package"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which technique is most clearly white-box testing?",
+            "options": [
+              "Statement coverage",
+              "Equivalence partitioning",
+              "Boundary value analysis",
+              "Decision table testing"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which technique is most clearly black-box testing?",
+            "options": [
+              "Equivalence partitioning",
+              "Branch coverage",
+              "Statement coverage",
+              "Path coverage"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Gray-box testing involves:",
+            "options": [
+              "Partial knowledge of internal implementation",
+              "No testing at all",
+              "Only hardware testing",
+              "Complete ignorance of requirements"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "System testing evaluates:",
+            "options": [
+              "The complete integrated system",
+              "Only one function",
+              "Only a single class",
+              "Only source-code comments"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Acceptance testing is performed to determine whether:",
+            "options": [
+              "The system meets user or customer needs",
+              "Every code path is covered",
+              "All developers followed one style",
+              "The database has no tables"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Regression testing checks whether:",
+            "options": [
+              "Changes have broken existing functionality",
+              "New hardware has been purchased",
+              "Requirements were never written",
+              "The project has a logo"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A test case usually contains:",
+            "options": [
+              "Inputs, steps, and expected results",
+              "Only a project title",
+              "Only source code",
+              "Only a tester's signature"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Expected results in a test case describe:",
+            "options": [
+              "What the software should produce",
+              "What the developer earns",
+              "The project deadline only",
+              "The database vendor"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Functional testing verifies:",
+            "options": [
+              "Specified functions and behaviors",
+              "Only internal code complexity",
+              "Only server temperature",
+              "Only employee performance"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Non-functional testing may evaluate:",
+            "options": [
+              "Performance, security, usability, or reliability",
+              "Only source-code syntax",
+              "Only requirements spelling",
+              "Only team meetings"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Dynamic testing requires:",
+            "options": [
+              "Executing the software",
+              "Only reading documents",
+              "Only inspecting diagrams",
+              "Only interviewing users"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Static testing is performed without:",
+            "options": [
+              "Executing the software",
+              "Reading requirements",
+              "Reviewing code",
+              "Inspecting documents"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]
