@@ -1,0 +1,1220 @@
+[
+  {
+    "id": "rrb-technician-misc-extras-mock1",
+    "title": "9. Miscellaneous:RRB Technician Grade-I: Basics of Computers & Basic Science/Engineering Mock Test",
+    "sections": [
+      {
+        "name": "Basics of Computers & Applications",
+        "durationMinutes": 25,
+        "questions": [
+          {
+            "q": "The full form of CPU is which of the following?",
+            "options": [
+              "Central Processing Unit",
+              "Central Program Unit",
+              "Computer Processing Unit",
+              "Central Processor Utility"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is considered the 'brain' of the computer?",
+            "options": [
+              "Monitor",
+              "CPU",
+              "Keyboard",
+              "Printer"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Arithmetic Logic Unit (ALU) is a part of which computer component?",
+            "options": [
+              "CPU",
+              "RAM",
+              "Hard Disk",
+              "Monitor"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which unit of the CPU is responsible for directing and coordinating the operations of the computer?",
+            "options": [
+              "Control Unit (CU)",
+              "Arithmetic Logic Unit (ALU)",
+              "Memory Unit",
+              "Input Unit"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "RAM stands for which of the following?",
+            "options": [
+              "Random Access Memory",
+              "Read Access Memory",
+              "Random Allocation Memory",
+              "Read Allocation Module"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which type of memory is volatile, meaning it loses its data when power is switched off?",
+            "options": [
+              "ROM",
+              "RAM",
+              "Hard Disk",
+              "Pen Drive"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "ROM stands for which of the following?",
+            "options": [
+              "Read Only Memory",
+              "Random Only Memory",
+              "Read Operation Memory",
+              "Random Operating Module"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is an example of secondary storage device?",
+            "options": [
+              "RAM",
+              "Cache memory",
+              "Hard Disk Drive (HDD)",
+              "Register"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is the fastest type of memory in a computer system?",
+            "options": [
+              "Hard Disk",
+              "RAM",
+              "Cache Memory",
+              "ROM"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is an example of an input device?",
+            "options": [
+              "Monitor",
+              "Printer",
+              "Keyboard",
+              "Speaker"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is an example of an output device?",
+            "options": [
+              "Mouse",
+              "Scanner",
+              "Monitor",
+              "Keyboard"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A scanner is primarily used as which type of device?",
+            "options": [
+              "Input device",
+              "Output device",
+              "Storage device",
+              "Processing device"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following best describes the 'Information Processing Cycle' of a computer?",
+            "options": [
+              "Input, Processing, Output, Storage",
+              "Only Input and Output",
+              "Only Processing",
+              "Storage and Output only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the information processing cycle, which stage involves converting raw data into meaningful information?",
+            "options": [
+              "Input stage",
+              "Processing stage",
+              "Output stage",
+              "Storage stage"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is an example of system software?",
+            "options": [
+              "Operating System",
+              "MS Word",
+              "MS Excel",
+              "Adobe Photoshop"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is an example of application software?",
+            "options": [
+              "Operating System",
+              "Device Driver",
+              "MS Excel",
+              "BIOS"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is an example of a widely used operating system?",
+            "options": [
+              "MS Word",
+              "Windows",
+              "Excel",
+              "PowerPoint"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "BIOS stands for which of the following?",
+            "options": [
+              "Basic Input Output System",
+              "Binary Input Output System",
+              "Basic Internal Operating System",
+              "Binary Internal Operating System"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A byte consists of how many bits?",
+            "options": [
+              "4 bits",
+              "8 bits",
+              "16 bits",
+              "32 bits"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is the correct order of increasing data storage units?",
+            "options": [
+              "Bit, Byte, Kilobyte, Megabyte, Gigabyte",
+              "Byte, Bit, Megabyte, Kilobyte, Gigabyte",
+              "Kilobyte, Bit, Byte, Gigabyte, Megabyte",
+              "Gigabyte, Megabyte, Kilobyte, Byte, Bit"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following devices is used to connect a computer to the internet using telephone lines (older technology)?",
+            "options": [
+              "Modem",
+              "Router",
+              "Switch",
+              "Hub"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A device that connects multiple computers in a network and directs data packets is called what?",
+            "options": [
+              "Router",
+              "Monitor",
+              "Keyboard",
+              "Scanner"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "MS-DOS is an example of which type of software?",
+            "options": [
+              "Operating System",
+              "Application software",
+              "Utility software only",
+              "Antivirus software"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which generation of computers is associated with the use of transistors instead of vacuum tubes?",
+            "options": [
+              "First generation",
+              "Second generation",
+              "Third generation",
+              "Fourth generation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which generation of computers introduced the use of Integrated Circuits (ICs)?",
+            "options": [
+              "First generation",
+              "Second generation",
+              "Third generation",
+              "Fourth generation"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The fourth generation of computers is primarily associated with which technology?",
+            "options": [
+              "Vacuum tubes",
+              "Transistors",
+              "Integrated Circuits",
+              "Microprocessors"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is an example of an antivirus software?",
+            "options": [
+              "Quick Heal",
+              "MS Word",
+              "Adobe Reader",
+              "VLC Media Player"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A computer virus is best described as which of the following?",
+            "options": [
+              "A malicious program that can replicate and harm a computer system",
+              "A hardware component of a computer",
+              "A type of input device",
+              "A type of printer"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "URL stands for which of the following?",
+            "options": [
+              "Uniform Resource Locator",
+              "Universal Resource Link",
+              "Uniform Reference Locator",
+              "Universal Reference Link"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "HTML stands for which of the following?",
+            "options": [
+              "Hyper Text Markup Language",
+              "High Text Markup Language",
+              "Hyper Transfer Markup Language",
+              "Home Tool Markup Language"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is used to send and receive electronic mail?",
+            "options": [
+              "Email client (e.g., Gmail, Outlook)",
+              "MS Paint",
+              "MS Excel",
+              "Windows Media Player"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which key on a keyboard is generally used to delete a character to the left of the cursor?",
+            "options": [
+              "Delete key",
+              "Backspace key",
+              "Enter key",
+              "Shift key"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In MS Word, which shortcut key is commonly used to save a document?",
+            "options": [
+              "Ctrl+S",
+              "Ctrl+P",
+              "Ctrl+C",
+              "Ctrl+V"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In MS Word, which shortcut key is commonly used to copy selected text?",
+            "options": [
+              "Ctrl+X",
+              "Ctrl+C",
+              "Ctrl+V",
+              "Ctrl+Z"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In MS Word, which shortcut key is commonly used to undo the last action?",
+            "options": [
+              "Ctrl+Y",
+              "Ctrl+Z",
+              "Ctrl+U",
+              "Ctrl+A"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following file extensions is associated with a Microsoft Excel spreadsheet?",
+            "options": [
+              ".docx",
+              ".xlsx",
+              ".pptx",
+              ".txt"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following file extensions is associated with a Microsoft PowerPoint presentation?",
+            "options": [
+              ".docx",
+              ".xlsx",
+              ".pptx",
+              ".pdf"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A computer network confined to a small geographical area, such as an office building, is called what?",
+            "options": [
+              "LAN (Local Area Network)",
+              "WAN (Wide Area Network)",
+              "MAN (Metropolitan Area Network)",
+              "PAN (Personal Area Network) only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A network that spans a large geographical area, such as connecting multiple cities or countries, is called what?",
+            "options": [
+              "LAN",
+              "WAN",
+              "PAN",
+              "Bluetooth network"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is a common example of an operating system used on smartphones?",
+            "options": [
+              "Windows XP",
+              "Android",
+              "MS-DOS",
+              "Unix only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Binary number system uses which of the following digits?",
+            "options": [
+              "0 and 1",
+              "0 to 9",
+              "1 to 9",
+              "0 to 7"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which number system is primarily used internally by computers to process and store data?",
+            "options": [
+              "Decimal system",
+              "Binary system",
+              "Octal system",
+              "Roman numeral system"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A firewall in computer networking is primarily used for which purpose?",
+            "options": [
+              "Providing electricity backup",
+              "Protecting a network from unauthorized access",
+              "Increasing internet speed",
+              "Printing documents"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following best describes 'cloud computing'?",
+            "options": [
+              "Storing and accessing data and programs over the internet instead of local hardware",
+              "A type of weather forecasting software",
+              "A type of computer virus",
+              "A type of printer technology"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is an example of a web browser?",
+            "options": [
+              "Google Chrome",
+              "MS Word",
+              "MS Excel",
+              "Adobe Photoshop"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In computer terminology, 'booting' refers to which of the following processes?",
+            "options": [
+              "Starting up a computer and loading the operating system",
+              "Shutting down a computer",
+              "Deleting files from a computer",
+              "Installing a new printer"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A 'cursor' on a computer screen typically refers to which of the following?",
+            "options": [
+              "A blinking symbol indicating the current position on the screen",
+              "A type of storage device",
+              "A type of printer",
+              "A network cable"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is a common function of the 'Ctrl+Alt+Delete' key combination in Windows?",
+            "options": [
+              "Opening Task Manager or security options",
+              "Printing a document",
+              "Saving a file",
+              "Formatting a hard disk"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A pen drive (USB flash drive) is an example of which type of storage device?",
+            "options": [
+              "Primary storage",
+              "Portable/removable secondary storage",
+              "Volatile memory only",
+              "Cache memory"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which port is commonly used to connect peripheral devices like keyboards, mice, and pen drives to a computer?",
+            "options": [
+              "USB port",
+              "VGA port",
+              "Ethernet port",
+              "HDMI port"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Physics, Electronics & Electrical Fundamentals",
+        "durationMinutes": 25,
+        "questions": [
+          {
+            "q": "The SI unit of electric current is which of the following?",
+            "options": [
+              "Volt",
+              "Ampere",
+              "Ohm",
+              "Watt"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The SI unit of electrical resistance is which of the following?",
+            "options": [
+              "Ampere",
+              "Volt",
+              "Ohm",
+              "Farad"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The SI unit of electrical potential difference (voltage) is which of the following?",
+            "options": [
+              "Volt",
+              "Ampere",
+              "Ohm",
+              "Coulomb"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Ohm's Law states that the current through a conductor is directly proportional to which of the following (at constant temperature)?",
+            "options": [
+              "The voltage across it",
+              "The resistance of the conductor",
+              "The power consumed",
+              "The frequency of supply"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "According to Ohm's Law, which of the following equations correctly represents the relationship between voltage (V), current (I), and resistance (R)?",
+            "options": [
+              "V = I/R",
+              "V = I × R",
+              "V = R/I",
+              "I = V × R"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The SI unit of electric power is which of the following?",
+            "options": [
+              "Joule",
+              "Watt",
+              "Newton",
+              "Ohm"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The SI unit of electric charge is which of the following?",
+            "options": [
+              "Coulomb",
+              "Ampere",
+              "Volt",
+              "Farad"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The SI unit of capacitance is which of the following?",
+            "options": [
+              "Henry",
+              "Farad",
+              "Ohm",
+              "Tesla"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The SI unit of inductance is which of the following?",
+            "options": [
+              "Farad",
+              "Henry",
+              "Weber",
+              "Tesla"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The SI unit of magnetic flux density is which of the following?",
+            "options": [
+              "Weber",
+              "Tesla",
+              "Henry",
+              "Farad"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In a purely resistive AC circuit, the phase difference between voltage and current is which of the following?",
+            "options": [
+              "0 degrees",
+              "90 degrees",
+              "180 degrees",
+              "45 degrees"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In a purely inductive AC circuit, the current lags the voltage by how many degrees?",
+            "options": [
+              "0 degrees",
+              "45 degrees",
+              "90 degrees",
+              "180 degrees"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In a purely capacitive AC circuit, the current leads the voltage by how many degrees?",
+            "options": [
+              "0 degrees",
+              "45 degrees",
+              "90 degrees",
+              "180 degrees"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A diode is primarily used in electronic circuits for which purpose?",
+            "options": [
+              "Allowing current flow in only one direction (rectification)",
+              "Amplifying audio signals only",
+              "Storing electrical energy",
+              "Generating radio waves"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A transistor is primarily used in electronic circuits for which purposes?",
+            "options": [
+              "Amplification and switching",
+              "Only illumination",
+              "Only storage of charge",
+              "Only generating magnetic fields"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is a basic building block of digital electronic circuits?",
+            "options": [
+              "Logic gate",
+              "Incandescent bulb",
+              "Simple pendulum",
+              "Convex lens"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The AND logic gate produces a high (1) output only when which of the following conditions is met?",
+            "options": [
+              "Both inputs are high (1)",
+              "Either input is high (1)",
+              "Both inputs are low (0)",
+              "Only one input is present"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The OR logic gate produces a high (1) output when which of the following conditions is met?",
+            "options": [
+              "At least one input is high (1)",
+              "Both inputs must be high (1)",
+              "Both inputs must be low (0)",
+              "No input is present"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The NOT gate (inverter) in digital electronics performs which of the following functions?",
+            "options": [
+              "Inverts the input signal (0 becomes 1 and vice versa)",
+              "Adds two input signals",
+              "Amplifies the input signal",
+              "Stores the input signal"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A transformer is used in electrical systems primarily to change which of the following?",
+            "options": [
+              "Voltage levels (step-up or step-down)",
+              "The frequency of AC supply",
+              "Direct current into mechanical energy directly",
+              "Resistance of a conductor"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A transformer that increases the voltage from primary to secondary winding is called what?",
+            "options": [
+              "Step-up transformer",
+              "Step-down transformer",
+              "Isolation transformer only",
+              "Auto transformer only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A transformer that decreases the voltage from primary to secondary winding is called what?",
+            "options": [
+              "Step-up transformer",
+              "Step-down transformer",
+              "Current transformer only",
+              "Potential transformer only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which law states that the induced EMF in a circuit is proportional to the rate of change of magnetic flux?",
+            "options": [
+              "Faraday's Law of Electromagnetic Induction",
+              "Newton's First Law",
+              "Ohm's Law",
+              "Boyle's Law"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Lenz's Law is primarily related to which of the following concepts?",
+            "options": [
+              "The direction of induced current opposing the change causing it",
+              "The relationship between pressure and volume of gases",
+              "The relationship between force and acceleration",
+              "The refraction of light"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A generator converts which form of energy into electrical energy?",
+            "options": [
+              "Mechanical energy",
+              "Chemical energy directly",
+              "Nuclear energy directly",
+              "Thermal energy directly without any mechanical stage"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An electric motor converts which form of energy into mechanical energy?",
+            "options": [
+              "Electrical energy",
+              "Chemical energy",
+              "Nuclear energy",
+              "Thermal energy"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In a series circuit, the total resistance is calculated by which of the following methods?",
+            "options": [
+              "Sum of individual resistances",
+              "Reciprocal of sum of reciprocals",
+              "Product of resistances",
+              "Difference of resistances"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In a parallel circuit, which of the following remains the same across all resistors?",
+            "options": [
+              "Voltage",
+              "Current",
+              "Power dissipated",
+              "Resistance"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In a series circuit, which of the following remains the same through all resistors?",
+            "options": [
+              "Voltage",
+              "Current",
+              "Power dissipated across each",
+              "Resistance value of each"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The frequency of AC power supply in India is standardized at which value?",
+            "options": [
+              "50 Hz",
+              "60 Hz",
+              "100 Hz",
+              "220 Hz"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The standard voltage of household electricity supply in India is approximately which of the following?",
+            "options": [
+              "110 V",
+              "220-230 V",
+              "440 V",
+              "12 V"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following semiconductor materials is most commonly used in the manufacture of electronic devices?",
+            "options": [
+              "Silicon",
+              "Copper",
+              "Aluminium",
+              "Iron"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An intrinsic semiconductor doped with a pentavalent impurity forms which type of semiconductor?",
+            "options": [
+              "n-type semiconductor",
+              "p-type semiconductor",
+              "Insulator",
+              "Superconductor"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An intrinsic semiconductor doped with a trivalent impurity forms which type of semiconductor?",
+            "options": [
+              "n-type semiconductor",
+              "p-type semiconductor",
+              "Insulator",
+              "Superconductor"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A rectifier circuit is primarily used to convert which of the following?",
+            "options": [
+              "AC to DC",
+              "DC to AC",
+              "High voltage to low frequency",
+              "Low current to high resistance"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An inverter circuit is primarily used to convert which of the following?",
+            "options": [
+              "AC to DC",
+              "DC to AC",
+              "Resistance to capacitance",
+              "Voltage to current directly"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which instrument is used to measure electric current in a circuit?",
+            "options": [
+              "Voltmeter",
+              "Ammeter",
+              "Barometer",
+              "Thermometer"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which instrument is used to measure the potential difference (voltage) between two points in a circuit?",
+            "options": [
+              "Ammeter",
+              "Voltmeter",
+              "Galvanometer only",
+              "Wattmeter only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which instrument is used to measure electrical resistance directly?",
+            "options": [
+              "Ohmmeter",
+              "Ammeter",
+              "Voltmeter",
+              "Barometer"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The unit of frequency is which of the following?",
+            "options": [
+              "Hertz",
+              "Henry",
+              "Farad",
+              "Weber"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which law of motion states that 'for every action, there is an equal and opposite reaction'?",
+            "options": [
+              "Newton's First Law",
+              "Newton's Second Law",
+              "Newton's Third Law",
+              "Law of Conservation of Energy"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Newton's First Law of Motion is also known as which of the following laws?",
+            "options": [
+              "Law of Inertia",
+              "Law of Acceleration",
+              "Law of Action-Reaction",
+              "Law of Gravitation"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The SI unit of force, as per Newton's Second Law, is which of the following?",
+            "options": [
+              "Joule",
+              "Newton",
+              "Watt",
+              "Pascal"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The SI unit of work and energy is which of the following?",
+            "options": [
+              "Newton",
+              "Joule",
+              "Watt",
+              "Pascal"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The SI unit of pressure is which of the following?",
+            "options": [
+              "Pascal",
+              "Joule",
+              "Newton",
+              "Watt"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "According to the Law of Conservation of Energy, energy can neither be created nor destroyed but can only be which of the following?",
+            "options": [
+              "Transformed from one form to another",
+              "Increased over time naturally",
+              "Decreased over time naturally",
+              "Completely destroyed in nuclear reactions"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A device that converts sound energy into electrical energy is called what?",
+            "options": [
+              "Microphone",
+              "Loudspeaker",
+              "Transformer",
+              "Generator"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A device that converts electrical energy into sound energy is called what?",
+            "options": [
+              "Microphone",
+              "Loudspeaker",
+              "Rectifier",
+              "Battery"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A photovoltaic (solar) cell primarily converts which form of energy into electrical energy?",
+            "options": [
+              "Light (solar) energy",
+              "Chemical energy",
+              "Mechanical energy",
+              "Nuclear energy"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A battery (electrochemical cell) primarily converts which form of energy into electrical energy?",
+            "options": [
+              "Chemical energy",
+              "Mechanical energy",
+              "Nuclear energy",
+              "Sound energy"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]
