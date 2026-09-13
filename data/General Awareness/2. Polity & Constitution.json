@@ -1,0 +1,1238 @@
+[
+  {
+    "id": "rrb-ssc-dsssb-polity-1",
+    "title": "2. Polity & Constitution: RRB Technician + SSC CGL Tier-1 + DSSSB ",
+    "sections": [
+      {
+        "name": "Polity: Preamble, Fundamental Rights, Duties & DPSP",
+        "durationMinutes": 15,
+        "questions": [
+          {
+            "q": "Which Amendment Act inserted the words 'Socialist', 'Secular' and 'Integrity' into the Preamble?",
+            "options": [
+              "44th Amendment Act, 1978",
+              "42nd Amendment Act, 1976",
+              "24th Amendment Act, 1971",
+              "86th Amendment Act, 2002"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As per the Preamble, India is declared a:",
+            "options": [
+              "Sovereign Socialist Secular Democratic Republic",
+              "Federal Socialist Secular Republic",
+              "Sovereign Democratic Republic only",
+              "Sovereign Secular Monarchy"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fundamental Rights are enshrined in which Part of the Constitution?",
+            "options": [
+              "Part II",
+              "Part III",
+              "Part IV",
+              "Part IV-A"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fundamental Duties of citizens are listed in which Part of the Constitution?",
+            "options": [
+              "Part III",
+              "Part IV",
+              "Part IV-A",
+              "Part V"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fundamental Duties were added to the Constitution by which Amendment Act?",
+            "options": [
+              "42nd Amendment Act, 1976",
+              "44th Amendment Act, 1978",
+              "61st Amendment Act, 1988",
+              "73rd Amendment Act, 1992"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fundamental Duties were added on the recommendation of which committee?",
+            "options": [
+              "Sarkaria Commission",
+              "Swaran Singh Committee",
+              "Balwant Rai Mehta Committee",
+              "Ashok Mehta Committee"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "How many Fundamental Duties were originally inserted into the Constitution?",
+            "options": [
+              "8",
+              "9",
+              "10",
+              "11"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which Amendment Act added an 11th Fundamental Duty relating to providing education?",
+            "options": [
+              "86th Amendment Act, 2002",
+              "91st Amendment Act, 2003",
+              "97th Amendment Act, 2011",
+              "101st Amendment Act, 2016"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Directive Principles of State Policy are contained in which Part of the Constitution?",
+            "options": [
+              "Part III",
+              "Part IV",
+              "Part IV-A",
+              "Part IX"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The concept of Directive Principles of State Policy was borrowed from the Constitution of:",
+            "options": [
+              "United States",
+              "United Kingdom",
+              "Ireland",
+              "Canada"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Right to Property was removed from the list of Fundamental Rights by which Amendment?",
+            "options": [
+              "42nd Amendment Act, 1976",
+              "44th Amendment Act, 1978",
+              "52nd Amendment Act, 1985",
+              "24th Amendment Act, 1971"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Article 21 of the Constitution deals with:",
+            "options": [
+              "Right to Equality",
+              "Right to Freedom of Speech",
+              "Protection of Life and Personal Liberty",
+              "Right against Exploitation"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which Article is known as the 'heart and soul' of the Constitution, as described by Dr. B. R. Ambedkar?",
+            "options": [
+              "Article 21",
+              "Article 32",
+              "Article 14",
+              "Article 19"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Article 14 of the Constitution guarantees:",
+            "options": [
+              "Equality before law and equal protection of laws",
+              "Freedom of religion",
+              "Right to constitutional remedies",
+              "Protection against arrest"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Right to Education as a Fundamental Right was inserted as which Article?",
+            "options": [
+              "Article 21",
+              "Article 21-A",
+              "Article 45",
+              "Article 51-A"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which Article abolished untouchability in India?",
+            "options": [
+              "Article 15",
+              "Article 16",
+              "Article 17",
+              "Article 18"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "After the 44th Amendment, how many freedoms are guaranteed under Article 19?",
+            "options": [
+              "4",
+              "5",
+              "6",
+              "7"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which Articles deal with the Right against Exploitation?",
+            "options": [
+              "Articles 19-22",
+              "Articles 23-24",
+              "Articles 25-28",
+              "Articles 29-30"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Article 24 of the Constitution prohibits:",
+            "options": [
+              "Forced labour",
+              "Employment of children below 14 years in hazardous work",
+              "Trafficking of human beings",
+              "Discrimination on grounds of religion"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Directive Principle relating to a Uniform Civil Code is mentioned in which Article?",
+            "options": [
+              "Article 39",
+              "Article 40",
+              "Article 44",
+              "Article 48"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Polity: Parliament & Law-making Process",
+        "durationMinutes": 15,
+        "questions": [
+          {
+            "q": "The Indian Parliament consists of:",
+            "options": [
+              "Lok Sabha and Rajya Sabha only",
+              "President, Lok Sabha and Rajya Sabha",
+              "Lok Sabha, Rajya Sabha and Supreme Court",
+              "President and Lok Sabha only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Currently, the total elected strength of the Lok Sabha is:",
+            "options": [
+              "543",
+              "545",
+              "552",
+              "550"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The maximum strength of the Rajya Sabha as per the Constitution is:",
+            "options": [
+              "245",
+              "250",
+              "238",
+              "252"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is the ex-officio Chairman of the Rajya Sabha?",
+            "options": [
+              "President of India",
+              "Prime Minister",
+              "Vice-President of India",
+              "Speaker of Lok Sabha"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Speaker of the Lok Sabha is elected by:",
+            "options": [
+              "The President of India",
+              "Members of the Lok Sabha from amongst themselves",
+              "Members of both Houses jointly",
+              "The Prime Minister"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A Money Bill can be introduced only in:",
+            "options": [
+              "Rajya Sabha",
+              "Lok Sabha",
+              "Either House",
+              "A Joint Sitting"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A Money Bill is defined under which Article of the Constitution?",
+            "options": [
+              "Article 108",
+              "Article 109",
+              "Article 110",
+              "Article 112"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If Rajya Sabha does not return a Money Bill within how many days, it is deemed to have been passed by both Houses?",
+            "options": [
+              "10 days",
+              "14 days",
+              "21 days",
+              "30 days"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The quorum to constitute a sitting of either House of Parliament is:",
+            "options": [
+              "1/10th of total membership",
+              "1/4th of total membership",
+              "1/3rd of total membership",
+              "1/2 of total membership"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Members of the Rajya Sabha are elected for a term of:",
+            "options": [
+              "5 years",
+              "6 years",
+              "4 years",
+              "Life term"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The normal term of the Lok Sabha, unless dissolved earlier, is:",
+            "options": [
+              "4 years",
+              "5 years",
+              "6 years",
+              "7 years"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Zero Hour' in Indian Parliamentary practice generally starts:",
+            "options": [
+              "Before Question Hour",
+              "Immediately after Question Hour",
+              "At the end of the day's session",
+              "Only on Fridays"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who has the power to dissolve the Lok Sabha?",
+            "options": [
+              "Speaker of Lok Sabha",
+              "Prime Minister",
+              "President, on the advice of the Council of Ministers",
+              "Chief Justice of India"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A Bill becomes an Act after receiving the assent of the:",
+            "options": [
+              "Speaker",
+              "Prime Minister",
+              "President",
+              "Chief Justice"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The provision for a Joint Sitting of both Houses of Parliament is given under which Article?",
+            "options": [
+              "Article 105",
+              "Article 108",
+              "Article 110",
+              "Article 111"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A Joint Sitting of Parliament is presided over by:",
+            "options": [
+              "The President",
+              "The Vice-President",
+              "The Speaker of Lok Sabha",
+              "The Chairman of Rajya Sabha"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Anti-Defection Law is contained in which Schedule of the Constitution?",
+            "options": [
+              "Ninth Schedule",
+              "Tenth Schedule",
+              "Eleventh Schedule",
+              "Twelfth Schedule"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Anti-Defection Law was added by which Amendment Act?",
+            "options": [
+              "44th Amendment Act, 1978",
+              "52nd Amendment Act, 1985",
+              "61st Amendment Act, 1988",
+              "91st Amendment Act, 2003"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which Parliamentary Committee scrutinizes government expenditure and examines the CAG reports?",
+            "options": [
+              "Estimates Committee",
+              "Public Accounts Committee",
+              "Committee on Public Undertakings",
+              "Business Advisory Committee"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following Bills can be introduced in either House of Parliament?",
+            "options": [
+              "Money Bill",
+              "Ordinary Bill",
+              "Finance Bill",
+              "Constitution Amendment Bill affecting states only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Polity: President, PM, Governor & Judiciary",
+        "durationMinutes": 15,
+        "questions": [
+          {
+            "q": "The minimum age required to become the President of India is:",
+            "options": [
+              "25 years",
+              "30 years",
+              "35 years",
+              "40 years"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The President of India is elected by an Electoral College consisting of:",
+            "options": [
+              "Only elected members of Parliament",
+              "Elected members of Parliament and State Legislative Assemblies",
+              "All members of Parliament and State Legislatures",
+              "Only members of Rajya Sabha"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The term of office of the President of India is:",
+            "options": [
+              "4 years",
+              "5 years",
+              "6 years",
+              "7 years"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who administers the oath of office to the President of India?",
+            "options": [
+              "Vice-President",
+              "Chief Justice of India",
+              "Speaker of Lok Sabha",
+              "Attorney General"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The minimum age to become a member of the Lok Sabha or the Prime Minister is:",
+            "options": [
+              "21 years",
+              "25 years",
+              "30 years",
+              "35 years"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The minimum age to become a member of the Rajya Sabha is:",
+            "options": [
+              "25 years",
+              "30 years",
+              "35 years",
+              "21 years"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A Governor of a State is appointed by:",
+            "options": [
+              "The Prime Minister",
+              "The Chief Minister",
+              "The President of India",
+              "The Chief Justice of the High Court"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The normal term of office of a Governor is:",
+            "options": [
+              "4 years",
+              "5 years",
+              "6 years",
+              "3 years"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The minimum age required to become the Governor of a State is:",
+            "options": [
+              "30 years",
+              "35 years",
+              "40 years",
+              "25 years"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Supreme Court of India is established under which Article of the Constitution?",
+            "options": [
+              "Article 120",
+              "Article 124",
+              "Article 148",
+              "Article 214"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The retirement age of a Supreme Court judge is:",
+            "options": [
+              "60 years",
+              "62 years",
+              "65 years",
+              "70 years"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The retirement age of a High Court judge is:",
+            "options": [
+              "60 years",
+              "62 years",
+              "65 years",
+              "58 years"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Chief Justice of India is appointed by:",
+            "options": [
+              "The Prime Minister",
+              "The President of India",
+              "The Parliament",
+              "The Law Minister"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which Article empowers the President to grant pardons, reprieves, and remissions of punishment?",
+            "options": [
+              "Article 72",
+              "Article 74",
+              "Article 76",
+              "Article 161"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The power of a Governor to grant pardon is given under which Article?",
+            "options": [
+              "Article 72",
+              "Article 161",
+              "Article 200",
+              "Article 213"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The writ of Habeas Corpus is issued to:",
+            "options": [
+              "Compel a public authority to perform its duty",
+              "Produce a detained person before the court",
+              "Quash an illegal order",
+              "Prevent a person from holding public office"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The writ of Quo Warranto is issued against:",
+            "options": [
+              "Illegal detention",
+              "Wrongful assumption of a public office",
+              "Judicial overreach",
+              "Delay in government orders"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was the first woman President of India?",
+            "options": [
+              "Sarojini Naidu",
+              "Pratibha Patil",
+              "Droupadi Murmu",
+              "Indira Gandhi"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The real executive authority in India is vested in:",
+            "options": [
+              "The President",
+              "The Governor",
+              "The Council of Ministers headed by the Prime Minister",
+              "The Chief Justice"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Under the Constitution, the President of India acts as the:",
+            "options": [
+              "Real executive head",
+              "Nominal/constitutional head of the Union",
+              "Head of the judiciary only",
+              "Head of the Rajya Sabha only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Polity: Constitutional Amendments & Panchayati Raj",
+        "durationMinutes": 15,
+        "questions": [
+          {
+            "q": "The procedure for amending the Constitution is given under which Article?",
+            "options": [
+              "Article 356",
+              "Article 360",
+              "Article 368",
+              "Article 370"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which Amendment Act is popularly known as the 'Mini Constitution'?",
+            "options": [
+              "24th Amendment Act",
+              "42nd Amendment Act",
+              "44th Amendment Act",
+              "52nd Amendment Act"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 44th Amendment Act was passed in the year:",
+            "options": [
+              "1976",
+              "1978",
+              "1985",
+              "1988"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 73rd Constitutional Amendment Act, 1992 relates to:",
+            "options": [
+              "Urban Local Bodies",
+              "Panchayati Raj Institutions",
+              "Anti-Defection Law",
+              "Goods and Services Tax"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 74th Constitutional Amendment Act, 1992 relates to:",
+            "options": [
+              "Panchayati Raj Institutions",
+              "Municipalities/Urban Local Bodies",
+              "Cooperative Societies",
+              "Right to Education"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 73rd Amendment Act added which Schedule to the Constitution?",
+            "options": [
+              "Ninth Schedule",
+              "Tenth Schedule",
+              "Eleventh Schedule",
+              "Twelfth Schedule"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 74th Amendment Act added which Schedule to the Constitution?",
+            "options": [
+              "Tenth Schedule",
+              "Eleventh Schedule",
+              "Twelfth Schedule",
+              "Thirteenth Schedule"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The three tiers of the Panchayati Raj system are:",
+            "options": [
+              "Gram Sabha, Gram Panchayat, Zila Parishad",
+              "Gram Panchayat, Panchayat Samiti, Zila Parishad",
+              "Gram Sabha, Panchayat Samiti, Municipal Council",
+              "Village Council, District Council, State Council"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As per the 73rd Amendment, reservation for women in Panchayati Raj institutions is:",
+            "options": [
+              "Not less than one-fourth of seats",
+              "Not less than one-third of seats",
+              "Exactly one-half of seats",
+              "No mandatory reservation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which Amendment Act reduced the voting age from 21 years to 18 years?",
+            "options": [
+              "52nd Amendment Act",
+              "61st Amendment Act",
+              "73rd Amendment Act",
+              "86th Amendment Act"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Goods and Services Tax (GST) was introduced through which Amendment Act?",
+            "options": [
+              "91st Amendment Act, 2003",
+              "97th Amendment Act, 2011",
+              "101st Amendment Act, 2016",
+              "103rd Amendment Act, 2019"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Article 21-A, providing free and compulsory education to children, was inserted by which Amendment?",
+            "options": [
+              "86th Amendment Act, 2002",
+              "91st Amendment Act, 2003",
+              "93rd Amendment Act, 2005",
+              "97th Amendment Act, 2011"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The First Amendment to the Indian Constitution was passed in which year?",
+            "options": [
+              "1950",
+              "1951",
+              "1952",
+              "1955"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 42nd Amendment Act, 1976 shifted which subjects from the State List to the Concurrent List?",
+            "options": [
+              "Health and Agriculture",
+              "Education and Forests",
+              "Police and Public Order",
+              "Trade and Commerce"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An amendment affecting federal provisions of the Constitution requires, in addition to special majority, ratification by:",
+            "options": [
+              "At least half of the State Legislatures",
+              "All State Legislatures",
+              "Two-thirds of the State Legislatures",
+              "The Lok Sabha alone"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Anti-Defection Law was introduced through which Amendment Act?",
+            "options": [
+              "44th Amendment Act",
+              "52nd Amendment Act",
+              "61st Amendment Act",
+              "91st Amendment Act"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 91st Amendment Act, 2003 primarily deals with:",
+            "options": [
+              "Limiting the size of the Council of Ministers",
+              "Panchayati Raj reservations",
+              "GST implementation",
+              "Right to Education"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Gram Sabha is defined under which Article of the Constitution?",
+            "options": [
+              "Article 243",
+              "Article 243(b)",
+              "Article 243-K",
+              "Article 244"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 97th Constitutional Amendment Act, 2011 relates to:",
+            "options": [
+              "Cooperative Societies",
+              "Panchayati Raj",
+              "GST",
+              "Anti-Defection"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which Amendment Act added the words related to Fundamental Duties and shifted certain subjects to the Concurrent List together?",
+            "options": [
+              "42nd Amendment Act, 1976",
+              "44th Amendment Act, 1978",
+              "52nd Amendment Act, 1985",
+              "73rd Amendment Act, 1992"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Polity: Constitutional Bodies (EC, CAG, UPSC)",
+        "durationMinutes": 15,
+        "questions": [
+          {
+            "q": "The Election Commission of India is established under which Article of the Constitution?",
+            "options": [
+              "Article 315",
+              "Article 320",
+              "Article 324",
+              "Article 330"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Chief Election Commissioner holds office for a term of:",
+            "options": [
+              "5 years or till 62 years of age",
+              "6 years or till 65 years of age",
+              "6 years or till 62 years of age",
+              "5 years or till 65 years of age"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Comptroller and Auditor General (CAG) of India is appointed by:",
+            "options": [
+              "The Prime Minister",
+              "The President of India",
+              "The Parliament",
+              "The Finance Minister"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The office of the Comptroller and Auditor General is provided under which Article?",
+            "options": [
+              "Article 76",
+              "Article 143",
+              "Article 148",
+              "Article 280"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The CAG submits its audit reports relating to the accounts of the Union to:",
+            "options": [
+              "The Prime Minister",
+              "The President",
+              "The Finance Minister",
+              "The Parliament directly"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The CAG of India is often referred to as the:",
+            "options": [
+              "Guardian of the Public Purse",
+              "Guardian of the Constitution",
+              "Custodian of Fundamental Rights",
+              "Watchdog of the Judiciary"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Union Public Service Commission (UPSC) is established under which Article?",
+            "options": [
+              "Article 312",
+              "Article 315",
+              "Article 320",
+              "Article 324"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Chairman of the UPSC is appointed by:",
+            "options": [
+              "The Prime Minister",
+              "The President of India",
+              "The Parliament",
+              "The Cabinet Secretary"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "At present, the Election Commission of India is a body consisting of:",
+            "options": [
+              "Only the Chief Election Commissioner",
+              "The Chief Election Commissioner and two Election Commissioners",
+              "Five members",
+              "Seven members"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was the first Chief Election Commissioner of India?",
+            "options": [
+              "T. N. Seshan",
+              "Sukumar Sen",
+              "S. Y. Quraishi",
+              "R. K. Trivedi"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Finance Commission of India is constituted under which Article of the Constitution?",
+            "options": [
+              "Article 264",
+              "Article 275",
+              "Article 280",
+              "Article 282"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Finance Commission is normally constituted every:",
+            "options": [
+              "3 years",
+              "4 years",
+              "5 years",
+              "6 years"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The office of the Attorney General for India is provided under which Article?",
+            "options": [
+              "Article 76",
+              "Article 143",
+              "Article 148",
+              "Article 315"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The functions and conduct of business of the UPSC are dealt with under which Article?",
+            "options": [
+              "Article 315",
+              "Article 320",
+              "Article 323",
+              "Article 335"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "State Public Service Commissions function under the same constitutional provisions as the UPSC, primarily under Article:",
+            "options": [
+              "312",
+              "315",
+              "320",
+              "324"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Members of the Election Commission and Election Commissioners are appointed by:",
+            "options": [
+              "The Prime Minister",
+              "The President of India",
+              "The Chief Justice of India",
+              "The Parliament"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "NITI Aayog, established in 2015, replaced which earlier body?",
+            "options": [
+              "Finance Commission",
+              "Planning Commission",
+              "National Development Council",
+              "Union Public Service Commission"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "NITI Aayog is best described as:",
+            "options": [
+              "A constitutional body",
+              "A statutory body",
+              "An extra-constitutional (non-constitutional) body",
+              "A judicial body"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Central Vigilance Commission (CVC) was given statutory status through an Act passed in:",
+            "options": [
+              "1964",
+              "1988",
+              "2003",
+              "2013"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Comptroller and Auditor General holds office for a term of:",
+            "options": [
+              "5 years or till 62 years of age, whichever is earlier",
+              "6 years or till 65 years of age, whichever is earlier",
+              "6 years or till 62 years of age, whichever is earlier",
+              "Life term"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

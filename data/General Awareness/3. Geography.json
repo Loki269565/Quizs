@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "combined-geography-mock1",
+    "title": "3. Geography:RRB + SSC CGL + DSSSB Combined Geography Mock Test",
+    "sections": [
+      {
+        "name": "Indian Physical Geography",
+        "durationMinutes": 35,
+        "questions": [
+          {
+            "q": "The Himalayas are classified as which type of mountains?",
+            "options": [
+              "Fold mountains",
+              "Block mountains",
+              "Volcanic mountains",
+              "Residual mountains"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the highest peak in India?",
+            "options": [
+              "Nanda Devi",
+              "Kanchenjunga",
+              "K2",
+              "Everest"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Himalayas are divided into three parallel ranges; which is the northernmost?",
+            "options": [
+              "Shiwalik",
+              "Lesser Himalaya (Himachal)",
+              "Greater Himalaya (Himadri)",
+              "Purvanchal"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Ganga river originates from which glacier?",
+            "options": [
+              "Gangotri Glacier",
+              "Yamunotri Glacier",
+              "Siachen Glacier",
+              "Zemu Glacier"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Yamuna river originates from which glacier?",
+            "options": [
+              "Gangotri Glacier",
+              "Yamunotri Glacier",
+              "Milam Glacier",
+              "Bandarpunch Glacier peak area"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Indus river originates near which lake in Tibet?",
+            "options": [
+              "Mansarovar Lake",
+              "Pangong Lake",
+              "Rakshastal Lake",
+              "Tso Moriri"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the longest river in India (within Indian territory)?",
+            "options": [
+              "Ganga",
+              "Godavari",
+              "Yamuna",
+              "Brahmaputra"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Godavari river is often called the 'Vridha Ganga' or 'Ganga of the South'. In which state does it originate?",
+            "options": [
+              "Karnataka",
+              "Maharashtra",
+              "Madhya Pradesh",
+              "Andhra Pradesh"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Brahmaputra river is known by which name in Tibet?",
+            "options": [
+              "Tsangpo",
+              "Jamuna",
+              "Padma",
+              "Dihang"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which river forms the Sundarbans delta along with the Ganga?",
+            "options": [
+              "Godavari",
+              "Brahmaputra",
+              "Krishna",
+              "Mahanadi"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Narmada and Tapi rivers flow through which type of valley formation?",
+            "options": [
+              "Delta",
+              "Rift valley",
+              "Canyon",
+              "Estuary only, no valley"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which river is known as the 'Sorrow of Bihar' due to frequent flooding?",
+            "options": [
+              "Kosi",
+              "Son",
+              "Gandak",
+              "Ghaghara"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Deccan Plateau is bounded by which two mountain ranges on its west and east?",
+            "options": [
+              "Western Ghats and Eastern Ghats",
+              "Himalayas and Vindhyas",
+              "Aravalli and Satpura",
+              "Nilgiris and Cardamom Hills"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the oldest mountain range in India?",
+            "options": [
+              "Himalayas",
+              "Aravalli Range",
+              "Vindhya Range",
+              "Satpura Range"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Mount Abu, the highest peak of the Aravalli Range, is located in which state?",
+            "options": [
+              "Gujarat",
+              "Rajasthan",
+              "Madhya Pradesh",
+              "Maharashtra"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Malwa Plateau is primarily located in which state?",
+            "options": [
+              "Madhya Pradesh",
+              "Maharashtra",
+              "Chhattisgarh",
+              "Rajasthan"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Chotanagpur Plateau, rich in mineral resources, lies mainly in which state?",
+            "options": [
+              "Odisha",
+              "Jharkhand",
+              "West Bengal",
+              "Bihar"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the highest point of the Western Ghats?",
+            "options": [
+              "Anamudi",
+              "Doddabetta",
+              "Mahendragiri",
+              "Kalsubai"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Palghat (Palakkad) Gap is a natural break in which mountain range?",
+            "options": [
+              "Eastern Ghats",
+              "Western Ghats",
+              "Aravalli Range",
+              "Vindhya Range"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Thar Desert lies mainly in which Indian state?",
+            "options": [
+              "Gujarat",
+              "Rajasthan",
+              "Haryana",
+              "Punjab"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Great Indian Desert (Thar) is an example of which type of landform?",
+            "options": [
+              "Cold desert",
+              "Hot desert",
+              "Coastal desert",
+              "Polar desert"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which coastal plain lies between the Western Ghats and the Arabian Sea?",
+            "options": [
+              "Coromandel Coast",
+              "Konkan and Malabar Coast",
+              "Circars Coast",
+              "Utkal Coast"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Coromandel Coast lies along which sea/ocean on the eastern side of India?",
+            "options": [
+              "Arabian Sea",
+              "Bay of Bengal",
+              "Indian Ocean directly",
+              "Laccadive Sea"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the largest island group of India located in the Bay of Bengal?",
+            "options": [
+              "Lakshadweep Islands",
+              "Andaman and Nicobar Islands",
+              "Sundarban Islands",
+              "Diu Islands"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Lakshadweep Islands are located in which sea?",
+            "options": [
+              "Bay of Bengal",
+              "Arabian Sea",
+              "Indian Ocean south of Sri Lanka",
+              "Andaman Sea"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Chilika Lake, India's largest coastal lagoon, is located in which state?",
+            "options": [
+              "Andhra Pradesh",
+              "Odisha",
+              "Tamil Nadu",
+              "West Bengal"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the largest freshwater lake in India?",
+            "options": [
+              "Wular Lake",
+              "Dal Lake",
+              "Chilika Lake",
+              "Sambhar Lake"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Karakoram Range, home to K2, lies in which region of India?",
+            "options": [
+              "Ladakh",
+              "Himachal Pradesh",
+              "Sikkim",
+              "Uttarakhand"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Siachen Glacier, the world's second longest glacier outside the polar regions, is located in which range?",
+            "options": [
+              "Zaskar Range",
+              "Karakoram Range",
+              "Pir Panjal Range",
+              "Ladakh Range"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which pass connects Jammu & Kashmir with Ladakh across the Pir Panjal Range?",
+            "options": [
+              "Zoji La",
+              "Nathu La",
+              "Rohtang Pass",
+              "Banihal Pass"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Palk Strait separates India from which country?",
+            "options": [
+              "Bangladesh",
+              "Sri Lanka",
+              "Myanmar",
+              "Maldives"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Duncan Passage is located between which two island groups?",
+            "options": [
+              "Andaman and Nicobar Islands",
+              "Lakshadweep islands",
+              "Minicoy and Andaman",
+              "Nicobar and Sri Lanka"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which Indian river is known for the Jog Falls, one of the highest waterfalls in India?",
+            "options": [
+              "Sharavathi",
+              "Cauvery",
+              "Krishna",
+              "Tungabhadra"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Sunderbans, the largest mangrove forest, lies at the delta of which two rivers?",
+            "options": [
+              "Ganga and Brahmaputra",
+              "Godavari and Krishna",
+              "Mahanadi and Brahmani",
+              "Narmada and Tapi"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the largest plateau in India by area?",
+            "options": [
+              "Malwa Plateau",
+              "Deccan Plateau",
+              "Chotanagpur Plateau",
+              "Karnataka Plateau"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "States & Capitals, Climate & Monsoon",
+        "durationMinutes": 30,
+        "questions": [
+          {
+            "q": "What is the capital of Madhya Pradesh?",
+            "options": [
+              "Indore",
+              "Bhopal",
+              "Jabalpur",
+              "Gwalior"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Karnataka?",
+            "options": [
+              "Mysuru",
+              "Bengaluru",
+              "Hubli",
+              "Mangaluru"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Chhattisgarh?",
+            "options": [
+              "Raipur",
+              "Bilaspur",
+              "Durg",
+              "Bhilai"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Telangana?",
+            "options": [
+              "Hyderabad",
+              "Warangal",
+              "Vijayawada",
+              "Secunderabad"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Himachal Pradesh?",
+            "options": [
+              "Dharamshala",
+              "Shimla",
+              "Manali",
+              "Solan"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Assam?",
+            "options": [
+              "Guwahati",
+              "Dispur",
+              "Silchar",
+              "Tezpur"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Arunachal Pradesh?",
+            "options": [
+              "Itanagar",
+              "Naharlagun",
+              "Tawang",
+              "Ziro"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Sikkim?",
+            "options": [
+              "Gangtok",
+              "Namchi",
+              "Pelling",
+              "Mangan"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Nagaland?",
+            "options": [
+              "Dimapur",
+              "Kohima",
+              "Mokokchung",
+              "Wokha"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Manipur?",
+            "options": [
+              "Imphal",
+              "Churachandpur",
+              "Thoubal",
+              "Bishnupur"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Mizoram?",
+            "options": [
+              "Aizawl",
+              "Lunglei",
+              "Champhai",
+              "Serchhip"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Meghalaya?",
+            "options": [
+              "Shillong",
+              "Tura",
+              "Jowai",
+              "Nongstoin"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Tripura?",
+            "options": [
+              "Agartala",
+              "Udaipur",
+              "Dharmanagar",
+              "Kailashahar"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Odisha?",
+            "options": [
+              "Cuttack",
+              "Bhubaneswar",
+              "Puri",
+              "Rourkela"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Jharkhand?",
+            "options": [
+              "Jamshedpur",
+              "Ranchi",
+              "Dhanbad",
+              "Bokaro"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Uttarakhand?",
+            "options": [
+              "Dehradun",
+              "Nainital",
+              "Haridwar",
+              "Rishikesh"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Punjab?",
+            "options": [
+              "Amritsar",
+              "Chandigarh",
+              "Ludhiana",
+              "Jalandhar"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Haryana?",
+            "options": [
+              "Faridabad",
+              "Chandigarh",
+              "Gurugram",
+              "Panipat"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Gujarat?",
+            "options": [
+              "Ahmedabad",
+              "Gandhinagar",
+              "Surat",
+              "Vadodara"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Maharashtra?",
+            "options": [
+              "Pune",
+              "Mumbai",
+              "Nagpur",
+              "Nashik"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Andhra Pradesh (as per current administrative arrangements)?",
+            "options": [
+              "Amaravati",
+              "Visakhapatnam",
+              "Vijayawada",
+              "Tirupati"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Kerala?",
+            "options": [
+              "Kochi",
+              "Thiruvananthapuram",
+              "Kozhikode",
+              "Thrissur"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Tamil Nadu?",
+            "options": [
+              "Chennai",
+              "Coimbatore",
+              "Madurai",
+              "Salem"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of West Bengal?",
+            "options": [
+              "Howrah",
+              "Kolkata",
+              "Durgapur",
+              "Siliguri"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the capital of Bihar?",
+            "options": [
+              "Gaya",
+              "Patna",
+              "Muzaffarpur",
+              "Bhagalpur"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Indian monsoon is primarily classified into how many main branches?",
+            "options": [
+              "One",
+              "Two (Arabian Sea and Bay of Bengal branches)",
+              "Three",
+              "Four"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Southwest Monsoon generally sets in over Kerala around which month?",
+            "options": [
+              "April",
+              "June",
+              "August",
+              "October"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The retreating or Northeast Monsoon primarily brings rainfall to which part of India?",
+            "options": [
+              "Coastal Tamil Nadu",
+              "Punjab and Haryana",
+              "Western Rajasthan",
+              "Kashmir Valley"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Mawsynram in Meghalaya is known for receiving which distinction related to rainfall?",
+            "options": [
+              "Lowest rainfall in India",
+              "Highest average annual rainfall in the world",
+              "First snowfall in India",
+              "No rainfall zone"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The phenomenon of 'burst of monsoon' refers to which of the following?",
+            "options": [
+              "Sudden onset of monsoon rains after a dry spell",
+              "End of monsoon season",
+              "A type of cyclone",
+              "Formation of western disturbances"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India's climate is classified as which type according to the Koeppen classification broadly?",
+            "options": [
+              "Equatorial climate",
+              "Tropical monsoon climate",
+              "Mediterranean climate",
+              "Polar climate"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Western disturbances, which bring winter rainfall to northwest India, originate over which region?",
+            "options": [
+              "Bay of Bengal",
+              "Mediterranean Sea",
+              "Arabian Sea",
+              "Pacific Ocean"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which Indian state receives rainfall mainly from the Northeast Monsoon rather than the Southwest Monsoon?",
+            "options": [
+              "Kerala",
+              "Tamil Nadu",
+              "Maharashtra",
+              "Gujarat"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "World Geography",
+        "durationMinutes": 30,
+        "questions": [
+          {
+            "q": "How many continents are there on Earth?",
+            "options": [
+              "5",
+              "6",
+              "7",
+              "8"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the largest continent by area?",
+            "options": [
+              "Africa",
+              "Asia",
+              "North America",
+              "Europe"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the smallest continent by area?",
+            "options": [
+              "Antarctica",
+              "Australia",
+              "Europe",
+              "South America"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the largest ocean in the world?",
+            "options": [
+              "Atlantic Ocean",
+              "Indian Ocean",
+              "Pacific Ocean",
+              "Arctic Ocean"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the smallest ocean in the world?",
+            "options": [
+              "Indian Ocean",
+              "Arctic Ocean",
+              "Southern Ocean",
+              "Atlantic Ocean"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the longest river in the world?",
+            "options": [
+              "Amazon",
+              "Nile",
+              "Yangtze",
+              "Mississippi"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which river carries the largest volume of water in the world?",
+            "options": [
+              "Nile",
+              "Amazon",
+              "Congo",
+              "Ganga"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Mount Everest, the highest peak in the world, is located in which mountain range?",
+            "options": [
+              "Andes",
+              "Alps",
+              "Himalayas",
+              "Rockies"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the highest mountain range outside Asia?",
+            "options": [
+              "Andes",
+              "Alps",
+              "Rockies",
+              "Atlas Mountains"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Sahara Desert, the largest hot desert in the world, is located in which continent?",
+            "options": [
+              "Asia",
+              "Africa",
+              "Australia",
+              "South America"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the largest desert in the world (including cold deserts)?",
+            "options": [
+              "Sahara Desert",
+              "Gobi Desert",
+              "Antarctic Desert",
+              "Arabian Desert"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the largest island in the world?",
+            "options": [
+              "Madagascar",
+              "Greenland",
+              "Borneo",
+              "New Guinea"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Lake Baikal, the deepest lake in the world, is located in which country?",
+            "options": [
+              "Canada",
+              "Russia",
+              "United States",
+              "China"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the largest freshwater lake in the world by surface area?",
+            "options": [
+              "Lake Baikal",
+              "Lake Superior",
+              "Lake Victoria",
+              "Caspian Sea"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Caspian Sea, the largest inland body of water, is bordered by how many countries?",
+            "options": [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which strait separates Asia from North America?",
+            "options": [
+              "Strait of Gibraltar",
+              "Bering Strait",
+              "Strait of Malacca",
+              "Palk Strait"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Strait of Gibraltar connects the Atlantic Ocean with which sea?",
+            "options": [
+              "Mediterranean Sea",
+              "Red Sea",
+              "Black Sea",
+              "Caspian Sea"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Panama Canal connects which two oceans?",
+            "options": [
+              "Atlantic and Indian Oceans",
+              "Pacific and Atlantic Oceans",
+              "Pacific and Indian Oceans",
+              "Arctic and Pacific Oceans"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Suez Canal connects the Mediterranean Sea with which sea?",
+            "options": [
+              "Red Sea",
+              "Black Sea",
+              "Caspian Sea",
+              "Arabian Sea"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the longest mountain range in the world?",
+            "options": [
+              "Himalayas",
+              "Rockies",
+              "Andes",
+              "Alps"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Great Barrier Reef, the world's largest coral reef system, is located off the coast of which country?",
+            "options": [
+              "Indonesia",
+              "Australia",
+              "Philippines",
+              "Fiji"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the largest waterfall (by average annual flow) in the world?",
+            "options": [
+              "Niagara Falls",
+              "Victoria Falls",
+              "Angel Falls",
+              "Iguazu Falls"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Angel Falls, the world's highest uninterrupted waterfall, is located in which country?",
+            "options": [
+              "Brazil",
+              "Venezuela",
+              "Colombia",
+              "Peru"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which African river is the second longest river in the world?",
+            "options": [
+              "Congo River",
+              "Niger River",
+              "Zambezi River",
+              "Nile River"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which country is known as the 'Land of the Rising Sun'?",
+            "options": [
+              "China",
+              "Japan",
+              "South Korea",
+              "Thailand"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which country is known as the 'Land of the Midnight Sun'?",
+            "options": [
+              "Norway",
+              "Switzerland",
+              "Iceland only",
+              "Denmark"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Equator passes through how many continents?",
+            "options": [
+              "2",
+              "3",
+              "4",
+              "5"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Tropic of Cancer does NOT pass through which of the following countries?",
+            "options": [
+              "India",
+              "Egypt",
+              "Australia",
+              "Mexico"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is the world's largest archipelago country?",
+            "options": [
+              "Philippines",
+              "Indonesia",
+              "Japan",
+              "Maldives"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Ring of Fire, an area associated with frequent earthquakes and volcanic activity, mainly encircles which ocean?",
+            "options": [
+              "Atlantic Ocean",
+              "Indian Ocean",
+              "Pacific Ocean",
+              "Arctic Ocean"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the driest continent on Earth (excluding Antarctica)?",
+            "options": [
+              "Africa",
+              "Australia",
+              "Asia",
+              "South America"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Amazon rainforest, the largest tropical rainforest in the world, is located primarily in which country?",
+            "options": [
+              "Peru",
+              "Colombia",
+              "Brazil",
+              "Venezuela"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]
