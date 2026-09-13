@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "rrb-ssc-dsssb-current-affairs-1",
+    "title": "8.2Current Affairs (Last 8–12 months — highest ROI across ALL THREE exams)",
+    "sections": [
+      {
+        "name": "Current Affairs: Defence Exercises, Summits & New Legislation",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "'Yudh Abhyas', a major joint military exercise India conducts with which country, was held in Alaska in 2025?",
+            "options": [
+              "Russia",
+              "United States",
+              "France",
+              "Japan"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Malabar' is a multilateral naval exercise involving India, USA, Japan and:",
+            "options": [
+              "South Korea",
+              "Australia",
+              "Indonesia",
+              "Singapore"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Varuna' is a bilateral naval exercise conducted between India and:",
+            "options": [
+              "France",
+              "Germany",
+              "Italy",
+              "United Kingdom"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Bold Kurukshetra' is a joint military exercise between India and:",
+            "options": [
+              "Vietnam",
+              "Singapore",
+              "Thailand",
+              "Philippines"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Ekuverin', meaning 'Friends', is a joint military exercise between India and:",
+            "options": [
+              "Sri Lanka",
+              "Bangladesh",
+              "Maldives",
+              "Seychelles"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Bongosagar' is an annual bilateral naval exercise between the Indian Navy and the navy of:",
+            "options": [
+              "Myanmar",
+              "Bangladesh",
+              "Sri Lanka",
+              "Thailand"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Khanjar' is a joint special forces military exercise between India and:",
+            "options": [
+              "Tajikistan",
+              "Kazakhstan",
+              "Kyrgyzstan",
+              "Uzbekistan"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "TROPEX, the largest theatre-level exercise of the Indian Navy, stands for:",
+            "options": [
+              "Tropical Exercise",
+              "Theatre Level Operational Readiness Exercise",
+              "Total Preparedness Exercise",
+              "Tri-Services Operational Exercise"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Cyclone' is a bilateral special forces exercise conducted between India and:",
+            "options": [
+              "Israel",
+              "Egypt",
+              "Jordan",
+              "Oman"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Bright Star' is a large multilateral military exercise hosted by which country, in which India participated?",
+            "options": [
+              "Saudi Arabia",
+              "UAE",
+              "Egypt",
+              "Jordan"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India assumed its fourth BRICS Chairship starting from which date?",
+            "options": [
+              "1 January 2025",
+              "1 January 2026",
+              "1 July 2025",
+              "1 April 2026"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 18th BRICS Summit was hosted by India in September 2026 in which city?",
+            "options": [
+              "Mumbai",
+              "New Delhi",
+              "Goa",
+              "Ahmedabad"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which country became BRICS' eleventh full member in January 2025?",
+            "options": [
+              "Vietnam",
+              "Thailand",
+              "Indonesia",
+              "Malaysia"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 2025 SCO (Shanghai Cooperation Organisation) Summit, held at its full 10-member strength, was hosted in which city?",
+            "options": [
+              "Astana",
+              "Tianjin",
+              "Samarkand",
+              "New Delhi"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 20th G20 Summit (2025) was hosted by which country?",
+            "options": [
+              "Brazil",
+              "India",
+              "South Africa",
+              "Indonesia"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Waqf (Amendment) Act, 2025 received Presidential assent on:",
+            "options": [
+              "5 April 2025",
+              "21 August 2025",
+              "20 December 2025",
+              "1 April 2026"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Income-tax Act, 2025, which replaced the Income-tax Act of 1961, came into commencement (effect) from:",
+            "options": [
+              "1 January 2026",
+              "1 April 2026",
+              "21 August 2025",
+              "1 April 2025"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India's four labour codes (Wages, Industrial Relations, Social Security, and Occupational Safety) came into effect nationwide from which date?",
+            "options": [
+              "1 April 2025",
+              "15 August 2025",
+              "21 November 2025",
+              "26 January 2026"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India's four newly implemented labour codes replace how many existing central labour laws?",
+            "options": [
+              "19",
+              "24",
+              "29",
+              "35"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Merchant Shipping Act, 2025, which replaced the Merchant Shipping Act of 1958, primarily aims to modernise the legal framework related to:",
+            "options": [
+              "Railways",
+              "Civil aviation",
+              "Maritime/shipping sector",
+              "Road transport"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Repealing and Amending Act, 2025, passed by Parliament, is aimed at:",
+            "options": [
+              "Introducing new welfare schemes",
+              "Repealing obsolete and redundant laws",
+              "Amending the Constitution",
+              "Reorganising states"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India's Chief of Defence Staff (CDS) post was created following the recommendations of which committee, in the aftermath of the Kargil War?",
+            "options": [
+              "Kargil Review Committee",
+              "Naresh Chandra Committee",
+              "Shekatkar Committee",
+              "Both Kargil Review and Naresh Chandra Committees"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Surya Kiran' is a joint military training exercise conducted between India and:",
+            "options": [
+              "Bhutan",
+              "Nepal",
+              "Myanmar",
+              "Bangladesh"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Garuda Shakti' is a joint special forces exercise between India and:",
+            "options": [
+              "Malaysia",
+              "Indonesia",
+              "Philippines",
+              "Vietnam"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Indra' is a joint military exercise conducted between India and:",
+            "options": [
+              "China",
+              "Russia",
+              "Japan",
+              "South Korea"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Current Affairs: Budget & Economic Survey Highlights",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "The Union Budget for the financial year 2026-27 was presented by Finance Minister Nirmala Sitharaman on:",
+            "options": [
+              "1 February 2026",
+              "1 April 2026",
+              "31 January 2026",
+              "15 February 2026"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Union Budget 2026-27 was Finance Minister Nirmala Sitharaman's how many consecutive budget presentation?",
+            "options": [
+              "7th",
+              "8th",
+              "9th",
+              "10th"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The theme of the Union Budget 2026-27 was described as being driven by:",
+            "options": [
+              "Nari Shakti",
+              "Yuva Shakti",
+              "Kisan Shakti",
+              "Digital Shakti"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As per the Union Budget 2026-27, India's fiscal deficit for FY27 is projected at what percentage of GDP?",
+            "options": [
+              "3.4%",
+              "3.9%",
+              "4.3%",
+              "5.1%"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As per the Union Budget 2026-27, public capital expenditure for FY27 was raised to approximately:",
+            "options": [
+              "₹8.2 lakh crore",
+              "₹10.2 lakh crore",
+              "₹12.2 lakh crore",
+              "₹15.2 lakh crore"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Union Budget 2026-27 raised India's defence allocation to approximately what amount?",
+            "options": [
+              "₹5.94 lakh crore",
+              "₹6.81 lakh crore",
+              "₹7.85 lakh crore",
+              "₹9.10 lakh crore"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As per the Union Budget 2026-27, the defence allocation was pegged at approximately what percentage of India's projected GDP?",
+            "options": [
+              "1%",
+              "1.5%",
+              "2%",
+              "3%"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Biopharma Shakti', a strategy proposed in the Union Budget 2026-27, primarily aims to boost India's role as a global hub for:",
+            "options": [
+              "Electronics manufacturing",
+              "Biomanufacturing/pharmaceuticals",
+              "Automobile production",
+              "Textile exports"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Semiconductor Mission 2.0', highlighted in the Union Budget 2026-27, aims to strengthen India's capabilities in:",
+            "options": [
+              "Space technology",
+              "Semiconductor manufacturing",
+              "Renewable energy",
+              "Defence production"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Union Budget 2026-27 proposed the establishment of dedicated corridors to promote mining, processing and manufacturing of:",
+            "options": [
+              "Coal",
+              "Rare earth elements",
+              "Crude oil",
+              "Natural gas"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Bharat-VISTAAR', a multilingual AI tool proposed in the Union Budget 2026-27, is primarily aimed at assisting:",
+            "options": [
+              "Students",
+              "Farmers",
+              "Small businesses",
+              "Healthcare workers"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As per the Union Budget 2026-27, a dedicated growth fund of ₹10,000 crore was introduced to support:",
+            "options": [
+              "Startups",
+              "SMEs (Small and Medium Enterprises)",
+              "Large corporations",
+              "State governments"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Economic Survey 2025-26 estimated India's real GDP growth for FY26 at approximately:",
+            "options": [
+              "6.0%",
+              "6.5%",
+              "7.0%",
+              "7.4%"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Economic Survey is typically presented in Parliament:",
+            "options": [
+              "After the Union Budget",
+              "A day before the Union Budget",
+              "A month after the Union Budget",
+              "Along with the Railway Budget"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Economic Survey is prepared under the guidance of India's:",
+            "options": [
+              "Finance Minister",
+              "Chief Economic Adviser",
+              "RBI Governor",
+              "NITI Aayog CEO"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Union Budget 2026-27 announced plans to develop how many new high-speed rail corridors in India?",
+            "options": [
+              "3",
+              "5",
+              "7",
+              "10"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Union Budget 2026-27 highlighted an expansion of which scheme aimed at promoting women's entrepreneurship?",
+            "options": [
+              "Beti Bachao Beti Padhao",
+              "Lakhpati Didi",
+              "Ujjwala Yojana",
+              "Stand-Up India"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'Mahatma Gandhi Gram Swaraj' initiative, mentioned in Budget 2026-27, focuses on strengthening:",
+            "options": [
+              "Urban infrastructure",
+              "Khadi, handloom and handicrafts",
+              "Digital payments",
+              "Higher education"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As per the Union Budget 2026-27, capital expenditure allocated to Indian Railways was approximately:",
+            "options": [
+              "₹1.5 lakh crore",
+              "₹2.4 lakh crore",
+              "₹2.93 lakh crore",
+              "₹3.5 lakh crore"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Union Budget 2026-27 proposed a major upgrade to the automatic train protection system, taking it to which version?",
+            "options": [
+              "Kavach 2.0",
+              "Kavach 3.0",
+              "Kavach 4.0",
+              "Kavach 5.0"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'Three Kartavya' (duties) guiding the Union Budget 2026-27 primarily focused on economic growth, capacity building and:",
+            "options": [
+              "Defence modernisation",
+              "Providing resources and opportunities to all",
+              "Judicial reforms",
+              "Space exploration"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As per the Union Budget 2026-27, the allocation to the Ministry of Health and Family Welfare was approximately:",
+            "options": [
+              "₹85,000 crore",
+              "₹1,06,530 crore",
+              "₹1,50,000 crore",
+              "₹2,00,000 crore"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which body releases India's official GDP growth estimates and projections along with the Union Budget documents?",
+            "options": [
+              "RBI",
+              "Ministry of Finance / NSO",
+              "SEBI",
+              "NITI Aayog only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Union Budget 2026-27 proposed the integrated development of reservoirs and Amrit Sarovars primarily to strengthen:",
+            "options": [
+              "Urban housing",
+              "Coastal fisheries value chain",
+              "Highway networks",
+              "Telecom infrastructure"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Union Budget is presented in Parliament under which Article of the Constitution (as part of the Annual Financial Statement)?",
+            "options": [
+              "Article 110",
+              "Article 112",
+              "Article 265",
+              "Article 280"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Current Affairs: Railway-Specific (New Trains, Kavach, Vande Bharat)",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "The indigenous Automatic Train Protection System developed by Indian Railways is called:",
+            "options": [
+              "Sarthi",
+              "Kavach",
+              "Suraksha",
+              "Netra"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As of early 2026, the Kavach Automatic Train Protection System had been commissioned over approximately how many route kilometres, with implementation underway on tens of thousands more?",
+            "options": [
+              "500 route km",
+              "1,500 route km",
+              "3,100 route km",
+              "10,000 route km"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Kavach was commissioned on the Prayagraj-Kanpur section (190 route km), a part of which major corridor?",
+            "options": [
+              "Delhi-Mumbai corridor",
+              "Delhi-Howrah corridor",
+              "Chennai-Kolkata corridor",
+              "Mumbai-Chennai corridor"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The latest version of the Kavach system being rolled out across Indian Railways as of 2026 is known as:",
+            "options": [
+              "Kavach 1.0",
+              "Kavach 2.0",
+              "Kavach 3.0",
+              "Kavach 4.0"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Vande Bharat Sleeper trains, a new addition to India's high-speed train fleet, were introduced to primarily serve:",
+            "options": [
+              "Short suburban routes",
+              "Long-distance overnight journeys",
+              "Freight movement",
+              "Metro city commutes"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Namo Bharat' trains, introduced by Indian Railways, are primarily designed for:",
+            "options": [
+              "Long-distance overnight travel",
+              "Short-distance intercity/regional connectivity",
+              "Freight transport",
+              "International cross-border travel"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India's first bullet train (high-speed rail) project under construction connects which two cities?",
+            "options": [
+              "Delhi-Mumbai",
+              "Ahmedabad-Mumbai",
+              "Chennai-Bengaluru",
+              "Kolkata-Delhi"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Mumbai-Ahmedabad bullet train project is being implemented with technical and financial assistance from:",
+            "options": [
+              "France",
+              "Germany",
+              "Japan",
+              "China"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Amrit Bharat' trains, introduced by Indian Railways, are aimed at providing modern amenities at affordable rates, primarily for:",
+            "options": [
+              "Premium business travellers",
+              "General/non-AC long-distance passengers",
+              "Freight operators",
+              "Tourist charter services"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Indian Railways' rolling stock modernisation in recent years has emphasised the manufacturing of which type of coaches to replace older ICF coaches?",
+            "options": [
+              "BOXN coaches",
+              "LHB (Linke Hofmann Busch) coaches",
+              "Metro coaches",
+              "EMU coaches only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which factory is a key manufacturing hub for Vande Bharat train coaches in India?",
+            "options": [
+              "Diesel Locomotive Works, Varanasi",
+              "Integral Coach Factory, Chennai",
+              "Rail Wheel Factory, Bengaluru",
+              "Golden Rock Workshop, Tiruchirappalli"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India's rail safety initiatives in recent years, including Kavach, primarily aim to prevent:",
+            "options": [
+              "Ticketless travel",
+              "Train collisions",
+              "Track corrosion",
+              "Fare evasion"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As part of 'Mission Raftaar', Indian Railways aims to increase the average speed of which type of trains?",
+            "options": [
+              "Freight and passenger trains",
+              "Only metro trains",
+              "Only tourist trains",
+              "Only suburban EMUs"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The new high-speed rail corridors announced in the Union Budget 2026-27 are intended to eventually complement which existing premium train service?",
+            "options": [
+              "Rajdhani Express",
+              "Vande Bharat Express",
+              "Duronto Express",
+              "Garib Rath Express"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The upgrade to Kavach 4.0 aims to specifically enable higher train operating speeds under which mission?",
+            "options": [
+              "Mission Raftaar",
+              "Mission Karmayogi",
+              "Mission Shakti",
+              "Mission Indradhanush"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is a key objective of the Kavach system for Indian Railways?",
+            "options": [
+              "Automatic ticket checking",
+              "Preventing signal-passing-at-danger (SPAD) related collisions",
+              "Improving train catering services",
+              "Managing railway freight billing"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The new Jiribam-Imphal railway line, targeted for completion around December 2026, is being developed to improve connectivity in which region?",
+            "options": [
+              "Jammu & Kashmir",
+              "Northeast India (Manipur)",
+              "Ladakh",
+              "Andaman & Nicobar Islands"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Sivok-Rangpo railway line project is significant for improving rail connectivity to which state/region?",
+            "options": [
+              "Sikkim",
+              "Himachal Pradesh",
+              "Uttarakhand",
+              "Rajasthan"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Indian Railways installed CCTV cameras at over a thousand stations as part of efforts to improve:",
+            "options": [
+              "Freight billing accuracy",
+              "Passenger safety and security",
+              "Ticket booking speed",
+              "Track maintenance scheduling"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Vande Bharat Express trains are notable for being India's first indigenously designed and manufactured:",
+            "options": [
+              "Diesel locomotives",
+              "Semi-high-speed self-propelled train sets",
+              "Double-decker trains",
+              "Freight-only trains"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Vande Bharat trains currently operate across a network spanning how many railway zones (as recently reported)?",
+            "options": [
+              "5 zones",
+              "10 zones",
+              "15 zones",
+              "20 zones"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Government's plan for 'Energy Efficient Vande Bharat' trains focuses on improving:",
+            "options": [
+              "Ticket pricing models",
+              "Energy consumption and passenger comfort",
+              "Freight loading capacity",
+              "Station architecture only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Indian Railways' effort to renew and upgrade thousands of kilometres of track annually is primarily aimed at:",
+            "options": [
+              "Reducing electricity costs",
+              "Enhancing safety and enabling higher speeds",
+              "Reducing the number of stations",
+              "Increasing ticket prices"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which ministry currently also holds an additional charge covering the Ministry of Railways under Ashwini Vaishnaw?",
+            "options": [
+              "Ministry of Home Affairs",
+              "Ministry of Electronics & IT and Information & Broadcasting",
+              "Ministry of Defence",
+              "Ministry of External Affairs"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The overall aim of Indian Railways' modernisation drive (Vande Bharat, Kavach, station redevelopment) is aligned with the national vision of:",
+            "options": [
+              "Digital India only",
+              "Viksit Bharat by 2047",
+              "Make in India only",
+              "Skill India only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Current Affairs: National/International Organisations & Institutions",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "India's international groupings such as BRICS, G20, SCO, Quad and IORA are examples of India's participation in:",
+            "options": [
+              "Only trade blocs",
+              "Multi-alignment across major global groupings",
+              "Only defence alliances",
+              "Only UN bodies"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As of the 2026 BRICS Summit, how many full member countries does BRICS have?",
+            "options": [
+              "9",
+              "10",
+              "11",
+              "13"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which country is the newest full member of BRICS, having joined in January 2025?",
+            "options": [
+              "Vietnam",
+              "Indonesia",
+              "Malaysia",
+              "Thailand"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "BRICS created a new 'Partner Country' category in 2025 to broaden outreach without expanding full membership; which of the following is a BRICS Partner Country?",
+            "options": [
+              "Belarus",
+              "Germany",
+              "Japan",
+              "Canada"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The African Union became a permanent member of the G20 at which summit?",
+            "options": [
+              "2022 Bali Summit",
+              "2023 New Delhi Summit",
+              "2024 Rio de Janeiro Summit",
+              "2025 Johannesburg Summit"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The G20 (Group of Twenty) currently comprises how many members, including the EU and African Union?",
+            "options": [
+              "19",
+              "20",
+              "21",
+              "23"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Shanghai Cooperation Organisation (SCO) held its first summit at full 10-member strength in 2025 in which city?",
+            "options": [
+              "Astana",
+              "Samarkand",
+              "Tianjin",
+              "New Delhi"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT a founding characteristic of BRICS?",
+            "options": [
+              "It has a permanent secretariat and constitutive treaty",
+              "It includes Brazil, Russia, India, China and South Africa as founding/early members",
+              "It focuses on global governance and economic cooperation",
+              "It does not have its own dedicated budget"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India's grouping 'I2U2' involves India, Israel, USA and:",
+            "options": [
+              "Saudi Arabia",
+              "UAE",
+              "Egypt",
+              "Jordan"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "IMEC, a connectivity initiative strongly supported by India, stands for:",
+            "options": [
+              "India-Middle East-Europe Economic Corridor",
+              "India-Myanmar-East Asia Corridor",
+              "International Maritime Economic Cooperation",
+              "India-Mediterranean Energy Corridor"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The International Solar Alliance (ISA), an initiative co-founded by India, primarily focuses on promoting:",
+            "options": [
+              "Nuclear energy cooperation",
+              "Solar energy deployment among member countries",
+              "Coal-based power generation",
+              "Wind energy research only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "BIMSTEC is a regional grouping involving India and countries around which body of water?",
+            "options": [
+              "Bay of Bengal",
+              "Arabian Sea",
+              "Mediterranean Sea",
+              "South China Sea"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "IORA, a regional forum in which India participates, stands for:",
+            "options": [
+              "Indian Ocean Rim Association",
+              "International Oceanic Research Alliance",
+              "Indo-Pacific Regional Organisation Association",
+              "Indian Overseas Relations Association"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Global Biofuels Alliance, launched with India's involvement, primarily aims to promote:",
+            "options": [
+              "Fossil fuel exploration",
+              "The use and trade of biofuels globally",
+              "Nuclear power expansion",
+              "Space technology cooperation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Raisina Middle East Conference, a dialogue platform to strengthen India's engagement with the region, is organised in collaboration with:",
+            "options": [
+              "The United Nations",
+              "Observer Research Foundation and India's Ministry of External Affairs",
+              "The World Bank",
+              "The World Trade Organization"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India assumed which numbered BRICS Chairship starting January 2026 (having previously chaired it in 2012, 2016 and 2021)?",
+            "options": [
+              "Second",
+              "Third",
+              "Fourth",
+              "Fifth"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The venue for the 18th BRICS Summit hosted by India in September 2026 was:",
+            "options": [
+              "Pragati Maidan",
+              "Bharat Mandapam",
+              "Vigyan Bhawan",
+              "Rashtrapati Bhavan"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which UN official was expected to participate in events on the sidelines of the 2026 BRICS Summit in New Delhi?",
+            "options": [
+              "UN Secretary-General",
+              "President of the UN General Assembly only",
+              "UNICEF Executive Director only",
+              "WHO Director-General only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 20th G20 Summit in 2025, hosted in Johannesburg, saw the launch of an initiative aimed at providing electricity access to 300 million people in which region by 2030?",
+            "options": [
+              "South Asia",
+              "Sub-Saharan Africa",
+              "Latin America",
+              "Southeast Asia"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The QUAD grouping consists of India, USA, Japan and:",
+            "options": [
+              "South Korea",
+              "Australia",
+              "Indonesia",
+              "United Kingdom"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which organisation does India NOT hold membership in, among the following?",
+            "options": [
+              "BRICS",
+              "G20",
+              "SCO",
+              "NATO"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The theme/motto for India's hosting of the 18th BRICS Summit in 2026 emphasised:",
+            "options": [
+              "Resilience, Innovation, Cooperation and Sustainability",
+              "One Earth, One Family, One Future",
+              "Global South Unity Forever",
+              "Peace, Progress and Prosperity Only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The East Asia Summit, in which India participates, primarily serves as a platform for dialogue on:",
+            "options": [
+              "European trade policy",
+              "Strategic, political and economic issues in the Indo-Pacific/East Asia region",
+              "African Union governance",
+              "Arctic Council matters"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India's engagement across groupings like BRICS, Quad, G20, SCO, IORA and IMEC reflects a foreign policy approach often described as:",
+            "options": [
+              "Non-alignment",
+              "Strategic autonomy and multi-alignment",
+              "Isolationism",
+              "Bloc alignment with a single power"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following pairs correctly matches an international grouping with a key India-hosted or India-chaired event mentioned in recent current affairs?",
+            "options": [
+              "G20 - New Delhi Summit (2023)",
+              "NATO - New Delhi Summit (2023)",
+              "OPEC - New Delhi Summit (2023)",
+              "European Union - New Delhi Summit (2023)"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

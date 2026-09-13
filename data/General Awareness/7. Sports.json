@@ -1,0 +1,1220 @@
+[
+  {
+    "id": "rrb-ssc-dsssb-sports-1",
+    "title": "7. Sports:RRB Technician + SSC CGL Tier-1 + DSSSB Combined Mock Test - Sports",
+    "sections": [
+      {
+        "name": "Sports: Major Tournaments, Winners & Records",
+        "durationMinutes": 25,
+        "questions": [
+          {
+            "q": "Which country hosted the 2023 ICC Men's Cricket World Cup?",
+            "options": [
+              "Australia",
+              "England",
+              "India",
+              "South Africa"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which country won the 2023 ICC Men's Cricket World Cup, defeating India in the final?",
+            "options": [
+              "Australia",
+              "New Zealand",
+              "England",
+              "South Africa"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India won the ICC Men's T20 World Cup 2024 by defeating which team in the final?",
+            "options": [
+              "Australia",
+              "England",
+              "South Africa",
+              "Pakistan"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 2026 FIFA World Cup was jointly hosted by which three countries?",
+            "options": [
+              "Brazil, Argentina, Uruguay",
+              "USA, Canada, Mexico",
+              "Germany, France, Spain",
+              "Qatar, UAE, Saudi Arabia"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which country won the 2026 FIFA World Cup, defeating Argentina in the final?",
+            "options": [
+              "France",
+              "England",
+              "Spain",
+              "Portugal"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which country won the 2022 FIFA World Cup held in Qatar, defeating France in the final?",
+            "options": [
+              "Brazil",
+              "Argentina",
+              "Croatia",
+              "Germany"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which country won the 2018 FIFA World Cup held in Russia?",
+            "options": [
+              "Croatia",
+              "Germany",
+              "France",
+              "Belgium"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which country has won the most FIFA World Cup titles (men's) in history?",
+            "options": [
+              "Germany",
+              "Italy",
+              "Argentina",
+              "Brazil"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 2024 Summer Olympics were held in which city?",
+            "options": [
+              "Tokyo",
+              "Paris",
+              "Los Angeles",
+              "London"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 2028 Summer Olympics are scheduled to be held in which city?",
+            "options": [
+              "Brisbane",
+              "Los Angeles",
+              "Paris",
+              "London"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 2026 Winter Olympics were hosted by which country/region?",
+            "options": [
+              "Beijing, China",
+              "Milano Cortina, Italy",
+              "PyeongChang, South Korea",
+              "Sochi, Russia"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who holds the record for the most Olympic gold medals won by an individual athlete?",
+            "options": [
+              "Usain Bolt",
+              "Carl Lewis",
+              "Michael Phelps",
+              "Mark Spitz"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Neeraj Chopra won India's gold medal in athletics at the Tokyo Olympics (2020) in which event?",
+            "options": [
+              "100m sprint",
+              "Long jump",
+              "Javelin throw",
+              "Discus throw"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "At which Olympics did Neeraj Chopra win India's first-ever individual Olympic gold medal in athletics?",
+            "options": [
+              "Rio 2016",
+              "Tokyo 2020",
+              "Paris 2024",
+              "London 2012"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which franchise won the IPL 2026 title, defeating Gujarat Titans in the final?",
+            "options": [
+              "Mumbai Indians",
+              "Chennai Super Kings",
+              "Royal Challengers Bengaluru",
+              "Kolkata Knight Riders"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which franchise won the IPL 2023 title, defeating Gujarat Titans in the final?",
+            "options": [
+              "Chennai Super Kings",
+              "Mumbai Indians",
+              "Rajasthan Royals",
+              "Lucknow Super Giants"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India won its first Cricket World Cup title in which year?",
+            "options": [
+              "1975",
+              "1979",
+              "1983",
+              "1987"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which country has won the most Men's Cricket World Cup titles?",
+            "options": [
+              "India",
+              "West Indies",
+              "Australia",
+              "England"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which player holds the record for the most Wimbledon men's singles titles?",
+            "options": [
+              "Novak Djokovic",
+              "Rafael Nadal",
+              "Roger Federer",
+              "Pete Sampras"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As of 2026, who holds the men's record for the most Grand Slam singles titles?",
+            "options": [
+              "Rafael Nadal",
+              "Roger Federer",
+              "Novak Djokovic",
+              "Carlos Alcaraz"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who holds the women's record for the most Grand Slam singles titles?",
+            "options": [
+              "Serena Williams",
+              "Steffi Graf",
+              "Margaret Court",
+              "Martina Navratilova"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Sachin Tendulkar holds the record for the most international centuries with a total of:",
+            "options": [
+              "90",
+              "95",
+              "100",
+              "110"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who holds the world record for the men's 100m sprint?",
+            "options": [
+              "Carl Lewis",
+              "Usain Bolt",
+              "Justin Gatlin",
+              "Tyson Gay"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The FIFA World Cup is held once every:",
+            "options": [
+              "2 years",
+              "3 years",
+              "4 years",
+              "5 years"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Summer Olympic Games are held once every:",
+            "options": [
+              "2 years",
+              "3 years",
+              "4 years",
+              "5 years"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 2020 Summer Olympics (held in 2021 due to COVID-19) were hosted by which city?",
+            "options": [
+              "Beijing",
+              "Tokyo",
+              "Rio de Janeiro",
+              "London"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The All England Open Badminton Championships is considered the oldest tournament in which sport?",
+            "options": [
+              "Table Tennis",
+              "Badminton",
+              "Squash",
+              "Tennis"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "D Gukesh became the youngest World Chess Champion in history in December 2024 by defeating:",
+            "options": [
+              "Magnus Carlsen",
+              "Ding Liren",
+              "Fabiano Caruana",
+              "Ian Nepomniachtchi"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Border-Gavaskar Trophy is contested in Test cricket between which two countries?",
+            "options": [
+              "India and England",
+              "India and Australia",
+              "India and South Africa",
+              "India and West Indies"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'The Ashes' is a Test cricket series traditionally played between:",
+            "options": [
+              "India and Pakistan",
+              "England and Australia",
+              "South Africa and Australia",
+              "England and West Indies"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Ranji Trophy is associated with which level of Indian cricket?",
+            "options": [
+              "International cricket",
+              "Domestic first-class cricket",
+              "Under-19 cricket",
+              "Women's cricket"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is considered the oldest tennis tournament in the world?",
+            "options": [
+              "US Open",
+              "French Open",
+              "Wimbledon",
+              "Australian Open"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 2026 FIFA World Cup was the first edition to feature how many teams?",
+            "options": [
+              "32",
+              "40",
+              "48",
+              "64"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "How many players are there in a cricket team on the field, including the wicketkeeper?",
+            "options": [
+              "9",
+              "10",
+              "11",
+              "12"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "How many players from each team are on the field in a standard football (soccer) match?",
+            "options": [
+              "9",
+              "10",
+              "11",
+              "12"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "How many players are there in a standard Kabaddi team on the mat (raiding side)?",
+            "options": [
+              "5",
+              "6",
+              "7",
+              "9"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "How many players are there on each side in a volleyball match?",
+            "options": [
+              "5",
+              "6",
+              "7",
+              "8"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India last won the Olympic gold medal in men's field hockey in which year?",
+            "options": [
+              "1972",
+              "1976",
+              "1980",
+              "1984"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 1980 Olympics, where India last won hockey gold, were held in which city?",
+            "options": [
+              "Los Angeles",
+              "Montreal",
+              "Moscow",
+              "Seoul"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Sunil Chhetri, India's record goal-scorer, is associated with which sport?",
+            "options": [
+              "Hockey",
+              "Football",
+              "Cricket",
+              "Basketball"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Sunil Chhetri holds the record for being India's all-time highest:",
+            "options": [
+              "Run-scorer in cricket",
+              "Goal-scorer in international football",
+              "Medal winner in badminton",
+              "Gold medalist in wrestling"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "PV Sindhu became the first Indian woman to win two individual Olympic medals in which sport?",
+            "options": [
+              "Wrestling",
+              "Badminton",
+              "Boxing",
+              "Weightlifting"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "PV Sindhu won a silver medal in badminton at which Olympics?",
+            "options": [
+              "Rio 2016",
+              "Tokyo 2020",
+              "Paris 2024",
+              "London 2012"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Mirabai Chanu won a silver medal for India at the Tokyo Olympics (2020) in which sport?",
+            "options": [
+              "Boxing",
+              "Wrestling",
+              "Weightlifting",
+              "Shooting"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Bajrang Punia won a bronze medal for India at the Tokyo Olympics (2020) in which sport?",
+            "options": [
+              "Boxing",
+              "Wrestling",
+              "Judo",
+              "Weightlifting"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Asian Games is often described as the:",
+            "options": [
+              "Largest multi-sport event in the world",
+              "Largest multi-sport event in Asia",
+              "Oldest Olympic-style event",
+              "Only athletics-focused event in Asia"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 2022 Commonwealth Games were hosted by which city?",
+            "options": [
+              "Gold Coast",
+              "Birmingham",
+              "Glasgow",
+              "Delhi"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "At which edition of the Asian Games did India cross 100 medals for the first time in its history?",
+            "options": [
+              "2010 Guangzhou",
+              "2014 Incheon",
+              "2018 Jakarta-Palembang",
+              "2023 Hangzhou"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Virat Kohli is widely regarded as one of the greatest batters in the history of:",
+            "options": [
+              "Football",
+              "Cricket",
+              "Hockey",
+              "Badminton"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The winner of the Cricket World Cup 1983, India's first title, defeated which team in the final?",
+            "options": [
+              "Australia",
+              "Pakistan",
+              "West Indies",
+              "England"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Sports: Sports Awards & Sporting Bodies (BCCI, IOC, etc.)",
+        "durationMinutes": 25,
+        "questions": [
+          {
+            "q": "What is the highest sporting honour in India?",
+            "options": [
+              "Arjuna Award",
+              "Dronacharya Award",
+              "Major Dhyan Chand Khel Ratna Award",
+              "Padma Shri"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Khel Ratna Award (India's highest sporting honour) is named after which legendary sportsperson?",
+            "options": [
+              "Sachin Tendulkar",
+              "Major Dhyan Chand",
+              "Milkha Singh",
+              "P. T. Usha"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Arjuna Award in India is given for:",
+            "options": [
+              "Lifetime achievement in coaching",
+              "Outstanding performance in sports over a period",
+              "Best sports journalism",
+              "Sports infrastructure development"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Dronacharya Award in India is given to recognize excellence in:",
+            "options": [
+              "Sports coaching",
+              "Sports commentary",
+              "Sports administration",
+              "Sports medicine"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "BCCI stands for:",
+            "options": [
+              "British Cricket Council of India",
+              "Board of Control for Cricket in India",
+              "Bureau for Cricket Coordination in India",
+              "Board for Cricket Championships in India"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The headquarters of the BCCI is located in:",
+            "options": [
+              "New Delhi",
+              "Mumbai",
+              "Kolkata",
+              "Chennai"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As of 2026, who is the President of the BCCI?",
+            "options": [
+              "Roger Binny",
+              "Sourav Ganguly",
+              "Mithun Manhas",
+              "Jay Shah"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As of 2026, who serves as the Chairman of the International Cricket Council (ICC)?",
+            "options": [
+              "Greg Barclay",
+              "Jay Shah",
+              "N. Srinivasan",
+              "Shashank Manohar"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The headquarters of the International Cricket Council (ICC) is located in:",
+            "options": [
+              "London, UK",
+              "Melbourne, Australia",
+              "Dubai, UAE",
+              "Mumbai, India"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "ICC stands for:",
+            "options": [
+              "Indian Cricket Council",
+              "International Cricket Council",
+              "International Cricket Committee",
+              "Indian Cricket Committee"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "IOC stands for:",
+            "options": [
+              "Indian Olympic Committee",
+              "International Olympic Committee",
+              "International Olympic Council",
+              "Indian Olympic Council"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The headquarters of the International Olympic Committee (IOC) is located in:",
+            "options": [
+              "Geneva, Switzerland",
+              "Lausanne, Switzerland",
+              "Zurich, Switzerland",
+              "Bern, Switzerland"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As of 2026, who is the President of the International Olympic Committee (IOC)?",
+            "options": [
+              "Thomas Bach",
+              "Kirsty Coventry",
+              "Sebastian Coe",
+              "Juan Antonio Samaranch"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Kirsty Coventry, the current IOC President, made history as the:",
+            "options": [
+              "Youngest ever IOC President",
+              "First woman and first African President of the IOC",
+              "First Asian President of the IOC",
+              "First IOC President from the USA"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "FIFA stands for:",
+            "options": [
+              "Federation of International Football Associations",
+              "Federation Internationale de Football Association",
+              "Football International Federation Association",
+              "Federal International Football Alliance"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The headquarters of FIFA is located in:",
+            "options": [
+              "Paris, France",
+              "Zurich, Switzerland",
+              "London, UK",
+              "Madrid, Spain"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The ICC's annual award for the top male cricketer, known as the Sir Garfield Sobers Trophy, is officially called:",
+            "options": [
+              "ICC Spirit of Cricket Award",
+              "ICC Cricketer of the Year",
+              "ICC Hall of Fame Award",
+              "Wisden Cricketer Award"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Ballon d'Or is an annual award given to the best player in which sport?",
+            "options": [
+              "Basketball",
+              "Football (Soccer)",
+              "Tennis",
+              "Cricket"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Ballon d'Or award is presented by which organisation/publication?",
+            "options": [
+              "FIFA",
+              "UEFA",
+              "France Football magazine",
+              "BBC Sport"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "FIH, the global governing body for hockey, stands for:",
+            "options": [
+              "Federation of International Hockey",
+              "Federation Internationale de Hockey",
+              "Football and Ice Hockey Federation",
+              "Federation for Indian Hockey"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The headquarters of the International Hockey Federation (FIH) is located in:",
+            "options": [
+              "Lausanne, Switzerland",
+              "London, UK",
+              "The Hague, Netherlands",
+              "Brussels, Belgium"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "BWF, the global governing body for badminton, stands for:",
+            "options": [
+              "British Weightlifting Federation",
+              "Badminton World Federation",
+              "Basketball World Federation",
+              "Ball and Wicket Federation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The headquarters of the Badminton World Federation (BWF) is located in:",
+            "options": [
+              "Jakarta, Indonesia",
+              "Kuala Lumpur, Malaysia",
+              "Singapore",
+              "Bangkok, Thailand"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "AIFF stands for:",
+            "options": [
+              "All India Football Federation",
+              "Athletics and Indian Football Federation",
+              "Asian Indian Football Federation",
+              "All India Fitness Federation"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The headquarters of the All India Football Federation (AIFF) is located in:",
+            "options": [
+              "Mumbai",
+              "New Delhi",
+              "Kolkata",
+              "Bengaluru"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The apex body governing the Olympic movement in India is the:",
+            "options": [
+              "Sports Authority of India (SAI)",
+              "Indian Olympic Association (IOA)",
+              "Board of Control for Sports in India",
+              "Ministry of Youth Affairs and Sports"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The headquarters of the Indian Olympic Association (IOA) is located in:",
+            "options": [
+              "Mumbai",
+              "New Delhi",
+              "Chennai",
+              "Bengaluru"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Wisden Cricketers' Almanack, a well-known cricket reference publication, originates from which country?",
+            "options": [
+              "Australia",
+              "India",
+              "England",
+              "South Africa"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Ashes urn is a symbolic trophy associated with the cricket rivalry between:",
+            "options": [
+              "India and Pakistan",
+              "England and Australia",
+              "Australia and South Africa",
+              "England and West Indies"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Davis Cup is a prestigious international team competition in which sport?",
+            "options": [
+              "Table Tennis",
+              "Tennis",
+              "Badminton",
+              "Golf"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Billie Jean King Cup (formerly Fed Cup) is the women's team equivalent of which tennis competition?",
+            "options": [
+              "Wimbledon",
+              "Davis Cup",
+              "ATP Cup",
+              "Laver Cup"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Ryder Cup is a biennial team competition in which sport, contested between Europe and the USA?",
+            "options": [
+              "Golf",
+              "Tennis",
+              "Cricket",
+              "Rugby"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'Green Jacket' is traditionally awarded to the winner of which golf tournament?",
+            "options": [
+              "The Open Championship",
+              "US Open (Golf)",
+              "The Masters",
+              "PGA Championship"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Sultan of Johor Cup is a prestigious international tournament associated with which sport?",
+            "options": [
+              "Junior hockey",
+              "Junior football",
+              "Junior badminton",
+              "Junior tennis"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "World Athletics (formerly known as IAAF), the global governing body for athletics, has its headquarters in:",
+            "options": [
+              "London, UK",
+              "Monaco",
+              "Paris, France",
+              "Zurich, Switzerland"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The NBA (National Basketball Association) is the premier professional league of which sport?",
+            "options": [
+              "Baseball",
+              "Basketball",
+              "American Football",
+              "Ice Hockey"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The NHL (National Hockey League) is the premier professional league of which sport?",
+            "options": [
+              "Field Hockey",
+              "Ice Hockey",
+              "Roller Hockey",
+              "Rugby"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT one of the four Grand Slam tennis tournaments?",
+            "options": [
+              "Australian Open",
+              "Wimbledon",
+              "Indian Wells Masters",
+              "US Open"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which Grand Slam tennis tournament is played on clay courts?",
+            "options": [
+              "Wimbledon",
+              "US Open",
+              "French Open (Roland Garros)",
+              "Australian Open"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which Grand Slam tennis tournament is played on grass courts?",
+            "options": [
+              "French Open",
+              "Wimbledon",
+              "US Open",
+              "Australian Open"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The World Anti-Doping Agency (WADA) has its headquarters in:",
+            "options": [
+              "Geneva, Switzerland",
+              "Montreal, Canada",
+              "Paris, France",
+              "New York, USA"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "NADA, the body responsible for anti-doping efforts in India, stands for:",
+            "options": [
+              "National Anti-Doping Agency",
+              "National Athletics Development Agency",
+              "National Association for Doping Awareness",
+              "National Agency for Drug Abuse"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "SAI, a key government body promoting sports in India, stands for:",
+            "options": [
+              "Sports Association of India",
+              "Sports Authority of India",
+              "Sports Academy of India",
+              "Sports Alliance of India"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Rajiv Gandhi Khel Ratna Award was renamed as the Major Dhyan Chand Khel Ratna Award in which year?",
+            "options": [
+              "2019",
+              "2020",
+              "2021",
+              "2022"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was the first recipient of India's highest sporting honour, the Khel Ratna Award, in 1991-92?",
+            "options": [
+              "Sachin Tendulkar",
+              "Viswanathan Anand",
+              "Milkha Singh",
+              "P. T. Usha"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Ranji Trophy, India's premier domestic first-class cricket tournament, is named after:",
+            "options": [
+              "Ranjitsinhji",
+              "Duleepsinhji",
+              "C. K. Nayudu",
+              "Vijay Hazare"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Duleep Trophy, an Indian domestic cricket tournament, is named after:",
+            "options": [
+              "Ranjitsinhji",
+              "Duleepsinhji",
+              "Vijay Merchant",
+              "Lala Amarnath"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Vijay Hazare Trophy is an Indian domestic tournament played in which format?",
+            "options": [
+              "Test format",
+              "T20 format",
+              "One-day (List A) format",
+              "Five-day format"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Syed Mushtaq Ali Trophy is India's premier domestic tournament in which format?",
+            "options": [
+              "Test format",
+              "T20 format",
+              "One-day format",
+              "First-class format"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Santosh Trophy is a prestigious domestic tournament in India associated with which sport?",
+            "options": [
+              "Hockey",
+              "Football",
+              "Kabaddi",
+              "Volleyball"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

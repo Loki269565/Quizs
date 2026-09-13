@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "combined-current-affairs-mock1",
+    "title": "8.Current Affairs (Last 8–12 months — highest ROI across ALL THREE exams)",
+    "sections": [
+      {
+        "name": "National & International News",
+        "durationMinutes": 25,
+        "questions": [
+          {
+            "q": "'Operation Sindoor', launched by India in May 2025, was a military response to a terror attack in which location?",
+            "options": [
+              "Pulwama",
+              "Pahalgam",
+              "Uri",
+              "Poonch"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Pahalgam terror attack that triggered Operation Sindoor took place on which date?",
+            "options": [
+              "22 April 2025",
+              "7 May 2025",
+              "10 May 2025",
+              "26 November 2025"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Under Operation Sindoor, India struck terror camps at how many locations in Pakistan and Pakistan-occupied Kashmir?",
+            "options": [
+              "Five",
+              "Seven",
+              "Nine",
+              "Twelve"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The India-Pakistan military confrontation following Operation Sindoor ended with a ceasefire effective from which date in 2025?",
+            "options": [
+              "7 May 2025",
+              "10 May 2025",
+              "15 May 2025",
+              "1 June 2025"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is the current (53rd) Chief Justice of India, who took oath in November 2025?",
+            "options": [
+              "B.R. Gavai",
+              "Sanjiv Khanna",
+              "Surya Kant",
+              "D.Y. Chandrachud"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Justice B.R. Gavai served as the 52nd Chief Justice of India for approximately how long in 2025?",
+            "options": [
+              "Six months",
+              "One year",
+              "Two years",
+              "Three months"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "GST 2.0 reforms, which simplified India's tax slabs mainly into 5% and 18% (with a special 40% slab), came into effect from which date in 2025?",
+            "options": [
+              "1 April 2025",
+              "15 August 2025",
+              "22 September 2025",
+              "1 January 2026"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The GST 2.0 rollout in September 2025 was timed to coincide with which festive occasion?",
+            "options": [
+              "Diwali",
+              "Navratri",
+              "Holi",
+              "Raksha Bandhan"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A new constitutional provision, Article 371(K), has recently been proposed by the Centre for which Union Territory?",
+            "options": [
+              "Jammu and Kashmir",
+              "Ladakh",
+              "Puducherry",
+              "Chandigarh"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which prominent Assamese singer, known for the song 'Ya Ali', passed away in Singapore in September 2025?",
+            "options": [
+              "Bhupen Hazarika",
+              "Zubeen Garg",
+              "Papon",
+              "Kalpana Patowary"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India hosted the BRICS Summit 2026 in which city?",
+            "options": [
+              "Mumbai",
+              "New Delhi",
+              "Bengaluru",
+              "Chennai"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "During the BRICS Summit 2026 preparations, PM Modi gifted the Russian translation of which ancient Tamil classic to President Putin?",
+            "options": [
+              "Thirukkural",
+              "Silappatikaram",
+              "Manimekalai",
+              "Tolkappiyam"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As per RBI Governor Sanjay Malhotra's statement in mid-2026, India's forex reserves stood at approximately how much?",
+            "options": [
+              "$400 billion",
+              "$550 billion",
+              "$682 billion",
+              "$900 billion"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Vibrant Villages Programme (VVP), often discussed in current affairs, focuses on the development of which type of areas?",
+            "options": [
+              "Coastal fishing villages",
+              "India's border villages",
+              "Metropolitan slum areas",
+              "Tribal forest areas only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India's Nobel laureate discussions in late 2025 highlighted that no Indian won a Nobel Prize that year; the 2025 Nobel Peace Prize was awarded to which leader?",
+            "options": [
+              "Maria Corina Machado",
+              "Volodymyr Zelenskyy",
+              "Angela Merkel",
+              "Narges Mohammadi"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 2025 Nobel Peace Prize laureate, Maria Corina Machado, is a political leader from which country?",
+            "options": [
+              "Colombia",
+              "Venezuela",
+              "Argentina",
+              "Brazil"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The India Space Station vision, discussed in current affairs 2026, targets India having its own space station by which year?",
+            "options": [
+              "2030",
+              "2032",
+              "2035",
+              "2040"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India's Rishikesh-Karnaprayag Rail Project, mentioned in 2026 current affairs for a tunnel breakthrough, is located in which state?",
+            "options": [
+              "Himachal Pradesh",
+              "Uttarakhand",
+              "Uttar Pradesh",
+              "Jammu and Kashmir"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In 2026 current affairs, China Southern Airlines resumed regular passenger flights between New Delhi and which Chinese city, marking a thaw in ties?",
+            "options": [
+              "Beijing",
+              "Shanghai",
+              "Guangzhou",
+              "Shenzhen"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "West Bengal, frequently referenced in current affairs geography facts, shares international boundaries with Nepal, Bhutan, and which other country?",
+            "options": [
+              "Myanmar",
+              "Bangladesh",
+              "Sri Lanka",
+              "China"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Indian Air Force conducted a bilateral air exercise with the Japan Air Self Defence Force (JASDF) in September 2026 at which air force station?",
+            "options": [
+              "Jodhpur",
+              "Pune",
+              "Ambala",
+              "Gwalior"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 9th Rashtriya Poshan Maah (National Nutrition Month) 2026 is organised under which umbrella scheme?",
+            "options": [
+              "Mission Indradhanush",
+              "POSHAN 2.0",
+              "Saksham Anganwadi only",
+              "Ayushman Bharat"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The year 2026 marks how many years since the launch of the Pradhan Mantri Matru Vandana Yojana (PMMVY)?",
+            "options": [
+              "5 years",
+              "10 years",
+              "15 years",
+              "20 years"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In current affairs discussions of 2025-26, the Financial Action Task Force (FATF) flagged the growing convergence of virtual assets with which traditional informal money-transfer network?",
+            "options": [
+              "Hawala",
+              "Chit fund",
+              "Hundi banking",
+              "Barter trade"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which Indian scheme/initiative, discussed in current affairs, aims to decentralise India's export growth through district-level hubs?",
+            "options": [
+              "Districts as Export Hubs initiative",
+              "One District One Product only",
+              "Make in India Export Mission",
+              "Districts for Development Programme"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Government Schemes & Policies",
+        "durationMinutes": 25,
+        "questions": [
+          {
+            "q": "The Union Budget for the financial year 2026-27 was presented by Finance Minister Nirmala Sitharaman on which date?",
+            "options": [
+              "1 January 2026",
+              "1 February 2026",
+              "1 March 2026",
+              "1 April 2026"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Union Budget 2026-27 has been described as being driven by which theme?",
+            "options": [
+              "Yuva Shakti-driven Budget",
+              "Nari Shakti-driven Budget",
+              "Kisan Shakti-driven Budget",
+              "Digital Shakti-driven Budget"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Union Budget 2026-27 was Finance Minister Nirmala Sitharaman's how many consecutive Union Budget?",
+            "options": [
+              "Seventh",
+              "Eighth",
+              "Ninth",
+              "Tenth"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Union Budget 2026-27 set the fiscal deficit target (Budget Estimate) for 2026-27 at what percentage of GDP?",
+            "options": [
+              "3.3%",
+              "4.3%",
+              "5.3%",
+              "6.3%"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Union Budget 2026-27 proposed to increase public capital expenditure to what amount for FY 2026-27?",
+            "options": [
+              "₹8.2 lakh crore",
+              "₹10.2 lakh crore",
+              "₹12.2 lakh crore",
+              "₹15.2 lakh crore"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'India Semiconductor Mission (ISM) 2.0', announced in Union Budget 2026-27, primarily focuses on which of the following?",
+            "options": [
+              "Producing semiconductor equipment, materials, and designing full-stack Indian IP",
+              "Only importing semiconductors from other countries",
+              "Providing subsidies for mobile phone assembly only",
+              "Replacing GST with a new tax regime"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Biopharma SHAKTI', announced in the Union Budget 2026-27, involves setting up how many new National Institutes of Pharmaceutical Education and Research (NIPER)?",
+            "options": [
+              "2",
+              "3",
+              "5",
+              "7"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'Self-Reliant India Fund', mentioned in Union Budget 2026-27, primarily supports which category of enterprises?",
+            "options": [
+              "Large corporates",
+              "Micro enterprises",
+              "Foreign companies",
+              "State government undertakings"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The GST Council's decision to rationalise GST slabs (GST 2.0) was announced on which date in 2025?",
+            "options": [
+              "3 September 2025",
+              "15 August 2025",
+              "1 October 2025",
+              "22 September 2025"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Under GST 2.0, which two GST slabs were abolished and merged into the new simplified structure?",
+            "options": [
+              "5% and 18%",
+              "12% and 28%",
+              "0% and 5%",
+              "18% and 40%"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Under GST 2.0, a special higher GST slab of 40% has been introduced primarily for which category of goods?",
+            "options": [
+              "Essential food items",
+              "Luxury and sin goods",
+              "Agricultural equipment",
+              "Educational materials"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Under GST 2.0, health and life insurance premiums have been given which treatment?",
+            "options": [
+              "Taxed at 28%",
+              "Exempted from GST",
+              "Taxed at 40%",
+              "Taxed at 12%"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Union Budget 2025-26 (presented February 2025) introduced the 'National Mission for Edible Oilseed' with which objective?",
+            "options": [
+              "Achieving self-reliance (Atmanirbharta) in edible oils",
+              "Reducing agricultural exports",
+              "Promoting only imported oilseeds",
+              "Banning edible oil imports immediately"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Union Budget 2025-26 launched a 6-year mission for self-reliance in pulses with a special focus on which crops?",
+            "options": [
+              "Wheat, Rice, Maize",
+              "Urad, Tur, and Masoor",
+              "Soybean, Groundnut, Mustard",
+              "Cotton, Jute, Sugarcane"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Union Budget 2025-26 announced a new scheme providing term loans up to ₹2 crore for first-time entrepreneurs from which groups?",
+            "options": [
+              "Only male entrepreneurs",
+              "Women, Scheduled Tribes, and Scheduled Castes first-time entrepreneurs",
+              "Only NRIs",
+              "Only government employees"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'Saksham Anganwadi and Poshan 2.0 Programme' primarily aims to provide which kind of support?",
+            "options": [
+              "Nutritional support to women and children",
+              "Housing loans to farmers",
+              "Skill training to engineers",
+              "Pension to senior citizens"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The expanded Ayushman Bharat PM-JAY scheme, as of 2026, now covers all senior citizens above which age, regardless of income?",
+            "options": [
+              "60+",
+              "65+",
+              "70+",
+              "75+"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'PM SVANidhi' scheme is primarily designed to provide collateral-free loans to which group?",
+            "options": [
+              "Street vendors",
+              "Large industrialists",
+              "Software companies",
+              "Foreign investors"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Economic Survey 2025-26 estimated India's real GDP growth for FY26 at approximately what rate?",
+            "options": [
+              "4.5%",
+              "5.8%",
+              "7.4%",
+              "9.2%"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Over 350 reforms have reportedly been rolled out in India since August 2025, including GST simplification and which other major reform area?",
+            "options": [
+              "Labour Code notifications",
+              "New Constitution drafting",
+              "Currency demonetisation",
+              "Total privatisation of banks"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The government's Union Budget 2026-27 focuses on 3 'Kartavyas' (duties) for economic growth; which of the following is one of them?",
+            "options": [
+              "Capacity building",
+              "Foreign colonisation",
+              "Trade embargoes",
+              "Currency devaluation"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The government's Union Budget 2026-27 proposes to boost the textile sector through mega parks, integrated programmes, and which additional focus?",
+            "options": [
+              "Export facilitation",
+              "Import substitution only",
+              "Complete automation with no jobs",
+              "Reduction of textile production"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The proposed ₹2.5 lakh crore credit guarantee scheme discussed in 2025-26, modelled after the pandemic-era ECLGS, primarily aims to support which sector?",
+            "options": [
+              "MSMEs affected by global trade disruptions",
+              "Large multinational banks",
+              "Foreign airlines operating in India",
+              "State government departments only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Union Budget 2026-27 proposes 'Regional Medical Hubs' with the aim of boosting which sector?",
+            "options": [
+              "Medical Value Tourism",
+              "Only veterinary services",
+              "Only Ayurveda exports",
+              "Space medicine research"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Under the Union Budget 2026-27, professional bodies like ICAI, ICSI, and ICMAI have been asked to design short-term courses to develop a cadre known as what?",
+            "options": [
+              "Corporate Mitras",
+              "Yuva Sathis",
+              "Vikas Mitras",
+              "Arth Sahayaks"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Awards, Appointments & Obituaries",
+        "durationMinutes": 25,
+        "questions": [
+          {
+            "q": "The Padma Awards 2026 list, announced on the eve of Republic Day, comprised a total of how many recipients?",
+            "options": [
+              "113",
+              "121",
+              "131",
+              "139"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Padma Awards 2026 list comprised how many Padma Vibhushan recipients?",
+            "options": [
+              "3",
+              "5",
+              "7",
+              "10"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Veteran Bollywood actor Dharmendra was posthumously awarded which civilian honour in the Padma Awards 2026?",
+            "options": [
+              "Padma Shri",
+              "Padma Bhushan",
+              "Padma Vibhushan",
+              "Bharat Ratna"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Along with Dharmendra, which former Kerala Chief Minister also received the Padma Vibhushan posthumously in the 2026 list?",
+            "options": [
+              "V.S. Achuthanandan",
+              "Oommen Chandy",
+              "K. Karunakaran",
+              "E.K. Nayanar"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which cricketer was among the sportspersons honoured with the Padma Shri in the 2026 Padma Awards list?",
+            "options": [
+              "Virat Kohli",
+              "Rohit Sharma",
+              "MS Dhoni",
+              "KL Rahul"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which veteran playback singer received the Padma Bhushan in the 2026 Padma Awards list?",
+            "options": [
+              "Lata Mangeshkar",
+              "Alka Yagnik",
+              "Asha Bhosle",
+              "Kavita Krishnamurthy"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Malayalam superstar actor Mammootty was honoured with which award in the Padma Awards 2026 list?",
+            "options": [
+              "Padma Shri",
+              "Padma Bhushan",
+              "Padma Vibhushan",
+              "Dadasaheb Phalke Award"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 2025 Nobel Prize in Physics was awarded to John Clarke, Michel H. Devoret, and John M. Martinis for work related to which field?",
+            "options": [
+              "Quantum mechanical tunnelling in electric circuits",
+              "Gravitational waves",
+              "Higgs boson discovery",
+              "Nuclear fission"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 2025 Nobel Prize in Physiology or Medicine was awarded for discoveries related to which of the following?",
+            "options": [
+              "Peripheral immune tolerance",
+              "CRISPR gene editing",
+              "mRNA vaccines",
+              "Organ transplantation"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 2025 Nobel Prize in Economic Sciences was awarded to Joel Mokyr, Philippe Aghion, and Peter Howitt for explaining which of the following?",
+            "options": [
+              "Innovation-driven (technology-driven) sustained economic growth",
+              "The gold standard system",
+              "Cryptocurrency regulation",
+              "International trade tariffs"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 2025 Nobel Peace Prize was awarded to which Venezuelan political leader?",
+            "options": [
+              "Nicolás Maduro",
+              "Maria Corina Machado",
+              "Hugo Chávez",
+              "Juan Guaidó"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 2025 Nobel Prize in Literature was awarded to which author?",
+            "options": [
+              "László Krasznahorkai",
+              "Han Kang",
+              "Annie Ernaux",
+              "Kazuo Ishiguro"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Justice Surya Kant took oath as the 53rd Chief Justice of India on which date?",
+            "options": [
+              "14 May 2025",
+              "23 November 2025",
+              "24 November 2025",
+              "1 January 2026"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Sanjay Malhotra, the current RBI Governor, assumed office as the 26th RBI Governor on which date?",
+            "options": [
+              "11 December 2024",
+              "1 January 2025",
+              "1 April 2025",
+              "14 May 2025"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Sanjay Malhotra succeeded which former RBI Governor?",
+            "options": [
+              "Urjit Patel",
+              "Raghuram Rajan",
+              "Shaktikanta Das",
+              "D. Subbarao"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Veteran Bollywood actor Dharmendra, known as Bollywood's 'He-Man', passed away in November 2025 at what age?",
+            "options": [
+              "79",
+              "85",
+              "89",
+              "92"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Legendary actor and filmmaker Manoj Kumar, known for patriotic films, passed away in April 2025 at what age?",
+            "options": [
+              "81",
+              "84",
+              "87",
+              "90"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Popular Assamese singer Zubeen Garg, known for the Bollywood hit 'Ya Ali', passed away in September 2025 in which country?",
+            "options": [
+              "India",
+              "Singapore",
+              "Malaysia",
+              "Thailand"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Zubeen Garg had gone to Singapore to participate in which cultural event before his death?",
+            "options": [
+              "North East India Festival",
+              "India Music Week",
+              "Global Bihu Festival",
+              "Assam Cultural Summit"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "D Gukesh, the Indian Grandmaster, became the youngest-ever undisputed World Chess Champion in December 2024 at what age?",
+            "options": [
+              "16",
+              "17",
+              "18",
+              "20"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "D Gukesh defeated which defending champion to win the 2024 World Chess Championship?",
+            "options": [
+              "Magnus Carlsen",
+              "Ding Liren",
+              "Ian Nepomniachtchi",
+              "Fabiano Caruana"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "D Gukesh became only the second Indian to become World Chess Champion after which legendary player?",
+            "options": [
+              "Viswanathan Anand",
+              "Pravin Thipsay",
+              "Koneru Humpy",
+              "R. Praggnanandhaa"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the Padma Awards 2026, how many recipients were honoured posthumously?",
+            "options": [
+              "8",
+              "12",
+              "16",
+              "20"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Former Jharkhand Chief Minister and JMM founder, honoured posthumously with the Padma Bhushan in 2026, was whom?",
+            "options": [
+              "Shibu Soren",
+              "Hemant Soren",
+              "Babulal Marandi",
+              "Arjun Munda"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Justice B.R. Gavai served as the 52nd Chief Justice of India, taking office in May 2025 and being succeeded by Justice Surya Kant in which month?",
+            "options": [
+              "August 2025",
+              "September 2025",
+              "November 2025",
+              "January 2026"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Sports Events & Outcomes",
+        "durationMinutes": 25,
+        "questions": [
+          {
+            "q": "India won its maiden ICC Women's Cricket World Cup title in 2025 by beating which team in the final?",
+            "options": [
+              "Australia",
+              "England",
+              "South Africa",
+              "New Zealand"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The final of the ICC Women's Cricket World Cup 2025 was played at which venue?",
+            "options": [
+              "Wankhede Stadium, Mumbai",
+              "Dr. DY Patil Stadium, Navi Mumbai",
+              "Eden Gardens, Kolkata",
+              "M. Chinnaswamy Stadium, Bengaluru"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was named Player of the Match in the ICC Women's Cricket World Cup 2025 final?",
+            "options": [
+              "Deepti Sharma",
+              "Shafali Verma",
+              "Smriti Mandhana",
+              "Harmanpreet Kaur"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was named Player of the Series in the ICC Women's Cricket World Cup 2025?",
+            "options": [
+              "Smriti Mandhana",
+              "Deepti Sharma",
+              "Laura Wolvaardt",
+              "Shafali Verma"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The ICC Women's Cricket World Cup 2025 was co-hosted by India and which other country?",
+            "options": [
+              "Bangladesh",
+              "Sri Lanka",
+              "Pakistan",
+              "UAE"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who scored the most runs in the ICC Women's Cricket World Cup 2025 tournament?",
+            "options": [
+              "Smriti Mandhana",
+              "Laura Wolvaardt",
+              "Alyssa Healy",
+              "Shafali Verma"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Deepti Sharma finished as the leading wicket-taker of the ICC Women's Cricket World Cup 2025 with how many wickets?",
+            "options": [
+              "15",
+              "18",
+              "22",
+              "25"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India defeated which team in the final of the Men's Asia Cup T20 2025?",
+            "options": [
+              "Sri Lanka",
+              "Bangladesh",
+              "Pakistan",
+              "Afghanistan"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 2025 Men's T20 Asia Cup final between India and Pakistan was played in which city?",
+            "options": [
+              "Colombo",
+              "Dubai",
+              "Abu Dhabi",
+              "Sharjah"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was named Player of the Match in the 2025 Asia Cup final between India and Pakistan?",
+            "options": [
+              "Kuldeep Yadav",
+              "Tilak Varma",
+              "Abhishek Sharma",
+              "Suryakumar Yadav"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was named Player of the Series (Asia Cup 2025), finishing as the tournament's top run-scorer?",
+            "options": [
+              "Abhishek Sharma",
+              "Tilak Varma",
+              "Sanju Samson",
+              "Shubman Gill"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who finished as the leading wicket-taker of the 2025 Men's Asia Cup?",
+            "options": [
+              "Jasprit Bumrah",
+              "Kuldeep Yadav",
+              "Varun Chakravarthy",
+              "Arshdeep Singh"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 2025 Asia Cup final marked the first time in the tournament's history that the final was contested between which two teams?",
+            "options": [
+              "India and Sri Lanka",
+              "India and Pakistan",
+              "Pakistan and Bangladesh",
+              "India and Bangladesh"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "This was India's ninth Asia Cup title overall and its how many successive title (having also won the 2023 ODI edition)?",
+            "options": [
+              "First in a row",
+              "Second in a row",
+              "Third in a row",
+              "Fourth in a row"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "D Gukesh became the youngest-ever undisputed World Chess Champion by winning the 2024 FIDE World Championship held in which city?",
+            "options": [
+              "Chennai",
+              "Singapore",
+              "Dubai",
+              "New York"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "D Gukesh surpassed the previous record for youngest World Chess Champion held by which legendary Russian player?",
+            "options": [
+              "Garry Kasparov",
+              "Anatoly Karpov",
+              "Boris Spassky",
+              "Vladimir Kramnik"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The East Zone won the Duleep Trophy 2026-27 after the final, played at which venue, ended in a draw against South Zone?",
+            "options": [
+              "Wankhede Stadium, Mumbai",
+              "Chepauk, Chennai",
+              "Eden Gardens, Kolkata",
+              "Green Park, Kanpur"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Duleep Trophy final 2026 between East Zone and South Zone took place in which month?",
+            "options": [
+              "June 2026",
+              "September 2026",
+              "December 2026",
+              "March 2026"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In September 2026 current affairs, which major tennis tournament's men's semifinals in New York were highlighted as a key sporting event?",
+            "options": [
+              "Wimbledon",
+              "US Open",
+              "French Open",
+              "Australian Open"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As per 2025-26 sports current affairs, the Khel Ratna Award, India's highest sporting honour, has been renamed in honour of which hockey legend?",
+            "options": [
+              "Major Dhyan Chand",
+              "Balbir Singh Sr.",
+              "Dhanraj Pillay",
+              "Sardar Singh"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Cricketer Rohit Sharma, honoured with a Padma Shri in 2026 for his sporting achievements, has primarily captained India in which format(s)?",
+            "options": [
+              "Only Test cricket",
+              "White-ball formats (ODI and T20I)",
+              "Only domestic cricket",
+              "Only IPL matches"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which Indian women's cricketer, a wicketkeeper, was among those honoured with the Padma Shri in the 2026 sports category?",
+            "options": [
+              "Savita Punia",
+              "Mithali Raj",
+              "Jhulan Goswami",
+              "Smriti Mandhana"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Harmanpreet Kaur, honoured with the Padma Shri in 2026, currently captains the Indian team in which format of cricket?",
+            "options": [
+              "Men's cricket",
+              "Women's cricket",
+              "Under-19 cricket",
+              "Blind cricket"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The ACC Men's Under-19 Asia Cup 2025 final was contested between India and which rival team?",
+            "options": [
+              "Bangladesh",
+              "Sri Lanka",
+              "Pakistan",
+              "Afghanistan"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India's Under-19 team at the 2025 Asia Cup was led by which captain?",
+            "options": [
+              "Ayush Mhatre",
+              "Vaibhav Suryavanshi",
+              "Musheer Khan",
+              "Yash Dhull"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

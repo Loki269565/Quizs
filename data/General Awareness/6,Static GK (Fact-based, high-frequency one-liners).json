@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "combined-static-gk-mock1",
+    "title": "6,Static GK (Fact-based, high-frequency one-liners):RRB + SSC CGL + DSSSB Combined Static GK Mock Test",
+    "sections": [
+      {
+        "name": "Important Days & Dates",
+        "durationMinutes": 15,
+        "questions": [
+          {
+            "q": "World Health Day is observed on which date?",
+            "options": [
+              "7 April",
+              "1 May",
+              "5 June",
+              "8 March"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "International Labour Day (May Day) is observed on which date?",
+            "options": [
+              "1 April",
+              "1 May",
+              "1 June",
+              "1 July"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "World Environment Day is observed on which date?",
+            "options": [
+              "5 June",
+              "22 April",
+              "16 September",
+              "3 March"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "International Women's Day is observed on which date?",
+            "options": [
+              "8 March",
+              "8 April",
+              "8 May",
+              "8 June"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "World Population Day is observed on which date?",
+            "options": [
+              "11 July",
+              "11 August",
+              "11 June",
+              "11 May"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Earth Day is observed on which date?",
+            "options": [
+              "22 April",
+              "5 June",
+              "1 May",
+              "16 October"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "World Ozone Day is observed on which date?",
+            "options": [
+              "16 September",
+              "5 June",
+              "22 April",
+              "8 March"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "National Science Day in India is celebrated on which date, marking the discovery of the Raman Effect?",
+            "options": [
+              "28 February",
+              "14 March",
+              "5 June",
+              "11 May"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "World Wildlife Day is observed on which date?",
+            "options": [
+              "3 March",
+              "22 April",
+              "5 June",
+              "16 September"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "International Yoga Day is observed on which date?",
+            "options": [
+              "21 June",
+              "21 July",
+              "21 May",
+              "21 August"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Teacher's Day in India is celebrated on which date, marking the birthday of Dr. Sarvepalli Radhakrishnan?",
+            "options": [
+              "5 September",
+              "14 November",
+              "2 October",
+              "26 January"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Children's Day in India is celebrated on which date, marking Jawaharlal Nehru's birthday?",
+            "options": [
+              "14 November",
+              "5 September",
+              "2 October",
+              "15 August"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "World Literacy Day is observed on which date?",
+            "options": [
+              "8 September",
+              "5 September",
+              "10 December",
+              "14 November"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "National Voters' Day in India is observed on which date?",
+            "options": [
+              "25 January",
+              "26 January",
+              "15 August",
+              "2 October"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Human Rights Day is observed globally on which date?",
+            "options": [
+              "10 December",
+              "10 November",
+              "10 October",
+              "10 January"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "National Youth Day in India is celebrated on which date, marking Swami Vivekananda's birthday?",
+            "options": [
+              "12 January",
+              "14 January",
+              "26 January",
+              "1 January"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "World Tourism Day is observed on which date?",
+            "options": [
+              "27 September",
+              "16 September",
+              "5 June",
+              "8 March"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Awards & Honours",
+        "durationMinutes": 17,
+        "questions": [
+          {
+            "q": "The Bharat Ratna is India's highest civilian award. In which year was it first instituted?",
+            "options": [
+              "1950",
+              "1954",
+              "1962",
+              "1969"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is the correct order of civilian awards in India from highest to lowest?",
+            "options": [
+              "Bharat Ratna, Padma Vibhushan, Padma Bhushan, Padma Shri",
+              "Padma Shri, Padma Bhushan, Padma Vibhushan, Bharat Ratna",
+              "Bharat Ratna, Padma Bhushan, Padma Vibhushan, Padma Shri",
+              "Padma Vibhushan, Bharat Ratna, Padma Bhushan, Padma Shri"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Padma awards are announced every year on which occasion?",
+            "options": [
+              "Republic Day",
+              "Independence Day",
+              "Gandhi Jayanti",
+              "New Year's Day"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Nobel Prize was established as per the will of which person?",
+            "options": [
+              "Alfred Nobel",
+              "Henry Dunant",
+              "John Nobel",
+              "Gustaf Nobel"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In how many categories is the Nobel Prize originally awarded (excluding the later-added Economic Sciences prize)?",
+            "options": [
+              "4",
+              "5",
+              "6",
+              "7"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was the first Indian (and first Asian) to win a Nobel Prize?",
+            "options": [
+              "C.V. Raman",
+              "Rabindranath Tagore",
+              "Mother Teresa",
+              "Amartya Sen"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Rabindranath Tagore won the Nobel Prize in which category?",
+            "options": [
+              "Physics",
+              "Literature",
+              "Peace",
+              "Economics"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "C.V. Raman won the Nobel Prize in Physics for the discovery of which phenomenon?",
+            "options": [
+              "Raman Effect",
+              "Photoelectric effect",
+              "Radioactivity",
+              "Theory of relativity"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Mother Teresa was awarded the Nobel Prize in which category?",
+            "options": [
+              "Literature",
+              "Peace",
+              "Medicine",
+              "Economics"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Nobel Peace Prize is awarded in which city, unlike the other Nobel Prizes awarded in Stockholm?",
+            "options": [
+              "Oslo",
+              "Copenhagen",
+              "Helsinki",
+              "Geneva"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Jnanpith Award, India's highest literary honour, is given for contributions in which field?",
+            "options": [
+              "Indian literature",
+              "Science",
+              "Sports",
+              "Social service"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was the first recipient of the Jnanpith Award?",
+            "options": [
+              "G. Sankara Kurup",
+              "Rabindranath Tagore",
+              "R.K. Narayan",
+              "Umashankar Joshi"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Khel Ratna Award (India's highest sporting honour) has been renamed after which former Indian hockey player?",
+            "options": [
+              "Major Dhyan Chand",
+              "Milkha Singh",
+              "Sardar Balbir Singh",
+              "Dhanraj Pillay"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Arjuna Award in India is given for outstanding achievements in which field?",
+            "options": [
+              "Sports",
+              "Literature",
+              "Science",
+              "Cinema"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Dronacharya Award is given to recognize excellence in which field?",
+            "options": [
+              "Sports coaching",
+              "Classical music",
+              "Journalism",
+              "Social work"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Ramon Magsaysay Award, often called 'Asia's Nobel Prize', is named after a former president of which country?",
+            "options": [
+              "Philippines",
+              "Indonesia",
+              "Malaysia",
+              "Vietnam"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Param Vir Chakra is India's highest military decoration awarded for which of the following?",
+            "options": [
+              "Gallantry in the presence of the enemy",
+              "Excellence in sports",
+              "Contribution to literature",
+              "Distinguished civil service"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Books & Authors",
+        "durationMinutes": 17,
+        "questions": [
+          {
+            "q": "Who is the author of the book 'Discovery of India'?",
+            "options": [
+              "Mahatma Gandhi",
+              "Jawaharlal Nehru",
+              "Sardar Patel",
+              "Rajendra Prasad"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who wrote the autobiography 'My Experiments with Truth'?",
+            "options": [
+              "Jawaharlal Nehru",
+              "Mahatma Gandhi",
+              "B.R. Ambedkar",
+              "Subhas Chandra Bose"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is the author of India's national anthem 'Jana Gana Mana'?",
+            "options": [
+              "Bankim Chandra Chattopadhyay",
+              "Rabindranath Tagore",
+              "Sarojini Naidu",
+              "Muhammad Iqbal"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who wrote 'Vande Mataram', India's national song?",
+            "options": [
+              "Rabindranath Tagore",
+              "Bankim Chandra Chattopadhyay",
+              "Iqbal",
+              "Subramania Bharati"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The book 'Arthashastra', a treatise on statecraft, was written by whom?",
+            "options": [
+              "Kautilya (Chanakya)",
+              "Kalidasa",
+              "Panini",
+              "Patanjali"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who wrote the epic 'Ramayana' in its original Sanskrit form?",
+            "options": [
+              "Ved Vyasa",
+              "Valmiki",
+              "Tulsidas",
+              "Kalidasa"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is credited with authoring the 'Mahabharata'?",
+            "options": [
+              "Valmiki",
+              "Ved Vyasa",
+              "Kalidasa",
+              "Panini"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The play 'Abhijnanashakuntalam' was written by which classical Indian poet?",
+            "options": [
+              "Kalidasa",
+              "Banabhatta",
+              "Bhavabhuti",
+              "Vishakhadatta"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who wrote the Indian Constitution's guiding philosophy as chairman of the Drafting Committee and also authored 'Annihilation of Caste'?",
+            "options": [
+              "Jawaharlal Nehru",
+              "B.R. Ambedkar",
+              "Rajendra Prasad",
+              "Sardar Patel"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is the author of 'Wings of Fire', an autobiography?",
+            "options": [
+              "A.P.J. Abdul Kalam",
+              "Manmohan Singh",
+              "Vikram Sarabhai",
+              "Homi Bhabha"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who wrote the novel 'Godaan'?",
+            "options": [
+              "Premchand",
+              "Harivansh Rai Bachchan",
+              "Mahadevi Verma",
+              "Jaishankar Prasad"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The book 'Gitanjali', for which Rabindranath Tagore won the Nobel Prize, is primarily a collection of which of the following?",
+            "options": [
+              "Poems",
+              "Short stories",
+              "Plays",
+              "Essays"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who wrote the book 'India Wins Freedom'?",
+            "options": [
+              "Maulana Abul Kalam Azad",
+              "Jawaharlal Nehru",
+              "C. Rajagopalachari",
+              "Sarojini Naidu"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is the author of 'The Argumentative Indian'?",
+            "options": [
+              "Ramachandra Guha",
+              "Amartya Sen",
+              "Shashi Tharoor",
+              "Arundhati Roy"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who wrote the novel 'The God of Small Things', for which she won the Booker Prize?",
+            "options": [
+              "Kiran Desai",
+              "Arundhati Roy",
+              "Jhumpa Lahiri",
+              "Anita Desai"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is credited with compiling the 'Rigveda'?",
+            "options": [
+              "Ved Vyasa",
+              "Panini",
+              "Patanjali",
+              "Valmiki"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who wrote 'An Autobiography: The Story of My Experiments with Truth' in the Gujarati language originally?",
+            "options": [
+              "Mahatma Gandhi",
+              "Vallabhbhai Patel",
+              "Morarji Desai",
+              "K.M. Munshi"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Famous Personalities",
+        "durationMinutes": 17,
+        "questions": [
+          {
+            "q": "Who is known as the 'Father of the Nation' in India?",
+            "options": [
+              "Jawaharlal Nehru",
+              "Mahatma Gandhi",
+              "Sardar Patel",
+              "B.R. Ambedkar"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is known as the 'Iron Man of India'?",
+            "options": [
+              "Jawaharlal Nehru",
+              "Sardar Vallabhbhai Patel",
+              "Subhas Chandra Bose",
+              "Lal Bahadur Shastri"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is regarded as the 'Father of the Indian Constitution'?",
+            "options": [
+              "Jawaharlal Nehru",
+              "B.R. Ambedkar",
+              "Rajendra Prasad",
+              "Sardar Patel"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is known as the 'Missile Man of India'?",
+            "options": [
+              "A.P.J. Abdul Kalam",
+              "Vikram Sarabhai",
+              "Homi Bhabha",
+              "Satish Dhawan"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is regarded as the 'Father of the Indian Space Programme'?",
+            "options": [
+              "Homi Bhabha",
+              "Vikram Sarabhai",
+              "A.P.J. Abdul Kalam",
+              "Satish Dhawan"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is known as the 'Father of the Indian Nuclear Programme'?",
+            "options": [
+              "Homi J. Bhabha",
+              "Vikram Sarabhai",
+              "C.V. Raman",
+              "Raja Ramanna"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is known as the 'Father of Indian Green Revolution'?",
+            "options": [
+              "Verghese Kurien",
+              "M.S. Swaminathan",
+              "Norman Borlaug",
+              "C. Subramaniam"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is known as the 'Father of the White Revolution' (Milk Revolution) in India?",
+            "options": [
+              "Verghese Kurien",
+              "M.S. Swaminathan",
+              "Amul founder Tribhuvandas Patel",
+              "Lal Bahadur Shastri"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was India's first Prime Minister?",
+            "options": [
+              "Sardar Patel",
+              "Jawaharlal Nehru",
+              "Rajendra Prasad",
+              "Lal Bahadur Shastri"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was India's first President?",
+            "options": [
+              "Dr. Rajendra Prasad",
+              "Jawaharlal Nehru",
+              "Dr. S. Radhakrishnan",
+              "Zakir Husain"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was the first woman Prime Minister of India?",
+            "options": [
+              "Sonia Gandhi",
+              "Indira Gandhi",
+              "Sarojini Naidu",
+              "Pratibha Patil"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was the first woman President of India?",
+            "options": [
+              "Pratibha Patil",
+              "Indira Gandhi",
+              "Sarojini Naidu",
+              "Meira Kumar"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was known as the 'Nightingale of India' for her contribution to poetry and freedom struggle?",
+            "options": [
+              "Sarojini Naidu",
+              "Kamala Das",
+              "Mahadevi Verma",
+              "Amrita Pritam"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is known as the 'Grand Old Man of India' for founding the Indian National Congress movement's early leadership?",
+            "options": [
+              "Dadabhai Naoroji",
+              "Gopal Krishna Gokhale",
+              "Surendranath Banerjee",
+              "W.C. Bonnerjee"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is known as the 'Frontier Gandhi'?",
+            "options": [
+              "Khan Abdul Ghaffar Khan",
+              "Maulana Azad",
+              "Liaquat Ali Khan",
+              "Abul Kalam Ghaznavi"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who founded the Ramakrishna Mission?",
+            "options": [
+              "Swami Vivekananda",
+              "Raja Ram Mohan Roy",
+              "Dayananda Saraswati",
+              "Ramakrishna Paramahamsa"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who founded the Arya Samaj?",
+            "options": [
+              "Raja Ram Mohan Roy",
+              "Swami Dayananda Saraswati",
+              "Swami Vivekananda",
+              "Ishwar Chandra Vidyasagar"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Countries & Currencies, National Symbols",
+        "durationMinutes": 16,
+        "questions": [
+          {
+            "q": "What is the currency of Japan?",
+            "options": [
+              "Yen",
+              "Won",
+              "Yuan",
+              "Ringgit"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the currency of the United Kingdom?",
+            "options": [
+              "Euro",
+              "Pound Sterling",
+              "Dollar",
+              "Franc"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the currency of Russia?",
+            "options": [
+              "Ruble",
+              "Rand",
+              "Krona",
+              "Peso"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the currency of Saudi Arabia?",
+            "options": [
+              "Riyal",
+              "Dinar",
+              "Dirham",
+              "Rial"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the currency of Thailand?",
+            "options": [
+              "Ringgit",
+              "Baht",
+              "Rupiah",
+              "Peso"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the currency of Indonesia?",
+            "options": [
+              "Rupiah",
+              "Ringgit",
+              "Baht",
+              "Dong"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the currency of South Korea?",
+            "options": [
+              "Yen",
+              "Won",
+              "Yuan",
+              "Dong"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the currency of China?",
+            "options": [
+              "Yen",
+              "Won",
+              "Yuan (Renminbi)",
+              "Dong"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the national animal of India?",
+            "options": [
+              "Lion",
+              "Tiger",
+              "Elephant",
+              "Leopard"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the national bird of India?",
+            "options": [
+              "Peacock",
+              "Sparrow",
+              "Parrot",
+              "Eagle"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the national flower of India?",
+            "options": [
+              "Rose",
+              "Lotus",
+              "Sunflower",
+              "Marigold"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the national fruit of India?",
+            "options": [
+              "Banana",
+              "Mango",
+              "Apple",
+              "Guava"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the national tree of India?",
+            "options": [
+              "Banyan tree",
+              "Peepal tree",
+              "Neem tree",
+              "Mango tree"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the national aquatic animal of India?",
+            "options": [
+              "River Dolphin",
+              "Gharial",
+              "Whale Shark",
+              "Green Sea Turtle"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the national game of Japan?",
+            "options": [
+              "Sumo Wrestling",
+              "Judo",
+              "Karate",
+              "Baseball"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Statue of Liberty is located in which country?",
+            "options": [
+              "United Kingdom",
+              "United States",
+              "France",
+              "Canada"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Art & Culture",
+        "durationMinutes": 16,
+        "questions": [
+          {
+            "q": "Bharatanatyam, a classical dance form, primarily originated in which state?",
+            "options": [
+              "Tamil Nadu",
+              "Kerala",
+              "Odisha",
+              "Andhra Pradesh"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Kathakali, a classical dance-drama, primarily originated in which state?",
+            "options": [
+              "Karnataka",
+              "Kerala",
+              "Tamil Nadu",
+              "Telangana"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Kathak, a classical dance form, primarily developed in which region of India?",
+            "options": [
+              "North India",
+              "South India",
+              "East India",
+              "Northeast India"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Odissi, a classical dance form, originated in which state?",
+            "options": [
+              "West Bengal",
+              "Odisha",
+              "Bihar",
+              "Jharkhand"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Kuchipudi, a classical dance form, originated in which state?",
+            "options": [
+              "Andhra Pradesh",
+              "Telangana only",
+              "Karnataka",
+              "Tamil Nadu"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Manipuri, a classical dance form, originated in which state?",
+            "options": [
+              "Manipur",
+              "Mizoram",
+              "Assam",
+              "Nagaland"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The festival of Onam, marked by boat races and floral decorations, is primarily celebrated in which state?",
+            "options": [
+              "Kerala",
+              "Tamil Nadu",
+              "Karnataka",
+              "Andhra Pradesh"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The festival of Bihu is primarily celebrated in which state?",
+            "options": [
+              "Assam",
+              "West Bengal",
+              "Odisha",
+              "Bihar"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The festival of Pongal is primarily celebrated in which state?",
+            "options": [
+              "Tamil Nadu",
+              "Kerala",
+              "Karnataka",
+              "Andhra Pradesh"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Taj Mahal, a UNESCO World Heritage Site, is located in which city?",
+            "options": [
+              "Delhi",
+              "Agra",
+              "Lucknow",
+              "Jaipur"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Khajuraho Group of Monuments, known for their sculptures and a UNESCO World Heritage Site, are located in which state?",
+            "options": [
+              "Madhya Pradesh",
+              "Uttar Pradesh",
+              "Rajasthan",
+              "Gujarat"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Ajanta and Ellora Caves, UNESCO World Heritage Sites, are located in which state?",
+            "options": [
+              "Maharashtra",
+              "Madhya Pradesh",
+              "Karnataka",
+              "Gujarat"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Sun Temple at Konark, a UNESCO World Heritage Site, is located in which state?",
+            "options": [
+              "West Bengal",
+              "Odisha",
+              "Bihar",
+              "Jharkhand"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Hampi, a UNESCO World Heritage Site associated with the Vijayanagara Empire, is located in which state?",
+            "options": [
+              "Karnataka",
+              "Andhra Pradesh",
+              "Telangana",
+              "Tamil Nadu"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Red Fort in Delhi, a UNESCO World Heritage Site, was built by which Mughal emperor?",
+            "options": [
+              "Akbar",
+              "Jahangir",
+              "Shah Jahan",
+              "Aurangzeb"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Qutub Minar, a UNESCO World Heritage Site in Delhi, was built by which ruler?",
+            "options": [
+              "Qutub-ud-din Aibak",
+              "Iltutmish",
+              "Alauddin Khilji",
+              "Firoz Shah Tughlaq"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]
