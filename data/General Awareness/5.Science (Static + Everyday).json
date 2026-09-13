@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "rrb-ssc-dsssb-science-1",
+    "title": "5.Science (Static + Everyday):RRB Technician + SSC CGL Tier-1 + DSSSB Combined Mock Test - General Science",
+    "sections": [
+      {
+        "name": "Science: Physics, Chemistry & Biology (Basic/Everyday)",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "The SI unit of force is:",
+            "options": [
+              "Joule",
+              "Newton",
+              "Watt",
+              "Pascal"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The SI unit of power is:",
+            "options": [
+              "Newton",
+              "Joule",
+              "Watt",
+              "Ampere"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The SI unit of electric current is:",
+            "options": [
+              "Volt",
+              "Ohm",
+              "Ampere",
+              "Coulomb"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The approximate speed of light in vacuum is:",
+            "options": [
+              "3 x 10^5 m/s",
+              "3 x 10^6 m/s",
+              "3 x 10^8 m/s",
+              "3 x 10^10 m/s"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'For every action, there is an equal and opposite reaction' is a statement of:",
+            "options": [
+              "Newton's First Law",
+              "Newton's Second Law",
+              "Newton's Third Law",
+              "Law of Conservation of Energy"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The most abundant gas in the Earth's atmosphere is:",
+            "options": [
+              "Oxygen",
+              "Carbon dioxide",
+              "Nitrogen",
+              "Argon"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The pH value of pure water at room temperature is:",
+            "options": [
+              "0",
+              "5",
+              "7",
+              "14"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A pH value less than 7 indicates that the substance is:",
+            "options": [
+              "Basic",
+              "Acidic",
+              "Neutral",
+              "Amphoteric"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The chemical formula of common salt is:",
+            "options": [
+              "NaOH",
+              "NaCl",
+              "Na2CO3",
+              "NaHCO3"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The chemical formula of baking soda is:",
+            "options": [
+              "NaCl",
+              "CaCO3",
+              "NaHCO3",
+              "Na2SO4"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Deficiency of which vitamin causes scurvy?",
+            "options": [
+              "Vitamin A",
+              "Vitamin B12",
+              "Vitamin C",
+              "Vitamin D"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Deficiency of which vitamin causes night blindness?",
+            "options": [
+              "Vitamin A",
+              "Vitamin B1",
+              "Vitamin C",
+              "Vitamin K"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Deficiency of which vitamin causes rickets in children?",
+            "options": [
+              "Vitamin B6",
+              "Vitamin C",
+              "Vitamin D",
+              "Vitamin E"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which cell organelle is known as the 'powerhouse of the cell'?",
+            "options": [
+              "Nucleus",
+              "Ribosome",
+              "Mitochondria",
+              "Golgi apparatus"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The basic structural and functional unit of life is:",
+            "options": [
+              "Tissue",
+              "Cell",
+              "Organ",
+              "Organ system"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which organ of the human body pumps blood throughout the body?",
+            "options": [
+              "Liver",
+              "Kidney",
+              "Heart",
+              "Lungs"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The normal body temperature of a healthy human is approximately:",
+            "options": [
+              "35°C",
+              "37°C",
+              "40°C",
+              "42°C"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The number of chromosomes in a normal human somatic cell is:",
+            "options": [
+              "23",
+              "44",
+              "46",
+              "48"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which blood group is considered the universal donor?",
+            "options": [
+              "A positive",
+              "AB positive",
+              "O negative",
+              "B negative"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which blood group is considered the universal recipient?",
+            "options": [
+              "O negative",
+              "A negative",
+              "AB positive",
+              "B positive"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The SI unit of electrical resistance is:",
+            "options": [
+              "Ampere",
+              "Volt",
+              "Ohm",
+              "Watt"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Ohm's Law relates voltage, current and:",
+            "options": [
+              "Power",
+              "Resistance",
+              "Frequency",
+              "Capacitance"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Sound travels fastest in which medium?",
+            "options": [
+              "Vacuum",
+              "Air (gas)",
+              "Water (liquid)",
+              "Solids"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which gas is commonly used in fire extinguishers?",
+            "options": [
+              "Oxygen",
+              "Hydrogen",
+              "Carbon dioxide",
+              "Nitrogen"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The process by which green plants prepare their own food using sunlight is called:",
+            "options": [
+              "Respiration",
+              "Transpiration",
+              "Photosynthesis",
+              "Digestion"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Science: Scientific Instruments, Inventions & Discoveries",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "Which instrument is used to measure atmospheric pressure?",
+            "options": [
+              "Thermometer",
+              "Barometer",
+              "Hygrometer",
+              "Manometer"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which instrument is used to measure humidity in the air?",
+            "options": [
+              "Barometer",
+              "Hygrometer",
+              "Anemometer",
+              "Seismograph"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which instrument is used to measure temperature?",
+            "options": [
+              "Thermometer",
+              "Barometer",
+              "Ammeter",
+              "Voltmeter"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which instrument is used to measure blood pressure?",
+            "options": [
+              "Stethoscope",
+              "Sphygmomanometer",
+              "Thermometer",
+              "Electrocardiograph"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which instrument is used to record the intensity and origin of earthquakes?",
+            "options": [
+              "Barometer",
+              "Anemometer",
+              "Seismograph",
+              "Hygrometer"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which instrument is used to measure electric current in a circuit?",
+            "options": [
+              "Voltmeter",
+              "Ammeter",
+              "Galvanometer only",
+              "Ohmmeter"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which instrument is used to measure electric potential difference (voltage)?",
+            "options": [
+              "Ammeter",
+              "Voltmeter",
+              "Wattmeter",
+              "Anemometer"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which instrument is used to view distant celestial objects?",
+            "options": [
+              "Microscope",
+              "Periscope",
+              "Telescope",
+              "Stethoscope"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which instrument is used to view very small/microscopic objects?",
+            "options": [
+              "Telescope",
+              "Microscope",
+              "Barometer",
+              "Sextant"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is credited with inventing the telephone?",
+            "options": [
+              "Thomas Alva Edison",
+              "Alexander Graham Bell",
+              "Guglielmo Marconi",
+              "Nikola Tesla"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is credited with developing the first commercially practical incandescent light bulb?",
+            "options": [
+              "Michael Faraday",
+              "James Watt",
+              "Thomas Alva Edison",
+              "Alexander Graham Bell"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who formulated the law of universal gravitation?",
+            "options": [
+              "Galileo Galilei",
+              "Isaac Newton",
+              "Albert Einstein",
+              "Johannes Kepler"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who discovered penicillin, the first widely used antibiotic?",
+            "options": [
+              "Louis Pasteur",
+              "Robert Koch",
+              "Alexander Fleming",
+              "Edward Jenner"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is regarded as the 'Father of the Computer' for designing the analytical engine?",
+            "options": [
+              "Alan Turing",
+              "Charles Babbage",
+              "John von Neumann",
+              "Ada Lovelace"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is credited with inventing the World Wide Web?",
+            "options": [
+              "Bill Gates",
+              "Steve Jobs",
+              "Tim Berners-Lee",
+              "Vint Cerf"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who discovered X-rays?",
+            "options": [
+              "Marie Curie",
+              "Wilhelm Conrad Rontgen",
+              "Ernest Rutherford",
+              "Henri Becquerel"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is credited with the discovery of radioactivity?",
+            "options": [
+              "Marie Curie",
+              "Henri Becquerel",
+              "Niels Bohr",
+              "J. J. Thomson"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who proposed the Theory of Relativity?",
+            "options": [
+              "Isaac Newton",
+              "Max Planck",
+              "Albert Einstein",
+              "Erwin Schrodinger"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which instrument is used to measure wind speed?",
+            "options": [
+              "Barometer",
+              "Anemometer",
+              "Hygrometer",
+              "Seismograph"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which instrument is used to measure the distance travelled by a vehicle?",
+            "options": [
+              "Speedometer",
+              "Odometer",
+              "Tachometer",
+              "Altimeter"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is credited with inventing dynamite?",
+            "options": [
+              "Alfred Nobel",
+              "Thomas Edison",
+              "James Watt",
+              "Michael Faraday"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who is credited with developing a significantly improved, practical steam engine?",
+            "options": [
+              "Isaac Newton",
+              "James Watt",
+              "George Stephenson",
+              "Michael Faraday"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which instrument is used to measure the depth of the ocean using sound waves?",
+            "options": [
+              "Barometer",
+              "Fathometer (Echo sounder)",
+              "Hygrometer",
+              "Anemometer"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which instrument is used to test/measure hearing ability?",
+            "options": [
+              "Audiometer",
+              "Sphygmomanometer",
+              "Barometer",
+              "Lactometer"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who are credited with discovering the double-helix structure of DNA?",
+            "options": [
+              "Gregor Mendel and Charles Darwin",
+              "James Watson and Francis Crick",
+              "Louis Pasteur and Robert Koch",
+              "Alexander Fleming and Robert Hooke"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Science: Recent Developments - ISRO, DRDO, Biotech & Space",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "Chandrayaan-3 successfully soft-landed near which region of the Moon in August 2023?",
+            "options": [
+              "Equatorial region",
+              "North Pole region",
+              "South Pole region",
+              "Far side of the Moon"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the name of the lander of the Chandrayaan-3 mission?",
+            "options": [
+              "Pragyan",
+              "Vikram",
+              "Vyommitra",
+              "Aryabhata"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the name of the rover of the Chandrayaan-3 mission?",
+            "options": [
+              "Vikram",
+              "Vyommitra",
+              "Pragyan",
+              "Chandra"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "August 23 is observed every year in India as:",
+            "options": [
+              "National Science Day",
+              "National Technology Day",
+              "National Space Day",
+              "ISRO Foundation Day"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Aditya-L1 mission, launched by ISRO, is India's mission to study:",
+            "options": [
+              "The Moon",
+              "Mars",
+              "The Sun",
+              "Venus"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Aditya-L1 has been placed in a halo orbit around which point?",
+            "options": [
+              "Geostationary point",
+              "Lagrange Point 1 (L1)",
+              "Lagrange Point 2 (L2)",
+              "Perihelion point"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India's first mission to Mars, launched in 2013, is popularly known as:",
+            "options": [
+              "Chandrayaan",
+              "Mangalyaan (Mars Orbiter Mission)",
+              "Aditya",
+              "Shukrayaan"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Mars Orbiter Mission made India the first Asian nation to:",
+            "options": [
+              "Land a rover on Mars",
+              "Reach Mars orbit",
+              "Launch a crewed Mars mission",
+              "Establish a Mars base"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "NISAR, launched in 2025, is a joint Earth-observation satellite mission of ISRO with which agency?",
+            "options": [
+              "ESA (European Space Agency)",
+              "JAXA (Japan)",
+              "NASA (USA)",
+              "Roscosmos (Russia)"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The SpaDeX mission, successfully demonstrated by ISRO in January 2025, showcased:",
+            "options": [
+              "Reusable launch vehicle technology",
+              "In-space docking of two satellites",
+              "Human spaceflight capability",
+              "Deep space communication"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "With the success of SpaDeX, India became the __ country to demonstrate in-space docking technology.",
+            "options": [
+              "2nd",
+              "3rd",
+              "4th",
+              "5th"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Gaganyaan is India's mission to achieve:",
+            "options": [
+              "First interplanetary probe",
+              "First human spaceflight",
+              "First reusable rocket",
+              "First space telescope"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was the first Indian citizen to travel to space (in 1984)?",
+            "options": [
+              "Kalpana Chawla",
+              "Sunita Williams",
+              "Rakesh Sharma",
+              "Vikram Sarabhai"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "BrahMos, the supersonic cruise missile, is a joint venture between India and which country?",
+            "options": [
+              "USA",
+              "Israel",
+              "Russia",
+              "France"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "BrahMos is classified as a:",
+            "options": [
+              "Ballistic missile",
+              "Supersonic cruise missile",
+              "Surface-to-air missile",
+              "Anti-tank guided missile"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Agni-V, developed by DRDO, is a type of:",
+            "options": [
+              "Short-range surface-to-air missile",
+              "Long-range/intercontinental ballistic missile",
+              "Anti-satellite missile only",
+              "Cruise missile for naval use only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which organisation is primarily responsible for developing India's indigenous missile systems?",
+            "options": [
+              "ISRO",
+              "DRDO",
+              "BARC",
+              "CSIR"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "ZyCoV-D, developed in India during the COVID-19 pandemic, is notable as:",
+            "options": [
+              "The first mRNA vaccine in the world",
+              "The world's first plasmid DNA vaccine against COVID-19",
+              "The first oral polio-type vaccine",
+              "The first live attenuated COVID vaccine"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Covaxin, an indigenous COVID-19 vaccine, was developed by Bharat Biotech in collaboration with:",
+            "options": [
+              "DRDO",
+              "ICMR-National Institute of Virology",
+              "ISRO",
+              "AIIMS Delhi alone"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Genome India Project primarily aims to:",
+            "options": [
+              "Launch satellites for genetic research",
+              "Create a reference database of genetic variations in the Indian population",
+              "Develop new vaccines only",
+              "Map ocean biodiversity"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "INS Vikrant, commissioned in 2022, is significant as India's:",
+            "options": [
+              "First nuclear submarine",
+              "First indigenously built aircraft carrier",
+              "First stealth destroyer",
+              "First amphibious warship"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Tejas, developed by HAL, is India's indigenously designed:",
+            "options": [
+              "Heavy transport aircraft",
+              "Light Combat Aircraft",
+              "Attack helicopter",
+              "Unmanned aerial vehicle only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Chandrayaan-1, launched in 2008, is credited with:",
+            "options": [
+              "Landing the first rover on the Moon",
+              "Discovering evidence of water molecules on the Moon",
+              "The first Indian human spaceflight",
+              "Establishing an Indian space station"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is India's heaviest operational launch vehicle, used for missions like Chandrayaan-3?",
+            "options": [
+              "PSLV",
+              "GSLV Mk II",
+              "LVM3 (GSLV Mk III)",
+              "SSLV"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Small Satellite Launch Vehicle (SSLV) developed by ISRO is primarily designed to launch:",
+            "options": [
+              "Heavy communication satellites",
+              "Small satellites into low earth orbit",
+              "Crewed space missions",
+              "Interplanetary probes"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Science: Environment & Ecology",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "The scientific study of the interaction between organisms and their environment is called:",
+            "options": [
+              "Genetics",
+              "Ecology",
+              "Taxonomy",
+              "Physiology"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which gas is primarily responsible for global warming?",
+            "options": [
+              "Oxygen",
+              "Nitrogen",
+              "Carbon dioxide",
+              "Helium"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which atmospheric layer protects the Earth from harmful ultraviolet (UV) radiation?",
+            "options": [
+              "Troposphere",
+              "Ozone layer",
+              "Ionosphere",
+              "Exosphere"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The ozone layer is mainly found in which layer of the atmosphere?",
+            "options": [
+              "Troposphere",
+              "Mesosphere",
+              "Stratosphere",
+              "Thermosphere"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Montreal Protocol is an international agreement aimed at:",
+            "options": [
+              "Reducing carbon emissions",
+              "Protecting the ozone layer",
+              "Conserving wetlands",
+              "Banning nuclear testing"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Kyoto Protocol primarily deals with:",
+            "options": [
+              "Protection of biodiversity",
+              "Reduction of greenhouse gas emissions",
+              "Control of ocean pollution",
+              "Ban on deforestation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Paris Agreement aims to limit the global average temperature rise to well below __ above pre-industrial levels.",
+            "options": [
+              "1°C",
+              "2°C",
+              "3°C",
+              "4°C"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is considered a major biodiversity hotspot in India?",
+            "options": [
+              "Thar Desert",
+              "Western Ghats",
+              "Deccan Plateau",
+              "Gangetic Plains"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The term describing the variety of life forms found in a particular habitat is:",
+            "options": [
+              "Ecology",
+              "Biodiversity",
+              "Symbiosis",
+              "Adaptation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Along with carbon dioxide, which gas is a major greenhouse gas?",
+            "options": [
+              "Argon",
+              "Methane",
+              "Neon",
+              "Hydrogen"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "BOD, a term used in water quality assessment, stands for:",
+            "options": [
+              "Biological Oxygen Demand",
+              "Biochemical Organic Deposit",
+              "Basic Ozone Density",
+              "Biological Organic Discharge"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The large-scale clearing or removal of forests is termed:",
+            "options": [
+              "Afforestation",
+              "Deforestation",
+              "Reforestation",
+              "Desertification"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "World Environment Day is observed every year on:",
+            "options": [
+              "April 22",
+              "June 5",
+              "September 16",
+              "December 11"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "World Ozone Day is observed every year on:",
+            "options": [
+              "June 5",
+              "August 9",
+              "September 16",
+              "October 4"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Chipko Movement in India was primarily associated with:",
+            "options": [
+              "Anti-pollution protests",
+              "Forest and tree conservation",
+              "Wildlife hunting bans",
+              "River cleaning campaigns"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Ramsar sites, as recognized internationally, are related to the conservation of:",
+            "options": [
+              "Forests",
+              "Wetlands",
+              "Coral reefs",
+              "Deserts"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Red Data Book maintained by the IUCN contains information about:",
+            "options": [
+              "Newly discovered species",
+              "Endangered and threatened species",
+              "Extinct species only",
+              "Domesticated species"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Project Tiger, aimed at conserving India's tiger population, was launched in the year:",
+            "options": [
+              "1969",
+              "1973",
+              "1980",
+              "1992"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The National Green Tribunal (NGT) of India was established in the year:",
+            "options": [
+              "2006",
+              "2010",
+              "2014",
+              "2019"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Acid rain is primarily caused by high concentrations of which pollutants in the atmosphere?",
+            "options": [
+              "Carbon monoxide and methane",
+              "Sulphur dioxide and nitrogen oxides",
+              "Chlorofluorocarbons",
+              "Ozone and oxygen"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Eutrophication refers to:",
+            "options": [
+              "Depletion of ozone layer",
+              "Excessive nutrient enrichment of water bodies causing algal bloom",
+              "Melting of polar ice caps",
+              "Loss of forest cover"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The term 'carbon footprint' refers to:",
+            "options": [
+              "The area covered by carbon deposits",
+              "The total greenhouse gases emitted due to an individual's/organisation's activities",
+              "A type of soil pollution",
+              "The weight of carbon in the atmosphere"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which rainforest is popularly referred to as the 'lungs of the Earth'?",
+            "options": [
+              "Congo Rainforest",
+              "Amazon Rainforest",
+              "Sundarbans",
+              "Western Ghats forest"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Bishnoi community of Rajasthan is historically known for their efforts in:",
+            "options": [
+              "Water conservation only",
+              "Wildlife and tree conservation",
+              "Solar energy development",
+              "Organic farming promotion"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Biosphere Reserves in India are primarily designated to conserve:",
+            "options": [
+              "Only endangered animal species",
+              "Ecosystems, biodiversity, and traditional ways of life",
+              "Mineral resources",
+              "Urban green spaces only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

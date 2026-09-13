@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "combined-economy-mock1",
+    "title": "4. Economy:RRB + SSC CGL + DSSSB Combined Economy Mock Test",
+    "sections": [
+      {
+        "name": "RBI & Banking",
+        "durationMinutes": 40,
+        "questions": [
+          {
+            "q": "The Reserve Bank of India (RBI) was established in which year?",
+            "options": [
+              "1935",
+              "1947",
+              "1949",
+              "1950"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Reserve Bank of India was nationalized in which year?",
+            "options": [
+              "1935",
+              "1947",
+              "1949",
+              "1955"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Where is the headquarters of the Reserve Bank of India located?",
+            "options": [
+              "New Delhi",
+              "Mumbai",
+              "Kolkata",
+              "Chennai"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was the first Governor of the Reserve Bank of India?",
+            "options": [
+              "Osborne Smith",
+              "C.D. Deshmukh",
+              "Benegal Rama Rau",
+              "James Braid Taylor"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The RBI acts as the banker to which of the following?",
+            "options": [
+              "Only commercial banks",
+              "The Government of India and state governments",
+              "Only foreign banks",
+              "Only cooperative banks"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT a function of the RBI?",
+            "options": [
+              "Issuing currency notes",
+              "Regulating monetary policy",
+              "Collecting income tax",
+              "Acting as banker to banks"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The repo rate refers to which of the following?",
+            "options": [
+              "The rate at which RBI lends money to commercial banks",
+              "The rate at which commercial banks lend to the public",
+              "The rate of interest on savings accounts",
+              "The rate at which RBI borrows from the government"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The reverse repo rate refers to which of the following?",
+            "options": [
+              "The rate at which RBI borrows money from commercial banks",
+              "The rate at which banks lend to businesses",
+              "The rate at which the government borrows from RBI",
+              "The interest rate on fixed deposits"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An increase in the repo rate generally leads to which of the following?",
+            "options": [
+              "Cheaper loans and higher inflation",
+              "Costlier loans and lower inflation (contractionary effect)",
+              "No effect on the economy",
+              "Immediate increase in GDP growth"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Cash Reserve Ratio (CRR) refers to which of the following?",
+            "options": [
+              "The percentage of deposits banks must keep as cash with RBI",
+              "The percentage of profit banks must declare as dividend",
+              "The ratio of loans to deposits in a bank",
+              "The minimum capital a bank must maintain"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Statutory Liquidity Ratio (SLR) refers to which of the following?",
+            "options": [
+              "The reserve banks must maintain in the form of cash, gold or approved securities",
+              "The rate of interest on government bonds",
+              "The minimum wage banks must pay employees",
+              "The percentage of foreign investment allowed in banks"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Monetary Policy Committee (MPC) of the RBI primarily decides on which of the following?",
+            "options": [
+              "Fiscal deficit targets",
+              "The policy repo rate",
+              "Income tax slabs",
+              "Government subsidy allocation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Monetary Policy Committee of RBI consists of how many members?",
+            "options": [
+              "4",
+              "6",
+              "8",
+              "10"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The RBI's inflation targeting framework primarily aims to keep retail inflation (CPI) within which broad range?",
+            "options": [
+              "0-2%",
+              "2-6%",
+              "6-10%",
+              "10-15%"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Bank Rate, as used by RBI, refers to which of the following?",
+            "options": [
+              "The rate at which RBI lends to banks without any collateral for long-term purposes",
+              "The rate at which the government taxes banks",
+              "The interest rate on savings accounts",
+              "The rate of GST charged on banking services"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Open Market Operations (OMO) conducted by RBI refer to which of the following?",
+            "options": [
+              "Buying and selling of government securities to regulate money supply",
+              "Direct lending to the public",
+              "Regulation of stock markets",
+              "Collection of income tax"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following banks is known as the 'lender of last resort'?",
+            "options": [
+              "State Bank of India",
+              "Reserve Bank of India",
+              "NABARD",
+              "Punjab National Bank"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "NABARD, which focuses on rural and agricultural credit, was established in which year?",
+            "options": [
+              "1969",
+              "1982",
+              "1990",
+              "1995"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "NABARD stands for which of the following?",
+            "options": [
+              "National Bank for Agriculture and Rural Development",
+              "National Bureau of Agricultural Research and Development",
+              "National Association for Banking and Rural Development",
+              "National Bank for Applied Research and Development"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which institution regulates and supervises Non-Banking Financial Companies (NBFCs) in India?",
+            "options": [
+              "SEBI",
+              "RBI",
+              "IRDAI",
+              "PFRDA"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Securities and Exchange Board of India (SEBI) primarily regulates which of the following?",
+            "options": [
+              "Banking sector",
+              "Securities and capital markets",
+              "Insurance sector",
+              "Pension funds"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Insurance Regulatory and Development Authority of India (IRDAI) regulates which sector?",
+            "options": [
+              "Banking sector",
+              "Stock markets",
+              "Insurance sector",
+              "Mutual funds"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Bank nationalization in India first took place in which year?",
+            "options": [
+              "1955",
+              "1969",
+              "1980",
+              "1991"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "How many banks were nationalized in the first phase of bank nationalization in 1969?",
+            "options": [
+              "6",
+              "14",
+              "20",
+              "27"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The second phase of bank nationalization took place in which year?",
+            "options": [
+              "1969",
+              "1975",
+              "1980",
+              "1991"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which is the largest public sector bank in India by assets?",
+            "options": [
+              "Punjab National Bank",
+              "State Bank of India",
+              "Bank of Baroda",
+              "Canara Bank"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Deposit Insurance and Credit Guarantee Corporation (DICGC) is a subsidiary of which institution?",
+            "options": [
+              "SEBI",
+              "RBI",
+              "NABARD",
+              "Ministry of Finance"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As per DICGC rules, deposits in a bank are insured up to what amount per depositor per bank?",
+            "options": [
+              "₹1 lakh",
+              "₹5 lakh",
+              "₹10 lakh",
+              "₹15 lakh"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which committee's recommendations led to the establishment of Regional Rural Banks (RRBs) in India?",
+            "options": [
+              "Narasimham Committee",
+              "Narasimhan Working Group on Rural Banks",
+              "Rangarajan Committee",
+              "Chakravarty Committee"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Regional Rural Banks (RRBs) were established in which year?",
+            "options": [
+              "1969",
+              "1975",
+              "1980",
+              "1991"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The National Payments Corporation of India (NPCI) is known for developing which of the following?",
+            "options": [
+              "Unified Payments Interface (UPI)",
+              "Income tax e-filing system",
+              "Aadhaar system",
+              "GST Network"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is a function of commercial banks but NOT of the central bank (RBI)?",
+            "options": [
+              "Issuing currency",
+              "Accepting deposits from the public and lending to them",
+              "Regulating money supply",
+              "Acting as banker to the government"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The term 'Marginal Standing Facility (MSF)' refers to which of the following?",
+            "options": [
+              "A facility under which banks can borrow overnight funds from RBI against government securities",
+              "A scheme for farmer loans",
+              "A tax benefit scheme",
+              "A subsidy on housing loans"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Demonetisation of ₹500 and ₹1000 currency notes in India was carried out in which year?",
+            "options": [
+              "2014",
+              "2016",
+              "2018",
+              "2020"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Basel Norms, which banks must comply with, primarily relate to which of the following?",
+            "options": [
+              "Capital adequacy and risk management standards for banks",
+              "Foreign trade regulations",
+              "Income tax slabs",
+              "Agricultural subsidy norms"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Priority Sector Lending (PSL) by banks in India primarily focuses on providing credit to which of the following sectors?",
+            "options": [
+              "Large corporates only",
+              "Agriculture, MSMEs, education, housing and weaker sections",
+              "Only export-oriented industries",
+              "Only the IT sector"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which body issues currency notes in India (other than the one-rupee note and coins)?",
+            "options": [
+              "Ministry of Finance",
+              "Reserve Bank of India",
+              "State Bank of India",
+              "NITI Aayog"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The one-rupee note and coins in India are issued by which authority?",
+            "options": [
+              "Reserve Bank of India",
+              "Ministry of Finance (Government of India)",
+              "State Bank of India",
+              "Securities and Exchange Board of India"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following best describes 'Non-Performing Assets (NPAs)' in banking?",
+            "options": [
+              "Loans on which interest or principal payment is overdue for a specified period",
+              "Assets that generate the highest profit for banks",
+              "Government bonds held by banks",
+              "Fixed deposits of customers"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which committee is associated with recommendations on banking sector reforms in India in the early 1990s?",
+            "options": [
+              "Narasimham Committee",
+              "Chelliah Committee",
+              "Kelkar Committee",
+              "Rangarajan Committee"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Basic Economic Concepts",
+        "durationMinutes": 30,
+        "questions": [
+          {
+            "q": "GDP stands for which of the following?",
+            "options": [
+              "Gross Domestic Product",
+              "Gross Development Plan",
+              "General Domestic Price",
+              "Government Development Program"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Gross Domestic Product (GDP) measures which of the following?",
+            "options": [
+              "The total value of goods and services produced within a country's borders in a given period",
+              "The total income earned by a country's citizens abroad",
+              "The total tax collected by the government",
+              "The total value of a country's exports only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "GNP stands for which of the following?",
+            "options": [
+              "Gross National Product",
+              "General National Policy",
+              "Gross Net Profit",
+              "Government National Product"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "GNP differs from GDP mainly by including which of the following?",
+            "options": [
+              "Net income earned by residents from abroad, minus income earned by non-residents domestically",
+              "Only government spending",
+              "Only foreign direct investment",
+              "Only export earnings"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which organization in India is responsible for calculating and releasing GDP data?",
+            "options": [
+              "Reserve Bank of India",
+              "National Statistical Office (NSO)",
+              "NITI Aayog",
+              "Ministry of Finance"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Per capita income is calculated by which of the following methods?",
+            "options": [
+              "Dividing national income by total population",
+              "Dividing GDP by total exports",
+              "Multiplying GDP by inflation rate",
+              "Dividing tax revenue by population"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The First Five-Year Plan of India was launched in which year?",
+            "options": [
+              "1947",
+              "1950",
+              "1951",
+              "1955"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The First Five-Year Plan of India primarily focused on which sector?",
+            "options": [
+              "Agriculture",
+              "Heavy industries",
+              "Information technology",
+              "Services sector"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Second Five-Year Plan, based on the Mahalanobis model, primarily emphasized which sector?",
+            "options": [
+              "Agriculture",
+              "Heavy and basic industries",
+              "Tourism",
+              "Retail trade"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which body was responsible for formulating India's Five-Year Plans before being replaced?",
+            "options": [
+              "Finance Commission",
+              "Planning Commission",
+              "NITI Aayog",
+              "Reserve Bank of India"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Planning Commission of India was established in which year?",
+            "options": [
+              "1947",
+              "1950",
+              "1951",
+              "1955"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "NITI Aayog, which replaced the Planning Commission, was established in which year?",
+            "options": [
+              "2014",
+              "2015",
+              "2016",
+              "2017"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "NITI Aayog stands for which of the following?",
+            "options": [
+              "National Institution for Transforming India",
+              "National Institute of Trade and Industry",
+              "National Investment and Trade Institution",
+              "National Infrastructure and Tax Institution"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who serves as the ex-officio Chairperson of NITI Aayog?",
+            "options": [
+              "Finance Minister",
+              "Prime Minister",
+              "President of India",
+              "RBI Governor"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Unlike the Planning Commission, NITI Aayog primarily functions as which of the following?",
+            "options": [
+              "A fund-allocating body",
+              "A policy think tank without fund allocation powers",
+              "A tax collection body",
+              "A banking regulator"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Twelfth (12th) Five-Year Plan of India covered which period?",
+            "options": [
+              "2007-2012",
+              "2012-2017",
+              "2017-2022",
+              "2002-2007"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following best defines 'inflation'?",
+            "options": [
+              "A sustained increase in the general price level of goods and services",
+              "A decrease in the value of exports",
+              "An increase in the exchange rate of currency",
+              "A decrease in government spending"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Deflation' refers to which of the following?",
+            "options": [
+              "A sustained decrease in the general price level",
+              "An increase in tax rates",
+              "A rise in unemployment only",
+              "An increase in GDP growth rate"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Consumer Price Index (CPI) is primarily used to measure which of the following?",
+            "options": [
+              "Retail inflation",
+              "Wholesale inflation",
+              "Industrial production growth",
+              "Foreign exchange reserves"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Wholesale Price Index (WPI) primarily measures price changes at which level?",
+            "options": [
+              "Retail/consumer level",
+              "Wholesale/producer level",
+              "Export level only",
+              "Import level only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Fiscal deficit' refers to which of the following?",
+            "options": [
+              "The excess of total government expenditure over total revenue (excluding borrowings)",
+              "The excess of exports over imports",
+              "The excess of savings over investment",
+              "The excess of tax revenue over expenditure"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Disinvestment' by the government generally refers to which of the following?",
+            "options": [
+              "Selling government stakes in public sector enterprises",
+              "Increasing government spending on infrastructure",
+              "Reducing income tax rates",
+              "Increasing subsidies to farmers"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which sector, as per common classification, includes agriculture and allied activities?",
+            "options": [
+              "Primary sector",
+              "Secondary sector",
+              "Tertiary sector",
+              "Quaternary sector"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The manufacturing and industrial sector is classified under which sector of the economy?",
+            "options": [
+              "Primary sector",
+              "Secondary sector",
+              "Tertiary sector",
+              "Informal sector only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Banking, education, and healthcare services are classified under which sector of the economy?",
+            "options": [
+              "Primary sector",
+              "Secondary sector",
+              "Tertiary (services) sector",
+              "Extraction sector"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Mixed economy', as followed by India, refers to which of the following?",
+            "options": [
+              "Coexistence of both public and private sector participation",
+              "An economy run entirely by the government",
+              "An economy with no government intervention",
+              "An economy based only on agriculture"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Green Revolution in India, which boosted agricultural production, began primarily in which decade?",
+            "options": [
+              "1950s",
+              "1960s",
+              "1980s",
+              "1990s"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Economic liberalization, privatization, and globalization (LPG reforms) in India were introduced in which year?",
+            "options": [
+              "1985",
+              "1991",
+              "1995",
+              "2000"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who was the Finance Minister of India during the 1991 economic reforms?",
+            "options": [
+              "Yashwant Sinha",
+              "Manmohan Singh",
+              "P. Chidambaram",
+              "Arun Jaitley"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Human Development Index (HDI), used to rank countries, is published by which organization?",
+            "options": [
+              "World Bank",
+              "United Nations Development Programme (UNDP)",
+              "International Monetary Fund",
+              "World Trade Organization"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'Finance Commission' of India is primarily concerned with which of the following?",
+            "options": [
+              "Distribution of tax revenue between the Union and the States",
+              "Formulating five-year plans",
+              "Regulating the stock market",
+              "Issuing currency notes"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Finance Commission is constituted by the President of India after every how many years?",
+            "options": [
+              "3 years",
+              "5 years",
+              "7 years",
+              "10 years"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "GST (Goods and Services Tax) in India was implemented in which year?",
+            "options": [
+              "2015",
+              "2016",
+              "2017",
+              "2018"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "GST replaced which of the following types of taxes primarily?",
+            "options": [
+              "Multiple indirect taxes like VAT, excise duty, and service tax",
+              "Income tax",
+              "Corporate tax",
+              "Wealth tax"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following best describes 'mixed economy planning' concepts adopted through Five-Year Plans in India?",
+            "options": [
+              "A blend of socialist planning with private sector participation",
+              "Complete state ownership of all industries",
+              "Complete free-market capitalism with no planning",
+              "An economy based purely on foreign aid"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Union Budget & Economic Survey",
+        "durationMinutes": 25,
+        "questions": [
+          {
+            "q": "The Union Budget of India is presented in which house of Parliament first?",
+            "options": [
+              "Rajya Sabha",
+              "Lok Sabha",
+              "Both houses jointly",
+              "State Legislative Assembly"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which article of the Indian Constitution deals with the Union Budget (Annual Financial Statement)?",
+            "options": [
+              "Article 110",
+              "Article 112",
+              "Article 265",
+              "Article 280"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Union Budget in India is typically presented on which date, as per the current practice?",
+            "options": [
+              "1 January",
+              "1 February",
+              "1 March",
+              "1 April"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Indian financial year runs from which period?",
+            "options": [
+              "January to December",
+              "April to March",
+              "July to June",
+              "October to September"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Who presents the Union Budget in Parliament?",
+            "options": [
+              "Prime Minister",
+              "Finance Minister",
+              "President of India",
+              "RBI Governor"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The practice of presenting a separate Railway Budget from the Union Budget was discontinued in which year?",
+            "options": [
+              "2014",
+              "2017",
+              "2019",
+              "2020"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Economic Survey of India is typically released in Parliament in relation to the Union Budget at which time?",
+            "options": [
+              "A day or two before the Union Budget",
+              "A month after the Budget",
+              "At the end of the financial year",
+              "Six months before the Budget"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Economic Survey of India is prepared under the guidance of which official?",
+            "options": [
+              "Chief Economic Adviser",
+              "RBI Governor",
+              "Cabinet Secretary",
+              "Comptroller and Auditor General"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Economic Survey primarily serves which of the following purposes?",
+            "options": [
+              "Reviews the performance of the economy over the past year and outlines future policy directions",
+              "Declares new tax rates directly",
+              "Functions as a legally binding financial document",
+              "Replaces the need for the Union Budget"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'Vote on Account' in the Indian budgetary process refers to which of the following?",
+            "options": [
+              "A provision allowing the government to withdraw funds for a short period before the full budget is passed",
+              "A permanent budget requiring no renewal",
+              "A tax collection method",
+              "A type of foreign loan"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'Interim Budget' is typically presented under which circumstance?",
+            "options": [
+              "In an election year, before a new government takes charge",
+              "Every alternate year",
+              "Only during a financial emergency",
+              "Only when the fiscal deficit is high"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following best describes 'revenue expenditure' in the Union Budget?",
+            "options": [
+              "Expenditure that does not create assets or reduce liabilities, such as salaries and subsidies",
+              "Expenditure only on infrastructure projects",
+              "Expenditure on repaying loans only",
+              "Expenditure that always creates new assets"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Capital expenditure' in the Union Budget primarily refers to which of the following?",
+            "options": [
+              "Spending that creates assets or reduces liabilities, such as infrastructure investment",
+              "Spending on daily administrative salaries",
+              "Spending on interest payments only",
+              "Spending on pensions only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The term 'revenue deficit' refers to which of the following?",
+            "options": [
+              "The excess of revenue expenditure over revenue receipts",
+              "The excess of capital expenditure over capital receipts",
+              "The excess of exports over imports",
+              "The excess of savings over investment"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'Consolidated Fund of India' includes which of the following?",
+            "options": [
+              "All revenues received and loans raised by the government",
+              "Only funds collected from income tax",
+              "Only funds meant for defense spending",
+              "Only state government revenues"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'Contingency Fund of India' is used for which of the following purposes?",
+            "options": [
+              "To meet unforeseen expenditure pending authorization by Parliament",
+              "To pay salaries of Members of Parliament",
+              "To fund state elections",
+              "To pay for foreign trips of ministers"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which committee of Parliament examines the Union Budget in detail after its presentation?",
+            "options": [
+              "Public Accounts Committee",
+              "Estimates Committee",
+              "Standing Committees on Finance and related ministries",
+              "Election Commission"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'Finance Bill' presented along with the Union Budget primarily deals with which of the following?",
+            "options": [
+              "Proposed changes in taxation for the coming financial year",
+              "Defense procurement plans",
+              "State boundary changes",
+              "Judicial appointments"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The term 'disinvestment target' as mentioned in the Union Budget refers to which of the following?",
+            "options": [
+              "The government's planned revenue from selling stakes in public sector undertakings",
+              "The target for reducing income tax rates",
+              "The target for increasing import duties",
+              "The target for reducing the number of government employees"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following best describes the term 'fiscal policy'?",
+            "options": [
+              "Government's policy relating to taxation and public expenditure",
+              "RBI's policy relating to interest rates and money supply",
+              "Policy relating to foreign exchange reserves only",
+              "Policy relating to import-export tariffs only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Monetary policy', as distinguished from fiscal policy, is primarily formulated by which institution?",
+            "options": [
+              "Ministry of Finance",
+              "Reserve Bank of India",
+              "NITI Aayog",
+              "Parliament directly"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The 'Direct Tax Code', discussed in the context of Union Budgets, aims to simplify which of the following?",
+            "options": [
+              "Direct taxes such as income tax and corporate tax",
+              "Indirect taxes like GST only",
+              "Customs duties only",
+              "Property registration fees"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Comptroller and Auditor General (CAG) of India primarily performs which of the following functions?",
+            "options": [
+              "Audits the accounts of the Union and State governments",
+              "Formulates the Union Budget",
+              "Sets the repo rate",
+              "Collects income tax"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The FRBM Act, relevant to Union Budget discipline, stands for which of the following?",
+            "options": [
+              "Fiscal Responsibility and Budget Management Act",
+              "Foreign Reserve and Bank Management Act",
+              "Financial Regulation and Banking Monitoring Act",
+              "Fiscal Reform and Budget Modernization Act"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The FRBM Act was enacted in which year with the aim of ensuring fiscal discipline?",
+            "options": [
+              "1999",
+              "2003",
+              "2008",
+              "2012"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]
