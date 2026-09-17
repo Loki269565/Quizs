@@ -1,0 +1,261 @@
+[
+  {
+    "id": "dsssb-tgt-cs-general-ability",
+    "title": "Test :5 DSSSB TGT Computer Science - General Intelligence & Reasoning Ability (1 Aug 2021)",
+    "sections": [
+      {
+        "name": "General Intelligence & Reasoning Ability",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "A series is given with one term missing. Select the correct alternative that will complete the series: GRZ, KWV, OBR, SGN, ?",
+            "options": [
+              "XMJ",
+              "XLJ",
+              "WMJ",
+              "WLJ"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "By interchanging the given two numbers (5 and 2) which of the following equation will be incorrect?",
+            "options": [
+              "6 + 8 × 2 ÷ 4 – 5 = 14",
+              "8 + 6 × 2 ÷ 5 – 4 = 19",
+              "2 + 8 × 7 ÷ 4 – 5 = 17",
+              "5 + 2 × 6 ÷ 4 – 1 = 7"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "note": "Could not be reliably verified from the source text; treat as unconfirmed."
+          },
+          {
+            "q": "In the following question, select the related letters from the given alternatives: KOM : LPN :: TIP : ?",
+            "options": [
+              "UHQ",
+              "VJQ",
+              "VHQ",
+              "UJQ"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Ramesh is facing towards west direction. He walks 20 km and then rotates by 90 degrees in clockwise direction. He again rotates by 295 degrees in anticlockwise direction. In which direction is he facing now?",
+            "options": [
+              "South-east",
+              "East",
+              "North-west",
+              "North-east"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Height of six cups H, R, S, T, V and X is compared. Height of X is more than at least two cups. Height of V is more than X but less than S. Height of R is more than H. If the height of T is maximum, then which of the following sequence can be correct? I. R < X < V  II. H < R = X  III. R < X < S",
+            "options": [
+              "Only III",
+              "Both II and III",
+              "Only II",
+              "I, II and III"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "note": "Insufficient constraints in text to confidently derive a single answer."
+          },
+          {
+            "q": "Statements: I. कुछ M, B हैं। II. कोई भी L, M नहीं है। Conclusions: I. कोई भी L, B नहीं है। II. कोई भी M, L नहीं है।",
+            "options": [
+              "केवल निष्कर्ष I अनुसरण करता है",
+              "कोई भी निष्कर्ष अनुसरण नहीं करता है",
+              "केवल निष्कर्ष II अनुसरण करता है",
+              "दोनों निष्कर्ष I तथा II अनुसरण करते हैं"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Eight friends P, Q, R, S, T, U, V and W are sitting around a circular table facing towards the centre (not necessarily in the same order). T is third to the left of V. V is to the immediate right of Q. Q is third to the left of P. W is second to the right of U. U is not the immediate neighbour of T. S is not the immediate neighbour of Q. Who is second to the right of P?",
+            "options": [
+              "T",
+              "Q",
+              "S",
+              "V"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the following question, select the missing number from the given series: 8, 31, 123, ?, 1963",
+            "options": [
+              "461",
+              "491",
+              "481",
+              "471"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "6 अध्यापक P, Q, R, S, T तथा U को लेक्चर प्रस्तुत करने हैं। प्रत्येक अध्यापक सोमवार से शनिवार तक में से एक दिन लेक्चर प्रस्तुत करेगा। प्रत्येक अध्यापक विभिन्न दिन पर लेक्चर प्रस्तुत करेगा। 3 पुरुष तथा 3 महिला अध्यापक हैं। प्रत्येक पुरुष एक महिला से विवाहित है। T तथा U के बीच दो से ज्यादा लोग प्रस्तुत करते हैं। R शुक्रवार को प्रस्तुत करता है परंतु उसकी पत्नी सोमवार को प्रस्तुत नहीं करती। P, S के अगले दिन प्रस्तुत करता है। P तथा U के मध्य 2 लोग प्रस्तुत करते हैं। P की पत्नी P के अगले दिन प्रस्तुत करती है। T तथा U लिंग समान हैं। निम्नलिखित में से कौन सा कथन सही नहीं है?",
+            "options": [
+              "R तथा U एक विवाहित जोड़ा है",
+              "Q एक महिला अध्यापक है तथा उसका पति बुधवार को प्रस्तुत करता है",
+              "Q तथा S के बीच में दो लेक्चर प्रस्तुत किए जाते हैं",
+              "S की पत्नी सोमवार को प्रस्तुत करती है"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "By folding the given paper (with symbols * % @ 7 4 3), which of the following cube cannot be made? (I, II, III, IV)",
+            "options": [
+              "II and IV",
+              "I and IV",
+              "I II",
+              "III and IV"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "note": "Requires the original figure/images, which are not available as text."
+          },
+          {
+            "q": "Two figures given on the left side of (::) are related with some logic/rule/relation. Select the missing figure on the right of (::) from the given alternatives based on the same logic/rule/relation.",
+            "options": [
+              "Option A",
+              "Option B",
+              "Option C",
+              "Option D"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "note": "Purely image-based figural analogy; cannot be determined from text."
+          },
+          {
+            "q": "By folding the given paper (with letters A J L C D H), which of the following cube cannot be made? (I, II, III, IV)",
+            "options": [
+              "I and IV",
+              "II and III",
+              "I and III",
+              "Only IV"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "note": "Requires the original figure/images, which are not available as text."
+          },
+          {
+            "q": "In the following question, select the odd word from the given alternatives.",
+            "options": [
+              "Shirt",
+              "Jacket",
+              "Trouser",
+              "Male"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the following question, a group of letters is given. The letters of each group are related with the letters of the same group by some Logic/Rule/Relation. From the given alternatives, select a group of letters which follows the same Logic/Rule/Relation: (TOPX, ZVXG, FCFP)",
+            "options": [
+              "(KQRN, QXZW, WEHF)",
+              "(LPCR, RWKZ, XDSI)",
+              "(AJNP, GQVY, MXEH)",
+              "(TGPA, ZNXJ, EUFS)"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "दिए गए चित्र के आधार पर, कितनी बाईक, कू टर हैं?",
+            "options": [
+              "18",
+              "19",
+              "17",
+              "16"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "note": "Depends on a Venn-diagram figure not available as text."
+          },
+          {
+            "q": "In a certain code language, 'I think I can' is written as '6 8 6 4', 'We can think about' is written as '5 4 8 9'. What is the code for 'think, can' in that code language?",
+            "options": [
+              "8 4",
+              "6 4",
+              "8 5",
+              "6 9"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series: TONY, WTGP, ZYZG, ?, FILO",
+            "options": [
+              "CESY",
+              "CDSX",
+              "CDSY",
+              "CESX"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "दिए गए वेन आरेख के आधार पर, निम्नलिखित में से कौन सा/से कथन सही नहीं है/हैं? I. वह गेंद जो नीली नहीं हैं, की संख्या 4 है। II. कार्टून की कुल संख्या 23 है।",
+            "options": [
+              "के वल II",
+              "I तथा II दोनों",
+              "के वल I",
+              "ना ही I ना ही II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "note": "Depends on a Venn-diagram figure not available as text."
+          },
+          {
+            "q": "Raman walks 25 metres in north. He turns right and walks 72 metres to reach point A. He again turns right and walks 16 metres. He finally turns left and walks 8 metres to reach point B. How far is point B from point A and in which direction is starting point from point B?",
+            "options": [
+              "√320, North-East",
+              "√340, South-West",
+              "√340, North-East",
+              "√320, South-West"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "नीचे दिए गए ढाँचे में कुछ कथन और उनके बाद उन कथनों पर आधारित कुछ निष्कर्ष दिए गए हैं। कथन: I. सभी शहद, कुर्सी हैं। II. कोई भी सफेद, शहद नहीं है। निष्कर्ष: I. कुछ कुर्सी, सफेद नहीं हैं। II. कुछ शहद, सफेद नहीं हैं। III. कुछ कुर्सी, शहद हैं।",
+            "options": [
+              "दोनों निष्कर्ष I तथा II अनुसरण करते हैं",
+              "दोनों निष्कर्ष II तथा III अनुसरण करते हैं",
+              "सभी निष्कर्ष अनुसरण करते हैं",
+              "केवल निष्कर्ष I अनुसरण करता है"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

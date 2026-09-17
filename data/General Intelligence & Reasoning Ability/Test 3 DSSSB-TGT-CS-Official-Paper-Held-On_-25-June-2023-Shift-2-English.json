@@ -1,0 +1,254 @@
+[
+  {
+    "id": "dsssb-tgt-cs-25jun2023-s2",
+    "title": "Test :3 DSSSB TGT Computer Science - 25 June 2023 (Shift 2)",
+    "sections": [
+      {
+        "name": "General Intelligence and Reasoning Ability",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "How many numbers are divisible by their immediately preceding number but not exactly by their immediately following number in the following series?\n8 9 9 7 6 0 7 6 5 4 3 2 3 4 4 3 2 5 6 7 4 3 4 5 6 7 8 3 9 6 5 4 3 2 2 4 5 6 7",
+            "options": [
+              "Three",
+              "One",
+              "Two",
+              "Four"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusion(s) logically follow(s) from the statements.\nStatements:\nA. All shirts are curtains.\nB. Some shirts are pens.\nC. Some pens are cups.\nConclusions:\nI. No cups are shirts.\nII. No cups are curtains.\nIII. No curtains are pens.",
+            "options": [
+              "None of the conclusions follow.",
+              "Only conclusion III follows.",
+              "Only conclusions II and III follow.",
+              "Only conclusions I and II follow."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which two signs should be interchanged to make the following equation correct?\n56 − 74 × 17 + 391 ÷ 23 = 1297",
+            "options": [
+              "÷ and ×",
+              "+ and −",
+              "× and −",
+              "÷ and +"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the term from among the given options that can replace the question mark (?) in the following series.\nPMT, QOW, RQZ, SSC, ?",
+            "options": [
+              "TVG",
+              "TUF",
+              "TVF",
+              "TVE"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A person placed the 9 letters from A to I of the English alphabet into a row such that:\n- There is exactly two letters' gap between two vowels.\n- I and B are placed at the extreme ends.\n- D and F are placed between A and E.\n- C is placed to the right of B and second to the left of D.\n- E is placed exactly between A and I.\nWhich letter is placed in the middle of the row?",
+            "options": [
+              "F",
+              "E",
+              "G",
+              "D"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the figure from among the given options that can replace the question mark (?) in the following series. [Figure-based question: series of 2x2 symbol boxes — (+ % / ? !), (% ! / + @), ?, (@ # / ! =), (# = / @ &)]",
+            "options": [
+              "Box with % and @ in the top row, ! and # in the bottom row",
+              "Box with ! and @ in the top row, % and # in the bottom row",
+              "Box with ! and @ in the top row, % and & in the bottom row",
+              "Box with @ and ! in the top row, % and # in the bottom row"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correct mirror image of the given pattern when the mirror is placed at the right side.\nACTIVE",
+            "options": [
+              "Mirror image 1 (correct right-side mirror reflection of ACTIVE)",
+              "Mirror image 2",
+              "Mirror image 3",
+              "Mirror image 4"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement.\nStatement: Physical exercises are good for health.\nConclusions:\nI. Mostly players are healthy because of the involvement of physical exercise in their profession.\nII. Ravinder played tennis at the age of 70.",
+            "options": [
+              "Only conclusion II follows.",
+              "Only conclusion I follows.",
+              "Both conclusions I and II follow.",
+              "Either conclusion I or II follows."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A statement is given followed by two arguments. Decide which of the arguments is/are strong with respect to the statement.\nStatement: Should a college run any course without seeking affiliation from the university?\nArguments:\nI. Yes, it will provide more opportunities to individuals.\nII. No, it will deteriorate the quality as college may not have all the equipment and resource to run any course.",
+            "options": [
+              "Both arguments I and II are strong.",
+              "Only argument I is strong.",
+              "Only argument II is strong.",
+              "Neither argument I nor argument II is strong."
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Four number-pairs have been given, out of which three are alike in some manner and one is different. Select the one that is different.",
+            "options": [
+              "59-413",
+              "37-269",
+              "61-427",
+              "47-329"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What approximate value should come in place of the question mark (?) in the following equation?\n78.69 + 29.19 × 13.17 − 45.67 ÷ 22.89 = ?",
+            "options": [
+              "378",
+              "567",
+              "356",
+              "454"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the option where the second word is related to the first word in the same way as the second word is related to the first word in the given pair.\nIMAGINE : BLJGFMJ",
+            "options": [
+              "COLLEGE : MNDLFFF",
+              "SUCCESS : DTTCTRE",
+              "COMMAND : NNDMENB",
+              "FAILURE : JZFLFQV"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In a row of 50 students, Kajal is 8th to the left of Rashmi. If Rashmi is 25th from the left end of the row, what will be the position of Kajal from the right end of the row?",
+            "options": [
+              "33rd",
+              "34th",
+              "32nd",
+              "35th"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A question is given, followed by two statements labelled I and II. Identify which of the statements is/are sufficient to answer the question.\nQuestion: What will be the code of 'HUMAN' in the same language?\nStatements:\nI. 'FAHAD' is coded as '61814'.\nII. 'WATER' is coded as '23120518'.",
+            "options": [
+              "Information in both the statements I and II is necessary to answer the question.",
+              "Information in statement I alone is sufficient to answer the question, while information in statement II alone is not sufficient to answer the question.",
+              "Information in either statement I alone or statement II alone is sufficient to answer the question.",
+              "Information in statement II alone is sufficient to answer the question, while information in statement I alone is not sufficient to answer the question."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Four letter-cluster pairs have been given, out of which three are alike in some manner and one is different. Select the one that is different.",
+            "options": [
+              "IMAGINE : BLJGFMJ",
+              "SUCCESS : DTTCTRF",
+              "COMMAND : NNDMENB",
+              "COLLEGE : MNDLFFF"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation.\n34 * 69 * 23 * 37 * 23 * 882",
+            "options": [
+              "×, +, +, −, =",
+              "+, +, ×, −, =",
+              "−, +, +, ×, =",
+              "+, +, ×, −, ="
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Four letter-cluster pairs have been given, out of which three are alike in some manner and one is different. Select the one that is different.",
+            "options": [
+              "HOTELS : PIFUTM",
+              "MATTER : BNUUSF",
+              "ACTING : DBJUHO",
+              "ACTUAL : DBUVMB"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the option that contains figure X as its part. [Figure-based question: figure X followed by four candidate figures numbered 1 to 4]",
+            "options": [
+              "3",
+              "4",
+              "2",
+              "1"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Four number-pairs have been given, out of which three are alike in some manner and one is different. Select the one that is different.",
+            "options": [
+              "19-59",
+              "17-53",
+              "29-91",
+              "23-71"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "There are six persons, P, Q, R, S, T and U. R is lighter than P but heavier than Q. S is lighter than U. T is heavier than P. U is lighter than Q. Who is the heaviest among them all?",
+            "options": [
+              "P",
+              "R",
+              "T",
+              "Q"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

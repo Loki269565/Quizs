@@ -1,0 +1,170 @@
+[
+  {
+    "id": "dsssb-tgt-cs-2021-shift3",
+    "title": "Test :6 DSSSB TGT Computer Science - 7 Aug 2021 Shift 3 - General Intelligence & Reasoning Ability",
+    "sections": [
+      {
+        "name": "General Intelligence & Reasoning Ability",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "यदि उत्तर, दक्षिण-पश्चिम हो जाता है तथा दक्षिण-पूर्व उत्तर हो जाता है, तो पश्चिम क्या हो जाएगा?",
+            "options": [
+              "उत्तर-पश्चिम",
+              "उत्तर-पूर्व",
+              "पूर्व",
+              "दक्षिण-पूर्व"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If 31 L 31 J 5 = 186 and 47 J 2 L 43 = 137, then 52 L 64 J 3 = ?",
+            "options": [
+              "246",
+              "244",
+              "248",
+              "250"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Nine boys P, Q, R, S, T, U, V, W and X are sitting around a circular table facing towards the centre (not necessarily in the same order). U is fourth to the right of P. P is third to the right of Q. X is fourth to the left of Q. S is third to the left of X. R is third to the right of W. T is second to the left of V. Which of the following statement(s) is/are not correct? I. U and V are not the immediate neighbours. II. V is the immediate neighbour of Q and U. III. R is second to the right of T. IV. W is third to the left of U.",
+            "options": [
+              "I, III and IV",
+              "Only II",
+              "II and III",
+              "I, II, III and IV"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series. TONU, NOVW, HODY, BOLA, ?",
+            "options": [
+              "UOTB",
+              "UOTC",
+              "VOTC",
+              "VOTB"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In a certain code language, 'I want it all' is written as 'lo pq rf fj', 'It all depends' is written as 'rf fj wy'. What is the code for 'it, all' in that code language?",
+            "options": [
+              "rf fj",
+              "lo wy",
+              "rf wy",
+              "pq fj"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A series is given with one term wrong. Select that wrong term from the given alternatives. APQ, DUX, GZE, JFL, MJS",
+            "options": [
+              "DUX",
+              "JFL",
+              "MJS",
+              "GZE"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the following question, select the related letters from the given alternatives. JRK : MUN :: ABC : ?",
+            "options": [
+              "CFE",
+              "DFE",
+              "CEF",
+              "DEF"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "एक लड़की की ओर संकेत करते हुए, समीर ने कहा, \"वह मेरे पिता की एकमात्र पुत्री है\"। समीर उस लड़की से किस प्रकार संबंधित है?",
+            "options": [
+              "भांजा",
+              "भाई",
+              "पिता",
+              "मौसा"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusion logically follows the given statements. Statements: I. No X are Y. II. Some Z are Y. Conclusions: I. All Z are X. II. No Y is X.",
+            "options": [
+              "Only conclusion II follows",
+              "Both conclusions I and II follows",
+              "Neither conclusion follows",
+              "Only conclusion I follows"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusion logically follows the given statements. Statements: I. All F are C. II. No D is F. Conclusions: I. Some C are F. II. All C are D. III. No F is D.",
+            "options": [
+              "All conclusion follows",
+              "Only conclusion III follows",
+              "Both conclusions I and III follows",
+              "Both conclusions I and II follows"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Six persons F1, F2, F3, F4, F5 and F6, are sitting in a straight line facing towards north. Among them one is a doctor, engineer, lawyer, manager, cricketer and boxer (not necessarily in the same order). Only one person sits between F2 and cricketer. F4 sits at the third place to the right of F3. Only two persons sit between boxer and lawyer. Only one person sits between cricketer and doctor. F4 is a engineer. F6 is a manager. Boxer sits at right end. F5 is immediate neighbor of F4. Which of the following is correct?",
+            "options": [
+              "F3 sits at the second place to the right of F5",
+              "Doctor sits at the third place to the left of engineer",
+              "Lawyer sits at the second place to the right of F4",
+              "Only three person sits between manager and cricketer"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the following question, select the odd word from the given alternatives.",
+            "options": [
+              "Friend",
+              "Sister",
+              "Brother",
+              "Mother"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Radha walks 14 km towards north. She turns right and walks 22 km. She turns right and walks 24 km. She turns left and walks 26 km. She finally rotates by an angle of 90 degrees in anti-clockwise direction and walks 24 km. How far and in which direction is her starting point from the finishing point?",
+            "options": [
+              "76 km, south-east",
+              "76 km, north-west",
+              "50 km, south-west",
+              "50 km, north-west"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

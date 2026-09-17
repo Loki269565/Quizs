@@ -1,0 +1,261 @@
+[
+  {
+    "id": "dsssb-tgt-cs-2017-05-21",
+    "title": "Test 8 DSSSB TGT Computer Science 21 May 2017 - Reasoning Section",
+    "sections": [
+      {
+        "name": "General Intelligence and Reasoning Ability",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "How many pentagons are there in the given figure? [Figure: a hexagon with all its diagonals drawn]",
+            "options": [
+              "3",
+              "4",
+              "5",
+              "6"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25,
+            "note": "Depends on a diagram from the original paper; answer is a best estimate."
+          },
+          {
+            "q": "Reaching the place of meeting 20 minutes before 8:50 A.M., Rajesh found himself 30 minutes earlier than the person who came 40 minutes late. When was the scheduled time of meeting?",
+            "options": [
+              "8:10 A.M.",
+              "8:20 A.M.",
+              "8:35 A.M.",
+              "8:45 A.M."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "There are six books kept in a shelf and are labelled as L, M, N, O, P and Q. M, P, N and Q have brown covers while others have black covers. L, M and O are new volumes while others are old. L, M and N are computer books while the rest are law books. Which 2 volumes are old law books with brown covers?",
+            "options": [
+              "P and N",
+              "P and O",
+              "P and Q",
+              "Q and L"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Using the same book information as above: Which new law book has a black cover?",
+            "options": [
+              "L",
+              "O",
+              "Q",
+              "P"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Using the same book information as above: Which new computer book has a brown cover?",
+            "options": [
+              "P",
+              "N",
+              "L",
+              "M"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Statement: With respect to its nuclear weapons, India follows a No First Use (NFU) Policy meaning thereby that it shall not be the first to use nuclear weapons in a conflict situation.\nConclusions:\n(I) Both China and Pakistan have a first use policy for nuclear weapons.\n(II) Indian nuclear weapons are mainly for deterrence.",
+            "options": [
+              "If only conclusion I follows",
+              "If only conclusion II follows",
+              "If both I and II follow",
+              "If neither I nor II follows"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Statement: L = C, P < C, G ≥ P.\nConclusions:\n(I) L > G\n(II) L > P",
+            "options": [
+              "If only conclusion I follows",
+              "If only conclusion II follows",
+              "If both I and II follow",
+              "If neither I nor II follows"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Find the missing term in the series: 22, 21, 23, 22, 24, 23, ?",
+            "options": [
+              "26",
+              "24",
+              "25",
+              "23"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Find the missing term: B2CD, ____, BCD4, B5CD, BC6D",
+            "options": [
+              "BCD3",
+              "B2C2D",
+              "BC3D",
+              "BCD7"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the answer figure which will continue the pattern given in the question figure. [Figure-based pattern with symbols S, triangle, lines etc.]",
+            "options": [
+              "Figure A",
+              "Figure B",
+              "Figure C",
+              "Figure D"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25,
+            "note": "Depends on a diagram from the original paper; answer is a best estimate."
+          },
+          {
+            "q": "Select the answer figure which will continue the pattern given in the question figure. [Figure-based pattern with arrows]",
+            "options": [
+              "Figure A",
+              "Figure B",
+              "Figure C",
+              "Figure D"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25,
+            "note": "Depends on a diagram from the original paper; answer is a best estimate."
+          },
+          {
+            "q": "How many dots will be present on the face which is opposite to the face having three dots, when the figure is folded to form a cube? [Dice net figure]",
+            "options": [
+              "6",
+              "4",
+              "1",
+              "5"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25,
+            "note": "Depends on a diagram from the original paper; answer is a best estimate."
+          },
+          {
+            "q": "Which cube will be formed if the sheet shown below is folded? [Sheet with faces labelled F, A, E, B, C, D]",
+            "options": [
+              "only I",
+              "only II",
+              "I and III",
+              "I, II, III and IV"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Snake is to Cobra as Flower is to?",
+            "options": [
+              "Petal",
+              "Rose",
+              "Smell",
+              "Plant"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Pride is to Lion as School is to?",
+            "options": [
+              "Teacher",
+              "Student",
+              "Fish",
+              "Books"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which diagram best describes the relation between Doctors, Artists, Men? [Venn diagram options]",
+            "options": [
+              "Diagram A",
+              "Diagram B",
+              "Diagram C",
+              "Diagram D"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25,
+            "note": "Depends on a diagram from the original paper; answer is a best estimate."
+          },
+          {
+            "q": "If 6% of the population of Rampur is post-graduate and 19% are plain graduates, then which diagram best represents the proportion of graduates as shaded portion? [Pie chart options]",
+            "options": [
+              "Chart A",
+              "Chart B",
+              "Chart C",
+              "Chart D"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25,
+            "note": "Depends on a diagram from the original paper; answer is a best estimate."
+          },
+          {
+            "q": "Select a suitable figure to complete the pattern. [Grid of fraction-based symbols]",
+            "options": [
+              "Figure A",
+              "Figure B",
+              "Figure C",
+              "Figure D"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25,
+            "note": "Depends on a diagram from the original paper; answer is a best estimate."
+          },
+          {
+            "q": "In a certain code 'TREAD' is written as '7%#94' and 'PREY' is written as '$%#8'. How is 'ARTERY' written in the code?",
+            "options": [
+              "9#7%#8",
+              "9#%7#8",
+              "9%7#%8",
+              "9%#7%8"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Find the missing letter:\nA/E, H/N, L/T, E/?",
+            "options": [
+              "W",
+              "O",
+              "V",
+              "U"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

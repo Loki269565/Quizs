@@ -1,0 +1,254 @@
+[
+  {
+    "id": "dsssb_tgt_cs_gi_reasoning",
+    "title": "Test:7 DSSSB TGT Computer Science 2024 - General Intelligence and Reasoning Ability",
+    "sections": [
+      {
+        "name": "General Intelligence and Reasoning Ability",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "A statement is followed by two arguments in the given question. Choose the correct option after deciding which of the arguments is a 'strong' argument and which is a 'weak' argument.\nStatement: Should we repeat our clothes?\nArgument:\nI. Yes. It helps in developing a sustainable environment.\nII. No. New clothes means new beginnings.",
+            "options": [
+              "Only argument II is strong",
+              "Both I and II are strong arguments",
+              "Neither I nor II argument is strong",
+              "Only argument I is strong"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In a certain code language, 'LOMQG' is written as '16', 'WTQMC' is written as '19'. What is the code for 'LSOMI' in that code language?",
+            "options": [
+              "18",
+              "16",
+              "17",
+              "20"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series.\nNRCH, IYNJ, FJUE, AQFB, ?",
+            "options": [
+              "XBMW",
+              "QRST",
+              "XTQR",
+              "XMNO"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the following, select the odd letter/letters from the given alternatives.",
+            "options": [
+              "MKH",
+              "MPR",
+              "WUR",
+              "KIF"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In a certain code language, 'STOPWARS' is written as 'POTSSRAW', 'LOGIPERT' is written as 'IGOLTREP'. What is the code for 'LAPTOPST' in that code language?",
+            "options": [
+              "TATPOTSP",
+              "TATPPOTS",
+              "TAPTSOPS",
+              "TPALTSPO"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A statement is followed by a set of conclusions in the given question. Identify which conclusion follows logically from the following statement.\nStatement:\nRaveena goes to the gym daily, as her father has advised her to exercise.\nConclusion:\nI. Raveena's father cares for her daughter health.\nII. Raveena is suffering from some chronic disease.",
+            "options": [
+              "Both I and II follow",
+              "Only I follow",
+              "Neither I nor II follow",
+              "Only II follow"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If '÷' means '×', '−' means '+', '×' means '÷' and '+' means '−', then 38 × 57 ÷ 9 − 18 + 12 = ?",
+            "options": [
+              "10",
+              "12",
+              "6",
+              "7"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select that missing pair (Third number : Fourth number) which is related in the same way as the first number is related to the second number and fifth number is related to sixth number. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g.13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)\n442 : 633 :: ? :: 186 : 377",
+            "options": [
+              "313 : 504",
+              "518 : 719",
+              "111 : 292",
+              "277 : 467"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "P, Q, R, S, T, U and V are seven friends sitting in a single row facing North. S is to the immediate right of R. T and P are neighbours of U. Q is to the immediate left of R and on second place from left most end. P is at the right most end. Who is sitting on the immediate left of P?",
+            "options": [
+              "U",
+              "R",
+              "T",
+              "S"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusion logically follows the given statements.\nStatements:\nI. Some C are D.\nII. Some D are E.\nIII. No E is G.\nConclusion:\nI. Some E are C.\nII. No D is G.\nIII. Some G are C.",
+            "options": [
+              "Neither conclusion follows",
+              "Only conclusion II follows",
+              "Only conclusion I follows",
+              "Only conclusion III follows"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Mona is 13th from the right end in a row of 40 girls. What is his position from the left end?",
+            "options": [
+              "29",
+              "27",
+              "28",
+              "26"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the following question, select the missing number from the given series.\n200, 197, 206, 179, 260, ?",
+            "options": [
+              "–83",
+              "–80",
+              "–100",
+              "17"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the following, select the odd letter/letters from the given alternatives.",
+            "options": [
+              "WXUZ",
+              "EFCG",
+              "NOLQ",
+              "IJGL"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the following question, select the related letters from the given alternatives.\nNQT : ORU :: ADH : ?",
+            "options": [
+              "ACZ",
+              "UVZ",
+              "BEI",
+              "SPQ"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If A + B means 'A' is the husband of 'B', A − B means 'A' is the wife of 'B', A × B means 'A' is the mother of 'B', A ÷ B means 'A' is the son of 'B'. If J ÷ P + K × M − R, then How is P related to R?",
+            "options": [
+              "Husband",
+              "Wife's brother",
+              "Father",
+              "Wife's father"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "By Interchanging the given two numbers which of the following equation will be not correct?\n7 and 9",
+            "options": [
+              "9 – 7 + 3 = 1",
+              "9 × 4 – 7 × 3 = 4",
+              "9 × 1 – 7 × 2 = –11",
+              "7 × 2 + 9 – 4 = 21"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the option that is related to the fifth number cluster in the same way as the second number cluster is related to the first number cluster and fourth number cluster is related to third number cluster.\n6 : 180 :: 8 : 448 :: 10 : ?",
+            "options": [
+              "900",
+              "990",
+              "800",
+              "999"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In the given question, a statement is followed by two courses of action. Based on the information given in the statement, you have to assume everything in the statement to be true. Identify which course(s) of action logically follows.\nStatement:\nA bridge collapsed in town Y due to poor construction.\nCourse of Action:\nI. Search-and-rescue operations should be conducted immediately.\nII. People should leave town Y and move to town X.",
+            "options": [
+              "Only I follow",
+              "Only II follow",
+              "Neither I nor II follow",
+              "Both I and II follow"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A statement is followed by a set of conclusions in the given question. Identify which conclusion follows logically from the following statement.\nStatement:\nFor the past three years the ABC Corporation has been planning to expand its operations in order to reach out to the world market.\nConclusion:\nI. The ABC corporation is not competitive.\nII. The ABC corporation wants to capture the global market.",
+            "options": [
+              "Neither I nor II follow",
+              "Only I follow",
+              "Both I and II follow",
+              "Only II follow"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "How many workers are uneducated? (Venn diagram of Man, Educated, Worker with numbers: Man-only 5, Man&Educated 3, Man&Educated&Worker 2, Man&Worker 1, Educated-only 21, Educated&Worker 6, Worker-only 10, Educated&Worker&Man center 9, Worker-only lower 12)",
+            "options": [
+              "17",
+              "12",
+              "8",
+              "10"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]
