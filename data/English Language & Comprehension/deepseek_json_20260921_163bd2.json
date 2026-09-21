@@ -1,0 +1,712 @@
+{
+  "id": "dsssb-antonyms-100",
+  "title": "DSSSB English Language & Comprehension - 100 Antonyms MCQs",
+  "sections": [
+    {
+      "name": "Antonyms",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "q": "Choose the antonym of: Timid",
+          "options": ["eloquent", "confident", "chivalrous", "ambivalent"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Obsolete",
+          "options": ["ancient", "Immune", "Contemporary", "Vague"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Magnanimous",
+          "options": ["Selfish", "Benevolent", "Generous", "Spiteful"],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Degrade",
+          "options": ["Deny", "Demolish", "Fatten", "Dignify"],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Definite",
+          "options": ["Uncertain", "Particular", "Squeamish", "Salutary"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Nimble",
+          "options": ["Identical", "Explode", "Injurious", "Dull"],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Abundant",
+          "options": ["Plenty", "Sparse", "Copious", "Ample"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Accurate",
+          "options": ["Correct", "Exact", "Precise", "Incorrect"],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Achieve",
+          "options": ["Attain", "Accomplish", "Fail", "Succeed"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Adversity",
+          "options": ["Hardship", "Prosperity", "Misfortune", "Difficulty"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Advocate",
+          "options": ["Supporter", "Proponent", "Opponent", "Defender"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Affluent",
+          "options": ["Wealthy", "Rich", "Poor", "Prosperous"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Agile",
+          "options": ["Nimble", "Slow", "Quick", "Graceful"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Alleviate",
+          "options": ["Relieve", "Ease", "Aggravate", "Mitigate"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Ambiguous",
+          "options": ["Vague", "Clear", "Obscure", "Uncertain"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Amicable",
+          "options": ["Hostile", "Friendly", "Cordial", "Amiable"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Announce",
+          "options": ["Declare", "Proclaim", "Conceal", "Annunciate"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Antagonist",
+          "options": ["Opponent", "Ally", "Enemy", "Adversary"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Anticipate",
+          "options": ["Expect", "Predict", "Doubt", "Foresee"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Apathy",
+          "options": ["Indifference", "Interest", "Unconcern", "Disinterest"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Apprehensive",
+          "options": ["Fearful", "Anxious", "Confident", "Nervous"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Arduous",
+          "options": ["Easy", "Difficult", "Strenuous", "Laborious"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Artificial",
+          "options": ["Synthetic", "Natural", "Fake", "Manufactured"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Ascend",
+          "options": ["Climb", "Rise", "Descend", "Mount"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Aspire",
+          "options": ["Desire", "Long", "Dream", "Neglect"],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Assail",
+          "options": ["Attack", "Defend", "Assault", "Ambush"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Assert",
+          "options": ["State", "Declare", "Deny", "Affirm"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Astonish",
+          "options": ["Surprise", "Amaze", "Bore", "Stun"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Audacious",
+          "options": ["Bold", "Timid", "Daring", "Adventurous"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Austere",
+          "options": ["Stern", "Luxurious", "Severe", "Strict"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Authentic",
+          "options": ["Genuine", "Real", "Fake", "True"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Benevolent",
+          "options": ["Kind", "Cruel", "Generous", "Charitable"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Blatant",
+          "options": ["Subtle", "Obvious", "Glaring", "Conspicuous"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Candid",
+          "options": ["Honest", "Deceptive", "Frank", "Straightforward"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Capricious",
+          "options": ["Unpredictable", "Steady", "Fickle", "Changeable"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Belligerent",
+          "options": ["Aggressive", "Hot", "Peace-loving", "Contaminate"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Prohibit",
+          "options": ["Grant", "Agree", "Permit", "Accept"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Impervious",
+          "options": ["Provocative", "Punishable", "Penetrable", "Vacillating"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Attack",
+          "options": ["Weaken", "Defend", "Cheap", "Rare"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Arrogance",
+          "options": ["Humility", "Pride", "Haughty", "Conceit"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Proliferation",
+          "options": ["Distension", "Depletion", "Expansion", "Growth"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Disguised",
+          "options": ["Exposed", "Hidden", "Masked", "Camouflaged"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Luxurious",
+          "options": ["Miserable", "Comfortable", "Opulent", "Lavish"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Abject",
+          "options": ["Haughty", "Humble", "Lowly", "Servile"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Disguised",
+          "options": ["Exposed", "Concealed", "Hidden", "Veiled"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Magnanimous",
+          "options": ["Spiteful", "Generous", "Noble", "Gracious"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Precarious",
+          "options": ["Constant", "Unstable", "Uncertain", "Insecure"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Resilience",
+          "options": ["Fragility", "Strength", "Toughness", "Flexibility"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Subside",
+          "options": ["Stand", "Sink", "Decrease", "Diminish"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Ambiguous",
+          "options": ["Unequivocal", "Vague", "Obscure", "Uncertain"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Audacity",
+          "options": ["Cowardice", "Boldness", "Nerve", "Guts"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Vicissitude",
+          "options": ["Stability", "Change", "Fluctuation", "Variation"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Undermine",
+          "options": ["Strengthen", "Weaken", "Erode", "Undercut"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Alleviate",
+          "options": ["Worsen", "Relieve", "Ease", "Mitigate"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Nimble",
+          "options": ["Dull", "Quick", "Agile", "Graceful"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Indolent",
+          "options": ["Diligent", "Lazy", "Sluggish", "Idle"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Notion",
+          "options": ["Misunderstanding", "Idea", "Feeling", "Studio"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Perilous",
+          "options": ["Safe", "Selfless", "Genial", "Developed"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Erudite",
+          "options": ["Ignorant", "Learned", "Scholarly", "Wise"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Antithesis",
+          "options": ["Similarity", "Contrast", "Opposition", "Difference"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Spurious",
+          "options": ["Authentic", "Bogus", "Fake", "Counterfeit"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Deprecated",
+          "options": ["Endorsed", "Disapproved", "Belittled", "Overlooked"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Proliferation",
+          "options": ["Depletion", "Distension", "Expansion", "Increase"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Luscious",
+          "options": ["Bland", "Sweet", "Delicious", "Tasty"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Enriched",
+          "options": ["Impoverished", "Improved", "Enhanced", "Better"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Intimidate",
+          "options": ["Encourage", "Frighten", "Threaten", "Scare"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Lavish",
+          "options": ["Moderate", "Extravagant", "Generous", "Opulent"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Abundant",
+          "options": ["Plenty", "Sparse", "Copious", "Ample"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Accurate",
+          "options": ["Correct", "Exact", "Precise", "Incorrect"],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Achieve",
+          "options": ["Attain", "Accomplish", "Fail", "Succeed"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Adversity",
+          "options": ["Hardship", "Prosperity", "Misfortune", "Difficulty"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Advocate",
+          "options": ["Supporter", "Proponent", "Opponent", "Defender"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Affluent",
+          "options": ["Wealthy", "Rich", "Poor", "Prosperous"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Agile",
+          "options": ["Nimble", "Slow", "Quick", "Graceful"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Alleviate",
+          "options": ["Relieve", "Ease", "Aggravate", "Mitigate"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Ambiguous",
+          "options": ["Vague", "Clear", "Obscure", "Uncertain"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Amicable",
+          "options": ["Hostile", "Friendly", "Cordial", "Amiable"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Announce",
+          "options": ["Declare", "Proclaim", "Conceal", "Annunciate"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Antagonist",
+          "options": ["Opponent", "Ally", "Enemy", "Adversary"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Anticipate",
+          "options": ["Expect", "Predict", "Doubt", "Foresee"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Apathy",
+          "options": ["Indifference", "Interest", "Unconcern", "Disinterest"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Apprehensive",
+          "options": ["Fearful", "Anxious", "Confident", "Nervous"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Arduous",
+          "options": ["Easy", "Difficult", "Strenuous", "Laborious"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Artificial",
+          "options": ["Synthetic", "Natural", "Fake", "Manufactured"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Ascend",
+          "options": ["Climb", "Rise", "Descend", "Mount"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Aspire",
+          "options": ["Desire", "Long", "Dream", "Neglect"],
+          "answer": 3,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Assail",
+          "options": ["Attack", "Defend", "Assault", "Ambush"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Assert",
+          "options": ["State", "Declare", "Deny", "Affirm"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Astonish",
+          "options": ["Surprise", "Amaze", "Bore", "Stun"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Audacious",
+          "options": ["Bold", "Timid", "Daring", "Adventurous"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Austere",
+          "options": ["Stern", "Luxurious", "Severe", "Strict"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Authentic",
+          "options": ["Genuine", "Real", "Fake", "True"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Benevolent",
+          "options": ["Kind", "Cruel", "Generous", "Charitable"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Blatant",
+          "options": ["Subtle", "Obvious", "Glaring", "Conspicuous"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Candid",
+          "options": ["Honest", "Deceptive", "Frank", "Straightforward"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Capricious",
+          "options": ["Unpredictable", "Steady", "Fickle", "Changeable"],
+          "answer": 1,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Magnanimous",
+          "options": ["Selfish", "Benevolent", "Generous", "Noble"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Prohibit",
+          "options": ["Grant", "Agree", "Permit", "Accept"],
+          "answer": 2,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Nimble",
+          "options": ["Dull", "Quick", "Agile", "Graceful"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Timid",
+          "options": ["Confident", "Eloquent", "Chivalrous", "Ambivalent"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    }
+  ]
+}

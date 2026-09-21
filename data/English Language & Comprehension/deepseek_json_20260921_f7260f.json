@@ -1,0 +1,712 @@
+{
+  "id": "dsssb-verbs-100",
+  "title": "DSSSB English Language & Comprehension - 100 Verbs MCQs",
+  "sections": [
+    {
+      "name": "Verbs",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "q": "One of my friends ___ going to London.",
+          "options": ["is", "are", "were", "have"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Each of the boys ___ given a prize.",
+          "options": ["was", "were", "have", "are"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Neither of the two candidates ___ suitable for the job.",
+          "options": ["is", "are", "were", "have"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The quality of the mangoes ___ not good.",
+          "options": ["was", "were", "are", "have"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "A number of students ___ absent today.",
+          "options": ["are", "is", "was", "has"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The number of students ___ fifty.",
+          "options": ["is", "are", "were", "have"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Mathematics ___ my favorite subject.",
+          "options": ["is", "are", "were", "have"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The news ___ very shocking.",
+          "options": ["is", "are", "were", "have"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "My father, along with my brothers, ___ gone to the market.",
+          "options": ["has", "have", "are", "were"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Neither the teacher nor the students ___ present.",
+          "options": ["were", "was", "is", "has"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Either of the two books ___ good.",
+          "options": ["is", "are", "were", "have"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Ten kilometers ___ a long distance to walk.",
+          "options": ["is", "are", "were", "have"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The jury ___ divided in their opinions.",
+          "options": ["are", "is", "was", "has"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The police ___ investigating the case.",
+          "options": ["are", "is", "was", "has"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Cattle ___ grazing in the field.",
+          "options": ["are", "is", "was", "has"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "He and I ___ friends.",
+          "options": ["are", "is", "am", "was"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Bread and butter ___ my breakfast.",
+          "options": ["is", "are", "were", "have"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The poet and philosopher ___ dead.",
+          "options": ["is", "are", "were", "have"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Each of the girls ___ a doll.",
+          "options": ["has", "have", "are", "were"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "None of the boys ___ done the homework.",
+          "options": ["has", "have", "are", "were"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "He ___ here for five years.",
+          "options": ["has been working", "is working", "works", "worked"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "I ___ my homework before he came.",
+          "options": ["had finished", "have finished", "finished", "was finishing"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "She ___ to school every day.",
+          "options": ["goes", "go", "going", "gone"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "They ___ football when it started raining.",
+          "options": ["were playing", "played", "have played", "are playing"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "By next year, I ___ my graduation.",
+          "options": ["will have completed", "will complete", "complete", "completed"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The train ___ before we reached the station.",
+          "options": ["had left", "has left", "left", "was leaving"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "He ___ TV when I called him.",
+          "options": ["was watching", "watched", "has watched", "watches"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "I ___ him since 2010.",
+          "options": ["have known", "know", "knew", "am knowing"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "She ___ in this office since last year.",
+          "options": ["has been working", "is working", "works", "worked"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "If it ___ tomorrow, we will cancel the trip.",
+          "options": ["rains", "will rain", "rained", "is raining"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "I wish I ___ a bird.",
+          "options": ["were", "was", "am", "is"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "He behaves as if he ___ the boss.",
+          "options": ["were", "was", "is", "has been"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "It is time we ___ the meeting.",
+          "options": ["started", "start", "will start", "have started"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "I would rather ___ than beg.",
+          "options": ["die", "died", "dying", "to die"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "He is used to ___ early.",
+          "options": ["getting up", "get up", "got up", "gets up"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "She is fond of ___.",
+          "options": ["singing", "sing", "to sing", "sang"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "I saw him ___ the road.",
+          "options": ["crossing", "crossed", "cross", "to cross"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The ___ child was crying.",
+          "options": ["frightened", "frighten", "frightening", "fright"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Having ___ his work, he went out to play.",
+          "options": ["finished", "finish", "finishing", "finishes"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "I heard her ___ a song.",
+          "options": ["singing", "sing", "sang", "sung"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "She ___ not come yesterday.",
+          "options": ["did", "does", "do", "has"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "___ you please open the door?",
+          "options": ["Could", "Should", "Must", "Need"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "You ___ obey your parents.",
+          "options": ["should", "could", "might", "would"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "He ___ swim when he was five.",
+          "options": ["could", "can", "may", "must"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "___ I use your pen?",
+          "options": ["May", "Must", "Should", "Would"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "You ___ not smoke here.",
+          "options": ["must", "can", "may", "might"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "She ___ have forgotten the appointment.",
+          "options": ["might", "must", "can", "should"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "I ___ rather stay at home than go out.",
+          "options": ["would", "should", "could", "might"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "You ___ have told me earlier.",
+          "options": ["should", "could", "might", "would"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "He ___ be at home now.",
+          "options": ["must", "can", "could", "might"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "___ you like to have tea?",
+          "options": ["Would", "Should", "Could", "Must"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "I ___ not go to the party yesterday.",
+          "options": ["could", "can", "may", "must"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "She ___ not have done it.",
+          "options": ["could", "can", "may", "must"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "You ___ to finish the work by tomorrow.",
+          "options": ["have", "has", "had", "having"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "He ___ been working here since 2015.",
+          "options": ["has", "have", "had", "is"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "They ___ been waiting for two hours.",
+          "options": ["have", "has", "had", "are"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "I ___ not know the answer.",
+          "options": ["do", "does", "did", "done"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "She ___ not like coffee.",
+          "options": ["does", "do", "did", "done"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "We ___ not go to the cinema last night.",
+          "options": ["did", "do", "does", "done"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "___ he speak English fluently?",
+          "options": ["Can", "May", "Must", "Should"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The meeting was ___ due to rain.",
+          "options": ["called off", "called on", "called for", "called up"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "I cannot ___ with his behavior.",
+          "options": ["put up", "put off", "put on", "put out"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "She ___ her mother in looks.",
+          "options": ["takes after", "takes off", "takes on", "takes in"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The car ___ on the way to office.",
+          "options": ["broke down", "broke out", "broke into", "broke up"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "He ___ a new idea.",
+          "options": ["came up with", "came across", "came into", "came over"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "I ___ an old friend at the market.",
+          "options": ["ran into", "ran out", "ran over", "ran away"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The thief ___ from the police.",
+          "options": ["got away", "got on", "got off", "got up"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "She ___ the truth at last.",
+          "options": ["came out with", "came out", "came in", "came about"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "We should ___ the matter carefully.",
+          "options": ["look into", "look after", "look for", "look at"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "He ___ his father's business.",
+          "options": ["took over", "took up", "took off", "took in"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "I need to ___ my notes before the exam.",
+          "options": ["go over", "go through", "go with", "go after"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The plane ___ at 6 PM.",
+          "options": ["takes off", "takes on", "takes up", "takes in"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "She ___ the offer politely.",
+          "options": ["turned down", "turned up", "turned on", "turned off"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "He ___ smoking last year.",
+          "options": ["gave up", "gave in", "gave out", "gave away"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The children ___ when they heard the noise.",
+          "options": ["ran away", "ran out", "ran into", "ran over"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "I cannot ___ your rudeness.",
+          "options": ["put up with", "put up", "put off", "put on"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The fire ___ at midnight.",
+          "options": ["broke out", "broke down", "broke into", "broke up"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "He ___ the problem easily.",
+          "options": ["dealt with", "dealt in", "dealt out", "dealt by"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "She ___ her old clothes to charity.",
+          "options": ["gave away", "gave up", "gave in", "gave out"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "The meeting was ___ till next week.",
+          "options": ["put off", "put on", "put up", "put out"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the synonym of: Abandon",
+          "options": ["forsake", "keep", "retain", "hold"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the synonym of: Accumulate",
+          "options": ["gather", "scatter", "disperse", "spread"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the synonym of: Admonish",
+          "options": ["warn", "praise", "applaud", "commend"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the synonym of: Alleviate",
+          "options": ["relieve", "aggravate", "worsen", "intensify"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the synonym of: Astonish",
+          "options": ["amaze", "bore", "tire", "weary"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the synonym of: Conceal",
+          "options": ["hide", "reveal", "disclose", "expose"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the synonym of: Defend",
+          "options": ["protect", "attack", "assault", "charge"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the synonym of: Elevate",
+          "options": ["raise", "lower", "drop", "reduce"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the synonym of: Fatigue",
+          "options": ["tire", "energize", "refresh", "revive"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the synonym of: Gather",
+          "options": ["collect", "scatter", "disperse", "spread"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Accept",
+          "options": ["reject", "receive", "take", "admit"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Begin",
+          "options": ["end", "start", "commence", "initiate"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Buy",
+          "options": ["sell", "purchase", "acquire", "obtain"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Conceal",
+          "options": ["reveal", "hide", "cover", "mask"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Defend",
+          "options": ["attack", "protect", "guard", "shield"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Elevate",
+          "options": ["lower", "raise", "lift", "boost"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Forget",
+          "options": ["remember", "ignore", "neglect", "overlook"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Gather",
+          "options": ["scatter", "collect", "assemble", "accumulate"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Praise",
+          "options": ["criticize", "applaud", "commend", "laud"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        },
+        {
+          "q": "Choose the antonym of: Strengthen",
+          "options": ["weaken", "fortify", "reinforce", "bolster"],
+          "answer": 0,
+          "marks": 1,
+          "negative": 0.25
+        }
+      ]
+    }
+  ]
+}

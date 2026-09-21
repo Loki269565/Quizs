@@ -1,0 +1,712 @@
+[{
+"id": "dsssb-modal-100",
+"title": "DSSSB English Language & Comprehension - 100 Modal Verbs MCQs",
+"sections": [
+{
+"name": "Modal Verbs",
+"durationMinutes": 60,
+"questions": [
+{
+"q": "She ___ speak three languages fluently.",
+"options": ["can", "could", "may", "must"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ you please pass me the salt?",
+"options": ["Could", "Must", "Should", "Need"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ finish your homework before going out.",
+"options": ["must", "can", "might", "could"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "He ___ be at home; the lights are on.",
+"options": ["must", "can't", "needn't", "shouldn't"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "It ___ rain later, so take an umbrella.",
+"options": ["may", "must", "can", "should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "I ___ swim when I was five.",
+"options": ["could", "can", "may", "must"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ not smoke here.",
+"options": ["must", "can", "may", "might"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ I borrow your book?",
+"options": ["May", "Must", "Should", "Would"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "She ___ have forgotten the meeting.",
+"options": ["might", "must", "can", "should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ have told me earlier.",
+"options": ["should", "could", "might", "would"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "He ___ be tired after the long journey.",
+"options": ["must", "can't", "needn't", "shouldn't"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ you like to have tea?",
+"options": ["Would", "Should", "Could", "Must"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "I ___ rather stay at home than go out.",
+"options": ["would", "should", "could", "might"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ obey your parents.",
+"options": ["should", "could", "might", "would"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ I use your pen?",
+"options": ["May", "Must", "Should", "Would"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "She ___ not have come yesterday.",
+"options": ["could", "can", "may", "must"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "The train ___ have left before we reached.",
+"options": ["must", "can", "may", "should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ not worry; everything will be fine.",
+"options": ["need", "must", "can", "may"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "He ___ swim across the river when he was young.",
+"options": ["could", "can", "may", "must"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ you help me with this box?",
+"options": ["Can", "Must", "Should", "May"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ go now if you wish.",
+"options": ["may", "must", "can't", "needn't"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ not use mobile phones during the exam.",
+"options": ["must", "can", "may", "might"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "She ___ be able to solve this problem.",
+"options": ["might", "must", "can", "should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "I ___ have helped you, but I was busy.",
+"options": ["could", "must", "should", "may"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ have taken an umbrella; it rained heavily.",
+"options": ["should", "could", "might", "would"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "He ___ not have stolen the money; he is honest.",
+"options": ["can", "must", "may", "should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ we start the meeting now?",
+"options": ["Shall", "Will", "Would", "Should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ to respect your elders.",
+"options": ["ought", "must", "should", "need"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "I ___ to finish this work by tomorrow.",
+"options": ["have", "has", "had", "am"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "She ___ to go to school yesterday.",
+"options": ["had", "has", "have", "is"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "We ___ not hurry; we have plenty of time.",
+"options": ["need", "must", "can", "may"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ you mind closing the window?",
+"options": ["Would", "Should", "Could", "Must"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "He ___ play the guitar very well.",
+"options": ["can", "may", "must", "should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ not have waited for me.",
+"options": ["need", "must", "can", "may"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "She ___ have been a teacher; she knows so much.",
+"options": ["must", "can't", "needn't", "shouldn't"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "I ___ not be able to attend the party.",
+"options": ["may", "must", "can", "should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ you please be quiet?",
+"options": ["Can", "Must", "Should", "May"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ better consult a doctor.",
+"options": ["had", "would", "should", "must"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "He ___ rather die than surrender.",
+"options": ["would", "should", "could", "might"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "She ___ to live in Delhi when she was a child.",
+"options": ["used", "use", "uses", "using"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "We ___ have arrived earlier if we had taken a taxi.",
+"options": ["could", "must", "should", "may"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ not touch the wires; it's dangerous.",
+"options": ["must", "can", "may", "might"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ I carry your bag for you?",
+"options": ["Shall", "Will", "Would", "Should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "He ___ be working in the garden now.",
+"options": ["may", "must", "can", "should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "She ___ not have received my message.",
+"options": ["might", "must", "can", "should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ have told me the truth.",
+"options": ["should", "could", "might", "would"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "I ___ like to visit Paris someday.",
+"options": ["would", "should", "could", "might"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ you tell me the way to the station?",
+"options": ["Could", "Must", "Should", "Need"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "He ___ not come to the party if he doesn't want to.",
+"options": ["need", "must", "can", "may"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "We ___ obey the traffic rules.",
+"options": ["must", "can", "may", "might"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "She ___ speak English fluently when she was ten.",
+"options": ["could", "can", "may", "must"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ not smoke in the hospital.",
+"options": ["must", "can", "may", "might"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ I have a glass of water?",
+"options": ["May", "Must", "Should", "Would"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "He ___ have missed the train.",
+"options": ["must", "can", "may", "should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ have informed me earlier.",
+"options": ["should", "could", "might", "would"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "They ___ be at the station by now.",
+"options": ["must", "can't", "needn't", "shouldn't"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ you like to come with us?",
+"options": ["Would", "Should", "Could", "Must"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "I ___ rather walk than take a bus.",
+"options": ["would", "should", "could", "might"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ to apologize for your mistake.",
+"options": ["ought", "must", "should", "need"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "She ___ to submit the report by Friday.",
+"options": ["has", "have", "had", "is"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "We ___ not worry about the result.",
+"options": ["need", "must", "can", "may"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ you mind if I sit here?",
+"options": ["Would", "Should", "Could", "Must"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "He ___ play football when he was younger.",
+"options": ["could", "can", "may", "must"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ not have bought so much food.",
+"options": ["need", "must", "can", "may"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "She ___ have forgotten to lock the door.",
+"options": ["must", "can't", "needn't", "shouldn't"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "I ___ not be able to come tomorrow.",
+"options": ["may", "must", "can", "should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ you please help me?",
+"options": ["Can", "Must", "Should", "May"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ better take rest.",
+"options": ["had", "would", "should", "must"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "He ___ rather resign than accept the transfer.",
+"options": ["would", "should", "could", "might"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "She ___ to play the piano when she was young.",
+"options": ["used", "use", "uses", "using"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "We ___ have caught the train if we had hurried.",
+"options": ["could", "must", "should", "may"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ not park your car here.",
+"options": ["must", "can", "may", "might"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ I open the window?",
+"options": ["Shall", "Will", "Would", "Should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "He ___ be sleeping now.",
+"options": ["may", "must", "can", "should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "She ___ not have seen us.",
+"options": ["might", "must", "can", "should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ have listened to my advice.",
+"options": ["should", "could", "might", "would"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "I ___ like to have a cup of tea.",
+"options": ["would", "should", "could", "might"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ you pass me the book?",
+"options": ["Could", "Must", "Should", "Need"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "He ___ not come if he is busy.",
+"options": ["need", "must", "can", "may"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "We ___ respect our teachers.",
+"options": ["must", "can", "may", "might"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "She ___ swim very well.",
+"options": ["can", "may", "must", "should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ not use this phone.",
+"options": ["must", "can", "may", "might"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ I borrow your pen?",
+"options": ["May", "Must", "Should", "Would"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "He ___ have taken the wrong bus.",
+"options": ["must", "can", "may", "should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ have told me before.",
+"options": ["should", "could", "might", "would"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "They ___ be waiting for us.",
+"options": ["must", "can't", "needn't", "shouldn't"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ you like to join us?",
+"options": ["Would", "Should", "Could", "Must"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "I ___ rather read a book than watch TV.",
+"options": ["would", "should", "could", "might"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ to obey the law.",
+"options": ["ought", "must", "should", "need"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "She ___ to complete the assignment today.",
+"options": ["has", "have", "had", "is"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "We ___ not hurry.",
+"options": ["need", "must", "can", "may"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ you mind waiting for a while?",
+"options": ["Would", "Should", "Could", "Must"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "He ___ run fast when he was young.",
+"options": ["could", "can", "may", "must"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ not have watered the plants; it rained.",
+"options": ["need", "must", "can", "may"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "She ___ have left her keys at home.",
+"options": ["must", "can't", "needn't", "shouldn't"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "I ___ not be able to join you.",
+"options": ["may", "must", "can", "should"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "___ you please close the door?",
+"options": ["Can", "Must", "Should", "May"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "You ___ better see a doctor.",
+"options": ["had", "would", "should", "must"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "He ___ rather starve than beg.",
+"options": ["would", "should", "could", "might"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+},
+{
+"q": "She ___ to live in Mumbai before 2010.",
+"options": ["used", "use", "uses", "using"],
+"answer": 0,
+"marks": 1,
+"negative": 0.25
+}
+]
+}
+]
+}]

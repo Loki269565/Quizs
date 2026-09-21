@@ -1,0 +1,293 @@
+[
+  {
+    "id": "rc_dataset",
+    "title": "Reading Comprehension Test",
+    "sections": [
+      {
+        "name": "Strategy & Practice",
+        "durationMinutes": 10,
+        "questions": [
+          {
+            "q": "What is the overall tone of the passage?",
+            "passage": "The playground buzzed with excitement as children laughed and played together. The sun shone brightly overhead, casting long shadows across the green grass. Birds chirped happily in the trees, adding to the cheerful atmosphere. It was a perfect day for fun and adventure!",
+            "options": [
+              "Melancholic",
+              "Euphoric",
+              "Pensive",
+              "Apprehensive"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the overall tone of the passage?",
+            "passage": "Emma peeked out the window and saw dark clouds gathering in the sky. She had been looking forward to playing outside all day, but now it looked like it was going to rain. With a frown, she put away her toys and sighed. It seemed like every time she wanted to have fun, something came along to ruin it. She wished the weather would cooperate for once.",
+            "options": [
+              "Nonchalance",
+              "Enthusiasm",
+              "Complacency",
+              "Discontentment"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Based on the passage, which of the following can be inferred about vertical farming?",
+            "passage": "By the year 2050, the world's population is expected to surpass 10 billion, posing a significant challenge for food security. To address this issue, scientists have developed a revolutionary method called vertical farming. Vertical farming utilizes stacked layers to grow crops in a controlled environment, using artificial lighting and climate control. This technology has the potential to maximize food production while minimizing land use and environmental impact.",
+            "options": [
+              "Vertical farming primarily relies on natural sunlight.",
+              "Vertical farming is a conventional agricultural practice adopted by farmers across the world.",
+              "Vertical farming aims to mitigate the challenges posed by a rapidly growing global population.",
+              "Vertical farming typically requires large expanses of land."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following can be inferred from the passage?",
+            "passage": "Recent studies have shown a correlation between regular exercise and cognitive function. A group of researchers conducted a study involving two groups of participants. The first group engaged in moderate-intensity aerobic exercise three times a week for six months, while the other group did not change their exercise habits. After six months, cognitive assessments were conducted on both groups. The results indicated that the group that engaged in regular exercise showed significant improvements in memory, attention and problem-solving skills compared to the sedentary group.",
+            "options": [
+              "Regular exercise has no impact on cognitive function.",
+              "The cognitive assessment was conducted before the participants engaged in exercise.",
+              "The sedentary group outperformed the exercise group.",
+              "Engaging in moderate-intensity aerobic exercise three times a week for six months can lead to improvements in cognitive function."
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Reading Comprehension",
+        "durationMinutes": 30,
+        "questions": [
+          {
+            "q": "How do human beings interact with their physical environment?",
+            "passage": "Human beings interact with their physical environment with the help of technology. It is not important what human beings produce and create, but it is extremely important 'with the help of what tools and techniques' they produce and create.\n\nTechnology indicates the level of cultural development of a society. Human beings were able to develop technology after they developed a better understanding of natural laws. For example, the understanding of the concepts of friction and heat helped us discover fire. Similarly, understanding the secrets of DNA and genetics enabled us to conquer many diseases. We use the laws of aerodynamics to develop faster planes. You can see that knowledge about nature is extremely important to develop technology, and technology loosens the shackles of the environment on human beings.\n\nIn the early stages of their interaction with the natural environment, human beings were greatly influenced by it. They adapted to the dictates of nature. This is so because the level of technology was very low and the stage of human social development was also primitive. This type of interaction between primitive human society and the strong forces of nature was termed environmental determinism. At that stage of very low technological development, we can imagine the presence of a naturalised human, who was afraid of nature's fury and worshipped it. There was a direct dependence of human beings on nature for the resources that sustain them. The physical environment for such societies became 'Mother Nature'.",
+            "options": [
+              "With the help of computers",
+              "With the help of communication",
+              "With the help of technology",
+              "With the help of the internet"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the suitable word from the passage which means 'relating to a human society at a very early stage of development, with people living in a simple way without machines'.",
+            "passage": "Human beings interact with their physical environment with the help of technology. It is not important what human beings produce and create, but it is extremely important 'with the help of what tools and techniques' they produce and create.\n\nTechnology indicates the level of cultural development of a society. Human beings were able to develop technology after they developed a better understanding of natural laws. For example, the understanding of the concepts of friction and heat helped us discover fire. Similarly, understanding the secrets of DNA and genetics enabled us to conquer many diseases. We use the laws of aerodynamics to develop faster planes. You can see that knowledge about nature is extremely important to develop technology, and technology loosens the shackles of the environment on human beings.\n\nIn the early stages of their interaction with the natural environment, human beings were greatly influenced by it. They adapted to the dictates of nature. This is so because the level of technology was very low and the stage of human social development was also primitive. This type of interaction between primitive human society and the strong forces of nature was termed environmental determinism. At that stage of very low technological development, we can imagine the presence of a naturalised human, who was afraid of nature's fury and worshipped it. There was a direct dependence of human beings on nature for the resources that sustain them. The physical environment for such societies became 'Mother Nature'.",
+            "options": [
+              "Primitive",
+              "Determinism",
+              "Fury",
+              "Dictate"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which one of the following can be a suitable title for the passage?",
+            "passage": "Human beings interact with their physical environment with the help of technology. It is not important what human beings produce and create, but it is extremely important 'with the help of what tools and techniques' they produce and create.\n\nTechnology indicates the level of cultural development of a society. Human beings were able to develop technology after they developed a better understanding of natural laws. For example, the understanding of the concepts of friction and heat helped us discover fire. Similarly, understanding the secrets of DNA and genetics enabled us to conquer many diseases. We use the laws of aerodynamics to develop faster planes. You can see that knowledge about nature is extremely important to develop technology, and technology loosens the shackles of the environment on human beings.\n\nIn the early stages of their interaction with the natural environment, human beings were greatly influenced by it. They adapted to the dictates of nature. This is so because the level of technology was very low and the stage of human social development was also primitive. This type of interaction between primitive human society and the strong forces of nature was termed environmental determinism. At that stage of very low technological development, we can imagine the presence of a naturalised human, who was afraid of nature's fury and worshipped it. There was a direct dependence of human beings on nature for the resources that sustain them. The physical environment for such societies became 'Mother Nature'.",
+            "options": [
+              "The Evolution of Technology and Human Interaction with Nature",
+              "The Influence of Social Media",
+              "Quantum Physics and Its Applications",
+              "Fashion Trends in Prehistoric Times"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "According to the passage, what helped us conquer many diseases?",
+            "passage": "Human beings interact with their physical environment with the help of technology. It is not important what human beings produce and create, but it is extremely important 'with the help of what tools and techniques' they produce and create.\n\nTechnology indicates the level of cultural development of a society. Human beings were able to develop technology after they developed a better understanding of natural laws. For example, the understanding of the concepts of friction and heat helped us discover fire. Similarly, understanding the secrets of DNA and genetics enabled us to conquer many diseases. We use the laws of aerodynamics to develop faster planes. You can see that knowledge about nature is extremely important to develop technology, and technology loosens the shackles of the environment on human beings.\n\nIn the early stages of their interaction with the natural environment, human beings were greatly influenced by it. They adapted to the dictates of nature. This is so because the level of technology was very low and the stage of human social development was also primitive. This type of interaction between primitive human society and the strong forces of nature was termed environmental determinism. At that stage of very low technological development, we can imagine the presence of a naturalised human, who was afraid of nature's fury and worshipped it. There was a direct dependence of human beings on nature for the resources that sustain them. The physical environment for such societies became 'Mother Nature'.",
+            "options": [
+              "Understanding the secrets of DNA and genetics",
+              "The invention of antibiotics",
+              "Advances in robotics",
+              "The study of ancient civilizations"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is true based on the passage?",
+            "passage": "Human beings interact with their physical environment with the help of technology. It is not important what human beings produce and create, but it is extremely important 'with the help of what tools and techniques' they produce and create.\n\nTechnology indicates the level of cultural development of a society. Human beings were able to develop technology after they developed a better understanding of natural laws. For example, the understanding of the concepts of friction and heat helped us discover fire. Similarly, understanding the secrets of DNA and genetics enabled us to conquer many diseases. We use the laws of aerodynamics to develop faster planes. You can see that knowledge about nature is extremely important to develop technology, and technology loosens the shackles of the environment on human beings.\n\nIn the early stages of their interaction with the natural environment, human beings were greatly influenced by it. They adapted to the dictates of nature. This is so because the level of technology was very low and the stage of human social development was also primitive. This type of interaction between primitive human society and the strong forces of nature was termed environmental determinism. At that stage of very low technological development, we can imagine the presence of a naturalised human, who was afraid of nature's fury and worshipped it. There was a direct dependence of human beings on nature for the resources that sustain them. The physical environment for such societies became 'Mother Nature'.",
+            "options": [
+              "Human beings interact with their physical environment solely through the use of communication.",
+              "Understanding natural laws is crucial for the development of technology.",
+              "Environmental determinism suggests that human behaviour is not influenced by environmental conditions.",
+              "In the early stages of human society, people were not greatly influenced by the forces of nature."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the tone of the passage?",
+            "passage": "Human beings interact with their physical environment with the help of technology. It is not important what human beings produce and create, but it is extremely important 'with the help of what tools and techniques' they produce and create.\n\nTechnology indicates the level of cultural development of a society. Human beings were able to develop technology after they developed a better understanding of natural laws. For example, the understanding of the concepts of friction and heat helped us discover fire. Similarly, understanding the secrets of DNA and genetics enabled us to conquer many diseases. We use the laws of aerodynamics to develop faster planes. You can see that knowledge about nature is extremely important to develop technology, and technology loosens the shackles of the environment on human beings.\n\nIn the early stages of their interaction with the natural environment, human beings were greatly influenced by it. They adapted to the dictates of nature. This is so because the level of technology was very low and the stage of human social development was also primitive. This type of interaction between primitive human society and the strong forces of nature was termed environmental determinism. At that stage of very low technological development, we can imagine the presence of a naturalised human, who was afraid of nature's fury and worshipped it. There was a direct dependence of human beings on nature for the resources that sustain them. The physical environment for such societies became 'Mother Nature'.",
+            "options": [
+              "Melancholic",
+              "Pessimistic",
+              "Grandiose",
+              "Informative"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Why did early human societies adhere to the dictates of nature during the initial phases of their interaction with it?",
+            "passage": "Human beings interact with their physical environment with the help of technology. It is not important what human beings produce and create, but it is extremely important 'with the help of what tools and techniques' they produce and create.\n\nTechnology indicates the level of cultural development of a society. Human beings were able to develop technology after they developed a better understanding of natural laws. For example, the understanding of the concepts of friction and heat helped us discover fire. Similarly, understanding the secrets of DNA and genetics enabled us to conquer many diseases. We use the laws of aerodynamics to develop faster planes. You can see that knowledge about nature is extremely important to develop technology, and technology loosens the shackles of the environment on human beings.\n\nIn the early stages of their interaction with the natural environment, human beings were greatly influenced by it. They adapted to the dictates of nature. This is so because the level of technology was very low and the stage of human social development was also primitive. This type of interaction between primitive human society and the strong forces of nature was termed environmental determinism. At that stage of very low technological development, we can imagine the presence of a naturalised human, who was afraid of nature's fury and worshipped it. There was a direct dependence of human beings on nature for the resources that sustain them. The physical environment for such societies became 'Mother Nature'.",
+            "options": [
+              "Because they lacked appreciation for the environment",
+              "Because they were technologically advanced",
+              "Because they were governed by strict societal norms",
+              "Because the level of technology was very low and the stage of human social development was also primitive"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In which African countries have major cocoa plants halted or reduced their operations?",
+            "passage": "Major cocoa plants in Ivory Coast and Ghana have halted or cut processing because they cannot afford to buy beans, trading sources say, which means chocolate prices around the world are likely to soar. Chocolate makers have already raised prices for consumers after three years of poor cocoa harvests, with a fourth expected, in the two countries that produce nearly 60% of the world's cocoa. Cocoa prices have more than doubled over the last year, scaling numerous all-time highs. Steve Wateridge of Tropical Research Services, a world expert on cocoa, said the market needs massive demand destruction to catch up with the supply destruction.\n\nChocolate makers cannot produce chocolate from raw cocoa; they rely on processors to turn the beans into butter and liquor that can be made into chocolate. But the processors say they cannot afford to buy the beans. Transcao, a state-controlled Ivorian bean processor and one of the country's nine major plants, said it had stopped buying beans because of their price. It said it was still processing from stock but did not say at what capacity it was running. Two industry sources said the plant was almost idle; they asked not to be named because they were not authorised to speak publicly on the issue. One of the two sources said more major state-run plants could shut soon in top grower Ivory Coast, which produces nearly half of the world's cocoa.\n\nIn Ghana, the second-largest grower, most of its eight plants, including the state-owned Cocoa Processing Company (CPC), have repeatedly suspended work for several weeks since the season started in October, two separate industry sources said.",
+            "options": [
+              "Ethiopia and Nigeria",
+              "Nigeria and Tanzania",
+              "Ivory Coast and Ghana",
+              "Tanzania and Ethiopia"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the primary reason for major African cocoa plants to halt or reduce processing?",
+            "passage": "Major cocoa plants in Ivory Coast and Ghana have halted or cut processing because they cannot afford to buy beans, trading sources say, which means chocolate prices around the world are likely to soar. Chocolate makers have already raised prices for consumers after three years of poor cocoa harvests, with a fourth expected, in the two countries that produce nearly 60% of the world's cocoa. Cocoa prices have more than doubled over the last year, scaling numerous all-time highs. Steve Wateridge of Tropical Research Services, a world expert on cocoa, said the market needs massive demand destruction to catch up with the supply destruction.\n\nChocolate makers cannot produce chocolate from raw cocoa; they rely on processors to turn the beans into butter and liquor that can be made into chocolate. But the processors say they cannot afford to buy the beans. Transcao, a state-controlled Ivorian bean processor and one of the country's nine major plants, said it had stopped buying beans because of their price. It said it was still processing from stock but did not say at what capacity it was running. Two industry sources said the plant was almost idle; they asked not to be named because they were not authorised to speak publicly on the issue. One of the two sources said more major state-run plants could shut soon in top grower Ivory Coast, which produces nearly half of the world's cocoa.\n\nIn Ghana, the second-largest grower, most of its eight plants, including the state-owned Cocoa Processing Company (CPC), have repeatedly suspended work for several weeks since the season started in October, two separate industry sources said.",
+            "options": [
+              "A decrease in the demand for chocolate",
+              "Overproduction of cocoa beans",
+              "Increased operational costs in the cocoa industry",
+              "Financial constraints preventing the purchase of cocoa beans"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The African countries mentioned in the passage together account for roughly what share of the world's cocoa output?",
+            "passage": "Major cocoa plants in Ivory Coast and Ghana have halted or cut processing because they cannot afford to buy beans, trading sources say, which means chocolate prices around the world are likely to soar. Chocolate makers have already raised prices for consumers after three years of poor cocoa harvests, with a fourth expected, in the two countries that produce nearly 60% of the world's cocoa. Cocoa prices have more than doubled over the last year, scaling numerous all-time highs. Steve Wateridge of Tropical Research Services, a world expert on cocoa, said the market needs massive demand destruction to catch up with the supply destruction.\n\nChocolate makers cannot produce chocolate from raw cocoa; they rely on processors to turn the beans into butter and liquor that can be made into chocolate. But the processors say they cannot afford to buy the beans. Transcao, a state-controlled Ivorian bean processor and one of the country's nine major plants, said it had stopped buying beans because of their price. It said it was still processing from stock but did not say at what capacity it was running. Two industry sources said the plant was almost idle; they asked not to be named because they were not authorised to speak publicly on the issue. One of the two sources said more major state-run plants could shut soon in top grower Ivory Coast, which produces nearly half of the world's cocoa.\n\nIn Ghana, the second-largest grower, most of its eight plants, including the state-owned Cocoa Processing Company (CPC), have repeatedly suspended work for several weeks since the season started in October, two separate industry sources said.",
+            "options": [
+              "Approximately 30%",
+              "Less than 10%",
+              "Around 20%",
+              "Over 50%"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "According to the passage, in which month did the cocoa season start, after which most of Ghana's processing plants repeatedly suspended work?",
+            "passage": "Major cocoa plants in Ivory Coast and Ghana have halted or cut processing because they cannot afford to buy beans, trading sources say, which means chocolate prices around the world are likely to soar. Chocolate makers have already raised prices for consumers after three years of poor cocoa harvests, with a fourth expected, in the two countries that produce nearly 60% of the world's cocoa. Cocoa prices have more than doubled over the last year, scaling numerous all-time highs. Steve Wateridge of Tropical Research Services, a world expert on cocoa, said the market needs massive demand destruction to catch up with the supply destruction.\n\nChocolate makers cannot produce chocolate from raw cocoa; they rely on processors to turn the beans into butter and liquor that can be made into chocolate. But the processors say they cannot afford to buy the beans. Transcao, a state-controlled Ivorian bean processor and one of the country's nine major plants, said it had stopped buying beans because of their price. It said it was still processing from stock but did not say at what capacity it was running. Two industry sources said the plant was almost idle; they asked not to be named because they were not authorised to speak publicly on the issue. One of the two sources said more major state-run plants could shut soon in top grower Ivory Coast, which produces nearly half of the world's cocoa.\n\nIn Ghana, the second-largest grower, most of its eight plants, including the state-owned Cocoa Processing Company (CPC), have repeatedly suspended work for several weeks since the season started in October, two separate industry sources said.",
+            "options": [
+              "January",
+              "March",
+              "July",
+              "October"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the main idea conveyed in the passage?",
+            "passage": "Major cocoa plants in Ivory Coast and Ghana have halted or cut processing because they cannot afford to buy beans, trading sources say, which means chocolate prices around the world are likely to soar. Chocolate makers have already raised prices for consumers after three years of poor cocoa harvests, with a fourth expected, in the two countries that produce nearly 60% of the world's cocoa. Cocoa prices have more than doubled over the last year, scaling numerous all-time highs. Steve Wateridge of Tropical Research Services, a world expert on cocoa, said the market needs massive demand destruction to catch up with the supply destruction.\n\nChocolate makers cannot produce chocolate from raw cocoa; they rely on processors to turn the beans into butter and liquor that can be made into chocolate. But the processors say they cannot afford to buy the beans. Transcao, a state-controlled Ivorian bean processor and one of the country's nine major plants, said it had stopped buying beans because of their price. It said it was still processing from stock but did not say at what capacity it was running. Two industry sources said the plant was almost idle; they asked not to be named because they were not authorised to speak publicly on the issue. One of the two sources said more major state-run plants could shut soon in top grower Ivory Coast, which produces nearly half of the world's cocoa.\n\nIn Ghana, the second-largest grower, most of its eight plants, including the state-owned Cocoa Processing Company (CPC), have repeatedly suspended work for several weeks since the season started in October, two separate industry sources said.",
+            "options": [
+              "Cocoa processing companies have implemented new technology.",
+              "Financial difficulties have led cocoa processing companies to halt or reduce operations, which will affect chocolate prices.",
+              "Cocoa-producing countries have experienced a surplus in bean availability.",
+              "Global demand for chocolate has declined."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the antonym of the word 'soar' as used in the passage?",
+            "passage": "Major cocoa plants in Ivory Coast and Ghana have halted or cut processing because they cannot afford to buy beans, trading sources say, which means chocolate prices around the world are likely to soar. Chocolate makers have already raised prices for consumers after three years of poor cocoa harvests, with a fourth expected, in the two countries that produce nearly 60% of the world's cocoa. Cocoa prices have more than doubled over the last year, scaling numerous all-time highs. Steve Wateridge of Tropical Research Services, a world expert on cocoa, said the market needs massive demand destruction to catch up with the supply destruction.\n\nChocolate makers cannot produce chocolate from raw cocoa; they rely on processors to turn the beans into butter and liquor that can be made into chocolate. But the processors say they cannot afford to buy the beans. Transcao, a state-controlled Ivorian bean processor and one of the country's nine major plants, said it had stopped buying beans because of their price. It said it was still processing from stock but did not say at what capacity it was running. Two industry sources said the plant was almost idle; they asked not to be named because they were not authorised to speak publicly on the issue. One of the two sources said more major state-run plants could shut soon in top grower Ivory Coast, which produces nearly half of the world's cocoa.\n\nIn Ghana, the second-largest grower, most of its eight plants, including the state-owned Cocoa Processing Company (CPC), have repeatedly suspended work for several weeks since the season started in October, two separate industry sources said.",
+            "options": [
+              "Drop",
+              "Elevate",
+              "Surge",
+              "Climb"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which word is opposite in meaning to 'prevalent' as used in the first paragraph?",
+            "passage": "Artificial intelligence (AI) refers to the simulation of human intelligence by software-coded heuristics. Today this code is prevalent in everything from cloud-based enterprise applications to consumer apps and even embedded firmware.\n\nThe year 2022 brought AI into the mainstream through widespread familiarity with the applications of generative pre-trained transformers (GPT), most popularly OpenAI's DALL-E text-to-image tool and ChatGPT. The widespread fascination with ChatGPT made it synonymous with AI in the minds of most consumers. However, it represents only a small portion of the ways in which AI technology is being used today.\n\nThe ideal characteristic of artificial intelligence is its ability to rationalize and take actions that have the best chance of achieving a specific goal. A subset of artificial intelligence is machine learning, which refers to the concept that computer programs can automatically learn from and adapt to new data without being assisted by humans. Deep learning techniques enable this automatic learning through the absorption of huge amounts of unstructured data such as text, images or video.\n\nWhen most people hear the term artificial intelligence, the first thing they usually think of is robots. That is because big-budget films and novels weave stories about human-like machines that wreak havoc on Earth. But nothing could be further from the truth. AI has many positive uses, for example in healthcare, education and customer service support.",
+            "options": [
+              "Sparse",
+              "Pervasive",
+              "Common",
+              "Extensive"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the tone of the passage?",
+            "passage": "Artificial intelligence (AI) refers to the simulation of human intelligence by software-coded heuristics. Today this code is prevalent in everything from cloud-based enterprise applications to consumer apps and even embedded firmware.\n\nThe year 2022 brought AI into the mainstream through widespread familiarity with the applications of generative pre-trained transformers (GPT), most popularly OpenAI's DALL-E text-to-image tool and ChatGPT. The widespread fascination with ChatGPT made it synonymous with AI in the minds of most consumers. However, it represents only a small portion of the ways in which AI technology is being used today.\n\nThe ideal characteristic of artificial intelligence is its ability to rationalize and take actions that have the best chance of achieving a specific goal. A subset of artificial intelligence is machine learning, which refers to the concept that computer programs can automatically learn from and adapt to new data without being assisted by humans. Deep learning techniques enable this automatic learning through the absorption of huge amounts of unstructured data such as text, images or video.\n\nWhen most people hear the term artificial intelligence, the first thing they usually think of is robots. That is because big-budget films and novels weave stories about human-like machines that wreak havoc on Earth. But nothing could be further from the truth. AI has many positive uses, for example in healthcare, education and customer service support.",
+            "options": [
+              "Emotional",
+              "Sarcastic",
+              "Speculative",
+              "Formal"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "According to the passage, what is the reason people misunderstand AI?",
+            "passage": "Artificial intelligence (AI) refers to the simulation of human intelligence by software-coded heuristics. Today this code is prevalent in everything from cloud-based enterprise applications to consumer apps and even embedded firmware.\n\nThe year 2022 brought AI into the mainstream through widespread familiarity with the applications of generative pre-trained transformers (GPT), most popularly OpenAI's DALL-E text-to-image tool and ChatGPT. The widespread fascination with ChatGPT made it synonymous with AI in the minds of most consumers. However, it represents only a small portion of the ways in which AI technology is being used today.\n\nThe ideal characteristic of artificial intelligence is its ability to rationalize and take actions that have the best chance of achieving a specific goal. A subset of artificial intelligence is machine learning, which refers to the concept that computer programs can automatically learn from and adapt to new data without being assisted by humans. Deep learning techniques enable this automatic learning through the absorption of huge amounts of unstructured data such as text, images or video.\n\nWhen most people hear the term artificial intelligence, the first thing they usually think of is robots. That is because big-budget films and novels weave stories about human-like machines that wreak havoc on Earth. But nothing could be further from the truth. AI has many positive uses, for example in healthcare, education and customer service support.",
+            "options": [
+              "Lack of exposure to accurate information about AI",
+              "Limited availability of AI technology",
+              "Misrepresentation of AI capabilities by tech companies",
+              "The influence of big-budget films and novels that depict AI as humanoid robots"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following statements is FALSE as per the passage?",
+            "passage": "Artificial intelligence (AI) refers to the simulation of human intelligence by software-coded heuristics. Today this code is prevalent in everything from cloud-based enterprise applications to consumer apps and even embedded firmware.\n\nThe year 2022 brought AI into the mainstream through widespread familiarity with the applications of generative pre-trained transformers (GPT), most popularly OpenAI's DALL-E text-to-image tool and ChatGPT. The widespread fascination with ChatGPT made it synonymous with AI in the minds of most consumers. However, it represents only a small portion of the ways in which AI technology is being used today.\n\nThe ideal characteristic of artificial intelligence is its ability to rationalize and take actions that have the best chance of achieving a specific goal. A subset of artificial intelligence is machine learning, which refers to the concept that computer programs can automatically learn from and adapt to new data without being assisted by humans. Deep learning techniques enable this automatic learning through the absorption of huge amounts of unstructured data such as text, images or video.\n\nWhen most people hear the term artificial intelligence, the first thing they usually think of is robots. That is because big-budget films and novels weave stories about human-like machines that wreak havoc on Earth. But nothing could be further from the truth. AI has many positive uses, for example in healthcare, education and customer service support.",
+            "options": [
+              "Artificial intelligence is a subset of machine learning.",
+              "ChatGPT gained widespread fascination and became synonymous with AI among consumers.",
+              "OpenAI's DALL-E is a text-to-image tool.",
+              "Deep learning techniques enable automatic learning through the absorption of unstructured data."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

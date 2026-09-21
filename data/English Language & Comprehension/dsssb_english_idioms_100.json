@@ -1,0 +1,1214 @@
+[
+  {
+    "id": "dsssb-eng-idioms-1",
+    "title": "DSSSB English Idioms & Phrases Mock Test 1",
+    "sections": [
+      {
+        "name": "English Language & Comprehension - Idioms & Phrases",
+        "durationMinutes": 50,
+        "questions": [
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"A hot potato\"",
+            "options": [
+              "A warm welcome",
+              "A spicy dish",
+              "A controversial issue nobody wants to handle",
+              "A quick snack"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To add fuel to the fire\"",
+            "options": [
+              "To cook faster",
+              "To start a fire",
+              "To calm someone down",
+              "To make a bad situation worse"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"All ears\"",
+            "options": [
+              "Having big ears",
+              "Listening attentively",
+              "Hard of hearing",
+              "Ignoring everything"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"An apple of discord\"",
+            "options": [
+              "A sign of peace",
+              "A gift of friendship",
+              "A cause of quarrel",
+              "A tasty fruit"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"As the crow flies\"",
+            "options": [
+              "Very noisily",
+              "In a straight line",
+              "Very fast",
+              "Along a river"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"At loggerheads\"",
+            "options": [
+              "In close friendship",
+              "In deep thought",
+              "In strong disagreement",
+              "Cutting wood"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Back to square one\"",
+            "options": [
+              "Winning the game",
+              "Finishing the task",
+              "Moving forward",
+              "Back to the starting point"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Barking up the wrong tree\"",
+            "options": [
+              "Climbing a tree",
+              "Pursuing a mistaken course of action",
+              "Making a lot of noise",
+              "Hunting with dogs"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"A bolt from the blue\"",
+            "options": [
+              "A lightning rod",
+              "A clear sky",
+              "A sudden and unexpected event",
+              "A well-planned event"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To bury the hatchet\"",
+            "options": [
+              "To hide a weapon",
+              "To dig a grave",
+              "To start a fight",
+              "To make peace after a quarrel"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"By leaps and bounds\"",
+            "options": [
+              "Carelessly",
+              "Very rapidly",
+              "Very slowly",
+              "By jumping"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To cry over spilt milk\"",
+            "options": [
+              "To be careless",
+              "To waste milk",
+              "To be extremely sad",
+              "To regret what cannot be undone"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To cut corners\"",
+            "options": [
+              "To trim edges",
+              "To travel faster",
+              "To do something in the cheapest or easiest way",
+              "To draw a shape"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Down in the dumps\"",
+            "options": [
+              "Living in a garbage yard",
+              "Physically tired",
+              "Sad and depressed",
+              "Bankrupt"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To draw the line\"",
+            "options": [
+              "To sketch a picture",
+              "To begin work",
+              "To form a queue",
+              "To set a limit"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To eat humble pie\"",
+            "options": [
+              "To admit one's mistake humbly",
+              "To eat cheap food",
+              "To become poor",
+              "To boast"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To face the music\"",
+            "options": [
+              "To accept the consequences",
+              "To run away",
+              "To sing on stage",
+              "To listen to songs"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To fall flat\"",
+            "options": [
+              "To succeed greatly",
+              "To fail to have the intended effect",
+              "To trip over",
+              "To go to sleep"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"A fish out of water\"",
+            "options": [
+              "A lucky person",
+              "A person in unfamiliar surroundings",
+              "A fisherman",
+              "A good swimmer"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Flesh and blood\"",
+            "options": [
+              "Physical strength",
+              "A butcher's shop",
+              "Cruelty",
+              "Close relatives"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To foot the bill\"",
+            "options": [
+              "To pay the expenses",
+              "To walk a long way",
+              "To kick something",
+              "To send an invoice"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"From pillar to post\"",
+            "options": [
+              "Between two buildings",
+              "From one place to another without success",
+              "In a straight line",
+              "With steady progress"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To get cold feet\"",
+            "options": [
+              "To be very brave",
+              "To feel a chill",
+              "To run away fast",
+              "To become nervous and hesitate"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To give the cold shoulder\"",
+            "options": [
+              "To injure someone",
+              "To ignore someone deliberately",
+              "To welcome someone",
+              "To hug someone"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To go the extra mile\"",
+            "options": [
+              "To run a marathon",
+              "To make an additional effort",
+              "To travel far",
+              "To refuse extra work"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Green with envy\"",
+            "options": [
+              "Fond of nature",
+              "Feeling sick",
+              "Inexperienced",
+              "Very jealous"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Hand in glove\"",
+            "options": [
+              "In very close association",
+              "Wearing gloves",
+              "Feeling cold",
+              "Fighting"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To have an axe to grind\"",
+            "options": [
+              "To have a selfish motive",
+              "To sharpen tools",
+              "To be angry with a woodcutter",
+              "To be generous"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Hold your horses\"",
+            "options": [
+              "Run away",
+              "Ride quickly",
+              "Take control",
+              "Wait and be patient"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"In hot water\"",
+            "options": [
+              "Taking a bath",
+              "In trouble",
+              "Cooking food",
+              "In a comfortable position"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"In a nutshell\"",
+            "options": [
+              "In great detail",
+              "Inside a shell",
+              "Very complicated",
+              "In brief"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To jump the gun\"",
+            "options": [
+              "To act too soon",
+              "To shoot someone",
+              "To start a race",
+              "To arrive late"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To keep at bay\"",
+            "options": [
+              "To welcome warmly",
+              "To live near the sea",
+              "To prevent from coming close",
+              "To remain silent"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To kill two birds with one stone\"",
+            "options": [
+              "To go hunting",
+              "To fail at both tasks",
+              "To achieve two aims with a single action",
+              "To be cruel to animals"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To leave no stone unturned\"",
+            "options": [
+              "To clear the ground",
+              "To be lazy",
+              "To try every possible means",
+              "To break rocks"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To make ends meet\"",
+            "options": [
+              "To join two ropes",
+              "To meet new people",
+              "To earn just enough to live on",
+              "To finish a task"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To miss the boat\"",
+            "options": [
+              "To lose an opportunity",
+              "To travel by sea",
+              "To arrive on time",
+              "To sink in water"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Neck and neck\"",
+            "options": [
+              "Very friendly",
+              "Suffering from an injury",
+              "Far behind",
+              "Very close in a race or contest"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Off the record\"",
+            "options": [
+              "Unofficially",
+              "Recorded carefully",
+              "Very famous",
+              "Broken"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"On cloud nine\"",
+            "options": [
+              "Extremely happy",
+              "Very sad",
+              "Confused",
+              "Travelling by aeroplane"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Out of the blue\"",
+            "options": [
+              "Unexpectedly",
+              "Under a clear sky",
+              "Sadly",
+              "Deliberately"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To pull someone's leg\"",
+            "options": [
+              "To drag someone",
+              "To help someone",
+              "To tease someone jokingly",
+              "To injure someone"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To put up with\"",
+            "options": [
+              "To reject",
+              "To display",
+              "To tolerate",
+              "To build"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To rain cats and dogs\"",
+            "options": [
+              "To drizzle lightly",
+              "To have no rain",
+              "To rain very heavily",
+              "To have animals fall from the sky"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To read between the lines\"",
+            "options": [
+              "To understand the hidden meaning",
+              "To skip some lines",
+              "To read aloud",
+              "To read very slowly"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To rub salt in the wound\"",
+            "options": [
+              "To cook food",
+              "To heal an injury",
+              "To clean a wound",
+              "To make someone's pain worse"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To see eye to eye\"",
+            "options": [
+              "To agree completely",
+              "To stare at someone",
+              "To have good eyesight",
+              "To quarrel"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To sit on the fence\"",
+            "options": [
+              "To take a firm side",
+              "To remain neutral or undecided",
+              "To take a rest",
+              "To build a fence"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To take the bull by the horns\"",
+            "options": [
+              "To face a difficulty boldly",
+              "To fight a bull",
+              "To run away from danger",
+              "To act foolishly"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"The lion's share\"",
+            "options": [
+              "The largest part",
+              "An equal part",
+              "A very small part",
+              "A hunting trophy"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To throw in the towel\"",
+            "options": [
+              "To win a game",
+              "To start a task",
+              "To clean the floor",
+              "To admit defeat"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To turn a blind eye\"",
+            "options": [
+              "To lose one's sight",
+              "To look carefully",
+              "To wink at someone",
+              "To deliberately ignore something"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Up in arms\"",
+            "options": [
+              "Ready to celebrate",
+              "Angrily protesting",
+              "Fast asleep",
+              "Being carried"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"A wild goose chase\"",
+            "options": [
+              "A very fast chase",
+              "A wise plan",
+              "A hunting trip",
+              "A foolish and hopeless search"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To render yeoman's service\"",
+            "options": [
+              "To work on a farm",
+              "To join the army",
+              "To do poor work",
+              "To give excellent and loyal help"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"A white elephant\"",
+            "options": [
+              "A sign of good luck",
+              "A valuable gift",
+              "A rare animal",
+              "A useless and costly possession"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To smell a rat\"",
+            "options": [
+              "To dislike an odour",
+              "To find a rat",
+              "To be very clever",
+              "To suspect that something is wrong"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To cry wolf\"",
+            "options": [
+              "To raise a false alarm",
+              "To howl loudly",
+              "To be frightened",
+              "To call for a wolf"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To pay through the nose\"",
+            "options": [
+              "To pay an excessively high price",
+              "To smell something",
+              "To be ill",
+              "To pay in advance"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To pour oil on troubled waters\"",
+            "options": [
+              "To repair a ship",
+              "To make things worse",
+              "To calm a quarrel",
+              "To cook food"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To show the white feather\"",
+            "options": [
+              "To show cowardice",
+              "To wear feathers",
+              "To show bravery",
+              "To offer wealth"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To steal a march on someone\"",
+            "options": [
+              "To rob a parade",
+              "To gain an advantage secretly",
+              "To walk quietly",
+              "To join the army"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To take to heart\"",
+            "options": [
+              "To feel sick",
+              "To ignore something",
+              "To be deeply affected by something",
+              "To love someone"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To talk shop\"",
+            "options": [
+              "To gossip",
+              "To discuss business or work matters",
+              "To sell goods",
+              "To go shopping"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To turn over a new leaf\"",
+            "options": [
+              "To turn a page carelessly",
+              "To read a book",
+              "To cut down a tree",
+              "To begin afresh with better conduct"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To wash one's hands of\"",
+            "options": [
+              "To accept a duty",
+              "To refuse further responsibility for",
+              "To pray",
+              "To clean oneself"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To work like a Trojan\"",
+            "options": [
+              "To work slowly",
+              "To work very hard",
+              "To work lazily",
+              "To fight bravely"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To have a sweet tooth\"",
+            "options": [
+              "To love sweets",
+              "To have dental pain",
+              "To be cruel",
+              "To dislike sugar"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To make a mountain of a molehill\"",
+            "options": [
+              "To solve a difficulty",
+              "To exaggerate a small problem",
+              "To ignore a problem",
+              "To dig a hole"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To play second fiddle\"",
+            "options": [
+              "To play the violin",
+              "To take a subordinate role",
+              "To compete fiercely",
+              "To lead a group"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To hit the roof\"",
+            "options": [
+              "To climb up",
+              "To celebrate",
+              "To become very angry",
+              "To repair a house"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To lose heart\"",
+            "options": [
+              "To fall in love",
+              "To feel happy",
+              "To lose courage",
+              "To suffer a heart attack"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To pull up one's socks\"",
+            "options": [
+              "To dress properly",
+              "To make more effort to improve",
+              "To go home",
+              "To be lazy"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To stand on ceremony\"",
+            "options": [
+              "To stand up in respect",
+              "To celebrate an occasion",
+              "To attend a function",
+              "To behave in a very formal manner"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To tie the knot\"",
+            "options": [
+              "To get divorced",
+              "To tie a rope",
+              "To get married",
+              "To be trapped"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To throw cold water on\"",
+            "options": [
+              "To discourage",
+              "To wash something",
+              "To help",
+              "To cool down"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To be in the soup\"",
+            "options": [
+              "To be eating",
+              "To be well off",
+              "To be in trouble",
+              "To be cooking"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"The apple of one's eye\"",
+            "options": [
+              "An eye injury",
+              "A fruit",
+              "An enemy",
+              "A person dearly loved"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Achilles' heel\"",
+            "options": [
+              "A foot injury",
+              "A person's weak point",
+              "A great hero",
+              "A strong point"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"A bed of roses\"",
+            "options": [
+              "A flower garden",
+              "A comfortable and easy situation",
+              "A painful ordeal",
+              "A thing of beauty"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"A storm in a teacup\"",
+            "options": [
+              "Much fuss over a trivial matter",
+              "A big storm",
+              "A tea party",
+              "A great danger"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"By hook or by crook\"",
+            "options": [
+              "Fairly",
+              "Never",
+              "Slowly",
+              "By any means"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"A cock and bull story\"",
+            "options": [
+              "A farm story",
+              "An absurd and unbelievable tale",
+              "A true account",
+              "A children's fable"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Dog in the manger\"",
+            "options": [
+              "A hungry animal",
+              "A loyal pet",
+              "One who prevents others from enjoying what he cannot use himself",
+              "A watchful guard"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"The ins and outs\"",
+            "options": [
+              "The rules",
+              "The entry gates",
+              "The full details",
+              "Coming and going"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Kith and kin\"",
+            "options": [
+              "Strangers",
+              "Friends and relatives",
+              "Enemies",
+              "Servants"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To nip in the bud\"",
+            "options": [
+              "To delay",
+              "To help grow",
+              "To stop at an early stage",
+              "To cut a flower"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Spick and span\"",
+            "options": [
+              "Very angry",
+              "Very fast",
+              "Broken",
+              "Neat and clean"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Tooth and nail\"",
+            "options": [
+              "With great effort and fierceness",
+              "Slowly",
+              "Gently",
+              "At a dentist"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Odds and ends\"",
+            "options": [
+              "Winners and losers",
+              "Serious problems",
+              "Miscellaneous small items",
+              "Final results"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"To and fro\"",
+            "options": [
+              "Straight ahead",
+              "Slowly",
+              "Far away",
+              "Back and forth"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Pros and cons\"",
+            "options": [
+              "Experts",
+              "Advantages and disadvantages",
+              "Rules",
+              "Criminals"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Rank and file\"",
+            "options": [
+              "Officers",
+              "Rules",
+              "Ordinary members of a group",
+              "Leaders"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Bag and baggage\"",
+            "options": [
+              "Shopping items",
+              "With all one's belongings",
+              "Lost luggage",
+              "Completely empty"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Hue and cry\"",
+            "options": [
+              "A loud public protest",
+              "A celebration",
+              "A colour",
+              "Complete silence"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Part and parcel\"",
+            "options": [
+              "Something separate",
+              "Something unimportant",
+              "An essential part",
+              "A postal service"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Safe and sound\"",
+            "options": [
+              "Unharmed",
+              "Locked up",
+              "Very loud",
+              "Lost"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Ups and downs\"",
+            "options": [
+              "Games",
+              "Good and bad times",
+              "Staircases",
+              "Lifts"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Bad blood\"",
+            "options": [
+              "Good health",
+              "A family bond",
+              "A blood disease",
+              "Ill feeling between people"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom/phrase: \"Fair and square\"",
+            "options": [
+              "In a playground",
+              "Equal in size",
+              "By cheating",
+              "Honestly and justly"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

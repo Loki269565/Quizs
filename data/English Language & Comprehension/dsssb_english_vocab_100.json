@@ -1,0 +1,1214 @@
+[
+  {
+    "id": "dsssb-eng-vocab-1",
+    "title": "DSSSB English Vocabulary Mock Test 1",
+    "sections": [
+      {
+        "name": "English Language & Comprehension",
+        "durationMinutes": 60,
+        "questions": [
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: ABUNDANT",
+            "options": [
+              "Plentiful",
+              "Rare",
+              "Meagre",
+              "Scarce"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: BENEVOLENT",
+            "options": [
+              "Greedy",
+              "Kind",
+              "Cruel",
+              "Selfish"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: CANDID",
+            "options": [
+              "Secretive",
+              "Frank",
+              "Deceitful",
+              "Shy"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: DILIGENT",
+            "options": [
+              "Indifferent",
+              "Careless",
+              "Hardworking",
+              "Lazy"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: ELOQUENT",
+            "options": [
+              "Fluent",
+              "Silent",
+              "Dull",
+              "Clumsy"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: FRUGAL",
+            "options": [
+              "Wasteful",
+              "Generous",
+              "Lavish",
+              "Thrifty"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: GLOOMY",
+            "options": [
+              "Radiant",
+              "Dismal",
+              "Bright",
+              "Cheerful"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: HAUGHTY",
+            "options": [
+              "Proud",
+              "Humble",
+              "Modest",
+              "Polite"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: INEVITABLE",
+            "options": [
+              "Doubtful",
+              "Avoidable",
+              "Unavoidable",
+              "Uncertain"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: JOVIAL",
+            "options": [
+              "Sad",
+              "Merry",
+              "Angry",
+              "Serious"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: LUCID",
+            "options": [
+              "Confusing",
+              "Dark",
+              "Clear",
+              "Vague"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: MEAGRE",
+            "options": [
+              "Ample",
+              "Rich",
+              "Abundant",
+              "Scanty"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: OBSOLETE",
+            "options": [
+              "Fresh",
+              "Modern",
+              "Outdated",
+              "Useful"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: PRUDENT",
+            "options": [
+              "Foolish",
+              "Wise",
+              "Careless",
+              "Reckless"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: QUENCH",
+            "options": [
+              "Provoke",
+              "Extinguish",
+              "Increase",
+              "Ignite"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: RESILIENT",
+            "options": [
+              "Rigid",
+              "Fragile",
+              "Adaptable",
+              "Timid"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: SERENE",
+            "options": [
+              "Anxious",
+              "Noisy",
+              "Calm",
+              "Turbulent"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: TENACIOUS",
+            "options": [
+              "Lazy",
+              "Weak",
+              "Yielding",
+              "Persistent"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: VIGILANT",
+            "options": [
+              "Sleepy",
+              "Careless",
+              "Watchful",
+              "Ignorant"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: ZEAL",
+            "options": [
+              "Enthusiasm",
+              "Fear",
+              "Boredom",
+              "Apathy"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: AMBIGUOUS",
+            "options": [
+              "Unclear",
+              "Precise",
+              "Clear",
+              "Definite"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: COMMENCE",
+            "options": [
+              "Begin",
+              "Delay",
+              "End",
+              "Stop"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: DEPLETE",
+            "options": [
+              "Increase",
+              "Exhaust",
+              "Fill",
+              "Restore"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: FEEBLE",
+            "options": [
+              "Sturdy",
+              "Strong",
+              "Vigorous",
+              "Weak"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most similar in meaning (synonym) to: GENUINE",
+            "options": [
+              "Artificial",
+              "Forged",
+              "Fake",
+              "Authentic"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: ANCIENT",
+            "options": [
+              "Modern",
+              "Antique",
+              "Archaic",
+              "Old"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: BRAVE",
+            "options": [
+              "Fearless",
+              "Bold",
+              "Daring",
+              "Cowardly"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: EXPAND",
+            "options": [
+              "Contract",
+              "Widen",
+              "Grow",
+              "Enlarge"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: VICTORY",
+            "options": [
+              "Triumph",
+              "Win",
+              "Defeat",
+              "Success"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: GENEROUS",
+            "options": [
+              "Noble",
+              "Liberal",
+              "Miserly",
+              "Kind"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: TRANSPARENT",
+            "options": [
+              "Lucid",
+              "Opaque",
+              "Clear",
+              "Thin"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: ARTIFICIAL",
+            "options": [
+              "Synthetic",
+              "False",
+              "Fake",
+              "Natural"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: ACCEPT",
+            "options": [
+              "Receive",
+              "Admit",
+              "Reject",
+              "Take"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: OPTIMIST",
+            "options": [
+              "Pessimist",
+              "Egoist",
+              "Realist",
+              "Idealist"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: SCARCE",
+            "options": [
+              "Limited",
+              "Sparse",
+              "Plentiful",
+              "Rare"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: HARMONY",
+            "options": [
+              "Accord",
+              "Unity",
+              "Peace",
+              "Discord"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: PERMANENT",
+            "options": [
+              "Eternal",
+              "Lasting",
+              "Temporary",
+              "Fixed"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: INNOCENT",
+            "options": [
+              "Harmless",
+              "Naive",
+              "Pure",
+              "Guilty"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: DILUTE",
+            "options": [
+              "Weaken",
+              "Mix",
+              "Thin",
+              "Concentrate"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: EXTERIOR",
+            "options": [
+              "External",
+              "Interior",
+              "Surface",
+              "Outer"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: HOSTILE",
+            "options": [
+              "Unfriendly",
+              "Friendly",
+              "Antagonistic",
+              "Aggressive"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: MAJESTIC",
+            "options": [
+              "Humble",
+              "Noble",
+              "Royal",
+              "Grand"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: VERBOSE",
+            "options": [
+              "Lengthy",
+              "Talkative",
+              "Wordy",
+              "Concise"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: ZENITH",
+            "options": [
+              "Peak",
+              "Summit",
+              "Nadir",
+              "Top"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: COMPLEX",
+            "options": [
+              "Difficult",
+              "Intricate",
+              "Simple",
+              "Tangled"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: MORTAL",
+            "options": [
+              "Immortal",
+              "Earthly",
+              "Human",
+              "Temporal"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: ENCOURAGE",
+            "options": [
+              "Motivate",
+              "Support",
+              "Discourage",
+              "Inspire"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: SHALLOW",
+            "options": [
+              "Thin",
+              "Deep",
+              "Slight",
+              "Superficial"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: RAPID",
+            "options": [
+              "Swift",
+              "Slow",
+              "Quick",
+              "Fast"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word most opposite in meaning (antonym) to: ABSENT",
+            "options": [
+              "Gone",
+              "Away",
+              "Missing",
+              "Present"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one word that can substitute: One who can speak two languages",
+            "options": [
+              "Bilingual",
+              "Orator",
+              "Linguist",
+              "Polyglot"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one word that can substitute: The scientific study of birds",
+            "options": [
+              "Ornithology",
+              "Entomology",
+              "Zoology",
+              "Ecology"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one word that can substitute: A lover of books",
+            "options": [
+              "Anglophile",
+              "Audiophile",
+              "Bibliophile",
+              "Philatelist"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one word that can substitute: Fear of closed or confined spaces",
+            "options": [
+              "Acrophobia",
+              "Xenophobia",
+              "Hydrophobia",
+              "Claustrophobia"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one word that can substitute: Government by the people",
+            "options": [
+              "Monarchy",
+              "Oligarchy",
+              "Democracy",
+              "Autocracy"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one word that can substitute: One who eats human flesh",
+            "options": [
+              "Omnivore",
+              "Herbivore",
+              "Cannibal",
+              "Carnivore"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one word that can substitute: A speech delivered without any preparation",
+            "options": [
+              "Oration",
+              "Soliloquy",
+              "Extempore",
+              "Monologue"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one word that can substitute: That which cannot be read (because of bad handwriting)",
+            "options": [
+              "Illegible",
+              "Incorrigible",
+              "Inaudible",
+              "Invisible"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one word that can substitute: The killing of a king",
+            "options": [
+              "Genocide",
+              "Regicide",
+              "Suicide",
+              "Homicide"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one word that can substitute: One who does not believe in the existence of God",
+            "options": [
+              "Zealot",
+              "Sceptic",
+              "Atheist",
+              "Pagan"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one word that can substitute: A medicine that is said to cure all diseases",
+            "options": [
+              "Vaccine",
+              "Panacea",
+              "Tonic",
+              "Antidote"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one word that can substitute: The life story of a person written by himself/herself",
+            "options": [
+              "Diary",
+              "Biography",
+              "Chronicle",
+              "Autobiography"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one word that can substitute: A place where birds are kept",
+            "options": [
+              "Aquarium",
+              "Apiary",
+              "Aviary",
+              "Nursery"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one word that can substitute: One who walks in sleep",
+            "options": [
+              "Egoist",
+              "Somnambulist",
+              "Narcissist",
+              "Insomniac"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one word that can substitute: Lasting for a very short time",
+            "options": [
+              "Ephemeral",
+              "Eternal",
+              "Immortal",
+              "Perennial"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom: \"A blessing in disguise\"",
+            "options": [
+              "A religious prayer",
+              "A hidden curse",
+              "A person in costume",
+              "Something good that seems bad at first"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom: \"To break the ice\"",
+            "options": [
+              "To start a conversation and ease tension",
+              "To damage something",
+              "To feel very cold",
+              "To melt snow"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom: \"Once in a blue moon\"",
+            "options": [
+              "Every month",
+              "Very rarely",
+              "Frequently",
+              "Only at night"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom: \"A piece of cake\"",
+            "options": [
+              "A small portion",
+              "A tasty dessert",
+              "A difficult job",
+              "A very easy task"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom: \"To burn the midnight oil\"",
+            "options": [
+              "To sleep early",
+              "To work late into the night",
+              "To waste fuel",
+              "To light a lamp"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom: \"To cost an arm and a leg\"",
+            "options": [
+              "To be painful",
+              "To be cheap",
+              "To cause injury",
+              "To be very expensive"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom: \"To hit the nail on the head\"",
+            "options": [
+              "To repair something",
+              "To say exactly the right thing",
+              "To fail badly",
+              "To hurt oneself"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom: \"To let the cat out of the bag\"",
+            "options": [
+              "To reveal a secret accidentally",
+              "To free an animal",
+              "To lose a pet",
+              "To cause trouble"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom: \"Under the weather\"",
+            "options": [
+              "Standing outdoors",
+              "Very happy",
+              "Sheltered from rain",
+              "Feeling unwell"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom: \"The ball is in your court\"",
+            "options": [
+              "You are playing a game",
+              "It is your turn to take action",
+              "You have lost",
+              "You must wait"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom: \"To bite the bullet\"",
+            "options": [
+              "To face a painful situation bravely",
+              "To fire a gun",
+              "To eat quickly",
+              "To argue fiercely"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom: \"To call it a day\"",
+            "options": [
+              "To name a day",
+              "To begin a task",
+              "To stop working for the time being",
+              "To celebrate"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom: \"A dark horse\"",
+            "options": [
+              "An evil person",
+              "A black animal",
+              "A slow runner",
+              "An unexpected winner or little-known contestant"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom: \"At sixes and sevens\"",
+            "options": [
+              "Very happy",
+              "Playing cards",
+              "Well organised",
+              "In a state of confusion"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom: \"To beat around the bush\"",
+            "options": [
+              "To avoid coming to the main point",
+              "To go hunting",
+              "To do gardening",
+              "To speak directly"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correctly spelt word:",
+            "options": [
+              "Accomodation",
+              "Acommodation",
+              "Accommodation",
+              "Acomodation"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correctly spelt word:",
+            "options": [
+              "Occurrence",
+              "Ocurrence",
+              "Occurence",
+              "Occurrance"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correctly spelt word:",
+            "options": [
+              "Neccesary",
+              "Necessary",
+              "Necesary",
+              "Neccessary"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correctly spelt word:",
+            "options": [
+              "Embarras",
+              "Emberrass",
+              "Embarass",
+              "Embarrass"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correctly spelt word:",
+            "options": [
+              "Conscence",
+              "Conscience",
+              "Consience",
+              "Concience"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correctly spelt word:",
+            "options": [
+              "Maintenance",
+              "Maintainance",
+              "Maintenence",
+              "Maintanence"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correctly spelt word:",
+            "options": [
+              "Separate",
+              "Separete",
+              "Seprate",
+              "Seperate"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correctly spelt word:",
+            "options": [
+              "Rhythm",
+              "Rhythem",
+              "Rythm",
+              "Rhytm"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correctly spelt word:",
+            "options": [
+              "Privelege",
+              "Priviledge",
+              "Privilage",
+              "Privilege"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correctly spelt word:",
+            "options": [
+              "Definitely",
+              "Definitly",
+              "Defenitely",
+              "Definately"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the most appropriate word: The scientist's discovery was ___ to the progress of modern medicine.",
+            "options": [
+              "Irrelevant",
+              "Harmful",
+              "Crucial",
+              "Trivial"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the most appropriate word: He was ___ of all charges due to lack of evidence.",
+            "options": [
+              "Sentenced",
+              "Convicted",
+              "Accused",
+              "Acquitted"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the most appropriate word: The manager ___ the workers for their outstanding performance.",
+            "options": [
+              "Commended",
+              "Condemned",
+              "Rebuked",
+              "Ignored"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the most appropriate word: The road was ___ due to heavy snowfall.",
+            "options": [
+              "Inaudible",
+              "Impossible",
+              "Invisible",
+              "Impassable"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the most appropriate word: She has a ___ for music; she plays four instruments.",
+            "options": [
+              "Flair",
+              "Fault",
+              "Flaw",
+              "Fear"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the most appropriate word: The judge showed ___ by reducing the sentence.",
+            "options": [
+              "Cruelty",
+              "Clemency",
+              "Tyranny",
+              "Hostility"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the most appropriate word: His ___ behaviour surprised everyone, as he is usually calm and steady.",
+            "options": [
+              "Consistent",
+              "Predictable",
+              "Erratic",
+              "Regular"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the most appropriate word: The desert region receives only ___ rainfall.",
+            "options": [
+              "Scanty",
+              "Copious",
+              "Abundant",
+              "Heavy"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the most appropriate word: The lawyer gave a ___ argument that convinced the jury.",
+            "options": [
+              "Feeble",
+              "Cogent",
+              "Vague",
+              "Weak"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the most appropriate word: Please ___ the meeting until next week.",
+            "options": [
+              "Postpone",
+              "Preserve",
+              "Proceed",
+              "Precede"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

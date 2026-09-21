@@ -1,0 +1,1334 @@
+[
+  {
+    "id": "dsssb_tgt_cs_english_100",
+    "title": "DSSSB TGT Computer Science - English Language & Comprehension - 100 MCQ Practice Set",
+    "sections": [
+      {
+        "name": "Reading Comprehension",
+        "durationMinutes": 4,
+        "questions": [
+          {
+            "q": "Passage: 'Reading opens the mind to worlds beyond one's own experience.' What does the passage suggest about reading?",
+            "options": [
+              "It is a waste of time",
+              "It broadens one's perspective",
+              "It is only for scholars",
+              "It replaces travel"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage: 'Despite the storm, the sailors reached the harbour safely.' What can be inferred about the sailors?",
+            "options": [
+              "They were reckless",
+              "They were skilled and determined",
+              "They abandoned the ship",
+              "They turned back"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage: 'The old library, though small, held treasures of knowledge.' The word 'treasures' here refers to",
+            "options": [
+              "Gold coins",
+              "Valuable books",
+              "Hidden jewels",
+              "Ancient maps"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage: 'Technology has changed the way we communicate, but not why we communicate.' The main idea is that",
+            "options": [
+              "Technology has changed the purpose of communication",
+              "The reasons for communicating remain unchanged",
+              "Communication is no longer needed",
+              "Technology has stopped communication"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Word Power",
+        "durationMinutes": 4,
+        "questions": [
+          {
+            "q": "Choose the word closest in meaning to 'Meticulous':",
+            "options": [
+              "Careless",
+              "Very careful and precise",
+              "Lazy",
+              "Quick"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word closest in meaning to 'Candid':",
+            "options": [
+              "Deceptive",
+              "Honest and straightforward",
+              "Confused",
+              "Angry"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word closest in meaning to 'Eloquent':",
+            "options": [
+              "Fluent and persuasive in speech",
+              "Silent",
+              "Shy",
+              "Rude"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the word closest in meaning to 'Resilient':",
+            "options": [
+              "Fragile",
+              "Able to recover quickly",
+              "Stubborn",
+              "Weak"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Articles",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Fill in the blank with the correct article: '___ honest man is respected everywhere.'",
+            "options": [
+              "A",
+              "An",
+              "The",
+              "No article"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article: 'She is ___ best student in the class.'",
+            "options": [
+              "a",
+              "an",
+              "the",
+              "No article"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article: 'I saw ___ European traveller at the station.'",
+            "options": [
+              "a",
+              "an",
+              "the",
+              "No article"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article: '___ sun rises in the east.'",
+            "options": [
+              "A",
+              "An",
+              "The",
+              "No article"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article: 'He wants to become ___ engineer.'",
+            "options": [
+              "a",
+              "an",
+              "the",
+              "No article"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Narrations",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Change into indirect speech: He said, 'I am going to the market.'",
+            "options": [
+              "He said that he was going to the market.",
+              "He said that he is going to the market.",
+              "He said that he go to the market.",
+              "He told he was going to the market."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change into indirect speech: She said, 'I have finished my homework.'",
+            "options": [
+              "She said that she has finished her homework.",
+              "She said that she had finished her homework.",
+              "She said that she finished her homework.",
+              "She said she will finish her homework."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change into indirect speech: The teacher said to the students, 'Work hard.'",
+            "options": [
+              "The teacher told the students to work hard.",
+              "The teacher said the students work hard.",
+              "The teacher ordered that students worked hard.",
+              "The teacher asked did students work hard."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change into indirect speech: He said, 'What is your name?'",
+            "options": [
+              "He asked what my name was.",
+              "He asked what is my name.",
+              "He said what was my name.",
+              "He asked that what my name is."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change into indirect speech: She said, 'Alas! I have lost my purse.'",
+            "options": [
+              "She exclaimed with sorrow that she had lost her purse.",
+              "She said that she has lost her purse.",
+              "She shouted she lost her purse.",
+              "She said alas she lost her purse."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Prepositions",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Fill in the blank with the correct preposition: 'He is good ___ mathematics.'",
+            "options": [
+              "in",
+              "at",
+              "on",
+              "with"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct preposition: 'The train arrived ___ time.'",
+            "options": [
+              "in",
+              "on",
+              "at",
+              "by"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct preposition: 'She is afraid ___ dogs.'",
+            "options": [
+              "of",
+              "from",
+              "with",
+              "for"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct preposition: 'They live ___ Delhi.'",
+            "options": [
+              "at",
+              "on",
+              "in",
+              "to"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct preposition: 'He divided the sweets ___ the children.'",
+            "options": [
+              "between",
+              "among",
+              "with",
+              "to"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Punctuations",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Choose the correctly punctuated sentence:",
+            "options": [
+              "Ram said, I am tired.",
+              "Ram said, \"I am tired.\"",
+              "Ram said \"I am tired\".",
+              "Ram said I am tired."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correctly punctuated sentence:",
+            "options": [
+              "Its a beautiful day.",
+              "It's a beautiful day.",
+              "Its' a beautiful day.",
+              "It,s a beautiful day."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correctly punctuated sentence:",
+            "options": [
+              "What a wonderful view!",
+              "What a wonderful view.",
+              "What a wonderful view?",
+              "What a wonderful view,"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correctly punctuated sentence:",
+            "options": [
+              "I bought apples, oranges and bananas.",
+              "I bought apples oranges and bananas.",
+              "I bought apples, oranges, and bananas.",
+              "I bought, apples oranges and bananas."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correctly punctuated sentence:",
+            "options": [
+              "My brothers name is Ravi.",
+              "My brother's name is Ravi.",
+              "My brothers' name is Ravi.",
+              "My brother,s name is Ravi."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Comprehension",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Passage: 'Water is essential for all forms of life on Earth.' According to the passage, water is",
+            "options": [
+              "Optional for life",
+              "Necessary for all living things",
+              "Only needed by plants",
+              "Harmful in excess"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage: 'Exercise strengthens the body and calms the mind.' The passage highlights the benefits of exercise for",
+            "options": [
+              "Only the body",
+              "Only the mind",
+              "Both body and mind",
+              "Neither body nor mind"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage: 'Honesty, though sometimes difficult, builds lasting trust.' The passage suggests honesty is",
+            "options": [
+              "Always easy",
+              "Worth the difficulty for the trust it builds",
+              "Unimportant",
+              "Only for children"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage: 'The forest fire spread quickly due to the dry weather.' Why did the fire spread quickly?",
+            "options": [
+              "Because of rain",
+              "Because of the dry weather",
+              "Because of firefighters",
+              "Because of wind alone"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage: 'Children learn best through play and exploration.' The passage implies that children learn effectively through",
+            "options": [
+              "Strict discipline",
+              "Play and exploration",
+              "Memorisation only",
+              "Isolation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Fill in the Blanks",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Fill in the blank: 'She ___ to school every day.'",
+            "options": [
+              "go",
+              "goes",
+              "going",
+              "gone"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'They ___ playing football when it started to rain.'",
+            "options": [
+              "was",
+              "were",
+              "are",
+              "is"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He has ___ finished his work.'",
+            "options": [
+              "already",
+              "yet",
+              "still",
+              "ago"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'I have been living here ___ 2015.'",
+            "options": [
+              "for",
+              "since",
+              "from",
+              "by"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She sang ___ beautifully at the concert.'",
+            "options": [
+              "beauty",
+              "beautiful",
+              "beautifully",
+              "beautify"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Adverb",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Identify the adverb in the sentence: 'He runs quickly to school.'",
+            "options": [
+              "He",
+              "runs",
+              "quickly",
+              "school"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the adverb in the sentence: 'She spoke very softly.'",
+            "options": [
+              "She",
+              "spoke",
+              "very",
+              "softly"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct adverb form of 'careful':",
+            "options": [
+              "carefully",
+              "carefulness",
+              "carefulty",
+              "carefuly"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the adverb in the sentence: 'They arrived yesterday.'",
+            "options": [
+              "They",
+              "arrived",
+              "yesterday",
+              "-"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence with the correctly placed adverb:",
+            "options": [
+              "He always is late.",
+              "He is always late.",
+              "Always he is late.",
+              "He is late always."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Error Correction",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Find the error: 'She don't like coffee.'",
+            "options": [
+              "She",
+              "don't",
+              "like",
+              "coffee"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Find the error: 'Neither of the boys were present.'",
+            "options": [
+              "Neither",
+              "of the boys",
+              "were",
+              "present"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Find the error: 'He is one of the best player in the team.'",
+            "options": [
+              "He is",
+              "one of the",
+              "best player",
+              "in the team"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Find the error: 'Each of the students have submitted their assignment.'",
+            "options": [
+              "Each of the students",
+              "have submitted",
+              "their",
+              "assignment"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Find the error: 'I have saw that movie already.'",
+            "options": [
+              "I have",
+              "saw",
+              "that movie",
+              "already"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Sentence Rearrangement",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Rearrange to form a meaningful sentence: (1) to school (2) every day (3) she (4) walks",
+            "options": [
+              "3-4-1-2",
+              "1-2-3-4",
+              "4-3-2-1",
+              "2-1-3-4"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Rearrange to form a meaningful sentence: (1) the match (2) because of rain (3) was cancelled",
+            "options": [
+              "1-3-2",
+              "2-1-3",
+              "3-2-1",
+              "1-2-3"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Rearrange to form a meaningful sentence: (1) he (2) his homework (3) finished (4) quickly",
+            "options": [
+              "1-3-2-4",
+              "1-3-4-2",
+              "3-1-2-4",
+              "1-2-3-4"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Rearrange to form a meaningful sentence: (1) is (2) the weather (3) today (4) pleasant",
+            "options": [
+              "2-1-4-3",
+              "1-2-3-4",
+              "2-3-1-4",
+              "4-1-2-3"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Rearrange to form a meaningful sentence: (1) many countries (2) has spread to (3) the disease (4) rapidly",
+            "options": [
+              "3-2-4-1",
+              "3-4-2-1",
+              "1-2-3-4",
+              "3-2-1-4"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Vocabulary",
+        "durationMinutes": 4,
+        "questions": [
+          {
+            "q": "Choose the correct meaning of 'Ambiguous':",
+            "options": [
+              "Clear and precise",
+              "Open to more than one interpretation",
+              "Loud",
+              "Colourful"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of 'Benevolent':",
+            "options": [
+              "Cruel",
+              "Kind and generous",
+              "Selfish",
+              "Dishonest"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of 'Frugal':",
+            "options": [
+              "Wasteful",
+              "Economical, avoiding waste",
+              "Generous",
+              "Lazy"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of 'Obsolete':",
+            "options": [
+              "Modern",
+              "No longer in use",
+              "Expensive",
+              "Popular"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Antonyms",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Choose the antonym of 'Generous':",
+            "options": [
+              "Kind",
+              "Stingy",
+              "Wealthy",
+              "Helpful"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the antonym of 'Ancient':",
+            "options": [
+              "Old",
+              "Modern",
+              "Historic",
+              "Antique"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the antonym of 'Optimistic':",
+            "options": [
+              "Hopeful",
+              "Pessimistic",
+              "Cheerful",
+              "Positive"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the antonym of 'Abundant':",
+            "options": [
+              "Plentiful",
+              "Scarce",
+              "Rich",
+              "Excess"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the antonym of 'Genuine':",
+            "options": [
+              "Real",
+              "Fake",
+              "True",
+              "Authentic"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Synonyms",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Choose the synonym of 'Happy':",
+            "options": [
+              "Sad",
+              "Joyful",
+              "Angry",
+              "Tired"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the synonym of 'Brave':",
+            "options": [
+              "Cowardly",
+              "Courageous",
+              "Weak",
+              "Timid"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the synonym of 'Huge':",
+            "options": [
+              "Tiny",
+              "Enormous",
+              "Small",
+              "Narrow"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the synonym of 'Rapid':",
+            "options": [
+              "Slow",
+              "Quick",
+              "Steady",
+              "Late"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the synonym of 'Intelligent':",
+            "options": [
+              "Foolish",
+              "Clever",
+              "Dull",
+              "Careless"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Idioms",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Choose the correct meaning of the idiom 'Break the ice':",
+            "options": [
+              "To start a conversation in a social setting",
+              "To end a friendship",
+              "To cause an accident",
+              "To freeze something"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom 'Once in a blue moon':",
+            "options": [
+              "Very often",
+              "Rarely",
+              "Every night",
+              "Never"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom 'Spill the beans':",
+            "options": [
+              "To cook food",
+              "To reveal a secret",
+              "To make a mess",
+              "To waste food"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom 'Hit the nail on the head':",
+            "options": [
+              "To do something exactly right",
+              "To fail badly",
+              "To hurt someone",
+              "To build furniture"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct meaning of the idiom 'Burn the midnight oil':",
+            "options": [
+              "To work late into the night",
+              "To cause a fire",
+              "To waste time",
+              "To sleep early"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Verbs",
+        "durationMinutes": 4,
+        "questions": [
+          {
+            "q": "Choose the correct verb form: 'The committee ___ its decision yesterday.'",
+            "options": [
+              "announce",
+              "announces",
+              "announced",
+              "announcing"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct verb form: 'By next year, she ___ her degree.'",
+            "options": [
+              "will complete",
+              "will have completed",
+              "completes",
+              "completed"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the main verb: 'The children were playing in the park.'",
+            "options": [
+              "were",
+              "playing",
+              "in",
+              "park"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct verb form: 'He ___ to the gym every morning.'",
+            "options": [
+              "go",
+              "goes",
+              "going",
+              "gone"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Tenses",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Choose the correct tense: 'She ___ her homework before dinner yesterday.'",
+            "options": [
+              "has finished",
+              "had finished",
+              "finishes",
+              "will finish"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct tense: 'They ___ TV when the power went off.'",
+            "options": [
+              "watch",
+              "watched",
+              "were watching",
+              "have watched"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct tense: 'I ___ this book for three days.'",
+            "options": [
+              "read",
+              "have been reading",
+              "am reading",
+              "will read"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct tense: 'The sun ___ in the east.'",
+            "options": [
+              "rises",
+              "rose",
+              "is rising",
+              "will rise"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct tense: 'By the time you arrive, I ___ dinner.'",
+            "options": [
+              "will cook",
+              "will have cooked",
+              "cook",
+              "cooked"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Adjectives",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Identify the adjective in the sentence: 'She wore a beautiful dress.'",
+            "options": [
+              "She",
+              "wore",
+              "beautiful",
+              "dress"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct comparative form of 'good':",
+            "options": [
+              "gooder",
+              "better",
+              "best",
+              "more good"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct superlative form of 'tall':",
+            "options": [
+              "taller",
+              "tallest",
+              "more tall",
+              "most tall"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the adjective in the sentence: 'This is an interesting book.'",
+            "options": [
+              "This",
+              "is",
+              "an",
+              "interesting"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct comparative form of 'bad':",
+            "options": [
+              "badder",
+              "worse",
+              "worst",
+              "more bad"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Modal",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Choose the correct modal verb: 'You ___ finish your work before leaving.'",
+            "options": [
+              "can",
+              "must",
+              "may",
+              "might"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct modal verb: '___ I come in, sir?'",
+            "options": [
+              "May",
+              "Must",
+              "Shall",
+              "Would"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct modal verb: 'She ___ be at home now; the lights are on.'",
+            "options": [
+              "can",
+              "must",
+              "may",
+              "should"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct modal verb: 'You ___ smoke here; it is prohibited.'",
+            "options": [
+              "must not",
+              "need not",
+              "may not",
+              "shall not"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct modal verb: 'He ___ swim very well when he was young.'",
+            "options": [
+              "can",
+              "could",
+              "may",
+              "must"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Voice",
+        "durationMinutes": 4,
+        "questions": [
+          {
+            "q": "Change into passive voice: 'The chef cooks the meal.'",
+            "options": [
+              "The meal is cooked by the chef.",
+              "The meal was cooked by the chef.",
+              "The meal cooks by the chef.",
+              "The meal is being cook by the chef."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change into passive voice: 'They are building a new bridge.'",
+            "options": [
+              "A new bridge is built by them.",
+              "A new bridge is being built by them.",
+              "A new bridge was built by them.",
+              "A new bridge builds by them."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change into passive voice: 'She wrote a letter.'",
+            "options": [
+              "A letter is written by her.",
+              "A letter was written by her.",
+              "A letter writes by her.",
+              "A letter has written by her."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change into passive voice: 'He will complete the project.'",
+            "options": [
+              "The project will be completed by him.",
+              "The project is completed by him.",
+              "The project will complete by him.",
+              "The project was completed by him."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Subject-Verb Agreement",
+        "durationMinutes": 5,
+        "questions": [
+          {
+            "q": "Choose the correct sentence:",
+            "options": [
+              "The team are playing well.",
+              "The team is playing well.",
+              "The team playing well.",
+              "The team were play well."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct sentence:",
+            "options": [
+              "Neither of the answers are correct.",
+              "Neither of the answers is correct.",
+              "Neither of the answers correct.",
+              "Neither of the answer is correct."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct sentence:",
+            "options": [
+              "Each of the boys have a book.",
+              "Each of the boys has a book.",
+              "Each of the boys having a book.",
+              "Each of the boy has a book."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct sentence:",
+            "options": [
+              "The number of students are increasing.",
+              "The number of students is increasing.",
+              "The number of student is increasing.",
+              "The number of students increasing."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct sentence:",
+            "options": [
+              "Mathematics are my favourite subject.",
+              "Mathematics is my favourite subject.",
+              "Mathematics were my favourite subject.",
+              "Mathematics be my favourite subject."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

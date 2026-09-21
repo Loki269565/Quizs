@@ -1,0 +1,1238 @@
+[
+  {
+    "id": "dsssb_eng_adj1",
+    "title": "DSSSB English Language & Comprehension - Adjectives Mock Test 1",
+    "sections": [
+      {
+        "name": "Types & Identification of Adjectives",
+        "durationMinutes": 12,
+        "questions": [
+          {
+            "q": "Identify the adjective in: 'The tall boy won the race.'",
+            "options": [
+              "won",
+              "boy",
+              "race",
+              "tall"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In 'She bought five apples', the word 'five' is an adjective of:",
+            "options": [
+              "Possessive",
+              "Demonstrative",
+              "Number",
+              "Quality"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In 'Which book do you want?', the word 'Which' is a/an:",
+            "options": [
+              "Demonstrative adjective",
+              "Distributive adjective",
+              "Relative pronoun",
+              "Interrogative adjective"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In 'Each student got a prize', the word 'Each' is a/an:",
+            "options": [
+              "Demonstrative adjective",
+              "Adjective of quality",
+              "Distributive adjective",
+              "Possessive adjective"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is a proper adjective?",
+            "options": [
+              "France",
+              "Frenchman",
+              "Paris",
+              "French"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In 'This mango is sweet', the word 'This' is a/an:",
+            "options": [
+              "Possessive adjective",
+              "Distributive adjective",
+              "Adjective of quality",
+              "Demonstrative adjective"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In 'My sister is a doctor', the word 'My' is a/an:",
+            "options": [
+              "Reflexive pronoun",
+              "Personal pronoun",
+              "Possessive adjective",
+              "Article"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the adjective of quantity: 'There is little milk in the jug.'",
+            "options": [
+              "There",
+              "jug",
+              "little",
+              "milk"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which sentence contains an adjective of number?",
+            "options": [
+              "She has several friends.",
+              "There is enough rice.",
+              "He has much money.",
+              "Give me some water."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the adjective: 'Honesty is the best policy.'",
+            "options": [
+              "is",
+              "policy",
+              "best",
+              "Honesty"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In 'The broken window was repaired', the word 'broken' is a:",
+            "options": [
+              "Adverb",
+              "Noun",
+              "Gerund",
+              "Participial adjective"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is a compound adjective?",
+            "options": [
+              "Welfare",
+              "Wellbeing",
+              "Wellness",
+              "Well-known"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In 'He is a man of wisdom', the phrase 'of wisdom' is an:",
+            "options": [
+              "Verb phrase",
+              "Noun phrase",
+              "Adjective phrase",
+              "Adverb phrase"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the adjective clause: 'The book that I bought is interesting.'",
+            "options": [
+              "is interesting",
+              "The book that",
+              "The book",
+              "that I bought"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is an adjective?",
+            "options": [
+              "Happy",
+              "Happiness",
+              "Happen",
+              "Happily"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the adjective form of 'Danger':",
+            "options": [
+              "Dangering",
+              "Dangerous",
+              "Endanger",
+              "Dangerously"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the adjective form of 'Courage':",
+            "options": [
+              "Courageful",
+              "Encourage",
+              "Couragely",
+              "Courageous"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the adjective form of 'Envy':",
+            "options": [
+              "Envyful",
+              "Envyous",
+              "Envious",
+              "Envying"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the adjective form of 'Nation':",
+            "options": [
+              "Nationality",
+              "Nationalise",
+              "Nationally",
+              "National"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the adjective form of 'Wealth':",
+            "options": [
+              "Wealthy",
+              "Wealthily",
+              "Wealthful",
+              "Wealthness"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Degrees of Comparison",
+        "durationMinutes": 12,
+        "questions": [
+          {
+            "q": "Ravi is ____ than Mohan. (tall)",
+            "options": [
+              "taller",
+              "more tall",
+              "tall",
+              "tallest"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the superlative degree of 'bad'?",
+            "options": [
+              "worst",
+              "most bad",
+              "baddest",
+              "worse"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "This is the ____ book I have ever read. (interesting)",
+            "options": [
+              "more interesting",
+              "very interesting",
+              "interestingest",
+              "most interesting"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change into positive degree: 'Iron is more useful than any other metal.'",
+            "options": [
+              "Iron is the less useful metal.",
+              "Few metals are as useful as iron.",
+              "No other metal is so useful as iron.",
+              "Iron is as useful as any other metal."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change into comparative degree: 'Delhi is the largest city in India.'",
+            "options": [
+              "Delhi is large than any other city in India.",
+              "Delhi is larger than any other city in India.",
+              "Delhi is larger than any city in India.",
+              "Delhi is more large than any other city."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Positive: little; Comparative: less; Superlative: ?",
+            "options": [
+              "Lest",
+              "Littlest",
+              "Least",
+              "Lesser"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Ram and Shyam are friends; the ____ is a doctor.",
+            "options": [
+              "last",
+              "latest",
+              "later",
+              "latter"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct sentence:",
+            "options": [
+              "He is more taller than me.",
+              "He is taller much than me.",
+              "He is much taller than me.",
+              "He is most taller than me."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Gold is ____ silver.",
+            "options": [
+              "most superior to",
+              "superior than",
+              "superior to",
+              "more superior than"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Sita is the ____ girl in the class. (intelligent)",
+            "options": [
+              "most intelligent",
+              "more intelligent",
+              "intelligenter",
+              "intelligentest"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Good – Better – ?",
+            "options": [
+              "Most good",
+              "Best",
+              "Bester",
+              "Goodest"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Of the two sisters, Sita is the ____. (tall)",
+            "options": [
+              "taller",
+              "more tall",
+              "most tall",
+              "tallest"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The weather today is ____ than yesterday. (bad)",
+            "options": [
+              "worse",
+              "worst",
+              "badder",
+              "more bad"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct positive degree: 'No other boy in the class is as ____ as Ravi.'",
+            "options": [
+              "more intelligent",
+              "intelligenter",
+              "intelligent",
+              "most intelligent"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "I need no ____ information. (far)",
+            "options": [
+              "farer",
+              "more far",
+              "further",
+              "farthest"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "He is ____ than a fox. (cunning)",
+            "options": [
+              "cunninger",
+              "most cunning",
+              "cunningest",
+              "more cunning"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the superlative degree of 'much'?",
+            "options": [
+              "mostest",
+              "most",
+              "muchest",
+              "more"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "This is by far the ____ building in the city. (large)",
+            "options": [
+              "largest",
+              "more large",
+              "larger",
+              "most larger"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Ram is as ____ as Shyam. (strong)",
+            "options": [
+              "stronger",
+              "strong",
+              "more strong",
+              "strongest"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change into superlative: 'Kalidasa is greater than any other Sanskrit poet.'",
+            "options": [
+              "Kalidasa is the most greater Sanskrit poet.",
+              "Kalidasa is greater Sanskrit poet.",
+              "Kalidasa is the great Sanskrit poet.",
+              "Kalidasa is the greatest Sanskrit poet."
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Adjective + Preposition",
+        "durationMinutes": 12,
+        "questions": [
+          {
+            "q": "He is fond ____ music.",
+            "options": [
+              "for",
+              "at",
+              "of",
+              "to"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "She is afraid ____ snakes.",
+            "options": [
+              "at",
+              "from",
+              "of",
+              "with"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "I am not aware ____ this rule.",
+            "options": [
+              "with",
+              "about",
+              "for",
+              "of"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "He is jealous ____ his neighbour's success.",
+            "options": [
+              "with",
+              "of",
+              "at",
+              "from"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "She is good ____ mathematics.",
+            "options": [
+              "of",
+              "at",
+              "with",
+              "for"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Rohan is senior ____ me.",
+            "options": [
+              "from",
+              "to",
+              "over",
+              "than"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The teacher is angry ____ me.",
+            "options": [
+              "to",
+              "from",
+              "of",
+              "with"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "I am satisfied ____ your work.",
+            "options": [
+              "on",
+              "of",
+              "with",
+              "by"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "He is indifferent ____ studies.",
+            "options": [
+              "with",
+              "to",
+              "for",
+              "at"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "She is proud ____ her son.",
+            "options": [
+              "on",
+              "at",
+              "with",
+              "of"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "India is rich ____ natural resources.",
+            "options": [
+              "by",
+              "with",
+              "of",
+              "in"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Ram is married ____ Sita.",
+            "options": [
+              "with",
+              "from",
+              "by",
+              "to"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "He is capable ____ doing this work.",
+            "options": [
+              "of",
+              "in",
+              "for",
+              "to"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Kashmir is famous ____ its natural beauty.",
+            "options": [
+              "for",
+              "of",
+              "at",
+              "with"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The accused is guilty ____ murder.",
+            "options": [
+              "in",
+              "of",
+              "with",
+              "for"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "He is accustomed ____ hard work.",
+            "options": [
+              "to",
+              "for",
+              "with",
+              "at"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "This road is parallel ____ the railway line.",
+            "options": [
+              "to",
+              "from",
+              "of",
+              "at"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "He is ignorant ____ the facts.",
+            "options": [
+              "for",
+              "at",
+              "with",
+              "of"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "She is keen ____ learning French.",
+            "options": [
+              "to",
+              "from",
+              "of",
+              "on"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The shop is full ____ customers.",
+            "options": [
+              "from",
+              "of",
+              "by",
+              "with"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Usage & Error Spotting",
+        "durationMinutes": 12,
+        "questions": [
+          {
+            "q": "There is ____ hope of his recovery.",
+            "options": [
+              "few",
+              "a few",
+              "many",
+              "little"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Only ____ students passed the exam, so the teacher was upset.",
+            "options": [
+              "less",
+              "much",
+              "few",
+              "little"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "I have ____ money, so I can help you.",
+            "options": [
+              "a few",
+              "many",
+              "a little",
+              "few"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "She bought a ____ dress.",
+            "options": [
+              "beautiful red silk",
+              "red beautiful silk",
+              "red silk beautiful",
+              "silk beautiful red"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "He lives in a ____ house.",
+            "options": [
+              "big brick old",
+              "big old brick",
+              "old big brick",
+              "brick old big"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "She is ____ honest girl.",
+            "options": [
+              "the",
+              "a",
+              "an",
+              "no article"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "He is ____ university student.",
+            "options": [
+              "an",
+              "the",
+              "a",
+              "no article"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The rich should help the ____.",
+            "options": [
+              "poverty",
+              "poors",
+              "poorly",
+              "poor"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "He is a ____ man; he never tells lies.",
+            "options": [
+              "truthful",
+              "trust",
+              "truth",
+              "truly"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "She leads an ____ life; she never wastes money.",
+            "options": [
+              "economic",
+              "economical",
+              "economics",
+              "economy"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A severe ____ crisis hit the country.",
+            "options": [
+              "economics",
+              "economical",
+              "economically",
+              "economic"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "It was a ____ victory for India.",
+            "options": [
+              "historical",
+              "historically",
+              "historic",
+              "history"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The ____ novel is set in the 18th century.",
+            "options": [
+              "historically",
+              "histories",
+              "historical",
+              "historic"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "She is very ____ and gets hurt easily.",
+            "options": [
+              "sensual",
+              "sensitive",
+              "sensory",
+              "sensible"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The soup tastes ____.",
+            "options": [
+              "delicately",
+              "delicious",
+              "deliciously",
+              "deliciousness"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The flowers smell ____.",
+            "options": [
+              "sweeten",
+              "sweetness",
+              "sweetly",
+              "sweet"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which sentence is correct?",
+            "options": [
+              "This is the most unique painting.",
+              "This is a uniquer painting.",
+              "This is a very more unique painting.",
+              "This is a unique painting."
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Of the two options, this is the ____.",
+            "options": [
+              "best",
+              "most good",
+              "gooder",
+              "better"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Read the ____ of the book carefully.",
+            "options": [
+              "first two chapters",
+              "chapters two first",
+              "two first chapters",
+              "two chapters first"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "How ____ sugar do you need?",
+            "options": [
+              "few",
+              "much",
+              "several",
+              "many"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Synonyms, Antonyms & One-Word Substitution",
+        "durationMinutes": 12,
+        "questions": [
+          {
+            "q": "Choose the synonym of 'Abundant':",
+            "options": [
+              "Rare",
+              "Plentiful",
+              "Tiny",
+              "Scarce"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the synonym of 'Frugal':",
+            "options": [
+              "Thrifty",
+              "Generous",
+              "Wasteful",
+              "Greedy"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the synonym of 'Candid':",
+            "options": [
+              "Frank",
+              "Polite",
+              "Secretive",
+              "Cunning"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the synonym of 'Obstinate':",
+            "options": [
+              "Gentle",
+              "Weak",
+              "Stubborn",
+              "Flexible"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the synonym of 'Diligent':",
+            "options": [
+              "Dull",
+              "Careless",
+              "Industrious",
+              "Idle"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the synonym of 'Meagre':",
+            "options": [
+              "Ample",
+              "Huge",
+              "Scanty",
+              "Rich"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the synonym of 'Arrogant':",
+            "options": [
+              "Modest",
+              "Haughty",
+              "Humble",
+              "Meek"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the antonym of 'Generous':",
+            "options": [
+              "Kind",
+              "Liberal",
+              "Noble",
+              "Stingy"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the antonym of 'Ancient':",
+            "options": [
+              "Primitive",
+              "Old",
+              "Modern",
+              "Antique"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the antonym of 'Transparent':",
+            "options": [
+              "Visible",
+              "Opaque",
+              "Thin",
+              "Clear"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the antonym of 'Optimistic':",
+            "options": [
+              "Confident",
+              "Pessimistic",
+              "Cheerful",
+              "Hopeful"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the antonym of 'Hostile':",
+            "options": [
+              "Fierce",
+              "Cruel",
+              "Angry",
+              "Friendly"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the antonym of 'Feeble':",
+            "options": [
+              "Slender",
+              "Weak",
+              "Robust",
+              "Frail"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the antonym of 'Superficial':",
+            "options": [
+              "Profound",
+              "Trivial",
+              "Surface",
+              "Shallow"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "One word for 'that which cannot be read clearly':",
+            "options": [
+              "Illegible",
+              "Eligible",
+              "Legible",
+              "Illiterate"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "One word for 'fit to be eaten':",
+            "options": [
+              "Eligible",
+              "Edible",
+              "Audible",
+              "Credible"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "One word for 'that which cannot be avoided':",
+            "options": [
+              "Invisible",
+              "Inaudible",
+              "Invincible",
+              "Inevitable"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "One word for 'a person who talks too much':",
+            "options": [
+              "Taciturn",
+              "Generous",
+              "Gullible",
+              "Garrulous"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "One word for 'present everywhere':",
+            "options": [
+              "Omnivorous",
+              "Omniscient",
+              "Omnipresent",
+              "Omnipotent"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "One word for 'that which cannot be satisfied':",
+            "options": [
+              "Insolvent",
+              "Insoluble",
+              "Inscrutable",
+              "Insatiable"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

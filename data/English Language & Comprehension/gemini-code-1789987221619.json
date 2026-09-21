@@ -1,0 +1,1214 @@
+[
+  {
+    "id": "dsssb_fib_100",
+    "title": "DSSSB English Language & Comprehension - Fill in the Blanks Practice Test",
+    "sections": [
+      {
+        "name": "Fill in the Blanks (100 MCQs)",
+        "durationMinutes": 60,
+        "questions": [
+          {
+            "q": "Fill in the blank: 'He was acquitted ______ all the charges brought against him.'",
+            "options": [
+              "of",
+              "from",
+              "with",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She is proficient ______ both spoken and written English.'",
+            "options": [
+              "in",
+              "at",
+              "with",
+              "for"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'The doctor advised him to abstain ______ alcoholic drinks.'",
+            "options": [
+              "from",
+              "of",
+              "with",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Hardly had I reached the station ______ the train pulled out.'",
+            "options": [
+              "when",
+              "than",
+              "then",
+              "after"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'No sooner did the bell ring ______ the students left the classroom.'",
+            "options": [
+              "than",
+              "when",
+              "then",
+              "as"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He prefers reading books ______ watching movies.'",
+            "options": [
+              "to",
+              "than",
+              "from",
+              "over"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He is senior ______ me by two years in service.'",
+            "options": [
+              "to",
+              "than",
+              "from",
+              "over"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'You must abide ______ the rules and regulations of the institute.'",
+            "options": [
+              "by",
+              "with",
+              "to",
+              "at"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He acceded ______ my request without any hesitation.'",
+            "options": [
+              "to",
+              "with",
+              "on",
+              "at"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She was astonished ______ his brilliant performance in the exam.'",
+            "options": [
+              "at",
+              "with",
+              "by",
+              "on"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'The police are looking ______ the matter carefully.'",
+            "options": [
+              "into",
+              "at",
+              "for",
+              "after"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She takes ______ her mother in looks and temperament.'",
+            "options": [
+              "after",
+              "for",
+              "to",
+              "with"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'The firemen managed to put ______ the fire before it spread.'",
+            "options": [
+              "out",
+              "off",
+              "down",
+              "away"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Never put ______ till tomorrow what you can do today.'",
+            "options": [
+              "off",
+              "out",
+              "away",
+              "down"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'The meeting was called ______ due to heavy rains.'",
+            "options": [
+              "off",
+              "out",
+              "away",
+              "down"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He congratulated me ______ my success in the competition.'",
+            "options": [
+              "on",
+              "for",
+              "at",
+              "with"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He was accused ______ theft by his neighbor.'",
+            "options": [
+              "of",
+              "for",
+              "with",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He was convicted ______ murder and sentenced to life imprisonment.'",
+            "options": [
+              "of",
+              "for",
+              "with",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Beware ______ pickpockets in crowded areas.'",
+            "options": [
+              "of",
+              "from",
+              "with",
+              "to"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He is addicted ______ smoking and gambling.'",
+            "options": [
+              "to",
+              "with",
+              "in",
+              "for"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She is confident ______ her ultimate victory in the election.'",
+            "options": [
+              "of",
+              "in",
+              "for",
+              "with"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He deals ______ antique furniture in the local market.'",
+            "options": [
+              "in",
+              "with",
+              "at",
+              "on"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'You must deal ______ difficult customers patiently.'",
+            "options": [
+              "with",
+              "in",
+              "at",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'The patient died ______ cholera last night.'",
+            "options": [
+              "of",
+              "from",
+              "with",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He died ______ fatigue caused by excessive hard work.'",
+            "options": [
+              "from",
+              "of",
+              "with",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She was disposed ______ help the poor orphan child.'",
+            "options": [
+              "to",
+              "of",
+              "for",
+              "with"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He disposed ______ his old car before moving to another city.'",
+            "options": [
+              "of",
+              "off",
+              "away",
+              "out"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'I am not eligible ______ this post as I lack experience.'",
+            "options": [
+              "for",
+              "to",
+              "of",
+              "in"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He is endowed ______ great intellectual capabilities.'",
+            "options": [
+              "with",
+              "of",
+              "by",
+              "in"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'This park is familiar ______ most residents of the town.'",
+            "options": [
+              "to",
+              "with",
+              "for",
+              "in"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Are you familiar ______ the new regulations introduced recently?'",
+            "options": [
+              "with",
+              "to",
+              "for",
+              "in"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He is fond ______ listening to classical music.'",
+            "options": [
+              "of",
+              "for",
+              "with",
+              "to"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She is guilty ______ breaching the contract terms.'",
+            "options": [
+              "of",
+              "for",
+              "with",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Smoking is injurious ______ public health.'",
+            "options": [
+              "to",
+              "for",
+              "with",
+              "upon"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He insisted ______ going to the cinema alone.'",
+            "options": [
+              "on",
+              "to",
+              "at",
+              "for"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He is jealous ______ my rapid professional progress.'",
+            "options": [
+              "of",
+              "with",
+              "at",
+              "for"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Hard work is the key ______ success in examinations.'",
+            "options": [
+              "to",
+              "for",
+              "of",
+              "with"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She was married ______ a renowned surgeon.'",
+            "options": [
+              "to",
+              "with",
+              "by",
+              "for"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'You ought to be ashamed ______ your rude behavior.'",
+            "options": [
+              "of",
+              "for",
+              "with",
+              "at"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He refrained ______ making any further controversial comments.'",
+            "options": [
+              "from",
+              "to",
+              "of",
+              "with"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Please rely ______ your own effort rather than luck.'",
+            "options": [
+              "on",
+              "at",
+              "with",
+              "to"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He succeeded ______ solving the complex mathematical puzzle.'",
+            "options": [
+              "in",
+              "at",
+              "for",
+              "with"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He superior ______ all his teammates in agility.'",
+            "options": [
+              "to",
+              "than",
+              "from",
+              "over"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She was surprised ______ the unexpected news.'",
+            "options": [
+              "at",
+              "with",
+              "by",
+              "on"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He yielded ______ the strong pressure of his opponents.'",
+            "options": [
+              "to",
+              "with",
+              "under",
+              "for"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Although he was tired, ______ he kept working on the report.'",
+            "options": [
+              "yet",
+              "but",
+              "still",
+              "however"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He worked hard lest he ______ fail in the entrance exam.'",
+            "options": [
+              "should",
+              "would",
+              "may",
+              "might"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She is not only intelligent ______ diligent.'",
+            "options": [
+              "but also",
+              "and also",
+              "as well as",
+              "along with"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Scarcely had he stepped out ______ it began to pour heavily.'",
+            "options": [
+              "when",
+              "than",
+              "then",
+              "before"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Unless you work hard, you ______ get good marks.'",
+            "options": [
+              "will not",
+              "would not",
+              "cannot",
+              "may not"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Walk carefully lest you ______ stumble on the rocks.'",
+            "options": [
+              "should",
+              "must",
+              "will",
+              "might"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Either you ______ your friend has taken my pen.'",
+            "options": [
+              "or",
+              "nor",
+              "and",
+              "also"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Neither Rohit ______ his brother attended the family event.'",
+            "options": [
+              "nor",
+              "or",
+              "and",
+              "but"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'If I ______ a king, I would help all the needy.'",
+            "options": [
+              "were",
+              "was",
+              "am",
+              "had been"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'If he had studied, he ______ passed the examination.'",
+            "options": [
+              "would have",
+              "will have",
+              "would",
+              "should have"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'I wish I ______ rich enough to buy a yacht.'",
+            "options": [
+              "were",
+              "was",
+              "am",
+              "had been"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He behaves as if he ______ everything about the project.'",
+            "options": [
+              "knew",
+              "knows",
+              "has known",
+              "had known"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'It is high time we ______ taking steps to save water.'",
+            "options": [
+              "started",
+              "start",
+              "have started",
+              "will start"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'The patient ______ before the doctor arrived at the scene.'",
+            "options": [
+              "had died",
+              "died",
+              "has died",
+              "was dying"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'I have been living in Delhi ______ ten years.'",
+            "options": [
+              "for",
+              "since",
+              "from",
+              "during"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She has been studying in this school ______ 2018.'",
+            "options": [
+              "since",
+              "for",
+              "from",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He is ______ European by birth.'",
+            "options": [
+              "a",
+              "an",
+              "the",
+              "no article"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He returned after ______ hour.'",
+            "options": [
+              "an",
+              "a",
+              "the",
+              "no article"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: '______ Sun rises in the east and sets in the west.'",
+            "options": [
+              "The",
+              "A",
+              "An",
+              "No article"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Ganges is ______ sacred river in India.'",
+            "options": [
+              "a",
+              "an",
+              "the",
+              "no article"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Honesty is ______ best policy.'",
+            "options": [
+              "the",
+              "a",
+              "an",
+              "no article"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He is ______ honest worker in our organization.'",
+            "options": [
+              "an",
+              "a",
+              "the",
+              "no article"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Gold is ______ precious metal.'",
+            "options": [
+              "a",
+              "an",
+              "the",
+              "no article"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He is ______ M.A. in English literature.'",
+            "options": [
+              "an",
+              "a",
+              "the",
+              "no article"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'My brother is ______ S.P. in Delhi Police.'",
+            "options": [
+              "an",
+              "a",
+              "the",
+              "no article"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'The house was damaged ______ the storm.'",
+            "options": [
+              "by",
+              "with",
+              "from",
+              "at"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He cut the apple ______ a sharp knife.'",
+            "options": [
+              "with",
+              "by",
+              "from",
+              "in"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She killed the snake ______ a heavy stick.'",
+            "options": [
+              "with",
+              "by",
+              "from",
+              "through"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'The letter was written ______ blue ink.'",
+            "options": [
+              "in",
+              "with",
+              "by",
+              "from"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Write the answer ______ pencil.'",
+            "options": [
+              "in",
+              "with",
+              "by",
+              "from"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Divide the sweets ______ the two children.'",
+            "options": [
+              "between",
+              "among",
+              "in",
+              "into"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'Distribute the property ______ all four brothers.'",
+            "options": [
+              "among",
+              "between",
+              "into",
+              "across"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He jumped ______ the river to save the child.'",
+            "options": [
+              "into",
+              "in",
+              "on",
+              "upon"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'The cat jumped ______ the kitchen table.'",
+            "options": [
+              "upon",
+              "on",
+              "in",
+              "into"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'The sun shines ______ daytime.'",
+            "options": [
+              "during",
+              "while",
+              "in",
+              "at"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He was standing ______ the gate waiting for her.'",
+            "options": [
+              "at",
+              "on",
+              "in",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She lives ______ 24, MG Road, Bengaluru.'",
+            "options": [
+              "at",
+              "in",
+              "on",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He lives ______ Delhi.'",
+            "options": [
+              "in",
+              "at",
+              "on",
+              "into"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'The train will arrive ______ 5:00 PM.'",
+            "options": [
+              "at",
+              "on",
+              "in",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He was born ______ a Sunday morning.'",
+            "options": [
+              "on",
+              "in",
+              "at",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She will join office ______ Monday.'",
+            "options": [
+              "on",
+              "in",
+              "at",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'The project will be completed ______ October.'",
+            "options": [
+              "in",
+              "on",
+              "at",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'India got independence ______ 1947.'",
+            "options": [
+              "in",
+              "on",
+              "at",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He works ______ a farm during summers.'",
+            "options": [
+              "on",
+              "in",
+              "at",
+              "inside"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She works ______ a factory.'",
+            "options": [
+              "in",
+              "on",
+              "at",
+              "upon"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He is good ______ Mathematics.'",
+            "options": [
+              "at",
+              "in",
+              "with",
+              "on"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She is weak ______ English grammar.'",
+            "options": [
+              "in",
+              "at",
+              "with",
+              "on"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He died ______ his country in the war.'",
+            "options": [
+              "for",
+              "of",
+              "from",
+              "with"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She died ______ grief after her son\\'s demise.'",
+            "options": [
+              "of",
+              "from",
+              "with",
+              "by"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He died ______ overwork.'",
+            "options": [
+              "from",
+              "of",
+              "by",
+              "with"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He apologized ______ her for his mistake.'",
+            "options": [
+              "to",
+              "for",
+              "with",
+              "at"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He apologized to her ______ his bad behavior.'",
+            "options": [
+              "for",
+              "to",
+              "about",
+              "on"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She applied ______ the principal for casual leave.'",
+            "options": [
+              "to",
+              "for",
+              "with",
+              "at"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'She applied ______ the post of Assistant Teacher.'",
+            "options": [
+              "for",
+              "to",
+              "in",
+              "at"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank: 'He complained ______ the police against his neighbor.'",
+            "options": [
+              "to",
+              "for",
+              "with",
+              "at"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

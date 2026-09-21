@@ -1,0 +1,714 @@
+[
+  {
+    "id": "dsssb_synonyms_100",
+    "title": "DSSSB English Language & Comprehension - Synonyms Practice Test",
+    "sections": [
+      {
+        "name": "Synonyms (100 MCQs)",
+        "durationMinutes": 60,
+        "questions": [
+          {
+            "q": "Select the most appropriate synonym of the given word: ABANDON",
+            "options": ["Forsake", "Retain", "Cherish", "Adopt"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ABATE",
+            "options": ["Increase", "Subside", "Magnify", "Aggravate"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ABDICATE",
+            "options": ["Usurp", "Claim", "Resign", "Maintain"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ABHOR",
+            "options": ["Admire", "Loathe", "Adore", "Desire"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ABOLISH",
+            "options": ["Establish", "Cancel", "Create", "Promote"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ABSCOND",
+            "options": ["Flee", "Remain", "Arrive", "Surrender"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ABSOLUTE",
+            "options": ["Limited", "Partial", "Complete", "Conditional"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ABSTAIN",
+            "options": ["Indulge", "Refrain", "Permit", "Pursue"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ABUNDANT",
+            "options": ["Scarce", "Plentiful", "Meager", "Deficient"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ACCENTUATE",
+            "options": ["Minimize", "Emphasize", "Ignore", "Suppress"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ACCLIMATIZE",
+            "options": ["Adapt", "Reject", "Displace", "Alienate"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ACCOMPLICE",
+            "options": ["Adversary", "Partner in crime", "Opponent", "Bystander"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ACCUMULATE",
+            "options": ["Scatter", "Gather", "Disperse", "Spend"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ACCURATE",
+            "options": ["Precise", "Faulty", "Erroneous", "Vague"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ACQUIESCE",
+            "options": ["Object", "Comply", "Protest", "Refuse"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ACUTE",
+            "options": ["Dull", "Sharp", "Blunt", "Mild"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ADAMANT",
+            "options": ["Flexible", "Stubborn", "Yielding", "Soft"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ADEPT",
+            "options": ["Clumsy", "Skilled", "Incompetent", "Ignorant"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ADHERENT",
+            "options": ["Follower", "Enemy", "Critic", "Detractor"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ADMONISH",
+            "options": ["Praise", "Scold", "Applaud", "Commend"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ADVERSITY",
+            "options": ["Prosperity", "Misfortune", "Success", "Fortune"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: AFFLUENT",
+            "options": ["Poor", "Wealthy", "Destitute", "Needy"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: AGGRAVATE",
+            "options": ["Soothe", "Worsen", "Alleviate", "Pacify"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: NIMBLE",
+            "options": ["Agile", "Clumsy", "Slow", "Rigid"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ALLEVIATE",
+            "options": ["Relieve", "Increase", "Enhance", "Heighten"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ALLURE",
+            "options": ["Repel", "Attract", "Deter", "Distaste"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ALTRUISTIC",
+            "options": ["Selfish", "Philanthropic", "Greedy", "Egoistic"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: AMBIGUOUS",
+            "options": ["Clear", "Unclear", "Definite", "Explicit"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: AMELIORATE",
+            "options": ["Improve", "Worsen", "Damage", "Deteriorate"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: AMICABLE",
+            "options": ["Hostile", "Friendly", "Antagonistic", "Aggressive"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ANOMALY",
+            "options": ["Normality", "Irregularity", "Standard", "Regularity"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ANTIPATHY",
+            "options": ["Sympathy", "Hatred", "Affection", "Fondness"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: APATHETIC",
+            "options": ["Enthusiastic", "Indifferent", "Passionate", "Eager"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: APEX",
+            "options": ["Bottom", "Peak", "Base", "Nadir"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: APPREHENSIVE",
+            "options": ["Confident", "Anxious", "Calm", "Unconcerned"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ARDUOUS",
+            "options": ["Easy", "Strenuous", "Simple", "Effortless"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ARROGANT",
+            "options": ["Humble", "Haughty", "Modest", "Meek"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ARTICULATE",
+            "options": ["Eloquent", "Incoherent", "Muffled", "Silent"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ASCENT",
+            "options": ["Rise", "Fall", "Descent", "Decline"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: AUDACIOUS",
+            "options": ["Bold", "Timid", "Fearful", "Cautious"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: AUSTERE",
+            "options": ["Severe", "Luxurious", "Gentle", "Extravagant"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: AUTHENTIC",
+            "options": ["Genuine", "Fake", "Counterfeit", "Spurious"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: AVERSE",
+            "options": ["Keen", "Reluctant", "Inclined", "Eager"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: BANAL",
+            "options": ["Original", "Commonplace", "Unique", "Extraordinary"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: BENEVOLENT",
+            "options": ["Kind", "Malevolent", "Cruel", "Hostile"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: BEWILDER",
+            "options": ["Puzzle", "Clarify", "Explicate", "Enlighten"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: BLAND",
+            "options": ["Tasteless", "Spicy", "Exciting", "Vibrant"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: BOISTEROUS",
+            "options": ["Quiet", "Noisy", "Calm", "Peaceful"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: BREVITY",
+            "options": ["Conciseness", "Lengthiness", "Verbosity", "Permanence"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: CANDID",
+            "options": ["Frank", "Deceitful", "Secretive", "Reserved"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: CAPRICIOUS",
+            "options": ["Fickle", "Constant", "Stable", "Predictable"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: CAUTIOUS",
+            "options": ["Careful", "Reckless", "Rash", "Careless"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: CEASE",
+            "options": ["Stop", "Continue", "Begin", "Start"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: CENSURE",
+            "options": ["Criticize", "Praise", "Applaud", "Commend"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: COERCE",
+            "options": ["Force", "Persuade", "Allow", "Encourage"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: COMPASSION",
+            "options": ["Sympathy", "Cruelty", "Indifference", "Harshness"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: COMPLIENT",
+            "options": ["Submissive", "Rebellious", "Defiant", "Obdurate"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: CONCEAL",
+            "options": ["Hide", "Reveal", "Expose", "Display"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: CONCUR",
+            "options": ["Agree", "Disagree", "Differ", "Conflict"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: CONDONE",
+            "options": ["Overlook", "Condemn", "Punish", "Forbid"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: DEARTH",
+            "options": ["Scarcity", "Abundance", "Surplus", "Plenty"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: DECEIT",
+            "options": ["Deception", "Honesty", "Sincerity", "Truth"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: DEFICIENT",
+            "options": ["Inadequate", "Sufficient", "Enough", "Abundant"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: DELETERIOUS",
+            "options": ["Harmful", "Beneficial", "Helpful", "Advantageous"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: DELIBERATE",
+            "options": ["Intentional", "Accidental", "Unintentional", "Hasty"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: DEMOLISH",
+            "options": ["Destroy", "Construct", "Build", "Repair"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: DENOUNCE",
+            "options": ["Condemn", "Praise", "Applaud", "Support"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: DEPLETE",
+            "options": ["Exhaust", "Replenish", "Fill", "Increase"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: DEROGATORY",
+            "options": ["Disparaging", "Complimentary", "Flattering", "Praising"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: DESTITUTE",
+            "options": ["Penniless", "Rich", "Wealthy", "Affluent"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: DETEST",
+            "options": ["Hate", "Love", "Adore", "Like"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: DILIGENT",
+            "options": ["Hardworking", "Lazy", "Idle", "Careless"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: DISCORD",
+            "options": ["Disagreement", "Harmony", "Agreement", "Peace"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: DISPARITY",
+            "options": ["Difference", "Similarity", "Equality", "Likeness"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: DIVERSE",
+            "options": ["Varied", "Same", "Similar", "Identical"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: DUBIOUS",
+            "options": ["Doubtful", "Certain", "Sure", "Reliable"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ECCENTRIC",
+            "options": ["Unconventional", "Normal", "Ordinary", "Conventional"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ELATED",
+            "options": ["Overjoyed", "Depressed", "Sad", "Miserable"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ELOQUENT",
+            "options": ["Expressive", "Inarticulate", "Silent", "Unclear"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ELUCIDATE",
+            "options": ["Explain", "Confuse", "Obscure", "Complicate"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: EMBEZZLE",
+            "options": ["Misappropriate", "Compensate", "Return", "Donate"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: EMPATHY",
+            "options": ["Understanding", "Apathy", "Indifference", "Coldness"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ENIGMA",
+            "options": ["Mystery", "Solution", "Clarity", "Explanation"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: EPHEMERAL",
+            "options": ["Transient", "Permanent", "Eternal", "Lasting"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ERADICATE",
+            "options": ["Abolish", "Plant", "Build", "Preserve"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ERRONEOUS",
+            "options": ["Incorrect", "Accurate", "Right", "Correct"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ERUDITE",
+            "options": ["Scholarly", "Ignorant", "Uneducated", "Illiterate"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: ESOTERIC",
+            "options": ["Obscure", "Common", "Familiar", "Public"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: EULOGY",
+            "options": ["Tribute", "Criticism", "Condemnation", "Accusation"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: EXASPERATE",
+            "options": ["Infuriate", "Soothe", "Calm", "Please"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: EXEMPLARY",
+            "options": ["Praiseworthy", "Blameworthy", "Faulty", "Poor"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: EXPLICIT",
+            "options": ["Clear", "Vague", "Ambiguous", "Implicit"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: EXTRAVAGANT",
+            "options": ["Spendthrift", "Thrifty", "Economical", "Frugal"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: FABRICATE",
+            "options": ["Construct", "Destroy", "Dismantle", "Demolish"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: FASTIDIOUS",
+            "options": ["Meticulous", "Careless", "Sloppy", "Easygoing"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: FEASIBLE",
+            "options": ["Practicable", "Impossible", "Unlikely", "Impractical"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: FEROCIOUS",
+            "options": ["Fierce", "Gentle", "Tame", "Mild"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: FLAMBOYANT",
+            "options": ["Ostentatious", "Modest", "Plain", "Simple"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: FRUGAL",
+            "options": ["Economical", "Extravagant", "Wasteful", "Profligate"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the most appropriate synonym of the given word: FUTILE",
+            "options": ["Useless", "Effective", "Fruitful", "Useful"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

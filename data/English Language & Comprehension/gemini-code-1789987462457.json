@@ -1,0 +1,1477 @@
+[
+  {
+    "id": "dsssb_english_grammar_100",
+    "title": "DSSSB English Language & Grammar Practice Test - Punctuation, Narration & Word Power",
+    "sections": [
+      {
+        "name": "Punctuation, Direct/Indirect Speech & Word Power (100 MCQs)",
+        "durationMinutes": 60,
+        "questions": [
+          {
+            "q": "Identify the sentence with correct punctuation:",
+            "options": [
+              "She said, \"I will call you tomorrow.\"",
+              "She said \"I will call you tomorrow\".",
+              "She said, I will call you tomorrow.",
+              "She said, 'I will call you tomorrow\""
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following sentences uses the apostrophe correctly?",
+            "options": [
+              "The girls' books were kept on the table.",
+              "The girl's books were kept on the table's.",
+              "The girls book's were kept on the table.",
+              "The girl's books' were kept on the table."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correctly punctuated sentence containing a semi-colon:",
+            "options": [
+              "I wanted to go for a walk; however, it started raining heavily.",
+              "I wanted to go for a walk, however; it started raining heavily.",
+              "I wanted to go for a walk; however it started raining heavily.",
+              "I wanted to go for a walk however; it started raining heavily."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which sentence correctly uses hyphens in compound adjectives?",
+            "options": [
+              "He is a well-known doctor in the city.",
+              "He is a well known-doctor in the city.",
+              "He is a-well-known doctor in the city.",
+              "He is a well known doctor-in the city."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the option with proper punctuation for a list introduction:",
+            "options": [
+              "Please bring the following items: a notebook, a pen, and a ruler.",
+              "Please bring the following items; a notebook, a pen, and a ruler.",
+              "Please bring the following items, a notebook: a pen and a ruler.",
+              "Please bring the following items - a notebook: a pen, and a ruler."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Convert to Indirect Speech: He said, \"I am reading a book.\"",
+            "options": [
+              "He said that he was reading a book.",
+              "He said that I am reading a book.",
+              "He said that he is reading a book.",
+              "He told that he had read a book."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: She said to me, \"Where are you going?\"",
+            "options": [
+              "She asked me where I was going.",
+              "She asked me where was I going.",
+              "She told me where I am going.",
+              "She inquired me that where I was going."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: The teacher said, \"The sun rises in the east.\"",
+            "options": [
+              "The teacher said that the sun rises in the east.",
+              "The teacher said that the sun rose in the east.",
+              "The teacher told that the sun had risen in the east.",
+              "The teacher asked if the sun rises in the east."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: Rohan said, \"Hurrah! We have won the match.\"",
+            "options": [
+              "Rohan exclaimed with joy that they had won the match.",
+              "Rohan said with joy that we have won the match.",
+              "Rohan exclaimed that they won the match.",
+              "Rohan told with joy that they have won the match."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: Mother said to Rahul, \"Do not play in the sun.\"",
+            "options": [
+              "Mother advised Rahul not to play in the sun.",
+              "Mother said Rahul do not play in the sun.",
+              "Mother ordered Rahul that not to play in the sun.",
+              "Mother requested Rahul to not play in the sun."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Select the correct SYNONYM of the given word: 'CANDID'",
+            "options": [
+              "Frank and straightforward",
+              "Deceitful and cunning",
+              "Secretive and silent",
+              "Arrogant and proud"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correct ANTONYM of the given word: 'METICULOUS'",
+            "options": [
+              "Careless",
+              "Thorough",
+              "Precise",
+              "Diligent"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one-word substitute: 'A person who looks at the bright side of things'",
+            "options": [
+              "Optimist",
+              "Pessimist",
+              "Altruist",
+              "Egotist"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correctly spelt word:",
+            "options": [
+              "Accommodation",
+              "Acommodation",
+              "Accomodation",
+              "Acommodetion"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the meaning of the idiom: 'To spill the beans'",
+            "options": [
+              "To reveal a secret prematurely",
+              "To drop food on the floor",
+              "To waste valuable resources",
+              "To start a quarrel"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Choose the correctly punctuated option:",
+            "options": [
+              "What a beautiful painting this is!",
+              "What a beautiful painting this is?",
+              "What a beautiful painting, this is.",
+              "What, a beautiful painting this is!"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the sentence that uses quotation marks correctly:",
+            "options": [
+              "\"Have you finished your homework?\" asked the father.",
+              "\"Have you finished your homework? asked the father.\"",
+              "Have you finished your homework? \"asked the father.\"",
+              "\"Have you finished your homework\", asked the father?"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which sentence is correctly punctuated with commas?",
+            "options": [
+              "Delhi, the capital of India, has a rich historical heritage.",
+              "Delhi the capital of India, has a rich historical heritage.",
+              "Delhi, the capital of India has a rich historical heritage.",
+              "Delhi the capital, of India has a rich historical heritage."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the sentence with proper exclamation and capitalization:",
+            "options": [
+              "Alas! We have lost our dear friend.",
+              "alas! We have lost our dear friend.",
+              "Alas, we have lost our dear friend!",
+              "Alas! we have lost our dear friend."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which option demonstrates correct use of parenthetical elements?",
+            "options": [
+              "The new CEO (who previously worked at Google) made a speech today.",
+              "The new CEO, (who previously worked at Google) made a speech today.",
+              "The new CEO (who previously worked at Google,) made a speech today.",
+              "The new CEO (who previously worked at Google) made, a speech today."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Convert to Direct Speech: He asked me if I was going to the market.",
+            "options": [
+              "He said to me, \"Are you going to the market?\"",
+              "He told me, \"Were you going to the market?\"",
+              "He asked, \"Do you go to the market?\"",
+              "He said, \"Am I going to the market?\""
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: The doctor said to the patient, \"Take this medicine twice a day.\"",
+            "options": [
+              "The doctor advised the patient to take that medicine twice a day.",
+              "The doctor told the patient take this medicine twice a day.",
+              "The doctor said to the patient that take that medicine twice a day.",
+              "The doctor ordered the patient taking this medicine twice a day."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: She said, \"Alas! My dog died.\"",
+            "options": [
+              "She exclaimed with sorrow that her dog had died.",
+              "She said sadly that my dog had died.",
+              "She exclaimed that her dog died.",
+              "She told with grief that her dog is dead."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: Manoj said, \"I have been working here since 2020.\"",
+            "options": [
+              "Manoj said that he had been working there since 2020.",
+              "Manoj said that I have been working here since 2020.",
+              "Manoj told that he was working there since 2020.",
+              "Manoj said that he has been working here since 2020."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Direct Speech: The captain ordered the soldiers to march forward.",
+            "options": [
+              "The captain said to the soldiers, \"March forward.\"",
+              "The captain told to soldiers, \"Please march forward.\"",
+              "The captain said, \"You should march forward.\"",
+              "The captain ordered, \"Soldiers march forward.\""
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Select the correct SYNONYM of the given word: 'PRUDENT'",
+            "options": [
+              "Wise and cautious",
+              "Reckless and foolish",
+              "Extravagant and wasteful",
+              "Arrogant and rude"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correct ANTONYM of the given word: 'TRANSIENT'",
+            "options": [
+              "Permanent",
+              "Temporary",
+              "Fleeting",
+              "Momentary"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one-word substitute: 'A remedy for all diseases'",
+            "options": [
+              "Panacea",
+              "Antidote",
+              "Panache",
+              "Placebo"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correctly spelt word:",
+            "options": [
+              "Bureaucracy",
+              "Bureaucracy",
+              "Beurocracy",
+              "Burocracy"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the meaning of the idiom: 'Burn the midnight oil'",
+            "options": [
+              "To work or study late into the night",
+              "To waste electricity",
+              "To cause a fire accident",
+              "To wake up early in the morning"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Which sentence contains a correct contraction?",
+            "options": [
+              "It's a wonderful day to visit the museum.",
+              "Its a wonderful day to visit the museum.",
+              "It's books are kept on the table.",
+              "Its' a wonderful day to visit the museum."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the properly punctuated complex sentence:",
+            "options": [
+              "Although he was tired, he completed his project on time.",
+              "Although he was tired he completed his project on time.",
+              "Although, he was tired he completed his project on time.",
+              "Although he was tired; he completed his project on time."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the sentence where dashes are used correctly for emphasis:",
+            "options": [
+              "She had only one goal—to win the national championship.",
+              "She had only one goal; to win the national championship—",
+              "She had—only one goal to win the national championship.",
+              "She had only one—goal to win the national championship."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the option with correct capitalization and punctuation:",
+            "options": [
+              "Dr. Sharma visited Paris, France last summer.",
+              "Dr Sharma visited Paris France last summer.",
+              "dr. Sharma visited paris, france last summer.",
+              "Dr. Sharma visited Paris, france last Summer."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the correctly punctuated sentence using an Oxford comma:",
+            "options": [
+              "I bought apples, bananas, and oranges from the vendor.",
+              "I bought apples, bananas and oranges, from the vendor.",
+              "I bought, apples, bananas, and oranges from the vendor.",
+              "I bought apples bananas, and oranges from the vendor."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Convert to Indirect Speech: The officer said to the clerk, \"File these documents immediately.\"",
+            "options": [
+              "The officer ordered the clerk to file those documents immediately.",
+              "The officer told the clerk that file these documents immediately.",
+              "The officer asked the clerk to file this documents immediately.",
+              "The officer ordered the clerk filing those documents immediately."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: Priya said, \"Can you lend me your pen?\"",
+            "options": [
+              "Priya asked if I could lend her my pen.",
+              "Priya told if I can lend her my pen.",
+              "Priya asked that could I lend her my pen.",
+              "Priya inquired can I lend your pen."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Direct Speech: He exclaimed with joy that it was a grand victory.",
+            "options": [
+              "He said, \"Hurrah! It is a grand victory.\"",
+              "He said, \"What a grand victory it was!\"",
+              "He said, \"Oh! It was a grand victory.\"",
+              "He told, \"A grand victory it is!\""
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: The father said to his son, \"May you succeed in life!\"",
+            "options": [
+              "The father wished that his son might succeed in life.",
+              "The father said to his son that he may succeed in life.",
+              "The father blessed his son to succeed in life.",
+              "The father prayed that his son must succeed in life."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: She said, \"I had already left when you called.\"",
+            "options": [
+              "She said that she had already left when I called.",
+              "She told that I had already left when you called.",
+              "She said that she has already left when I called.",
+              "She asked if she had already left when I called."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Select the correct SYNONYM of the given word: 'DILIGENT'",
+            "options": [
+              "Hardworking and industrious",
+              "Lazy and inactive",
+              "Careless and indifferent",
+              "Incompetent and weak"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correct ANTONYM of the given word: 'AUTHENTIC'",
+            "options": [
+              "Fake or spurious",
+              "Genuine",
+              "Real",
+              "Original"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one-word substitute: 'One who does not believe in the existence of God'",
+            "options": [
+              "Atheist",
+              "Theist",
+              "Agnostic",
+              "Devotee"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correctly spelt word:",
+            "options": [
+              "Mischievous",
+              "Mischievious",
+              "Mischivous",
+              "Misschievious"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the meaning of the idiom: 'Once in a blue moon'",
+            "options": [
+              "Very rarely",
+              "Frequently",
+              "On a full moon night",
+              "Never"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Identify the sentence with correct punctuation in reported speech:",
+            "options": [
+              "\"Where are my keys?\" asked Sam.",
+              "\"Where are my keys?\" asked Sam",
+              "\"Where are my keys?\", asked Sam.",
+              "Where are my keys? asked Sam."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which sentence correctly uses a semicolon to separate items in a complex list?",
+            "options": [
+              "We visited Paris, France; Rome, Italy; and Berlin, Germany.",
+              "We visited Paris, France, Rome, Italy, and Berlin, Germany.",
+              "We visited Paris; France, Rome; Italy, and Berlin; Germany.",
+              "We visited Paris France; Rome Italy; and Berlin Germany."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the correct punctuation for the possessive plural of 'child':",
+            "options": [
+              "Children's toys",
+              "Childrens' toys",
+              "Child's toys",
+              "Childrens toys'"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which sentence correctly uses question marks inside quotation marks?",
+            "options": [
+              "Did she really ask, \"Is this my seat?\"",
+              "Did she really ask, \"Is this my seat\"?",
+              "Did she really ask \"Is this my seat\"!",
+              "Did she really ask; \"Is this my seat?\""
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correctly punctuated option:",
+            "options": [
+              "Yes, I will definitely attend the conference.",
+              "Yes I will definitely attend the conference.",
+              "Yes, I will, definitely attend the conference.",
+              "Yes; I will definitely attend the conference."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Convert to Indirect Speech: He said, \"Shall I open the window?\"",
+            "options": [
+              "He offered to open the window.",
+              "He asked that shall he open the window.",
+              "He told if he should open the window.",
+              "He said that I will open the window."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: The beggar said, \"Please give me a coin.\"",
+            "options": [
+              "The beggar requested to give him a coin.",
+              "The beggar asked that give me a coin.",
+              "The beggar said to give him a coin.",
+              "The beggar ordered to give a coin."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Direct Speech: The teacher asked the boys why they were making a noise.",
+            "options": [
+              "The teacher said to the boys, \"Why are you making a noise?\"",
+              "The teacher asked to the boys, \"Why were you making a noise?\"",
+              "The teacher told the boys, \"Why you are making a noise?\"",
+              "The teacher said, \"Boys, why you make noise?\""
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: My friend said, \"I will meet you tomorrow.\"",
+            "options": [
+              "My friend said that he would meet me the next day.",
+              "My friend said that I will meet you tomorrow.",
+              "My friend told that he will meet me tomorrow.",
+              "My friend asked that he would meet me next day."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: She said, \"Do you know the answer?\"",
+            "options": [
+              "She asked if I knew the answer.",
+              "She asked that do I know the answer.",
+              "She told if I known the answer.",
+              "She inquired whether do I know the answer."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Select the correct SYNONYM of the given word: 'LUCID'",
+            "options": [
+              "Clear and easy to understand",
+              "Vague and confusing",
+              "Dark and obscure",
+              "Complicated"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correct ANTONYM of the given word: 'GREGARIOUS'",
+            "options": [
+              "Introverted or reserved",
+              "Sociable",
+              "Outgoing",
+              "Friendly"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one-word substitute: 'A life history of a person written by himself'",
+            "options": [
+              "Autobiography",
+              "Biography",
+              "Memoir",
+              "Chronicle"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correctly spelt word:",
+            "options": [
+              "Entrepreneur",
+              "Entreprenur",
+              "Entreprener",
+              "Enterpreneur"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the meaning of the idiom: 'Bite the bullet'",
+            "options": [
+              "To face a difficult situation with courage",
+              "To eat something dangerous",
+              "To avoid taking responsibility",
+              "To act foolishly"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Choose the sentence with correct comma placement around introductory phrases:",
+            "options": [
+              "In the middle of the night, we heard a sudden loud screech.",
+              "In the middle of the night we heard, a sudden loud screech.",
+              "In the middle, of the night we heard a sudden loud screech.",
+              "In the middle of the night we heard a sudden, loud screech."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which option is correctly punctuated with a colon?",
+            "options": [
+              "There was only one thing left to do: surrender.",
+              "There was: only one thing left to do surrender.",
+              "There was only one thing left to do; surrender.",
+              "There was only one thing: left to do surrender."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the option with correct hyphens in numbers:",
+            "options": [
+              "Twenty-five students passed the entrance exam.",
+              "Twenty five students passed the entrance exam.",
+              "Twenty-five-students passed the entrance exam.",
+              "Twenty five-students passed the entrance exam."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correct sentence featuring an ellipse (...) for omitted text:",
+            "options": [
+              "The document stated, \"All members... must sign the agreement.\"",
+              "The document stated, \"All members--- must sign the agreement.\"",
+              "The document stated, \"All members; must sign the agreement.\"",
+              "The document stated, \"All members: must sign the agreement.\""
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is punctuated correctly?",
+            "options": [
+              "\"I am feeling unwell,\" said Tina, \"so I cannot come.\"",
+              "\"I am feeling unwell\" said Tina \"so I cannot come.\"",
+              "\"I am feeling unwell,\" said Tina \"so I cannot come.\"",
+              "\"I am feeling unwell\", said Tina, \"so I cannot come.\""
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Convert to Indirect Speech: He said to her, \"Why did you hit the dog?\"",
+            "options": [
+              "He asked her why she had hit the dog.",
+              "He asked her why did she hit the dog.",
+              "He told her why she hit the dog.",
+              "He inquired her that why she had hit the dog."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: The judge said, \"Call the first witness.\"",
+            "options": [
+              "The judge commanded to call the first witness.",
+              "The judge said that call the first witness.",
+              "The judge requested to call the first witness.",
+              "The judge told to call the first witness."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Direct Speech: She promised that she would help me.",
+            "options": [
+              "She said, \"I will help you.\"",
+              "She said, \"I would help you.\"",
+              "She told, \"I can help you.\"",
+              "She asked, \"Shall I help you?\""
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: \"Don't make noise,\" the librarian said to the students.",
+            "options": [
+              "The librarian ordered the students not to make noise.",
+              "The librarian told the students to not make noise.",
+              "The librarian asked the students don't make noise.",
+              "The librarian advised students that do not make noise."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: Suresh said, \"I bought a new car yesterday.\"",
+            "options": [
+              "Suresh said that he had bought a new car the previous day.",
+              "Suresh told that he bought a new car yesterday.",
+              "Suresh said that he has bought a new car the day before.",
+              "Suresh asked if he bought a new car the previous day."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Select the correct SYNONYM of the given word: 'AFFLUENT'",
+            "options": [
+              "Wealthy and prosperous",
+              "Poor and destitute",
+              "Needy and broke",
+              "Miserable"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correct ANTONYM of the given word: 'HOSTILE'",
+            "options": [
+              "Friendly and warm",
+              "Aggressive",
+              "Antagonistic",
+              "Unfriendly"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one-word substitute: 'Government by a single person with absolute power'",
+            "options": [
+              "Autocracy",
+              "Democracy",
+              "Oligarchy",
+              "Monarchy"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correctly spelt word:",
+            "options": [
+              "Maintenance",
+              "Maintainance",
+              "Maintenence",
+              "Mentenance"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the meaning of the idiom: 'Hit the nail on the head'",
+            "options": [
+              "To state a truth exactly right",
+              "To cause physical injury",
+              "To build something properly",
+              "To make a silly mistake"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Select the sentence with proper use of apostrophe in contractions:",
+            "options": [
+              "They're going to lose their bags if they leave them there.",
+              "Their going to lose they're bags if they leave them there.",
+              "There going to lose their bags if they leave them there.",
+              "They're going to lose there bags if they leave them there."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the sentence that correctly uses a question mark inside double quotes:",
+            "options": [
+              "\"Who broke the window?\" the teacher asked.",
+              "\"Who broke the window\"? the teacher asked.",
+              "\"Who broke the window\"? asked the teacher.",
+              "Who broke the window? \"the teacher asked.\""
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which sentence uses commas correctly with coordinate adjectives?",
+            "options": [
+              "It was a dark, stormy night.",
+              "It was a dark stormy, night.",
+              "It was a, dark stormy night.",
+              "It was a dark, stormy, night."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the properly punctuated sentence containing a quotation within a quotation:",
+            "options": [
+              "She said, \"John told me, 'I will arrive at six.'\"",
+              "She said, \"John told me, \"I will arrive at six.\"\"",
+              "She said, 'John told me, 'I will arrive at six.''",
+              "She said, \"John told me 'I will arrive at six.'\""
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the sentence with correct capitalization of professional titles:",
+            "options": [
+              "President Smith delivered an inspiring speech today.",
+              "president Smith delivered an inspiring speech today.",
+              "President smith delivered an inspiring speech today.",
+              "The President Smith delivered an inspiring speech today."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Convert to Indirect Speech: The guide said, \"Welcome to the historical museum.\"",
+            "options": [
+              "The guide welcomed us to the historical museum.",
+              "The guide told welcome to the historical museum.",
+              "The guide said that welcome to historical museum.",
+              "The guide asked us to welcome the historical museum."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: \"Let us go for a picnic,\" suggested David.",
+            "options": [
+              "David suggested that they should go for a picnic.",
+              "David suggested to go for a picnic.",
+              "David requested us to go for picnic.",
+              "David ordered that we go for a picnic."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Direct Speech: He asked whether I had seen his keys.",
+            "options": [
+              "He said to me, \"Have you seen my keys?\"",
+              "He said, \"Did you see his keys?\"",
+              "He asked, \"Have I seen your keys?\"",
+              "He told, \"Are you seeing my keys?\""
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: The captain said, \"Bravo! You played well.\"",
+            "options": [
+              "The captain applauded him saying that he had played well.",
+              "The captain said bravo that he played well.",
+              "The captain exclaimed that you played well.",
+              "The captain praised that he has played well."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: She said, \"I must complete this work today.\"",
+            "options": [
+              "She said that she had to complete that work that day.",
+              "She told that she must complete this work today.",
+              "She said that she has to complete that work today.",
+              "She asked if she must complete that work that day."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Select the correct SYNONYM of the given word: 'OBSOLETE'",
+            "options": [
+              "Outdated and old-fashioned",
+              "Modern and current",
+              "Recent",
+              "Fashionable"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correct ANTONYM of the given word: 'CANDID'",
+            "options": [
+              "Deceitful or insincere",
+              "Frank",
+              "Honest",
+              "Direct"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one-word substitute: 'An area where wild birds and animals are protected'",
+            "options": [
+              "Sanctuary",
+              "Aquarium",
+              "Zoo",
+              "Aviary"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correctly spelt word:",
+            "options": [
+              "Questionnaire",
+              "Questionaire",
+              "Questionare",
+              "Questionnair"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the meaning of the idiom: 'Through thick and thin'",
+            "options": [
+              "Under all circumstances, good or bad",
+              "Only in good times",
+              "When traveling long distances",
+              "In deep mathematical confusion"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Choose the correctly punctuated sentence featuring an appositive:",
+            "options": [
+              "My brother, a skilled pianist, won the first prize.",
+              "My brother a skilled pianist, won the first prize.",
+              "My brother, a skilled pianist won the first prize.",
+              "My brother a skilled pianist won, the first prize."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which option presents correct semicolon usage between two independent clauses?",
+            "options": [
+              "The exam was challenging; all students passed with good marks.",
+              "The exam was challenging, all students passed with good marks.",
+              "The exam was challenging: all students passed with good marks;",
+              "The exam was challenging; all students passed; with good marks."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the sentence with correct hyphenation in age adjectives:",
+            "options": [
+              "She has a five-year-old child.",
+              "She has a five year old child.",
+              "She has a five-year old child.",
+              "She has a five year-old child."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the correctly punctuated sentence with direct address:",
+            "options": [
+              "Good morning, Sir, how can I assist you today?",
+              "Good morning Sir how can I assist you today?",
+              "Good morning, Sir how can I assist you today?",
+              "Good morning Sir, how can I assist you today?"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the sentence that uses ellipsis properly at the end of a sentence:",
+            "options": [
+              "He began to speak, but then paused...",
+              "He began to speak, but then paused.",
+              "He began to speak, but then paused---",
+              "He began to speak, but then paused;"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Convert to Indirect Speech: \"How beautiful the night is!\" said the poet.",
+            "options": [
+              "The poet exclaimed with wonder that the night was very beautiful.",
+              "The poet said that how beautiful the night is.",
+              "The poet told that the night is beautiful.",
+              "The poet asked if the night was beautiful."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: The master said to the servant, \"Clean the room.\"",
+            "options": [
+              "The master ordered the servant to clean the room.",
+              "The master requested the servant to clean the room.",
+              "The master told the servant that clean the room.",
+              "The master asked to servant for cleaning room."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Direct Speech: She asked me whether I knew her brother.",
+            "options": [
+              "She said to me, \"Do you know my brother?\"",
+              "She said, \"Did you know her brother?\"",
+              "She told me, \"Are you knowing my brother?\"",
+              "She asked, \"Have you known my brother?\""
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: Father said to me, \"Honesty is the best policy.\"",
+            "options": [
+              "Father told me that honesty is the best policy.",
+              "Father told me that honesty was the best policy.",
+              "Father advised me honesty is the best policy.",
+              "Father said that honesty had been the best policy."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: The passenger said, \"When will the train arrive?\"",
+            "options": [
+              "The passenger asked when the train would arrive.",
+              "The passenger inquired when will the train arrive.",
+              "The passenger asked that when the train will arrive.",
+              "The passenger told when the train had arrived."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Select the correct SYNONYM of the given word: 'LACONIC'",
+            "options": [
+              "Concise and brief",
+              "Talkative and wordy",
+              "Verbose",
+              "Lengthy"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correct ANTONYM of the given word: 'AMELIORATE'",
+            "options": [
+              "Worsen",
+              "Improve",
+              "Enhance",
+              "Upgrade"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one-word substitute: 'Study of coins and medals'",
+            "options": [
+              "Numismatics",
+              "Philately",
+              "Archaeology",
+              "Anthropology"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correctly spelt word:",
+            "options": [
+              "Privilege",
+              "Priviledge",
+              "Privelege",
+              "Privlege"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the meaning of the idiom: 'At the drop of a hat'",
+            "options": [
+              "Instantly and without hesitation",
+              "Carelessly dropping objects",
+              "After long consideration",
+              "With great reluctance"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Identify the sentence that correctly uses colon to introduce a quotation:",
+            "options": [
+              "Shakespeare wrote: \"To be or not to be, that is the question.\"",
+              "Shakespeare wrote; \"To be or not to be, that is the question.\"",
+              "Shakespeare wrote, \"To be or not to be: that is the question.\"",
+              "Shakespeare wrote - \"To be or not to be, that is the question.\""
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which sentence uses apostrophe correctly for possession in irregular plurals?",
+            "options": [
+              "The women's committee organized the cultural festival.",
+              "The womens' committee organized the cultural festival.",
+              "The womens committee's organized the cultural festival.",
+              "The woman's committee organized the cultural festival."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the sentence with proper comma placement after a dependent clause:",
+            "options": [
+              "Because she studied hard, she scored top marks in the test.",
+              "Because she studied hard she scored top marks, in the test.",
+              "Because, she studied hard she scored top marks in the test.",
+              "Because she studied hard; she scored top marks in the test."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the correctly punctuated sentence containing parenthetical dashes:",
+            "options": [
+              "The core issue—poverty in rural areas—remains unaddressed.",
+              "The core issue, poverty in rural areas—remains unaddressed.",
+              "The core issue—poverty in rural areas, remains unaddressed.",
+              "The core issue; poverty in rural areas; remains unaddressed."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which sentence correctly punctuates abbreviations like e.g. and i.e.?",
+            "options": [
+              "We need citrus fruits (e.g., oranges, lemons, and limes).",
+              "We need citrus fruits (e.g. oranges, lemons, and limes).",
+              "We need citrus fruits, e.g., oranges, lemons, and limes.",
+              "We need citrus fruits (e.g: oranges, lemons, and limes)."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Convert to Indirect Speech: The teacher said, \"Work hard if you want to pass.\"",
+            "options": [
+              "The teacher advised the students to work hard if they wanted to pass.",
+              "The teacher told that work hard if you want to pass.",
+              "The teacher ordered to work hard if you wanted to pass.",
+              "The teacher said that they should work hard to pass."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: He said, \"What a tragic accident!\"",
+            "options": [
+              "He exclaimed with sorrow that it was a very tragic accident.",
+              "He told that what a tragic accident it was.",
+              "He said sadly what a tragic accident.",
+              "He asked if it was a tragic accident."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Direct Speech: The commander ordered his men to fire at the enemy.",
+            "options": [
+              "The commander said to his men, \"Fire at the enemy.\"",
+              "The commander told to his men, \"Fire at enemy.\"",
+              "The commander said, \"Men should fire at enemy.\"",
+              "The commander asked, \"Will you fire at the enemy?\""
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: She said, \"Are you feeling well today?\"",
+            "options": [
+              "She asked if I was feeling well that day.",
+              "She inquired whether am I feeling well today.",
+              "She told if I was feeling well today.",
+              "She asked that was I feeling well that day."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Convert to Indirect Speech: Rohan said, \"I may join the football team next month.\"",
+            "options": [
+              "Rohan said that he might join the football team the following month.",
+              "Rohan told that he may join the football team next month.",
+              "Rohan said that I might join the football team following month.",
+              "Rohan asked if he could join the football team next month."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Select the correct SYNONYM of the given word: 'EPHEMERAL'",
+            "options": [
+              "Short-lived and temporary",
+              "Eternal and everlasting",
+              "Enduring",
+              "Permanent"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correct ANTONYM of the given word: 'LOQUACIOUS'",
+            "options": [
+              "Silent or taciturn",
+              "Talkative",
+              "Garrulous",
+              "Communicative"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the one-word substitute: 'One who collects stamps'",
+            "options": [
+              "Philatelist",
+              "Numismatist",
+              "Bibliophile",
+              "Optimist"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Select the correctly spelt word:",
+            "options": [
+              "Embarrassment",
+              "Embarasment",
+              "Embarrassment",
+              "Embarasment"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Identify the meaning of the idiom: 'Cry over spilt milk'",
+            "options": [
+              "To regret something that cannot be undone",
+              "To waste liquid food",
+              "To weep over minor physical injuries",
+              "To complain about future events"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1233 @@
+[
+  {
+    "id": "dsssb_comp_100",
+    "title": "DSSSB English Language & Comprehension - Reading Comprehension Practice Test",
+    "sections": [
+      {
+        "name": "Reading Comprehension (100 MCQs)",
+        "durationMinutes": 60,
+        "questions": [
+          {
+            "q": "Passage 1: Education is not merely the acquisition of knowledge or technical skills; it is the harmonious development of physical, mental, and moral faculties of an individual. True education empowers a person to distinguish between right and wrong, fosters critical thinking, and prepares one to face life's challenges with resilience. In modern times, the emphasis has shifted heavily toward academic scores and professional training, often neglecting character building and empathy. To build a balanced society, educational institutions must reintegrate value education alongside scientific and technical instruction.\n\nAccording to the passage, what is the primary goal of true education?",
+            "options": [
+              "Harmonious development of physical, mental, and moral faculties",
+              "Solely acquiring technical skills and academic degrees",
+              "Achieving top academic scores in competitive exams",
+              "Securing high-paying jobs in modern industries"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 1 (Contd.): What aspect of education is often neglected in modern times according to the passage?",
+            "options": [
+              "Character building and empathy",
+              "Technical training and skills",
+              "Academic scores and examinations",
+              "Scientific knowledge and research"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 1 (Contd.): What does true education empower an individual to do?",
+            "options": [
+              "Distinguish between right and wrong",
+              "Earn money without effort",
+              "Avoid facing life's daily challenges",
+              "Focus exclusively on scientific research"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 1 (Contd.): What recommendation does the author give for building a balanced society?",
+            "options": [
+              "Reintegrate value education with scientific and technical instruction",
+              "Abolish scientific instruction completely",
+              "Focus only on moral education and ignore science",
+              "Increase the duration of academic examinations"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 1 (Contd.): What is the synonym of the word 'resilience' as used in the passage context?",
+            "options": [
+              "Flexibility and strength to recover",
+              "Weakness and hesitation",
+              "Rigidity and strictness",
+              "Ignorance and negligence"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 2: Environmental degradation is one of the most pressing crises facing humanity today. Deforestation, industrial pollution, and unsustainable resource consumption have led to severe climate anomalies, biodiversity loss, and ecological imbalance. While global conventions continuously negotiate carbon reduction targets, meaningful change requires grassroots initiatives and individual responsibility. Adopting sustainable lifestyles, reducing plastic consumption, and planting trees are simple yet effective actions that every citizen can undertake to mitigate environmental harm.\n\nWhat is identified as one of the most pressing crises facing humanity today?",
+            "options": [
+              "Environmental degradation",
+              "Lack of industrial growth",
+              "Decrease in global population",
+              "Overproduction of plastic goods"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 2 (Contd.): What has directly led to severe climate anomalies and biodiversity loss?",
+            "options": [
+              "Deforestation and unsustainable resource consumption",
+              "Grassroots initiatives and tree planting drives",
+              "Strict environmental policies of governments",
+              "Reduction in plastic consumption by citizens"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 2 (Contd.): According to the author, what is necessary alongside global conventions to achieve meaningful change?",
+            "options": [
+              "Grassroots initiatives and individual responsibility",
+              "Increasing industrial production rapidly",
+              "Relying solely on international treaties",
+              "Expanding deforestation for urbanization"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 2 (Contd.): Which of the following is mentioned as a simple action individuals can take?",
+            "options": [
+              "Reducing plastic consumption",
+              "Negotiating global carbon targets",
+              "Building large industrial factories",
+              "Increasing resource consumption"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 2 (Contd.): What does the word 'mitigate' mean in the context of the passage?",
+            "options": [
+              "To lessen or reduce the severity of",
+              "To increase or aggravate",
+              "To ignore or neglect",
+              "To celebrate or promote"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 3: The digital revolution has fundamentally reshaped human communication, work, and daily life. The internet and social media platforms have democratized information access, enabling instant connection across geographical boundaries. However, this rapid technological advancement brings significant challenges, including cyber threats, spread of misinformation, and digital addiction. Excessive screen time and online engagement have also been linked to psychological stress and reduced face-to-face social interaction. Therefore, cultivating digital literacy and mindful usage is essential to harness technology positively.\n\nHow has the digital revolution impacted human life?",
+            "options": [
+              "By reshaping communication, work, and daily life",
+              "By restricting global access to information",
+              "By eliminating the need for literacy",
+              "By stopping technological advancements completely"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 3 (Contd.): What major benefit of internet and social media is highlighted in the text?",
+            "options": [
+              "Democratizing access to information",
+              "Eliminating psychological stress entirely",
+              "Preventing the spread of fake news",
+              "Reducing the need for digital devices"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 3 (Contd.): Which of the following is cited as a negative consequence of excessive screen time?",
+            "options": [
+              "Psychological stress and reduced face-to-face interaction",
+              "Improved social connections in real life",
+              "Enhanced critical thinking capabilities",
+              "Complete elimination of misinformation"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 3 (Contd.): What is required to harness technology positively according to the passage?",
+            "options": [
+              "Cultivating digital literacy and mindful usage",
+              "Banning social media platforms permanently",
+              "Avoiding internet usage altogether",
+              "Increasing screen time without restrictions"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 3 (Contd.): What is the antonym of 'democratized' as implied in the passage context?",
+            "options": [
+              "Restricted or monopolized",
+              "Shared widely",
+              "Made accessible",
+              "Liberated"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 4: Reading habit is one of the most enriching qualities a person can foster. It not only expands vocabulary and improves language proficiency but also enhances cognitive function and imagination. Books serve as gateways to diverse cultures, historical eras, and philosophical thought, broadening one's worldview. In an age dominated by short-form digital content, maintaining a deep reading habit requires conscious discipline. Fostering a love for reading from early childhood lays a solid foundation for lifelong learning and intellectual curiosity.\n\nWhat is one primary benefit of developing a reading habit?",
+            "options": [
+              "Expands vocabulary and improves language proficiency",
+              "Decreases cognitive abilities and memory",
+              "Promotes reliance on short-form digital content",
+              "Limits one's understanding of global cultures"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 4 (Contd.): How do books help in broadening an individual's worldview?",
+            "options": [
+              "By acting as gateways to diverse cultures and historical eras",
+              "By restricting reading to short-form content",
+              "By eliminating the need for discipline",
+              "By focusing solely on technical grammar rules"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 4 (Contd.): What makes maintaining a deep reading habit challenging today?",
+            "options": [
+              "Dominance of short-form digital content",
+              "Availability of too many physical books",
+              "Lack of educational institutions",
+              "High cost of learning materials"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 4 (Contd.): Why is it important to cultivate reading habits from early childhood?",
+            "options": [
+              "It lays a solid foundation for lifelong learning",
+              "It prevents children from attending school",
+              "It guarantees instant professional success",
+              "It reduces the need for critical thinking"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 4 (Contd.): Choose the word closest in meaning to 'foster':",
+            "options": [
+              "Nurture or encourage",
+              "Neglect or ignore",
+              "Suppress or restrain",
+              "Destroy or eliminate"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 5: Time management is an essential life skill for achieving personal and professional success. It involves prioritizing tasks, setting realistic goals, and avoiding procrastination. People who manage their time effectively experience lower stress levels, higher productivity, and a better work-life balance. Conversely, poor time management often leads to missed deadlines, sub-par performance, and chronic burnout. Utilizing planners, prioritizing urgent and important tasks, and learning to say no to non-essential activities are key strategies for effective time control.\n\nWhat are key components of effective time management according to the text?",
+            "options": [
+              "Prioritizing tasks and setting realistic goals",
+              "Taking on all non-essential tasks simultaneously",
+              "Promoting procrastination and delayed action",
+              "Working continuously without taking any breaks"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 5 (Contd.): What is a direct outcome of managing time effectively?",
+            "options": [
+              "Lower stress levels and higher productivity",
+              "Chronic burnout and missed deadlines",
+              "Sub-par performance at workplace",
+              "Inability to set personal targets"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 5 (Contd.): What is a major consequence of poor time management?",
+            "options": [
+              "Missed deadlines and chronic burnout",
+              "Better work-life balance",
+              "Enhanced professional reputation",
+              "Reduced daily stress levels"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 5 (Contd.): Which strategy is suggested to maintain time control?",
+            "options": [
+              "Learning to say no to non-essential activities",
+              "Accepting every request without prioritization",
+              "Avoiding the use of daily planners",
+              "Delaying urgent tasks until deadlines pass"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 5 (Contd.): What is the antonym of 'procrastination'?",
+            "options": [
+              "Promptness or action",
+              "Delay or postponement",
+              "Laziness or inaction",
+              "Hesitation or doubt"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 6: Healthy eating habits are fundamental to maintaining overall physical well-being and longevity. A balanced diet rich in whole grains, fruits, vegetables, lean proteins, and healthy fats provides essential nutrients that power metabolic functions and bolster immunity. Conversely, excessive consumption of processed foods high in refined sugars and unhealthy fats contributes to obesity, cardiovascular diseases, and diabetes. Developing nutritional awareness and making conscious dietary choices are critical steps toward preventing chronic health conditions.\n\nWhat constitutes a balanced diet according to the passage?",
+            "options": [
+              "Whole grains, fruits, vegetables, lean proteins, and healthy fats",
+              "Processed foods high in refined sugars and fats",
+              "Exclusive reliance on dietary supplements",
+              "High intake of fast foods and aerated drinks"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 6 (Contd.): What health issues are linked to excessive processed food intake?",
+            "options": [
+              "Obesity, cardiovascular diseases, and diabetes",
+              "Enhanced immune response and energy",
+              "Improved metabolic rate and stamina",
+              "Lowered risk of chronic illnesses"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 6 (Contd.): Why are essential nutrients vital for the human body?",
+            "options": [
+              "They power metabolic functions and bolster immunity",
+              "They increase reliance on medical treatments",
+              "They cause chronic metabolic imbalances",
+              "They reduce physical longevity"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 6 (Contd.): What step is necessary to prevent chronic health conditions?",
+            "options": [
+              "Developing nutritional awareness and conscious dietary choices",
+              "Eliminating all fats and carbohydrates completely",
+              "Consuming processed foods daily",
+              "Ignoring daily dietary intake"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 6 (Contd.): What is the synonym of 'bolster' as used in the passage?",
+            "options": [
+              "Strengthen or reinforce",
+              "Weaken or undermine",
+              "Hinder or block",
+              "Neglect or abandon"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 7: Yoga is an ancient Indian discipline that integrates physical postures, breath control, and meditation to promote holistic health. Unlike conventional physical exercises that focus primarily on muscular strength, yoga emphasizes mind-body harmony and inner tranquility. Regular practice of yoga reduces stress levels, improves body flexibility, enhances respiratory efficiency, and boosts mental clarity. In today's fast-paced urban life, yoga offers a practical pathway to achieve mental peace and physical vitality.\n\nWhat distinguishes yoga from conventional physical exercises?",
+            "options": [
+              "It emphasizes mind-body harmony and inner tranquility",
+              "It focuses solely on building muscular strength",
+              "It ignores physical postures and flexibility",
+              "It requires complex machinery to practice"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 7 (Contd.): What are the core components of yoga mentioned in the passage?",
+            "options": [
+              "Physical postures, breath control, and meditation",
+              "Weight training, running, and sprinting",
+              "Caloric restriction and fasting",
+              "Medicinal intake and clinical therapies"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 7 (Contd.): Which of the following is a physical benefit of regular yoga practice?",
+            "options": [
+              "Improved body flexibility and respiratory efficiency",
+              "Increased mental stress and fatigue",
+              "Reduction in joint mobility",
+              "Decreased overall body clarity"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 7 (Contd.): Why is yoga considered particularly valuable in modern times?",
+            "options": [
+              "It offers a pathway to mental peace in fast-paced urban life",
+              "It eliminates the need for proper nutrition",
+              "It replaces medical surgeries entirely",
+              "It demands high financial expenditure"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 7 (Contd.): Give the meaning of 'tranquility' in the context of the text:",
+            "options": [
+              "Calmness and peace",
+              "Agitation and noise",
+              "Chaos and confusion",
+              "Speed and acceleration"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 8: Water conservation is an urgent global imperative as climate change and population growth strain freshwater supplies. Agriculture accounts for the majority of global freshwater consumption, making efficient irrigation techniques like drip and sprinkler systems vital. Furthermore, urban rainwater harvesting, industrial water recycling, and public awareness campaigns are essential components of sustainable water management. Without immediate conservation efforts, severe water scarcity threatens food security, economic stability, and human survival in many regions.\n\nWhich sector consumes the majority of global freshwater supplies?",
+            "options": [
+              "Agriculture",
+              "Industrial manufacturing",
+              "Domestic household use",
+              "Commercial entertainment"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 8 (Contd.): What efficient irrigation techniques are recommended in the text?",
+            "options": [
+              "Drip and sprinkler systems",
+              "Flood irrigation and open canals",
+              "Uncontrolled groundwater extraction",
+              "Manual bucket irrigation"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 8 (Contd.): What factors are straining global freshwater supplies?",
+            "options": [
+              "Climate change and population growth",
+              "Excessive rainwater harvesting drives",
+              "Overproduction of agricultural crops",
+              "Industrial recycling processes"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 8 (Contd.): What could be a severe threat if water conservation is ignored?",
+            "options": [
+              "Threat to food security and economic stability",
+              "Overabundance of clean drinking water",
+              "Decrease in agricultural water demands",
+              "Complete elimination of climate change"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 8 (Contd.): Find the synonym for 'imperative':",
+            "options": [
+              "Vital necessity or requirement",
+              "Optional choice",
+              "Minor concern",
+              "Unimportant matter"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 9: Renewable energy sources, such as solar, wind, and hydroelectric power, are vital for transitioning away from fossil fuels. Burning coal, oil, and natural gas releases greenhouse gases that drive global warming and atmospheric pollution. Solar panels and wind turbines harness natural, clean energy without emitting carbon dioxide during power generation. Although initial infrastructure costs remain relatively high, rapid technological advancements and economies of scale are making renewable energy increasingly affordable and accessible globally.\n\nWhy is transitioning to renewable energy sources considered vital?",
+            "options": [
+              "To reduce reliance on fossil fuels that emit greenhouse gases",
+              "To increase carbon dioxide emissions worldwide",
+              "To make power generation completely manual",
+              "To exhaust natural fossil fuel reserves faster"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 9 (Contd.): What advantage do solar panels and wind turbines possess during energy generation?",
+            "options": [
+              "They emit no carbon dioxide",
+              "They rely heavily on burning coal",
+              "They consume vast amounts of natural gas",
+              "They increase atmospheric pollution levels"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 9 (Contd.): What initial obstacle is associated with renewable energy adoption?",
+            "options": [
+              "High initial infrastructure costs",
+              "Lack of solar radiation and wind energy",
+              "Excessive carbon emissions from panels",
+              "Government bans on clean technology"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 9 (Contd.): What is making renewable energy more affordable over time?",
+            "options": [
+              "Technological advancements and economies of scale",
+              "Increasing costs of solar panels",
+              "Scarcity of wind power technology",
+              "Higher taxes on clean energy generation"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 9 (Contd.): What is the opposite of 'renewable' in the given context?",
+            "options": [
+              "Exhaustible or non-renewable",
+              "Inexhaustible",
+              "Sustainable",
+              "Unlimited"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 10: Biodiversity is the foundation of ecosystem stability and human survival. Forests, wetlands, oceans, and grasslands provide essential ecosystem services, including air purification, soil fertility, crop pollination, and climate regulation. Human activities like urbanization, industrial agriculture, and habitat destruction have accelerated species extinction at an alarming rate. Protecting natural habitats, enforcing conservation laws, and restoring degraded ecosystems are essential to preserve the delicate balance of life on Earth.\n\nWhy is biodiversity crucial for planet Earth?",
+            "options": [
+              "It forms the foundation of ecosystem stability and human survival",
+              "It accelerates urbanization and land clearing",
+              "It increases species extinction rates",
+              "It eliminates natural wetlands and forests"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 10 (Contd.): Which ecosystem service is mentioned in the passage?",
+            "options": [
+              "Air purification and soil fertility",
+              "Accelerating species extinction",
+              "Promoting industrial agriculture",
+              "Increasing greenhouse gas emissions"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 10 (Contd.): Which human activity has accelerated species extinction?",
+            "options": [
+              "Urbanization and habitat destruction",
+              "Restoring degraded ecosystems",
+              "Enforcing strict conservation laws",
+              "Planting indigenous forests"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 10 (Contd.): What action is required to preserve Earth's delicate balance of life?",
+            "options": [
+              "Protecting natural habitats and restoring ecosystems",
+              "Expanding industrial agriculture rapidly",
+              "Clearing remaining forest areas for housing",
+              "Disbanding environmental protection laws"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 10 (Contd.): Select the synonym of 'preserve' as used in the passage:",
+            "options": [
+              "Protect or maintain",
+              "Destroy or ruin",
+              "Exhaust or drain",
+              "Neglect or ignore"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 11: Financial literacy is the ability to understand and effectively use various financial skills, including personal financial management, budgeting, and investing. Lacking financial literacy leads to poor spending decisions, unmanageable debt, and lack of long-term security. Educating youth about interest rates, savings, and investment risk prepares them to achieve economic independence. Incorporating financial education into school curricula is a crucial step toward building a financially responsible society.\n\nWhat is financial literacy according to the passage?",
+            "options": [
+              "Ability to understand and use personal financial skills effectively",
+              "Earning high salary without planning expenses",
+              "Borrowing loans without understanding interest rates",
+              "Spending money on non-essential luxuries daily"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 11 (Contd.): What is a direct consequence of lacking financial literacy?",
+            "options": [
+              "Poor spending decisions and unmanageable debt",
+              "Long-term financial security and freedom",
+              "High returns on emergency savings",
+              "Automatic accumulation of personal wealth"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 11 (Contd.): What financial concepts should youth be educated about?",
+            "options": [
+              "Interest rates, savings, and investment risk",
+              "How to take maximum credit card loans",
+              "Avoiding bank savings accounts completely",
+              "Methods to spend income without budgeting"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 11 (Contd.): What step is suggested to build a financially responsible society?",
+            "options": [
+              "Incorporating financial education into school curricula",
+              "Banning personal loans completely",
+              "Closing commercial banking institutions",
+              "Restricting investments to real estate only"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 11 (Contd.): What is the opposite of 'independence'?",
+            "options": [
+              "Dependence or reliance",
+              "Freedom or liberty",
+              "Autonomy",
+              "Sovereignty"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 12: Leadership is not merely about holding a title or exercising authority; it is about inspiring, guiding, and empowering others to achieve common goals. Effective leaders possess strong empathy, active listening skills, and clear integrity. They encourage innovation, foster a collaborative team environment, and take responsibility during failures. While management focuses on processes and structure, true leadership centers on people and vision.\n\nAccording to the passage, what defines true leadership?",
+            "options": [
+              "Inspiring, guiding, and empowering others toward common goals",
+              "Holding an official title and giving orders",
+              "Focusing exclusively on corporate rules and processes",
+              "Avoiding responsibility when team failures occur"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 12 (Contd.): Which key trait is attributed to effective leaders in the text?",
+            "options": [
+              "Strong empathy and clear integrity",
+              "Autocratic control over subordinates",
+              "Disregard for team feedback and opinions",
+              "Focusing solely on personal achievements"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 12 (Contd.): How does leadership differ from management according to the text?",
+            "options": [
+              "Leadership centers on people and vision, management on processes",
+              "Leadership deals with budgets, management with inspiration",
+              "Management is emotional, leadership is strictly structural",
+              "There is no difference between leadership and management"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 12 (Contd.): What do effective leaders do when failures happen?",
+            "options": [
+              "They take responsibility for the outcome",
+              "They blame team members immediately",
+              "They ignore the issue and move forward",
+              "They resign from their position right away"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 12 (Contd.): Choose the word that best defines 'integrity':",
+            "options": [
+              "Honesty and moral uprightness",
+              "Deceit and trickery",
+              "Power and dominance",
+              "Flexibility without principles"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 13: Mental health awareness has gained significant traction globally in recent years. Historically stigmatized, psychological well-being is now recognized as equally vital as physical health. Stress, anxiety, and depression can severely impair an individual's quality of life and workplace productivity if left unaddressed. Establishing accessible mental healthcare, promoting open conversations, and practicing stress reduction techniques are vital to creating a supportive social environment.\n\nHow has the global perception of mental health changed recently?",
+            "options": [
+              "It is now recognized as equally vital as physical health",
+              "It is completely ignored in modern healthcare",
+              "It is treated as less important than physical illness",
+              "It is considered an unmanageable medical condition"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 13 (Contd.): What impact can unaddressed mental health issues have?",
+            "options": [
+              "Impair quality of life and workplace productivity",
+              "Improve physical health and stamina",
+              "Enhance interpersonal relationships",
+              "Increase economic output automatically"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 13 (Contd.): What is required to build a supportive social environment for mental well-being?",
+            "options": [
+              "Promoting open conversations and accessible care",
+              "Stigmatizing people seeking therapy",
+              "Ignoring mental stress symptoms in schools",
+              "Restricting mental health treatments to hospitals"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 13 (Contd.): Which conditions are specifically mentioned as damaging if left unaddressed?",
+            "options": [
+              "Stress, anxiety, and depression",
+              "Physical injury and fractures",
+              "Nutritional deficiency and viral fever",
+              "Lack of physical agility and stamina"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 13 (Contd.): Find the antonym of 'stigmatized':",
+            "options": [
+              "Accepted or honored",
+              "Disgraced or shamed",
+              "Blamed",
+              "Condemned"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 14: Cultural heritage encompasses traditions, monuments, languages, and artistic expressions passed down through generations. Preserving cultural heritage fosters a sense of identity, social cohesion, and historical continuity among communities. In a rapidly globalizing world, indigenous languages and traditional art forms face the risk of extinction. Active preservation efforts, including museum documentation, cultural festivals, and educational integration, are necessary to safeguard this intangible wealth for future generations.\n\nWhat does cultural heritage include according to the text?",
+            "options": [
+              "Traditions, monuments, languages, and artistic expressions",
+              "Modern technological tools and gadgets only",
+              "Global trade agreements and treaties",
+              "Industrial infrastructure and urban roads"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 14 (Contd.): Why is preserving cultural heritage important for communities?",
+            "options": [
+              "It fosters identity, social cohesion, and historical continuity",
+              "It accelerates urbanization and industrialization",
+              "It replaces national legal systems",
+              "It stops globalization from occurring"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 14 (Contd.): What risk do indigenous languages face in a globalizing world?",
+            "options": [
+              "Risk of extinction",
+              "Risk of becoming global languages",
+              "Risk of over-documentation in libraries",
+              "Risk of replacing modern communication tools"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 14 (Contd.): Which measure is suggested to safeguard cultural heritage?",
+            "options": [
+              "Museum documentation and cultural festivals",
+              "Demolishing old historic monuments",
+              "Banning the speaking of local languages",
+              "Ignoring traditional art forms in schools"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 14 (Contd.): What is the meaning of 'cohesion' as used in the passage?",
+            "options": [
+              "Unity and bonding",
+              "Separation and division",
+              "Conflict and argument",
+              "Weakness and decay"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 15: Agriculture remains the backbone of developing economies, employing a substantial portion of the workforce and ensuring food security. However, smallholder farmers face severe challenges, including climate unpredictability, soil erosion, and lack of access to modern agricultural technology and capital. Implementing sustainable farming practices, such as crop rotation, organic fertilization, and micro-irrigation, can enhance yield while protecting soil health. Government support through subsidies, credit facilities, and crop insurance is vital to make small-scale farming viable.\n\nWhy is agriculture considered the backbone of developing economies?",
+            "options": [
+              "It employs a large workforce and ensures food security",
+              "It relies completely on heavy urban industrial machinery",
+              "It eliminates the need for water resources",
+              "It generates no economic value for rural areas"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 15 (Contd.): What major challenge do smallholder farmers confront?",
+            "options": [
+              "Climate unpredictability and lack of modern technology",
+              "Excessive capital and financial resources",
+              "Overabundance of fertile agricultural land",
+              "Government bans on food production"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 15 (Contd.): Which sustainable farming practice is mentioned in the text?",
+            "options": [
+              "Crop rotation and organic fertilization",
+              "Overuse of harmful chemical pesticides",
+              "Continuous single-crop cultivation",
+              "Unrestricted deforestation for farming"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 15 (Contd.): How can governments assist small-scale farmers?",
+            "options": [
+              "Through subsidies, credit facilities, and crop insurance",
+              "By imposing heavy taxes on farming equipment",
+              "By stopping credit availability to rural regions",
+              "By removing crop insurance mechanisms"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 15 (Contd.): What is the synonym of 'viable' in the passage?",
+            "options": [
+              "Feasible or sustainable",
+              "Impossible or unworkable",
+              "Useless or worthless",
+              "Temporary or brief"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 16: Urbanization has accelerated globally, leading to rapid growth of megacities. While urban areas serve as engines of economic growth and innovation, unplanned expansion creates severe infrastructure deficits. Slums, traffic congestion, inadequate waste management, and air pollution are frequent consequences of uncontrolled urban development. Sustainable urban planning requires investing in public mass transit, green spaces, affordable housing, and eco-friendly waste management systems to improve liveability.\n\nWhat is a positive aspect of urban areas mentioned in the passage?",
+            "options": [
+              "They serve as engines of economic growth and innovation",
+              "They eliminate traffic congestion completely",
+              "They reduce the demand for housing and infrastructure",
+              "They prevent atmospheric pollution in cities"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 16 (Contd.): What negative consequence arises from unplanned urban expansion?",
+            "options": [
+              "Traffic congestion and inadequate waste management",
+              "Abundance of public mass transit options",
+              "Surplus of affordable housing units",
+              "Expansion of pristine natural forests"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 16 (Contd.): What investment is crucial for sustainable urban planning?",
+            "options": [
+              "Public mass transit, green spaces, and affordable housing",
+              "Expanding private vehicle usage on roads",
+              "Converting green parks into commercial concrete complexes",
+              "Reducing expenditure on waste processing facilities"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 16 (Contd.): What is the main aim of sustainable urban planning?",
+            "options": [
+              "To improve liveability in expanding cities",
+              "To stop all rural-to-urban migration",
+              "To increase environmental pollution levels",
+              "To reduce public infrastructure funding"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 16 (Contd.): Choose the word opposite in meaning to 'deficits':",
+            "options": [
+              "Surpluses or abundance",
+              "Shortages or lacunae",
+              "Losses",
+              "Deficiencies"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 17: Scientific temperament is an attitude of mind that involves rational thinking, empirical observation, and questioning established dogmas. It encourages people to seek evidence before drawing conclusions and to remain open to revising opinions when presented with new facts. Promoting a scientific temper in society combats superstition, fatalism, and unscientific practices. Fostering curiosity and critical thinking in education systems is vital for nurturing this rational mindset.\n\nWhat does possessing a scientific temperament involve?",
+            "options": [
+              "Rational thinking, empirical observation, and questioning dogmas",
+              "Blindly accepting traditional beliefs without evidence",
+              "Rejecting all scientific discoveries and theories",
+              "Relying on fatalism to explain natural phenomena"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 17 (Contd.): What does a person with scientific temper do when new facts emerge?",
+            "options": [
+              "Remains open to revising existing opinions",
+              "Rejects new facts to protect old beliefs",
+              "Ignores empirical evidence completely",
+              "Stops conducting further observations"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 17 (Contd.): Promoting scientific temper helps combat which societal issue?",
+            "options": [
+              "Superstition and fatalism",
+              "Critical thinking and curiosity",
+              "Logical reasoning and education",
+              "Empirical research and progress"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 17 (Contd.): How can educational systems foster a scientific mindset?",
+            "options": [
+              "By nurturing curiosity and critical thinking",
+              "By forcing rote memorization of facts",
+              "By discouraging questions during lectures",
+              "By avoiding practical laboratory experiments"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 17 (Contd.): Give the synonym for 'empirical':",
+            "options": [
+              "Observational or experimental",
+              "Theoretical or unproven",
+              "Imaginary or fictional",
+              "Speculative"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 18: Gender equality is not only a fundamental human right but also a necessary foundation for a peaceful, prosperous, and sustainable world. Providing women and girls with equal access to education, healthcare, decent work, and representation in economic and political decision-making processes fuels sustainable economies. Despite progress, gender-based discrimination, wage gaps, and violence against women persist worldwide. Overcoming these barriers requires strong legal frameworks, policy enforcement, and socio-cultural shifts.\n\nWhy is gender equality essential according to the passage?",
+            "options": [
+              "It is a fundamental human right and foundation for prosperity",
+              "It limits economic growth in developing countries",
+              "It restricts political participation to specific groups",
+              "It focuses exclusively on workplace wage adjustments"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 18 (Contd.): What fuels sustainable economies according to the text?",
+            "options": [
+              "Equal access to education, healthcare, and decision-making for women",
+              "Restricting employment opportunities for female workers",
+              "Increasing gender-based wage disparities",
+              "Ignoring female representation in political bodies"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 18 (Contd.): Which persistent challenge is highlighted in the text?",
+            "options": [
+              "Gender-based discrimination and wage gaps",
+              "Complete absence of legal frameworks",
+              "Overrepresentation of women in governance",
+              "Universal elimination of gender violence"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 18 (Contd.): What measures are needed to overcome barriers to gender equality?",
+            "options": [
+              "Legal frameworks, policy enforcement, and socio-cultural shifts",
+              "Reducing women's access to higher education",
+              "Abolishing non-discrimination labor laws",
+              "Discouraging open discussions on equal rights"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 18 (Contd.): What is the meaning of 'persist' in the passage?",
+            "options": [
+              "Continue or endure",
+              "Disappear or vanish",
+              "Cease or stop",
+              "Decrease"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 19: Artificial Intelligence (AI) is transforming industries ranging from healthcare and finance to transportation and education. Machine learning algorithms analyze vast amounts of data to identify patterns, make predictions, and automate complex tasks with high accuracy. While AI offers immense potential for economic growth and scientific discovery, it raises ethical concerns regarding job displacement, algorithmic bias, and data privacy. Developing robust regulatory frameworks is essential to ensure AI benefits humanity safely and equitably.\n\nHow do machine learning algorithms process information?",
+            "options": [
+              "By analyzing vast data to identify patterns and make predictions",
+              "By relying solely on human manual data entry",
+              "By ignoring statistical patterns in datasets",
+              "By making random guesses without analytical data"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 19 (Contd.): Which field is mentioned as being transformed by AI?",
+            "options": [
+              "Healthcare, finance, and transportation",
+              "Handicrafts and manual labor only",
+              "Traditional ancient archaeology exclusively",
+              "Primitive agricultural storage methods"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 19 (Contd.): What ethical concern is associated with the advancement of AI?",
+            "options": [
+              "Job displacement and algorithmic bias",
+              "Decreased economic growth and productivity",
+              "Complete elimination of data collection",
+              "Lack of interest from technology developers"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 19 (Contd.): What is required to ensure AI benefits humanity safely?",
+            "options": [
+              "Developing robust regulatory frameworks",
+              "Banning all computer algorithms completely",
+              "Removing privacy protection rules",
+              "Allowing unmonitored deployment of AI tools"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 19 (Contd.): Choose the word that means 'equitably':",
+            "options": [
+              "Fairly and justly",
+              "Unfairly or partially",
+              "Strictly or harshly",
+              "Equally without quality consideration"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+
+          {
+            "q": "Passage 20: Microplastics—tiny plastic particles less than five millimeters in length—have become a ubiquitous contaminant in marine and terrestrial environments. Originating from fragmented plastic waste, synthetic textiles, and industrial processes, these particles accumulate in food chains, posing toxic risks to marine organisms and human health. Standard water filtration systems often fail to capture microplastics due to their minuscule size. Addressing this crisis requires reducing single-use plastics, upgrading wastewater treatment infrastructure, and developing biodegradable alternative materials.\n\nWhat are microplastics defined as?",
+            "options": [
+              "Plastic particles less than five millimeters in length",
+              "Large plastic bags floating on ocean surfaces",
+              "Biodegradable natural fiber fragments",
+              "Chemical solvents used in water treatment"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 20 (Contd.): Why do standard water filtration systems struggle to remove microplastics?",
+            "options": [
+              "Due to their minuscule size",
+              "Because microplastics dissolve in water instantly",
+              "Because filtration plants refuse to filter them",
+              "Due to their heavy weight and density"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 20 (Contd.): What danger do microplastics present when they accumulate in food chains?",
+            "options": [
+              "Toxic risks to marine organisms and human health",
+              "Increased nutrient richness in sea water",
+              "Enhancement of aquatic biodiversity",
+              "Purification of natural water bodies"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 20 (Contd.): Which solution is proposed to tackle microplastic pollution?",
+            "options": [
+              "Developing biodegradable alternative materials",
+              "Increasing the production of synthetic textiles",
+              "Dumping plastic waste exclusively in terrestrial landfills",
+              "Stopping all wastewater treatment operations"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Passage 20 (Contd.): What does 'ubiquitous' mean in the passage context?",
+            "options": [
+              "Present everywhere",
+              "Rare and scarce",
+              "Invisible to naked eye",
+              "Harmful and poisonous"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

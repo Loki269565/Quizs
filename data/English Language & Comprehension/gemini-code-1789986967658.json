@@ -1,0 +1,1214 @@
+[
+  {
+    "id": "dsssb_voice_100",
+    "title": "DSSSB English Language & Comprehension - Active and Passive Voice Practice Test",
+    "sections": [
+      {
+        "name": "Active and Passive Voice (100 MCQs)",
+        "durationMinutes": 60,
+        "questions": [
+          {
+            "q": "Change the voice: 'She sings a song.'",
+            "options": [
+              "A song is sung by her.",
+              "A song was sung by her.",
+              "A song is being sung by her.",
+              "A song has been sung by her."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'The boy killed the spider.'",
+            "options": [
+              "The spider is killed by the boy.",
+              "The spider was killed by the boy.",
+              "The spider had been killed by the boy.",
+              "The spider has killed the boy."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'They are playing cricket.'",
+            "options": [
+              "Cricket was played by them.",
+              "Cricket is played by them.",
+              "Cricket is being played by them.",
+              "Cricket has been played by them."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'He has written a letter.'",
+            "options": [
+              "A letter was written by him.",
+              "A letter has been written by him.",
+              "A letter had been written by him.",
+              "A letter is written by him."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Open the door.'",
+            "options": [
+              "Let the door opened.",
+              "Let the door be opened.",
+              "The door should open.",
+              "You are requested to open door."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Who wrote this book?'",
+            "options": [
+              "By whom was this book written?",
+              "By whom is this book written?",
+              "Who had written this book?",
+              "By whom has this book been written?"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'The teacher will punish the student.'",
+            "options": [
+              "The student will punished by the teacher.",
+              "The student will be punished by the teacher.",
+              "The student would be punished by the teacher.",
+              "The student is punished by the teacher."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'He was driving a car.'",
+            "options": [
+              "A car is driven by him.",
+              "A car was driven by him.",
+              "A car was being driven by him.",
+              "A car had been driven by him."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'The chef had cooked the meal.'",
+            "options": [
+              "The meal has been cooked by the chef.",
+              "The meal had been cooked by the chef.",
+              "The meal was cooked by the chef.",
+              "The meal is cooked by the chef."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Please help me.'",
+            "options": [
+              "You are ordered to help me.",
+              "You are advised to help me.",
+              "You are requested to help me.",
+              "Let me be helped."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'They will have finished the assignment by Monday.'",
+            "options": [
+              "The assignment will finish by Monday.",
+              "The assignment will be finished by Monday.",
+              "The assignment will have been finished by them by Monday.",
+              "The assignment would have been finished by Monday."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Do not disturb the class.'",
+            "options": [
+              "Let the class not disturbed.",
+              "Let the class not be disturbed.",
+              "The class should not disturb.",
+              "You are asked to not disturb."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Someone has stolen my watch.'",
+            "options": [
+              "My watch was stolen.",
+              "My watch has stolen.",
+              "My watch has been stolen.",
+              "My watch had been stolen."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'People speak English all over the world.'",
+            "options": [
+              "English is spoken all over the world.",
+              "English was spoken all over the world.",
+              "English has been spoken all over the world.",
+              "English is being spoken all over the world."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'She gave me a gift.'",
+            "options": [
+              "I was given a gift by her.",
+              "A gift was given to me by her.",
+              "I am given a gift by her.",
+              "Both A and B"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Why did you beat him?'",
+            "options": [
+              "Why was he beaten by you?",
+              "Why is he beaten by you?",
+              "Why had he been beaten by you?",
+              "Why was him beaten by you?"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Respect your elders.'",
+            "options": [
+              "Your elders should be respected.",
+              "Let your elders respect.",
+              "Your elders are respected.",
+              "You are ordered to respect elders."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'The gardener is watering the plants.'",
+            "options": [
+              "The plants are watered by the gardener.",
+              "The plants were being watered by the gardener.",
+              "The plants are being watered by the gardener.",
+              "The plants have been watered by the gardener."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Who can solve this problem?'",
+            "options": [
+              "By whom can this problem be solved?",
+              "By whom could this problem be solved?",
+              "Who could solve this problem?",
+              "By whom this problem can be solved?"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'We must obey the traffic rules.'",
+            "options": [
+              "Traffic rules must obeyed by us.",
+              "Traffic rules must be obeyed by us.",
+              "Traffic rules should be obeyed by us.",
+              "Traffic rules ought to be obeyed by us."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'He made me laugh.'",
+            "options": [
+              "I was made to laugh by him.",
+              "I was made laugh by him.",
+              "I am made to laugh by him.",
+              "Laughing was made by him to me."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'They elected him president.'",
+            "options": [
+              "He was elected president by them.",
+              "President was elected him by them.",
+              "He is elected president by them.",
+              "He had been elected president by them."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'The news surprised us.'",
+            "options": [
+              "We were surprised by the news.",
+              "We were surprised at the news.",
+              "We are surprised at the news.",
+              "We had been surprised by the news."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'I know him.'",
+            "options": [
+              "He is known by me.",
+              "He was known to me.",
+              "He is known to me.",
+              "He has been known to me."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Her performance pleased the audience.'",
+            "options": [
+              "The audience was pleased with her performance.",
+              "The audience was pleased by her performance.",
+              "The audience is pleased with her performance.",
+              "The audience had been pleased by her performance."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'One should keep one's promises.'",
+            "options": [
+              "Promises should be kept.",
+              "One's promises should be kept.",
+              "Promises should be kept by one.",
+              "Promises are to be kept."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Quinine tastes bitter.'",
+            "options": [
+              "Quinine is bitter when it tastes.",
+              "Quinine is bitter when it is tasted.",
+              "Quinine was bitter when tasted.",
+              "Quinine is tasted bitter."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Are you writing a story?'",
+            "options": [
+              "Is a story written by you?",
+              "Is a story being written by you?",
+              "Was a story being written by you?",
+              "Has a story been written by you?"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Did you finish the work?'",
+            "options": [
+              "Was the work finished by you?",
+              "Is the work finished by you?",
+              "Had the work been finished by you?",
+              "Did the work finished by you?"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Never tell a lie.'",
+            "options": [
+              "Let a lie never be told.",
+              "A lie should never be told.",
+              "You are advised never to tell a lie.",
+              "All of the above"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'The painter was painting the wall.'",
+            "options": [
+              "The wall is being painted by the painter.",
+              "The wall was painted by the painter.",
+              "The wall was being painted by the painter.",
+              "The wall had been painted by the painter."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'They have built a new bridge.'",
+            "options": [
+              "A new bridge was built by them.",
+              "A new bridge is built by them.",
+              "A new bridge has been built by them.",
+              "A new bridge had been built by them."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'He will show you the way.'",
+            "options": [
+              "You will be shown the way by him.",
+              "The way will be shown to you by him.",
+              "You would be shown the way by him.",
+              "Both A and B"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Smell this flower.'",
+            "options": [
+              "Let this flower be smelled.",
+              "You are requested to smell this flower.",
+              "This flower should be smelled.",
+              "Let this flower smelled."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Who has broken the mirror?'",
+            "options": [
+              "By whom was the mirror broken?",
+              "By whom has the mirror been broken?",
+              "By whom had the mirror been broken?",
+              "Who had broken the mirror?"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'The police arrested the thief.'",
+            "options": [
+              "The thief was arrested by the police.",
+              "The thief was arrested.",
+              "The thief had been arrested.",
+              "Both A and B are correct"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'They are building a house.'",
+            "options": [
+              "A house is built by them.",
+              "A house is being built by them.",
+              "A house was being built by them.",
+              "A house has been built by them."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'I had already posted the letter.'",
+            "options": [
+              "The letter was already posted by me.",
+              "The letter had already been posted by me.",
+              "The letter has already been posted by me.",
+              "The letter is already posted by me."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'You ought to help the poor.'",
+            "options": [
+              "The poor ought to be helped by you.",
+              "The poor should be helped by you.",
+              "The poor are helped by you.",
+              "The poor ought to helped by you."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Why are you wasting your time?'",
+            "options": [
+              "Why is your time wasted by you?",
+              "Why is your time being wasted by you?",
+              "Why was your time being wasted by you?",
+              "Why has your time been wasted by you?"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Prepare yourself for the worst.'",
+            "options": [
+              "You should prepare for the worst.",
+              "Be prepared for the worst.",
+              "For the worst prepare yourself.",
+              "Let yourself prepared for the worst."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'The dog bit the stranger.'",
+            "options": [
+              "The stranger was bitten by the dog.",
+              "The stranger is bitten by the dog.",
+              "The stranger was bit by the dog.",
+              "The stranger had been bitten by the dog."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'She handles the situation carefully.'",
+            "options": [
+              "The situation was handled carefully by her.",
+              "The situation is handled carefully by her.",
+              "The situation is being handled carefully by her.",
+              "The situation has been handled carefully by her."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Can you solve this riddle?'",
+            "options": [
+              "Can this riddle solved by you?",
+              "Could this riddle be solved by you?",
+              "Can this riddle be solved by you?",
+              "Is this riddle solved by you?"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'They were discussing the plan.'",
+            "options": [
+              "The plan was discussed by them.",
+              "The plan was being discussed by them.",
+              "The plan is being discussed by them.",
+              "The plan had been discussed by them."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Has anyone seen my keys?'",
+            "options": [
+              "Have my keys been seen by anyone?",
+              "Has my keys been seen by anyone?",
+              "Were my keys seen by anyone?",
+              "Are my keys seen by anyone?"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'The manager rejected the proposal.'",
+            "options": [
+              "The proposal is rejected by the manager.",
+              "The proposal was rejected by the manager.",
+              "The proposal had been rejected by the manager.",
+              "The proposal was being rejected by the manager."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'We must keep our surroundings clean.'",
+            "options": [
+              "Our surroundings must kept clean by us.",
+              "Our surroundings must be kept clean.",
+              "Our surroundings should be kept clean.",
+              "Our surroundings are kept clean by us."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'They are painting the fence.'",
+            "options": [
+              "The fence was painted by them.",
+              "The fence is being painted by them.",
+              "The fence is painted by them.",
+              "The fence has been painted by them."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Shut the window.'",
+            "options": [
+              "Let the window shut.",
+              "Let the window be shut.",
+              "The window should shut.",
+              "You are requested to shut window."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice into Active: 'The song was sung by Rita.'",
+            "options": [
+              "Rita sings the song.",
+              "Rita sang the song.",
+              "Rita had sung the song.",
+              "Rita is singing the song."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice into Active: 'A gift has been given to me by him.'",
+            "options": [
+              "He gives me a gift.",
+              "He gave me a gift.",
+              "He has given me a gift.",
+              "He had given me a gift."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice into Active: 'The match is being watched by the children.'",
+            "options": [
+              "The children watched the match.",
+              "The children are watching the match.",
+              "The children have watched the match.",
+              "The children watch the match."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice into Active: 'The patient had been examined by the doctor.'",
+            "options": [
+              "The doctor examined the patient.",
+              "The doctor has examined the patient.",
+              "The doctor had examined the patient.",
+              "The doctor was examining the patient."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice into Active: 'Let the work be finished now.'",
+            "options": [
+              "Finish the work now.",
+              "You should finish the work now.",
+              "Let us finish the work now.",
+              "The work must finish now."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Smoke filled the room.'",
+            "options": [
+              "The room was filled by smoke.",
+              "The room was filled with smoke.",
+              "The room is filled with smoke.",
+              "The room had been filled with smoke."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'His behavior shocked everyone.'",
+            "options": [
+              "Everyone was shocked by his behavior.",
+              "Everyone was shocked at his behavior.",
+              "Everyone is shocked at his behavior.",
+              "Everyone had been shocked by his behavior."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'The water fills the bucket.'",
+            "options": [
+              "The bucket is filled with water.",
+              "The bucket is filled by water.",
+              "The bucket was filled with water.",
+              "The bucket has been filled with water."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Who teaches you mathematics?'",
+            "options": [
+              "By whom are you taught mathematics?",
+              "By whom were you taught mathematics?",
+              "By whom mathematics is taught to you?",
+              "Who is teaching you mathematics?"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Where did you find this ring?'",
+            "options": [
+              "Where was this ring found by you?",
+              "Where is this ring found by you?",
+              "Where had this ring been found by you?",
+              "Where this ring was found by you?"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'He will have completed the task before sunset.'",
+            "options": [
+              "The task will completed by him before sunset.",
+              "The task will have been completed by him before sunset.",
+              "The task would have been completed by him before sunset.",
+              "The task had been completed by him before sunset."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Do not touch this wire.'",
+            "options": [
+              "Let this wire not be touched.",
+              "You are warned not to touch this wire.",
+              "This wire should not be touched.",
+              "All of the above"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'The mechanic repaired the car.'",
+            "options": [
+              "The car is repaired by the mechanic.",
+              "The car was repaired by the mechanic.",
+              "The car had been repaired by the mechanic.",
+              "The car was being repaired by the mechanic."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'She is writing a novel.'",
+            "options": [
+              "A novel was being written by her.",
+              "A novel is written by her.",
+              "A novel is being written by her.",
+              "A novel has been written by her."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'They had won the match.'",
+            "options": [
+              "The match has been won by them.",
+              "The match had been won by them.",
+              "The match was won by them.",
+              "The match had won by them."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Which book do you want?'",
+            "options": [
+              "Which book is wanted by you?",
+              "Which book was wanted by you?",
+              "Which book has been wanted by you?",
+              "Which book is being wanted by you?"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Someone must have stolen the bicycle.'",
+            "options": [
+              "The bicycle must have stolen.",
+              "The bicycle must have been stolen.",
+              "The bicycle should have been stolen.",
+              "The bicycle had been stolen."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'He handed her a cheque.'",
+            "options": [
+              "She was handed a cheque by him.",
+              "A cheque was handed to her by him.",
+              "She is handed a cheque by him.",
+              "Both A and B"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'People believe that he is honest.'",
+            "options": [
+              "He is believed to be honest.",
+              "It is believed that he is honest.",
+              "He was believed to be honest.",
+              "Both A and B"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'They say that virtue is its own reward.'",
+            "options": [
+              "Virtue is said to be its own reward.",
+              "It is said that virtue is its own reward.",
+              "Virtue was said to be its own reward.",
+              "Both A and B"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'The teacher made him stand up.'",
+            "options": [
+              "He was made to stand up by the teacher.",
+              "He was made stand up by the teacher.",
+              "He is made to stand up by the teacher.",
+              "Standing up was made by him."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'I saw him leaving the house.'",
+            "options": [
+              "He was seen leaving the house by me.",
+              "He was seen to leave the house by me.",
+              "He had been seen leaving the house by me.",
+              "He is seen leaving the house by me."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'They laugh at the poor beggar.'",
+            "options": [
+              "The poor beggar is laughed at by them.",
+              "The poor beggar was laughed at by them.",
+              "The poor beggar is laughed by them.",
+              "The poor beggar has been laughed at by them."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'The police looked into the matter.'",
+            "options": [
+              "The matter was looked by the police.",
+              "The matter was looked into by the police.",
+              "The matter has been looked into by the police.",
+              "The matter is looked into by the police."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'He brought up the orphan.'",
+            "options": [
+              "The orphan was brought by him.",
+              "The orphan was brought up by him.",
+              "The orphan had been brought up by him.",
+              "The orphan is brought up by him."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Listen to your parents.'",
+            "options": [
+              "Your parents should be listened to.",
+              "Let your parents be listened to.",
+              "You are advised to listen to your parents.",
+              "All of the above"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Who broke this glass?'",
+            "options": [
+              "By whom was this glass broken?",
+              "By whom is this glass broken?",
+              "By whom had this glass been broken?",
+              "Who had this glass broken?"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'They will inform you tomorrow.'",
+            "options": [
+              "You will be informed by them tomorrow.",
+              "You would be informed by them tomorrow.",
+              "You are informed by them tomorrow.",
+              "You will informed by them tomorrow."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'She has kept the books on the table.'",
+            "options": [
+              "The books were kept on the table by her.",
+              "The books have been kept on the table by her.",
+              "The books had been kept on the table by her.",
+              "The books are kept on the table by her."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Do you know her?'",
+            "options": [
+              "Is she known to you?",
+              "Is she known by you?",
+              "Was she known to you?",
+              "Has she been known to you?"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'The fire destroyed the entire village.'",
+            "options": [
+              "The entire village is destroyed by the fire.",
+              "The entire village was destroyed by the fire.",
+              "The entire village had been destroyed by the fire.",
+              "The entire village was being destroyed by the fire."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'You should avoid bad company.'",
+            "options": [
+              "Bad company should be avoided by you.",
+              "Bad company ought to be avoided by you.",
+              "Bad company must be avoided by you.",
+              "Bad company is avoided by you."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'They are expecting good news.'",
+            "options": [
+              "Good news was expected by them.",
+              "Good news is expected by them.",
+              "Good news is being expected by them.",
+              "Good news has been expected by them."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'He had not done his duty.'",
+            "options": [
+              "His duty has not been done by him.",
+              "His duty had not been done by him.",
+              "His duty was not done by him.",
+              "His duty is not done by him."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Where are they playing the match?'",
+            "options": [
+              "Where is the match played by them?",
+              "Where is the match being played by them?",
+              "Where was the match being played by them?",
+              "Where has the match been played by them?"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice into Active: 'The thief was caught by the police.'",
+            "options": [
+              "The police catches the thief.",
+              "The police caught the thief.",
+              "The police had caught the thief.",
+              "The police has caught the thief."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice into Active: 'English is spoken by millions of people.'",
+            "options": [
+              "Millions of people spoke English.",
+              "Millions of people speak English.",
+              "Millions of people are speaking English.",
+              "Millions of people have spoken English."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice into Active: 'The bridge was being repaired by the workers.'",
+            "options": [
+              "The workers repaired the bridge.",
+              "The workers were repairing the bridge.",
+              "The workers are repairing the bridge.",
+              "The workers had been repairing the bridge."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'I remember my sister taking me to the museum.'",
+            "options": [
+              "I remember being taken to the museum by my sister.",
+              "I remember taken to the museum by my sister.",
+              "I remember my sister was taking me to the museum.",
+              "I remembered being taken to the museum by my sister."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'It is time to take tea.'",
+            "options": [
+              "It is time tea to be taken.",
+              "It is time for tea to be taken.",
+              "It is time for taking tea.",
+              "Tea should be taken on time."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'It is time to close the shop.'",
+            "options": [
+              "It is time for the shop to be closed.",
+              "It is time the shop to be closed.",
+              "It was time for the shop to close.",
+              "The shop should be closed now."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'The news contains useful information.'",
+            "options": [
+              "Useful information is contained by the news.",
+              "Useful information is contained in the news.",
+              "Useful information was contained in the news.",
+              "Useful information has been contained in the news."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'His story interested me.'",
+            "options": [
+              "I was interested by his story.",
+              "I was interested in his story.",
+              "I am interested in his story.",
+              "I had been interested in his story."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Help the needy.'",
+            "options": [
+              "The needy should be helped.",
+              "Let the needy be helped.",
+              "You are requested to help the needy.",
+              "Both A and B"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'They saw him climb over the wall.'",
+            "options": [
+              "He was seen climbing over the wall by them.",
+              "He was seen to climb over the wall by them.",
+              "He had been seen climbing over the wall by them.",
+              "He is seen to climb over the wall."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Did the noise frighten you?'",
+            "options": [
+              "Were you frightened by the noise?",
+              "Are you frightened by the noise?",
+              "Had you been frightened by the noise?",
+              "Did you get frightened by the noise?"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'She has painted the door red.'",
+            "options": [
+              "The door was painted red by her.",
+              "The door has been painted red by her.",
+              "The door had been painted red by her.",
+              "Red color was painted on the door by her."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'We shall discuss the matter tomorrow.'",
+            "options": [
+              "The matter will be discussed by us tomorrow.",
+              "The matter shall be discussed by us tomorrow.",
+              "The matter would be discussed by us tomorrow.",
+              "Both A and B"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'They made him captain of the team.'",
+            "options": [
+              "He was made captain of the team by them.",
+              "Captain of the team was made him by them.",
+              "He is made captain of the team by them.",
+              "He had been made captain by them."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Change the voice: 'Who wrote this essay?'",
+            "options": [
+              "By whom was this essay written?",
+              "By whom is this essay written?",
+              "Who had written this essay?",
+              "By whom this essay was written?"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

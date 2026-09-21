@@ -1,0 +1,1238 @@
+[
+  {
+    "id": "dsssb_eng_articles1",
+    "title": "DSSSB English Language & Comprehension - Articles Mock Test 1",
+    "sections": [
+      {
+        "name": "Use of A and An",
+        "durationMinutes": 12,
+        "questions": [
+          {
+            "q": "Fill in the blank with the correct article:\nHe is ____ honest man.",
+            "options": [
+              "an",
+              "a",
+              "the",
+              "No article"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nShe bought ____ umbrella yesterday.",
+            "options": [
+              "a",
+              "an",
+              "the",
+              "No article"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nMy brother is ____ university student.",
+            "options": [
+              "a",
+              "No article",
+              "the",
+              "an"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nIt took me ____ hour to reach there.",
+            "options": [
+              "the",
+              "No article",
+              "an",
+              "a"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nRavi is ____ M.A. in English.",
+            "options": [
+              "a",
+              "No article",
+              "an",
+              "the"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nShe wears ____ uniform to school.",
+            "options": [
+              "No article",
+              "an",
+              "the",
+              "a"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nHe is ____ European.",
+            "options": [
+              "an",
+              "a",
+              "the",
+              "No article"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nI saw ____ one-eyed man near the gate.",
+            "options": [
+              "an",
+              "No article",
+              "the",
+              "a"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nThis is ____ unusual case.",
+            "options": [
+              "a",
+              "the",
+              "No article",
+              "an"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nHe gave me ____ orange.",
+            "options": [
+              "No article",
+              "an",
+              "the",
+              "a"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nShe is ____ heir to a large fortune.",
+            "options": [
+              "an",
+              "the",
+              "a",
+              "No article"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nMohan is ____ MLA of our area.",
+            "options": [
+              "No article",
+              "an",
+              "the",
+              "a"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nIt is ____ useful book.",
+            "options": [
+              "No article",
+              "a",
+              "an",
+              "the"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nHe has ____ unique collection of stamps.",
+            "options": [
+              "No article",
+              "the",
+              "an",
+              "a"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nCan I have ____ ice cream?",
+            "options": [
+              "a",
+              "an",
+              "the",
+              "No article"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nDo you have ____ eraser?",
+            "options": [
+              "No article",
+              "an",
+              "a",
+              "the"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nHe is ____ FBI agent.",
+            "options": [
+              "a",
+              "No article",
+              "an",
+              "the"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nThat was ____ unforgettable day for us.",
+            "options": [
+              "the",
+              "No article",
+              "a",
+              "an"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nHe works as ____ X-ray technician.",
+            "options": [
+              "No article",
+              "an",
+              "a",
+              "the"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nHe is ____ UN officer.",
+            "options": [
+              "an",
+              "No article",
+              "the",
+              "a"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Use of The",
+        "durationMinutes": 12,
+        "questions": [
+          {
+            "q": "Fill in the blank with the correct article:\n____ sun rises in the east.",
+            "options": [
+              "No article",
+              "An",
+              "The",
+              "A"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ Ganga is the holiest river of India.",
+            "options": [
+              "The",
+              "An",
+              "A",
+              "No article"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nRavi is ____ tallest boy in the class.",
+            "options": [
+              "a",
+              "an",
+              "the",
+              "No article"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ Himalayas are in the north of India.",
+            "options": [
+              "No article",
+              "The",
+              "A",
+              "An"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nThe teacher gave the prize to ____ best student.",
+            "options": [
+              "No article",
+              "the",
+              "a",
+              "an"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nIndia is ____ largest democracy in the world.",
+            "options": [
+              "a",
+              "an",
+              "the",
+              "No article"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ moon revolves around the earth.",
+            "options": [
+              "No article",
+              "The",
+              "An",
+              "A"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nPlease close ____ door; it is cold.",
+            "options": [
+              "an",
+              "a",
+              "No article",
+              "the"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nHe plays ____ guitar very well.",
+            "options": [
+              "a",
+              "an",
+              "the",
+              "No article"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nWe visited ____ Taj Mahal last year.",
+            "options": [
+              "a",
+              "the",
+              "an",
+              "No article"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ poor should be helped.",
+            "options": [
+              "The",
+              "An",
+              "No article",
+              "A"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ Bhagavad Gita is a sacred book.",
+            "options": [
+              "No article",
+              "An",
+              "A",
+              "The"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nShe sailed across ____ Pacific Ocean.",
+            "options": [
+              "an",
+              "No article",
+              "the",
+              "a"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nHe is ____ only son of his parents.",
+            "options": [
+              "a",
+              "No article",
+              "the",
+              "an"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nI read ____ Times of India every morning.",
+            "options": [
+              "an",
+              "the",
+              "No article",
+              "a"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ Earth moves round the Sun.",
+            "options": [
+              "A",
+              "An",
+              "No article",
+              "The"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nHe was ____ first to reach the spot.",
+            "options": [
+              "an",
+              "the",
+              "a",
+              "No article"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nThis is ____ same book that I lost.",
+            "options": [
+              "the",
+              "No article",
+              "a",
+              "an"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ Indian Express is a famous newspaper.",
+            "options": [
+              "A",
+              "An",
+              "No article",
+              "The"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nThey live in ____ United States.",
+            "options": [
+              "No article",
+              "the",
+              "an",
+              "a"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Omission of Articles",
+        "durationMinutes": 12,
+        "questions": [
+          {
+            "q": "Fill in the blank with the correct article:\nHe goes to ____ school every day.",
+            "options": [
+              "the",
+              "a",
+              "an",
+              "No article"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ Honesty is the best policy.",
+            "options": [
+              "No article",
+              "A",
+              "The",
+              "An"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nShe has ____ breakfast at eight.",
+            "options": [
+              "No article",
+              "the",
+              "an",
+              "a"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nWe play ____ hockey on Sundays.",
+            "options": [
+              "an",
+              "No article",
+              "the",
+              "a"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ Mount Everest is the highest peak in the world.",
+            "options": [
+              "An",
+              "No article",
+              "The",
+              "A"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nHe speaks ____ Hindi fluently.",
+            "options": [
+              "the",
+              "No article",
+              "an",
+              "a"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ Gold is a precious metal.",
+            "options": [
+              "The",
+              "No article",
+              "An",
+              "A"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nShe goes to ____ bed at ten every night.",
+            "options": [
+              "an",
+              "No article",
+              "a",
+              "the"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nWe travelled by ____ train.",
+            "options": [
+              "a",
+              "an",
+              "No article",
+              "the"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ Children love sweets.",
+            "options": [
+              "An",
+              "A",
+              "The",
+              "No article"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nHe is teaching ____ English to us.",
+            "options": [
+              "No article",
+              "the",
+              "an",
+              "a"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ Lake Chilika is in Odisha.",
+            "options": [
+              "No article",
+              "The",
+              "A",
+              "An"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ Water is essential for life.",
+            "options": [
+              "A",
+              "No article",
+              "The",
+              "An"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nGive me ____ glass of water.",
+            "options": [
+              "an",
+              "the",
+              "No article",
+              "a"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ Delhi is the capital of India.",
+            "options": [
+              "A",
+              "No article",
+              "An",
+              "The"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nHe is fond of ____ music.",
+            "options": [
+              "a",
+              "the",
+              "No article",
+              "an"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nLook at ____ sky; it is full of stars.",
+            "options": [
+              "an",
+              "a",
+              "No article",
+              "the"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ Rajasthan is famous for its forts.",
+            "options": [
+              "An",
+              "No article",
+              "A",
+              "The"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nHe is ____ engineer by profession.",
+            "options": [
+              "a",
+              "the",
+              "No article",
+              "an"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ Friendship is a great gift.",
+            "options": [
+              "The",
+              "No article",
+              "A",
+              "An"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Mixed Fill in the Blanks",
+        "durationMinutes": 12,
+        "questions": [
+          {
+            "q": "Fill in the blank with the correct article:\nOnce upon a time, there lived ____ king in a small village.",
+            "options": [
+              "the",
+              "No article",
+              "an",
+              "a"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nShe is ____ best singer in our school.",
+            "options": [
+              "an",
+              "the",
+              "a",
+              "No article"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nMy uncle lives in ____ small village near Lucknow.",
+            "options": [
+              "the",
+              "an",
+              "No article",
+              "a"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nNobody knows ____ answer to this question.",
+            "options": [
+              "the",
+              "a",
+              "No article",
+              "an"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nI have read ____ same story before.",
+            "options": [
+              "a",
+              "an",
+              "No article",
+              "the"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nShe wants to become ____ doctor.",
+            "options": [
+              "the",
+              "an",
+              "a",
+              "No article"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nHe has ____ habit of getting up early.",
+            "options": [
+              "an",
+              "No article",
+              "a",
+              "the"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nIt was ____ pleasure to meet you.",
+            "options": [
+              "No article",
+              "the",
+              "an",
+              "a"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nShe has two sons; ____ elder is a lawyer.",
+            "options": [
+              "a",
+              "No article",
+              "an",
+              "the"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nOnce he saw ____ owl sitting on a branch.",
+            "options": [
+              "No article",
+              "an",
+              "a",
+              "the"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nMother Teresa was ____ noble woman.",
+            "options": [
+              "the",
+              "an",
+              "a",
+              "No article"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nWe reached ____ airport early.",
+            "options": [
+              "an",
+              "No article",
+              "a",
+              "the"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nThe sun sets in ____ west.",
+            "options": [
+              "an",
+              "the",
+              "a",
+              "No article"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ Mahabharata is an epic.",
+            "options": [
+              "A",
+              "An",
+              "No article",
+              "The"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\n____ Nile flows through Egypt.",
+            "options": [
+              "No article",
+              "An",
+              "A",
+              "The"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nI saw ____ elephant at the zoo. ____ elephant was very big.",
+            "options": [
+              "an, The",
+              "a, The",
+              "an, An",
+              "the, The"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nRohit is ____ engineer and Sanjay is ____ artist.",
+            "options": [
+              "a, an",
+              "an, an",
+              "an, a",
+              "the, an"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nHe drank ____ cup of tea and ate ____ egg.",
+            "options": [
+              "a, a",
+              "a, the",
+              "an, a",
+              "a, an"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nWe saw ____ film last night. ____ film was excellent.",
+            "options": [
+              "a, A",
+              "the, The",
+              "a, The",
+              "an, The"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Fill in the blank with the correct article:\nHe plays ____ cricket and ____ chess.",
+            "options": [
+              "a, No article",
+              "the, No article",
+              "the, the",
+              "No article, No article"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "Choose the Correct Sentence",
+        "durationMinutes": 12,
+        "questions": [
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "The Ganga is holy river.",
+              "Ganga is a holy river.",
+              "The Ganga is a holy river.",
+              "A Ganga is holy river."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "The honesty is the best policy.",
+              "Honesty is best the policy.",
+              "Honesty is the best policy.",
+              "An honesty is best policy."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "He is one of the best players in the team.",
+              "He is one of the best player in the team.",
+              "He is one of a best players in the team.",
+              "He is one of best players in the team."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that gives a POSITIVE meaning:",
+            "options": [
+              "I have the few friends, so I am not lonely.",
+              "I have few friends, so I am not lonely.",
+              "I have a few friends, so I am not lonely.",
+              "I have little friends, so I am not lonely."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "The rich are not always happy.",
+              "Rich are not always happy.",
+              "A rich are not always happy.",
+              "The riches are not always happy."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "What a beautiful day it is!",
+              "What an beautiful day it is!",
+              "What the beautiful day it is!",
+              "What beautiful day it is!"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "Such beautiful garden it is!",
+              "Such the beautiful garden it is!",
+              "Such a beautiful garden it is!",
+              "A such beautiful garden it is!"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "Many a student has failed in this test.",
+              "A many student has failed in this test.",
+              "Many a students have failed in this test.",
+              "Many the student has failed in this test."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "He is too clever boy to be deceived.",
+              "He is too a clever boy to be deceived.",
+              "He is too clever a boy to be deceived.",
+              "He is a too clever boy to be deceived."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "Rahul is a as good player as Rohit.",
+              "Rahul is as good a player as Rohit.",
+              "Rahul is as a good player as Rohit.",
+              "Rahul is as good player as Rohit."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "An half hour is enough for this work.",
+              "Half the an hour is enough for this work.",
+              "Half hour is enough for this work.",
+              "Half an hour is enough for this work."
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "All the the students were present.",
+              "All students the were present.",
+              "The all students were present.",
+              "All the students were present."
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "A Times of India is the leading newspaper.",
+              "Times of India is a leading newspaper.",
+              "The Times of India is a leading newspaper.",
+              "The Times of India is leading a newspaper."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "He was hit on the head.",
+              "He was hit on head.",
+              "He was hit on a head.",
+              "He was hit on his the head."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "He caught me by the hand.",
+              "He caught me by hand.",
+              "He caught me by an hand.",
+              "He caught me by a hand."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "He is tallest boy in the class.",
+              "He is the taller boy in the class.",
+              "He is the tallest boy in the class.",
+              "He is a tallest boy in the class."
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "It is pity that he failed.",
+              "It is a pity that he failed.",
+              "It is an pity that he failed.",
+              "It is the pity that he failed."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "He plays chess but she plays the violin.",
+              "He plays the chess but she plays violin.",
+              "He plays chess but she plays violin.",
+              "He plays a chess but she plays the violin."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "An earth moves round the sun.",
+              "The earth moves round the sun.",
+              "A earth moves round sun.",
+              "Earth moves round a sun."
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Choose the sentence that uses articles correctly:",
+            "options": [
+              "She has an MBA degree from a university.",
+              "She has an MBA degree from an university.",
+              "She has a MBA degree from a university.",
+              "She has a MBA degree from an university."
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]
