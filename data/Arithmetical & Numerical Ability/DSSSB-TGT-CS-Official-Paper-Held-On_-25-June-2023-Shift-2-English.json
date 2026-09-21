@@ -1,0 +1,230 @@
+[
+  {
+    "id": "dsssb2",
+    "title": "DSSSB TGT CS Mock Test – Arithmetical & Numerical Ability",
+    "sections": [
+      {
+        "name": "Arithmetical & Numerical Ability",
+        "durationMinutes": 15,
+        "questions": [
+          {
+            "q": "The value of [ (7½ of 2/5 ÷ 3/8) − (3/8 × 5/4 ÷ 2/5 of 5/16) + 1/4 ] ÷ [ (2/3 of 2⅙ ÷ 1⅓ × 1/3) − 1/36 ] is:",
+            "options": [
+              "13½",
+              "11¾",
+              "9½",
+              "7¼"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A train completely passes a 200-m-long tunnel in 36 seconds and a pole in 20 seconds. How much time (in hours) will it take to cover a distance of 333 km?",
+            "options": [
+              "6.7",
+              "7.5",
+              "7.4",
+              "6.9"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Ravi and Gaurav enter into a partnership with their capitals in the ratio of 1/2 : 5/6. After 4 months, Ravi doubles his capital and Gaurav reduces his capital by 40%. What is the share of Ravi in the profit if Gaurav's share in the profit is ₹1,32,000, after 1 year?",
+            "options": [
+              "₹1,92,000",
+              "₹1,80,000",
+              "₹1,68,000",
+              "₹1,56,000"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The price of an item is increased successively by 20%, 10% and 5% and then decreased by 40%. If its final price is ₹415.80, then what was its initial price?",
+            "options": [
+              "₹480",
+              "₹520",
+              "₹500",
+              "₹550"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If x = √(23 + 6√10) − √(23 − 6√10), then the value of x lies between:",
+            "options": [
+              "5 and 5.5",
+              "4 and 4.5",
+              "3.5 and 4",
+              "4.5 and 5"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The cost of colouring a conical tomb at ₹80 per 100 m² is ₹440, and its slant height is 25 m. The volume (in m³) of material contained in it is (use π = 22/7):",
+            "options": [
+              "1001",
+              "1232",
+              "924",
+              "1078"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "By selling an article for ₹374, a shopkeeper loses 6.5%. To gain 9.5%, he must sell it for:",
+            "options": [
+              "₹448",
+              "₹440",
+              "₹432",
+              "₹438"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The marked price of an article is ₹600. It is sold for ₹342.72, after allowing three successive discounts of 16%, 20% and x% on its marked price. If a single discount of 2x% is given on its marked price, then the selling price (in ₹) of the article will be:",
+            "options": [
+              "420",
+              "390",
+              "450",
+              "492"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Study the following graph and answer the question.\nPercentage profit earned by companies A and B during 2017 to 2020 (line graph, data: Company A – 2017: 35%, 2018: 30%, 2019: 40%, 2020: 50%; Company B – 2017: 40%, 2018: 50%, 2019: 30%, 2020: 45%).\nPercentage profit = (Income − Expenditure)/Expenditure × 100; Profit = Income − Expenditure.\nIf the total income of both the companies in 2019 was ₹428.8 crores and the ratio of the expenditure of A to that of B in the same year was 2 : 3, then the expenditure (in ₹ crores) of A in that year was:",
+            "options": [
+              "136",
+              "128",
+              "124",
+              "130"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A computer is available for ₹75,300 cash or for ₹25,740 cash down payment and two equal half-yearly instalments. If the dealer charges interest at 20% p.a., compounded half-yearly, then the total interest to be paid by a customer who buys it in instalment scheme is:",
+            "options": [
+              "₹7,552",
+              "₹7,564",
+              "₹7,532",
+              "₹7,574"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Given that a + b + c = 3960. If a : (b + c) = 3 : 8 and c : (a + b) = 4 : 5, then what is the value of b?",
+            "options": [
+              "1080",
+              "1760",
+              "1440",
+              "1120"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Pipes A and B can fill a tank in 40 hours and x hours, respectively. Pipe C alone can empty the full tank in 10 hours. When all the three pipes are opened together, then 1/6th part of the full tank is emptied in 4 hours. What is the value of x?",
+            "options": [
+              "36",
+              "20",
+              "24",
+              "30"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The perimeter of a field in the shape of a rhombus is 116 m and one of its diagonals is 42 m. Its area is equal to the area of a rectangular garden whose sides are in the ratio of 30 : 7. The perimeter of the rectangular garden is:",
+            "options": [
+              "185 m",
+              "111 m",
+              "222 m",
+              "148 m"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The income of A is 32% less than the income of B, and the average income of A and B is 20% less than the income of C. If A's income increases by 25% and B's income decreases by 10%, then the income of C is what percentage less than the new total income of A and B?",
+            "options": [
+              "40%",
+              "35%",
+              "30%",
+              "32%"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Solutions A, B and C contain alcohol and water in the ratio of 3 : 7, 4 : 11 and 2 : 3, respectively. Four litres of A, five litres of B and three litres of C are mixed in a vessel. The percentage of alcohol in the resulting solution in the vessel is closest to:",
+            "options": [
+              "32%",
+              "31%",
+              "28%",
+              "30%"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A varies inversely with the product of B and C. When B = 9 and C = 5, then A = 12. When B = 15 and C = 4, then the value of A is:",
+            "options": [
+              "16",
+              "8",
+              "9",
+              "18"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The height of a solid right circular cylinder is 32 cm. Its total surface area is 370π cm². Its volume is equal to 3/5 of the volume of a sphere. The diameter of the sphere is:",
+            "options": [
+              "15 cm",
+              "10 cm",
+              "30 cm",
+              "20 cm"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The amount of a certain sum invested at 7.4% p.a. for 2½ years at simple interest is ₹1,701 less than the simple interest on the same sum for 10 years at 15% p.a. The sum (in ₹) is:",
+            "options": [
+              "5,400",
+              "5,000",
+              "5,500",
+              "5,200"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

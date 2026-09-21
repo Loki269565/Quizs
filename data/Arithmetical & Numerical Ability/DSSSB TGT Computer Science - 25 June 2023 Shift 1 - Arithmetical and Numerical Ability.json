@@ -1,0 +1,254 @@
+[
+  {
+    "id": "dsssb-tgt-cs-25-jun-2023-shift1",
+    "title": " Test-1: DSSSB TGT Computer Science - 25 June 2023 Shift 1 - Arithmetical and Numerical Ability",
+    "sections": [
+      {
+        "name": "Arithmetical and Numerical Ability",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "The ratio of spirit and water in solution A is 3 : 4, and the ratio of spirit and water in solution B is 5 : 9. Later, 5 L of A is mixed with 6 L of B. In 462 mL of the resulting solution, how much water (in mL) should be added so that the ratio of spirit and water in it becomes 1 : 2?",
+            "options": [
+              "87",
+              "182",
+              "78",
+              "178"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When 3336, 4188 and 5679 are divided by a 2-digit number p, the remainder in each case is q. What is the value of (p − q)?",
+            "options": [
+              "13",
+              "3",
+              "1",
+              "11"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A is 60% more than B. C is 55% more than the difference between A and B. If A is decreased by 40% and C is increased by 33 1/3%, then C is what percentage more than A (correct to one decimal place)?",
+            "options": [
+              "22.6%",
+              "29.2%",
+              "28.5%",
+              "25.4%"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Study the graph of percent profit for companies A and B from 2018 to 2021. Percent profit = (Income − Expenditure)/Expenditure × 100; Profit = Income − Expenditure. In 2018, if the expenditure of company B is ₹300 crores and the income of company A is ₹390 crores, then by what percentage was the profit of company B more than that of A in that year?",
+            "options": [
+              "40%",
+              "55%",
+              "50%",
+              "42%"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The volume of a right circular cylinder of height 32 cm and base diameter 36 cm is equal to the volume of a right circular cone of height 24 cm. What is the curved surface area (in cm²) of the cone?",
+            "options": [
+              "432√13 π",
+              "288√13 π",
+              "240√15 π",
+              "360√15 π"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The value of (5 1/9 − 7 7/8 ÷ 9 9/20) ÷ 1.2̄ − (5 1/4 ÷ 3/7 of 1/4 × 2/7) × 3/14 + 3/4 is:",
+            "options": [
+              "2 1/2",
+              "1 1/4",
+              "2 1/3",
+              "1 1/3"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "P varies directly as Q and inversely as R. When Q = 2.7 and R = 1.6, then P = 4.5. What is the value of R when P = 6 and Q = 15?",
+            "options": [
+              "5",
+              "20/3",
+              "10",
+              "5/2"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When Savita sells 46 articles for ₹2,070, she suffers a loss of 10%. To earn a profit of 20%, she should sell 46 articles for:",
+            "options": [
+              "₹2,852",
+              "₹2,668",
+              "₹2,760",
+              "₹2,990"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An article is sold for ₹1,683 after giving three successive discounts of x%, 10% and 12% on its marked price of ₹2,500. If a single discount of 3x% is given on the same marked price, then the selling price (in ₹) of the article will be:",
+            "options": [
+              "1,450",
+              "1,300",
+              "1,375",
+              "1,150"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the area (in cm²) of a circle that circumscribes a triangle with sides 28 cm, 45 cm and 53 cm?",
+            "options": [
+              "702.25 π",
+              "729 π",
+              "784 π",
+              "506.25 π"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Study the table on production and export of cement by companies A and B from 2017 to 2020 (in million tonnes). The total export of cement by both companies in 2017 and 2019 is what percentage less than the total production of cement by the two companies in 2018 and 2020 (correct to one decimal place)?",
+            "options": [
+              "45.5%",
+              "44.4%",
+              "43.2%",
+              "43.8%"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A man covers a distance of 180 km at a speed of 45 km/h, the next 150 km at a speed of 50 km/h and the next 120 km at a speed of x km/h. If his average speed for the whole journey is 47 7/19 km/h, then what is the value of x?",
+            "options": [
+              "48",
+              "52",
+              "42",
+              "40"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The height of a cylinder inscribed in a sphere is 1.2 times the radius of the sphere. The radius of the sphere is 10 cm, and the volume of the cylinder is x% of the volume of the sphere. The value of x is:",
+            "options": [
+              "58.2",
+              "56.4",
+              "60.4",
+              "57.6"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A loan of ₹13,500 is to be paid back in two equal annual instalments. If the rate of interest is 16% p.a. compounded annually, then what is the total interest paid in this instalment scheme?",
+            "options": [
+              "₹3,300",
+              "₹3,320",
+              "₹3,360",
+              "₹3,350"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A and B started a business by investing their capitals in the ratio 5/8 : 3/5. After 6 months, A reduced his capital by 20% and B increased his capital by 50%. After 1 year, the share of A in the total profit was ₹15 lakhs. The total profit (in ₹ lakhs) was:",
+            "options": [
+              "35",
+              "27",
+              "40",
+              "30"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The speed of a boat going upstream is 40% of its speed going downstream. It takes a total of 4 2/9 hours in going 15 km upstream and the same distance downstream. What is the speed (in km/h) of the boat in still water?",
+            "options": [
+              "8 3/8",
+              "7 7/8",
+              "7 1/2",
+              "8 1/2"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Pipes A and B can fill a tank in 18 hours and 27 hours, respectively. Pipe C is an outlet pipe. When all the three pipes are opened for 15 hours, then 5/36 part of the tank is filled. How much time (in hours) will C alone take to empty one-third of the tank?",
+            "options": [
+              "4",
+              "3",
+              "6",
+              "5"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In a test consisting of 150 questions, a candidate correctly answers 60% of the first 90 questions. What percentage of the remaining questions does he need to answer correctly so that he has 64% of all the questions answered correctly in the test?",
+            "options": [
+              "68%",
+              "72%",
+              "70%",
+              "66%"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If x = √(19 + 4√15) − √(19 − 4√15), then what is the value of x?",
+            "options": [
+              "2√5",
+              "4",
+              "2",
+              "8√15"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A certain sum invested at 10% p.a. simple interest amounts to ₹9,417 in 4 years 4 months. What will be the amount of the same sum at 12 1/2% p.a. in 2 2/5 years at simple interest?",
+            "options": [
+              "₹8,641",
+              "₹8,531",
+              "₹8,541",
+              "₹8,631"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

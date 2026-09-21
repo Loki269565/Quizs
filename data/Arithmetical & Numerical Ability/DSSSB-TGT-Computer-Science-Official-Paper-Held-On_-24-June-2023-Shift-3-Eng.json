@@ -1,0 +1,154 @@
+[
+  {
+    "id": "dsssb_tgt_cs_2023_arith",
+    "title": "DSSSB TGT Computer Science (24 June 2023, Shift 3) - Arithmetical & Numerical Ability",
+    "sections": [
+      {
+        "name": "Arithmetical & Numerical Ability",
+        "durationMinutes": 12,
+        "questions": [
+          {
+            "q": "A has a sum of ₹12,528, which is 16% more than what B has and 20% less than what C has. The amount that B and C together have is:",
+            "options": ["₹26,460", "₹26,450", "₹26,420", "₹26,550"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The value of [ (6 2/5 ÷ 5 1/3 of 4 1/2) − (1 1/3 ÷ 3 3/5 of 5/6) + 2/5 ] / [ 3/4 − 2 2/3 ÷ 1 1/5 of 5/9 + 4 1/4 ] is:",
+            "options": ["1/3", "5/6", "2/3", "2/9"],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A varies directly as B and inversely as C. When B = 25 and C = 18, then A = 20. If B = 35 and C = 16, then what is the value of A?",
+            "options": ["32", "31.5", "30", "32.5"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "6 years ago, the ratio of the ages (in years) of Renu and Raman was 5 : 11. After 6 years from now, the ratio of their ages will be 11 : 17. What is the sum of their present ages (in years)?",
+            "options": ["34", "46", "44", "38"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Study the given graph and answer the following question.\nImports and exports of a company in 2017 to 2020 (in ₹ crores):\nYear: 2017 | 2018 | 2019 | 2020\nImports: 265 | 450 | 500 | 550\nExports: 400 | 540 | 575 | 640\n\nThe ratio of the average exports of the company in 2018 and 2020 to the total imports in 2017 and 2019 is:",
+            "options": ["118 : 153", "31 : 39", "41 : 51", "115 : 151"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A man marks an article 60% above its cost price and sells it by giving two successive discounts of 25% and 5% on its marked price. What is his profit percentage?",
+            "options": ["14%", "20%", "30%", "16%"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Study the given pie chart and answer the following question.\nBreakup (degree wise) of the number of students studying in classes VI to X in a school:\nClass VI = 84.6°, Class VII = 75.6°, Class VIII = 63.0°, Class IX = 72.0°, Class X = 64.8°\nNumber of students in class VIII = 105.\n\nThe ratio of the number of boys and girls in class X is 4 : 5 and the ratio of that of boys and girls in class VII is 5 : 9. What is the ratio of the number of boys in class VII to the number of girls in class X?",
+            "options": ["4 : 3", "4 : 5", "5 : 4", "3 : 4"],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The ratio of acid and water in solution A is 2 : 5 and the ratio of acid and water in solution B is 6 : 7. 7 L of A is mixed with 9 L of B. In 312 mL of the resulting solution, the quantity (in mL) of acid is:",
+            "options": ["125", "135", "120", "130"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If the 9-digit number 924x597y4 is divisible by 88, then the maximum possible value of (5x − 3y) is:",
+            "options": ["37", "23", "17", "35"],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "By selling an article at 11/25 of its selling price, a shopkeeper loses 34%. If he sells it at 80% of its original selling price, then his profit percentage is:",
+            "options": ["28%", "20%", "30%", "25%"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A train passes two bridges of length 900 m and 420 m in 75 seconds and 50 seconds, respectively. The length (in m) of the train is:",
+            "options": ["540", "500", "550", "520"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Pipe A can fill a tank in 20 hours and pipe B can empty the full tank in 40 hours. Both pipes were initially opened together for 30 hours, and then pipe B was closed and pipe A continued to fill the tank. In how much total time (in hours) was the tank filled completely?",
+            "options": ["36", "38", "34", "35"],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A circle is inscribed in a square. Another circle concentric to this circle is drawn within the circle. The area of the ring formed by these two circles is 1540 cm² and the difference between their radii is 7 cm. What is the perimeter (in cm) of the square? (Use π = 22/7)",
+            "options": ["308", "352", "264", "336"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An item is available for ₹1,600 cash or for ₹700 cash down payment, followed by three monthly instalments of ₹310 each. The rate of interest (simple) p.a. charged under the instalment plan is (approximate):",
+            "options": ["20.8%", "21.6%", "20.3%", "21.2%"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A certain sum invested at simple interest for 3 1/2 years amounts to ₹6,747 and for 5 years amounts to ₹7,410 at the same rate per cent per annum. The rate of interest p.a. is:",
+            "options": ["8.5%", "7.5%", "8%", "9%"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Two solid metallic right circular cones of heights 31 cm and 53 cm and radii of their bases 21 cm each are melted and recast into a solid sphere. What is the surface area (in cm²) of the sphere?",
+            "options": ["1764π", "900π", "1600π", "1296π"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A can do a certain work in 14 days. B is 33 1/3% less efficient than A. Both started to work together, but A left the work 2 days before the completion of the work and B continued to work till the work was over. In how many days was the whole work completed?",
+            "options": ["9 3/5", "8 1/4", "8 1/2", "10 2/5"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A and B start a business by investing their capitals in the ratio of 2/3 : 3/8. After 4 months, A reduced his capital by 50% and B increased his capital by one-third. What will be the share (in ₹ lakhs) of B in a total profit of ₹39 lakhs, after 1 year?",
+            "options": ["18.6", "17.2", "19.8", "13.2"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "When 1529, 2178 and 2886 are divided by the greatest number n, the remainder in each case is r. What is the value of (3n − 2r)?",
+            "options": ["69", "61", "67", "63"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A car travels for 45 minutes at a speed of 80 km/h, the next 40 minutes at a speed of 48 km/h and the next 35 minutes at a speed of x km/h. If his average speed for the whole journey is 72 1/4 km/h, then what is the value of x?",
+            "options": ["96", "90", "80", "84"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

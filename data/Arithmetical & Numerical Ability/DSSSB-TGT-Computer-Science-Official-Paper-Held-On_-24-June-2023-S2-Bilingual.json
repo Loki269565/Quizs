@@ -1,0 +1,154 @@
+[
+  {
+    "id": "dsssb-tgt-cs-arithmetical-ability-2023",
+    "title": "DSSSB TGT Computer Science - Arithmetical and Numerical Ability (24 June 2023, Shift 2)",
+    "sections": [
+      {
+        "name": "Arithmetical and Numerical Ability",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "The value of [(1/2 × 3/4 ÷ 2/5 of 1 1/4)] / [5 1/2 ÷ 3 2/3 of 1/2 − 3 1/2 + 7 1/2 ÷ 2/5 of 3 3/4] is:",
+            "options": ["3/2", "1/6", "1/2", "5/4"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Let x be the least number which when divided by 11, 21, 24 and 28, leaves a remainder of 10 in each case. If x is divisible by 37, what will be the sum of the digits of x?",
+            "options": ["13", "15", "16", "17"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A man travels the first 2 hours at a speed of 45 km/h, the next 3 1/2 hours at a speed of 60 km/h and the next 4 1/2 hours at a speed of 70 km/h. What is his average speed (in km/h) for the entire journey?",
+            "options": ["60.5", "61.5", "62", "63"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The ratio of spirit and water in solution A is 6 : 7 and the ratio of water and spirit in solution B is 9 : 4. 3 L of A is mixed with 5 L of B. In 780 mL of the resulting solution, what is the quantity (in mL) of spirit?",
+            "options": ["285", "304", "270", "266"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The price of tea increased by 40% and then decreased by 20%. If a person now reduces his consumption of tea by 6 1/4%, then what is the percentage change in his expenditure?",
+            "options": ["Decrease, 5%", "Increase, 15%", "Increase, 5%", "Decrease, 15%"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "By selling an article at 23/40 of its selling price, a shopkeeper loses 8%. If it is sold at 90% of its original selling price, then the profit percentage is:",
+            "options": ["35%", "38%", "40%", "44%"],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "An article is sold for ₹351.90 after giving two successive discounts of x% and 15% on its marked price of ₹450. If a single discount of 2x% is given on its marked price, then its selling price will be:",
+            "options": ["₹387.50", "₹360", "₹378", "₹382.50"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Two numbers, A and B, are in the ratio of 10 : 13. If 90 is subtracted from each of them, the resulting numbers are in the ratio of 7 : 10. If 57 is added to A and 16 is subtracted from B, then the ratio of the resulting numbers will be:",
+            "options": ["19 : 20", "20 : 21", "21 : 22", "22 : 23"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "P and Q started a business by investing their capitals in the ratio of 1 : 2 and the period of P's investment is three times that of Q. If P received a profit of ₹22,800, then what is the total profit?",
+            "options": ["₹42,000", "₹36,900", "₹36,000", "₹38,000"],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "x varies directly as y and inversely as z. When y = 1.5 and z = 2, then x = 5. If z = 2.5 and y = 9, then what is the value of x?",
+            "options": ["24", "20", "15", "12"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The simple interest on a certain sum for 10 years at 9.5% p.a. is ₹2,832 less than the amount of the same sum for 3 1/2 years at 7% p.a., simple interest. The sum (in ₹) is:",
+            "options": ["9,200", "9,500", "9,600", "9,800"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A loan of ₹10,200 is to be paid back in two equal half-yearly instalments. If the rate of interest is 8% p.a., compounded half-yearly, then what is the total interest charged in this scheme?",
+            "options": ["₹600", "₹616", "₹620", "₹636"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A 240-m-long train passes a pole in 18 seconds and completely passes another train running in the opposite direction at a speed of 42 km/h in 17 seconds. What is the length of the other train?",
+            "options": ["170 m", "185 m", "195 m", "200 m"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The time taken by a boat to go 21 km downstream is equal to the time taken by it to go 9 km upstream. To go 12 km downstream and the same distance upstream, it takes a total of 5 5/7 hours. How much time (in hours) will the boat take to go 28 km downstream?",
+            "options": ["3 1/9", "3 1/2", "4", "5"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Pipes A and B can fill a tank in 20 hours and 30 hours, respectively. Pipe C is an emptying pipe. When all the three pipes are opened together, 2/9th part of the tank is filled in 8 hours. Pipe C alone can empty 1/3rd part of the tank in:",
+            "options": ["4 hours", "3 hours", "5 hours", "6 hours"],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The volume of a right circular cylinder is 554.4 cm³ and its height is 10 cm. What is the perimeter of the base of the cylinder? (Use π = 22/7)",
+            "options": ["17.6 cm", "26.4 cm", "22 cm", "44 cm"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The curved surface area of a right circular cone is 444π cm³ and the diameter of its base is 24 cm. What is the volume of the cone (in cm³)?",
+            "options": ["840π", "1120π", "1400π", "1680π"],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The area of a rectangular field is 1008 m². Its shorter side is 1/8 of the sum of its longer side and one of its diagonals. What is the cost of fencing the field at ₹24 per m?",
+            "options": ["₹3,696", "₹3,744", "₹3,792", "₹3,840"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Study the given pie chart and answer the following question.\n\nBreakup (percentage-wise) of amount spent on different sports in 2021 in a school: Cricket 22.50%, Golf 12%, Others 12.50%, Basketball 15%, Football 18%, Hockey 20%.\n\nAmount spent on cricket = ₹18,000\n\nIf the total amount spent on Basketball and Hockey is ₹x more than the total amount spent on Football and Golf, then the value of x lies between:",
+            "options": ["3,600 and 3,800", "3,800 and 4,200", "4,200 and 4,400", "4,400 and 4,600"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Study the given graph and answer the following question.\n\nProduction of rice by states A, B and C during 2018 to 2020 (in lakh tonnes): A - 450, 500, 600; B - 550, 470, 650; C - 620, 600, 720 (for years 2018, 2019, 2020 respectively).\n\nThe average production of rice (per year) by states A, B and C in 2018 is what percentage less than the production of rice by state C in 2020?",
+            "options": ["18%", "20%", "25%", "33 1/3%"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

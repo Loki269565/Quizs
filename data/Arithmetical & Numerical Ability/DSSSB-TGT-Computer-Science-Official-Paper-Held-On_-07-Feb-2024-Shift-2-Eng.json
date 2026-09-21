@@ -1,0 +1,154 @@
+[
+  {
+    "id": "dsssb1",
+    "title": "DSSSB TGT Computer Science - 07 Feb 2024 Shift 2",
+    "sections": [
+      {
+        "name": "Arithmetical & Numerical Ability",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "The ratio of Amit's and Ankit's present age is 10 : 13. Amit is 18 years younger than Ankit. What will be the ratio of Amit's age to Ankit's age after 12 years?",
+            "options": ["4 : 5", "3 : 5", "4 : 9", "4 : 7"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If E1 is 8 times more than E2, then E2 is what percentage less than E1?",
+            "options": ["96.96 percent", "88.88 percent", "80.88 percent", "84.88 percent"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The line chart given below shows the production of 6 companies in 2 years P and Q. J1 = the total production of all companies in year P. J2 = the total production of all companies in year Q. What is the value of (J2 - J1)? [Note: source line chart image not extractable as text/data]",
+            "options": ["125", "110", "150", "85"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The average age of 40 students is 21 years. It was observed that while calculating the average age, the age of a student was taken as 20 years instead of 30 years. What will be the correct average age?",
+            "options": ["21.25 years", "21.22 years", "12.12 years", "23.84 years"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Three numbers P, Q and R are in the ratio of 6 : 5 : 3 respectively. If R is 32 less than the sum of P and Q, then what is the value of Q?",
+            "options": ["24", "48", "20", "32"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the compound interest on (compounding annually) Rs. 14400 at the rate of 10 percent for 3 years?",
+            "options": ["Rs. 4214.8", "Rs. 4712.6", "Rs. 4812.6", "Rs. 4766.4"],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Each of the length, breadth and height of a cuboid is decreased by 12 percent. What is the percentage decrease in the total surface area of the cuboid?",
+            "options": ["20.24 percent", "24.78 percent", "18.92 percent", "22.56 percent"],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "For what value of M, 859M is divisible by 9?",
+            "options": ["5", "3", "7", "2"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Cost price of an article is Rs. 230. If the profit percentage is 12 percent, then what is the value of profit?",
+            "options": ["Rs. 27.6", "Rs. 30", "Rs. 32.8", "Rs. 35"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "After giving a discount of 25 percent a cycle is sold for Rs. 7200. What is the marked price of the cycle?",
+            "options": ["Rs. 9500", "Rs. 10000", "Rs. 9000", "Rs. 9600"],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Simple interest and compound interest (compounding annually) on a principal at a certain rate of interest for 2 years is Rs. 28800 and Rs. 36000 respectively. What is the principal?",
+            "options": ["Rs. 30000", "Rs. 28800", "Rs. 29750", "Rs. 28850"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A train of length 210 metres is running at a speed of 54 km/hr. In how much time will it completely cross a platform of 390 metres?",
+            "options": ["50 seconds", "60 seconds", "40 seconds", "30 seconds"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the value of 33 ÷ 11 + 75 ÷ 5 × 2 - 6 ÷ 12 × 30?",
+            "options": ["15", "18", "9", "42"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The population of a town is 30000. If every year the population increases by 20 percent, then what will be the population of the town after 3 years?",
+            "options": ["51840", "51720", "50820", "48000"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the Highest Common Factor of 12, 36 and 240?",
+            "options": ["12", "30", "18", "480"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The breadth of a rectangular hall is 5/8 of its length. If the area of the floor is 160 metre^2, then what is the difference between the length and breadth of the hall?",
+            "options": ["8 metre", "6 metre", "10 metre", "4 metre"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "X and Y together can complete a work in 60 days. Y and Z together can complete the same work in 90 days. If X, Y and Z all work together, the work gets completed in 45 days. How many days will X and Z together take to complete the same work?",
+            "options": ["120 days", "90 days", "60 days", "150 days"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The pie chart given below shows the number of employees in 6 different companies. The total number of employees in all these 6 companies is 18000, shown in terms of degrees with respect to the total. Which of the following statements is correct? I. The difference between the average number of employees in companies C1 & C2 and the average number of employees in companies C3 & C5 is 150. II. The number of employees in company C6 is 50 percent of the number of employees in company C4. III. The ratio of the number of employees in company C2 to company C6 is 2 : 15. [Note: source pie chart image not extractable as text/data]",
+            "options": ["I, II and III", "I and II", "II and III", "I and III"],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A truck left 8 hours earlier than the scheduled time and, in order to reach its destination 600 km away on time, it had to decrease its usual speed by 20 km/hr. What is the usual speed of the truck?",
+            "options": ["30 km/hr", "50 km/hr", "40 km/hr", "60 km/hr"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The simple interest on a sum for 11 years is Rs. 42000. The rate of interest for the first 4 years is 3 percent per annum and for the next 7 years is 9 percent per annum. What is the sum?",
+            "options": ["Rs. 70000", "Rs. 56000", "Rs. 60000", "Rs. 58000"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

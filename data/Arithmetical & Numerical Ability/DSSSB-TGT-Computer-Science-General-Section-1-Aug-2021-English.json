@@ -1,0 +1,161 @@
+[
+  {
+    "id": "dsssb-arithmetic-ability",
+    "title": "DSSSB TGT Computer Science (1 Aug 2021) - Arithmetic Ability",
+    "sections": [
+      {
+        "name": "Arithmetic Ability",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "What is the value of 15 \u00d7 15 \u00d7 15 + 64 + 3 \u00d7 60 \u00d7 19?",
+            "options": ["6869", "6779", "6879", "6859"],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If 42a + 42b = 672, then what is the average of a and b?",
+            "options": ["8", "9", "6", "7"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Perimeter of a rectangle is 110 cm and difference between length and breadth is 5 cm. If area of the rectangle is equal to the area of an equilateral triangle, then what will be the side of equilateral triangle?",
+            "options": ["(150)^(1/4) cm", "2\u00d7(100)^(1/4) cm", "\u221a3\u00d7(100)^(1/4) cm", "2\u00d7(300)^(1/4) cm"],
+            "answer": null,
+            "note": "Original answer options are rendered as mathematical expressions (radicals) in the source PDF; the exact exponent/base values could not be reliably extracted from OCR, so the correct option is left unverified.",
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If P = 9A and Q = 7A, then P is how much percent more than Q?",
+            "options": ["33.33", "28.56", "22.22", "40"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Cost price and selling price of an article are in ratio of 11 : 16. If cost price is increased by 20 percent and selling price is increased by 20 percent, then what is the new profit percentage?",
+            "options": ["52.24", "61.86", "45.45", "37.43"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The simple interest received on a certain sum is Rs. 1280 for 4 years. What will be the simple interest on the same at the same rate of interest for 10 years?",
+            "options": ["Rs. 3100", "Rs. 3200", "Rs. 3230", "Rs. 3600"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If x : y = y : z, then what is the value of x^4 : y^4?",
+            "options": ["y2 : x2", "y6 : x6", "x2 : z2", "x3 : z3"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A bus covers a distance of 30 km in 36 minutes. If its speed is decreased by 10 km/hr, then what will be the time taken by it to cover the same distance?",
+            "options": ["30 minutes", "45 minutes", "75 minutes", "60 minutes"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The line chart given below shows the marked price and selling price of six articles A, B, C, D, E and F. [Chart data: discount % = (Marked price - Selling price)/Marked price \u00d7 100]. What is the value of J1 - J2 (J1 = sum of discount on articles C and D; J2 = difference of discount on articles D and E)?",
+            "options": ["29", "69", "40", "20"],
+            "answer": null,
+            "note": "Question depends on a line chart with marked/selling price values that could not be fully reconstructed from OCR (article A's data point was cropped out of the extracted text).",
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "If the difference between the two numbers is 75 percent of their sum, then what is the ratio of larger number and smaller number?",
+            "options": ["5 : 2", "7 : 1", "7 : 3", "7 : 2"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following statement is correct? I. A boat travels 84 km downstream and 42 km upstream. If speed of boat and speed of stream are 6 km/hr and 2 km/hr respectively, then total time taken is 20 hours. II. Length of a platform is 1200 meters. If a 600 meter long train can cross it in 30 seconds, then speed of train is 54 km/hr.",
+            "options": ["Only II", "Neither I nor II", "Only I", "Both I and II"],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the value of the cube root of 0.02 plus the square root of 0.000049? [expression may be imprecisely OCR'd from the original PDF]",
+            "options": ["0.3", "0.003", "0.03", "3"],
+            "answer": null,
+            "note": "The radicand values in this expression were not extracted reliably from the scanned PDF, so the correct option could not be confidently verified.",
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Six times of the volume of a sphere is 29106 cm3. What will be the ten times of the radius of the sphere?",
+            "options": ["105 cm", "70 cm", "140 cm", "55 cm"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Given a relation between a and b (expression not fully legible in source PDF), what is the value of (b\u00b2 + 2a\u00b2) : (b\u00b2 \u2212 2a\u00b2)?",
+            "options": ["17 : 1", "20 : 11", "18 : 1", "15 : 2"],
+            "answer": null,
+            "note": "The premise defining the relationship between a and b was an image/expression that did not extract as readable text.",
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "[Question and options rendered as mathematical expressions/images in the source PDF and did not extract as readable text]",
+            "options": ["(image)", "(image)", "(image)", "(image)"],
+            "answer": null,
+            "note": "Both the question stem and answer options for this item were embedded as images in the PDF.",
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "10 men can do a work in 15 days working 4 hours a day. If after 5 days, 4 men leave the work, then remaining work can be done in how many days?",
+            "options": ["18", "53/3", "50/3", "20"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The line chart given below shows the birth rate (per thousand persons) and death rate (per thousand persons) of countries P, Q, R and S in the year 2018. Which of the following statement(s) is/are correct? I. Birth rate of country Q is 9.2 percent more than country R. II. Birth rate of country R is 11.76 percent more than the birth rate of country S. III. Birth rate of country Q is 32 percent more than the birth rate of country S.",
+            "options": ["Both I and III", "Both I and II", "Only I", "Only II"],
+            "answer": null,
+            "note": "Chart values for country P were partially cropped in the extracted text, so the statements could not be independently re-verified with confidence.",
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The table given below shows the price (in lakh) of six cars C1, C2, C3, C4, C5 and C6 in three different cities X, Y and Z. [C1: X=3.5, Y=3.25, Z=4.2; C2: X=4.8, Y=5.2, Z=5.4; C3: X=4.8, Y=4.4, Z=3.8; C4: X=4.5, Y=3.5, Z=3.0; C5: X=4.0, Y=4.2, Z=3.8; C6: X=5.2, Y=5.0, Z=5.4]. Which of the following statement(s) is/are correct? I. The ratio of price of C1 in city X to the price of C4 in city Z is 6 : 7 respectively. II. The ratio of price of C1 in the city X to the price of C4 in city Z is 7 : 6 respectively. III. Price of C5 is 5 percent more in city Y than the price in city X.",
+            "options": ["All are correct", "Only I", "Both II and III", "Only III"],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The Highest Common Factor of two numbers is (2/5)th of their Least Common Multiple. If the product of two numbers is 1690, then what is their Highest Common Factor?",
+            "options": ["26", "35", "53", "65"],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "[Question rendered as a mathematical expression/image in the source PDF and did not extract as readable text]",
+            "options": ["26", "78", "72", "51"],
+            "answer": null,
+            "note": "The question stem was embedded as an image in the PDF and could not be reconstructed.",
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]
