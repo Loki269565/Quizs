@@ -1,0 +1,1214 @@
+[
+  {
+    "id": "dsssb_teaching_methodology_100q",
+    "title": "Teaching Methodology - DSSSB TGT Computer Science",
+    "sections": [
+      {
+        "name": "DSSSB TGT Computer Science - Teaching Methodology Previous Year Questions",
+        "durationMinutes": 60,
+        "questions": [
+          {
+            "q": "Which of the following is a prime factor that helps decide the teaching method employed by a teacher in the classroom?",
+            "options": [
+              "Classroom environment",
+              "Subject matter",
+              "Objective of the lesson",
+              "Teacher's learning style"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which method of teaching is also known as 'Heuristic method'?",
+            "options": [
+              "Discovery method",
+              "Play-way method",
+              "Lecture method",
+              "Project method"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is an example of 'descriptive' teaching, in which input is directly provided by the teacher?",
+            "options": [
+              "Project Method",
+              "Question and Answer Method",
+              "Lecture Method",
+              "Sampling Method"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The given examples come under different approaches to learning. Associate them properly. (a) Lecture method, (b) Whole group discussion, (c) Small group discussion, (d) Simulations, (e) Projects",
+            "options": [
+              "(a) and (b) -- student centered; (c), (d) and (e) -- teacher centered",
+              "(a) and (b) -- teacher centered; (c), (d) and (e) -- student centered",
+              "(a), (b) and (c) -- teacher centered; (d) and (e) -- student centered",
+              "(a) -- teacher centered; (b), (c), (d) and (e) -- student centered"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following are commonly identified skills in the teaching-learning process? I. Skill in putting question II. Skill in introducing the topic III. Skill in non-verbal cues IV. Skill in explanation",
+            "options": [
+              "I and II only",
+              "I, II, III and IV",
+              "II, III and IV only",
+              "I, III and IV only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Collaborative group work is important for enhancing pupil participation. Which of the following are key features of effective group work discussions? I. Pupils asking question II. Pupils actively and persistently seeking help from peers",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As a teacher, which of the following techniques you can adopt in the classroom/school to use imitation for enabling young students to acquire positive and socially desirable behaviour? I. When any student imitates positive behaviour, try to recognize it and provide verbal praise encouraging him/her to repeat it. II. While teaching history and social science to students, always highlight the positive aspects of the important characters for imitation by the students.",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "'Internal organs, three dimensional geometric figures are best understood with models'. A teacher uses various learning materials to create an inclusive classroom. The given statement represents which of the following learning material?",
+            "options": [
+              "Our surrounding environment",
+              "Tactual materials in the form of real objects",
+              "Visual materials in the form of pictures or photographs",
+              "Information and communication technology"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following statement is NOT correct? I. Gender discrimination can be direct and indirect. II. Gender discrimination can be blatant or subtle.",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Broadly, motor skills are classified into locomotor and manipulative skills. Which of the following activities are included in locomotor skills? I. Climbing II. Running III. Walking",
+            "options": [
+              "II and III",
+              "I and II",
+              "Only III",
+              "I, II and III"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT a step of the Herbartian model?",
+            "options": [
+              "Preparation",
+              "Presentation",
+              "Teaching aids",
+              "Application"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which teaching approach prioritises learner autonomy and decision-making during the learning process?",
+            "options": [
+              "Direct Instruction",
+              "Inquiry-Based Learning",
+              "Lecture Method",
+              "Demonstration Method"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is a key aspect of subject pedagogy planning in education?",
+            "options": [
+              "Aligning lesson plans with curriculum standards while incorporating strategies that",
+              "Focusing only on textbook completion",
+              "Ignoring student backgrounds",
+              "Using a single teaching method for all topics"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT a good technique to enable the learners to learn the subject and the content?",
+            "options": [
+              "Encouraging rote memorization",
+              "Using varied teaching methods",
+              "Connecting content to real life",
+              "Promoting critical thinking"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The emphasis of the ____________________ is on understanding cognitive theories of learning and their contribution to various methods of teaching.",
+            "options": [
+              "Intellectual/Academic Approach",
+              "Behavioural Approach",
+              "Humanistic Approach",
+              "Constructivist Approach"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As a teacher while using literature, attention must be paid to which of the following points? I. Not complete but partial understanding of study material is required",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is not one of the normal behaviours of a teacher in a class that falls under excellence variations?",
+            "options": [
+              "Change in mental behavior",
+              "Clarity in speech",
+              "Use of examples",
+              "Enthusiasm"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following are the usefulness of competency based approach in teaching-learning process? I. It keeps the learner away from rote memorization.",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Demonstration method of teaching is a ______.",
+            "options": [
+              "teacher centered method",
+              "subject centered method",
+              "student centered method",
+              "learner centered method"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is/are the characteristics of an effective method of teaching and learning? I. Matches the mental ability and needs of the students II. Develops critical thinking of the children III. Provides a scope for development of life skills in children",
+            "options": [
+              "Only I",
+              "Only II",
+              "II and III",
+              "I, II and III"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the role of a teacher in Problem Solving method of teaching-learning process?",
+            "options": [
+              "To provide direct solutions",
+              "To act as a facilitator and guide",
+              "To dictate notes",
+              "To conduct exams only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT a method that stimulate divergent thinking?",
+            "options": [
+              "Brainstorming",
+              "Free writing",
+              "Keeping a journal",
+              "Mind Calibrating"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "According to Carl Jung, which of the following is NOT a general characteristic of an introvert?",
+            "options": [
+              "Neglectful of ailments and personal belongings",
+              "Rather reserved",
+              "Lacking in confidence",
+              "Shy"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "IDEAL model for problem solving was developed by ______.",
+            "options": [
+              "Bransford",
+              "Ballord",
+              "Bandura",
+              "Lev Vygotsky"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT one of the attitude of the effective teacher?",
+            "options": [
+              "Passing and responsibility",
+              "Encouraging creativity",
+              "Fostering individualized instruction",
+              "Sensitively accepting diversity"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Effective teaching developing assessment continuity is ______.",
+            "options": [
+              "Not expected",
+              "Not necessary",
+              "Not mandatory",
+              "Mandatory"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A ______ teacher need to perform a variety of functions in addition to those performed by the class teacher, work as a friend, philosopher and guide to the children, parents and the class teacher.",
+            "options": [
+              "Itinerant teacher",
+              "Integrated educator",
+              "Class teacher",
+              "Therapist"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In order to introduce the blind child to school the resource/ itinerant teacher should contact ________ to explain the programme and their role.",
+            "options": [
+              "Classmates",
+              "Parents",
+              "Relatives",
+              "Headmaster/class teacher"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In an inclusive school students eat at the same lunch table and play together in the playground. What type of inclusion is this?",
+            "options": [
+              "Physical inclusion",
+              "Academic inclusion",
+              "Political inclusion",
+              "Social inclusion"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT the scope of Inclusive Education?",
+            "options": [
+              "Valuing all students equally",
+              "Reducing barriers to learning",
+              "Viewing difference between students as a problem",
+              "Focusing increase participation of all students in the cultural programs"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is true in context of productive computer session?",
+            "options": [
+              "Establishment of ground rules",
+              "Letting pupils use the computer casually",
+              "No rules required",
+              "Only teacher uses computer"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What according to Piaget is the activity pertaining to the Preoperational Stage of children?",
+            "options": [
+              "Conservation",
+              "Object permanence",
+              "Symbolic play",
+              "Abstract reasoning"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is referred as the building blocks of thinking as per Piaget?",
+            "options": [
+              "Schemas",
+              "Assimilation",
+              "Accommodation",
+              "Equilibration"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As per Jean Piaget, a child nodding his head in response to a telephonic conversation is an example of ______.",
+            "options": [
+              "Egocentrism",
+              "Animism",
+              "Artificialism",
+              "Centration"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Cognitive skills of children develop through social interactions with parents, teachers and other more able peers. Who expressed this approach to cognitive development?",
+            "options": [
+              "Jean Piaget",
+              "Sigmund Freud",
+              "Lev Vygotsky",
+              "Lawrence Kohlberg"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A 19-month-old child asks his mother for water and utters 'ma paani'. In which stage of language development is this child?",
+            "options": [
+              "Telegraphic stage",
+              "Babbling stage",
+              "One phrase stage",
+              "Halo phrase stage"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "According to contextual view, to which of the following systems does family belong?",
+            "options": [
+              "Exosystem",
+              "Macrosystem",
+              "Microsystem",
+              "Chronosystem"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Name the Indian psychologist who suggested that the ecology of a child could be...",
+            "options": [
+              "Urie Bronfenbrenner",
+              "Lev Vygotsky",
+              "Jean Piaget",
+              "Lawrence Kohlberg"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following factors influence the actual teaching-learning processes and practices? I. Role of teachers II. Beliefs and assumption III. Modes of evaluation IV. Processes of classroom interaction",
+            "options": [
+              "I and II only",
+              "I, II, III and IV",
+              "II, III and IV only",
+              "I, III and IV only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following combinations of examples - common features is correct? When you teach on the processes involved in agriculture, you can ask students who have observed those processes to describe – using learner experiences. II. If the school wishes to organize a talk on health issues, a local health worker may be invited to address the children - using community resources.",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT a characteristic of teacher-centered approach?",
+            "options": [
+              "Teacher is the sole source of knowledge",
+              "Students are passive recipients",
+              "Emphasis on rote learning",
+              "Students actively construct knowledge"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following social skills are necessary in a child for using Co-operative learning method?",
+            "options": [
+              "Communication and listening skills",
+              "Competitive skills",
+              "Independent work skills",
+              "Memorization skills"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is related to the learning objective?",
+            "options": [
+              "New learning material is presented",
+              "Arriving at some general ideas",
+              "Base for the delivery of lesson",
+              "Strengthening acquisition of new learning material"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The main objective of the National Repository of Open Educational Resources (NROER) is to make available",
+            "options": [
+              "Printed textbooks to schools",
+              "Digital resources to teachers and students",
+              "Only audio-visual content",
+              "Question banks for exams"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the fundamental cognitive skill that involves the retention and recall of information?",
+            "options": [
+              "Memory",
+              "Attention",
+              "Perception",
+              "Problem solving"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following statements is correct regarding management of individualized learning?",
+            "options": [
+              "It is teacher-centered",
+              "It focuses on the needs of individual learners",
+              "It uses only group activities",
+              "It ignores learner differences"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following statements is correct regarding teachers' role in the Information and Communication Technology environment? I. Teacher acts as a facilitator",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which classroom strategy is best for encouraging aesthetic learning?",
+            "options": [
+              "Silent reading tests",
+              "Dramatisation",
+              "Repetition drills",
+              "Dictation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "According to Taba (1962), which of the following is a key aspect of curriculum planning?",
+            "options": [
+              "Teacher-centered approach",
+              "Grassroots approach",
+              "Centralized approach",
+              "Textbook-centered approach"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following should planning for subject pedagogy take into account?",
+            "options": [
+              "Single teaching method",
+              "Learner diversity",
+              "Uniform assessment",
+              "Rigid curriculum"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the role of a teacher in the Problem Solving method of teaching-learning process?",
+            "options": [
+              "To provide direct solutions",
+              "To act as a facilitator and guide",
+              "To dictate notes",
+              "To conduct exams only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT a method that stimulate divergent thinking?",
+            "options": [
+              "Brainstorming",
+              "Free writing",
+              "Keeping a journal",
+              "Mind Calibrating"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "According to Carl Jung, which of the following is NOT a general characteristic of an introvert?",
+            "options": [
+              "Neglectful of ailments and personal belongings",
+              "Rather reserved",
+              "Lacking in confidence",
+              "Shy"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "IDEAL model for problem solving was developed by ______.",
+            "options": [
+              "Bransford",
+              "Ballord",
+              "Bandura",
+              "Lev Vygotsky"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT one of the attitude of the effective teacher?",
+            "options": [
+              "Passing and responsibility",
+              "Encouraging creativity",
+              "Fostering individualized instruction",
+              "Sensitively accepting diversity"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Effective teaching developing assessment continuity is ______.",
+            "options": [
+              "Not expected",
+              "Not necessary",
+              "Not mandatory",
+              "Mandatory"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A ______ teacher need to perform a variety of functions in addition to those performed by the class teacher, work as a friend, philosopher and guide to the children, parents and the class teacher.",
+            "options": [
+              "Itinerant teacher",
+              "Integrated educator",
+              "Class teacher",
+              "Therapist"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In order to introduce the blind child to school the resource/ itinerant teacher should contact ________ to explain the programme and their role.",
+            "options": [
+              "Classmates",
+              "Parents",
+              "Relatives",
+              "Headmaster/class teacher"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In an inclusive school students eat at the same lunch table and play together in the playground. What type of inclusion is this?",
+            "options": [
+              "Physical inclusion",
+              "Academic inclusion",
+              "Political inclusion",
+              "Social inclusion"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT the scope of Inclusive Education?",
+            "options": [
+              "Valuing all students equally",
+              "Reducing barriers to learning",
+              "Viewing difference between students as a problem",
+              "Focusing increase participation of all students in the cultural programs"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is true in context of productive computer session?",
+            "options": [
+              "Establishment of ground rules",
+              "Letting pupils use the computer casually",
+              "No rules required",
+              "Only teacher uses computer"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What according to Piaget is the activity pertaining to the Preoperational Stage of children?",
+            "options": [
+              "Conservation",
+              "Object permanence",
+              "Symbolic play",
+              "Abstract reasoning"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is referred as the building blocks of thinking as per Piaget?",
+            "options": [
+              "Schemas",
+              "Assimilation",
+              "Accommodation",
+              "Equilibration"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As per Jean Piaget, a child nodding his head in response to a telephonic conversation is an example of ______.",
+            "options": [
+              "Egocentrism",
+              "Animism",
+              "Artificialism",
+              "Centration"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Cognitive skills of children develop through social interactions with parents, teachers and other more able peers. Who expressed this approach to cognitive development?",
+            "options": [
+              "Jean Piaget",
+              "Sigmund Freud",
+              "Lev Vygotsky",
+              "Lawrence Kohlberg"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A 19-month-old child asks his mother for water and utters 'ma paani'. In which stage of language development is this child?",
+            "options": [
+              "Telegraphic stage",
+              "Babbling stage",
+              "One phrase stage",
+              "Halo phrase stage"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "According to contextual view, to which of the following systems does family belong?",
+            "options": [
+              "Exosystem",
+              "Macrosystem",
+              "Microsystem",
+              "Chronosystem"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Name the Indian psychologist who suggested that the ecology of a child could be...",
+            "options": [
+              "Urie Bronfenbrenner",
+              "Lev Vygotsky",
+              "Jean Piaget",
+              "Lawrence Kohlberg"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following factors influence the actual teaching-learning processes and practices? I. Role of teachers II. Beliefs and assumption III. Modes of evaluation IV. Processes of classroom interaction",
+            "options": [
+              "I and II only",
+              "I, II, III and IV",
+              "II, III and IV only",
+              "I, III and IV only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following combinations of examples - common features is correct? When you teach on the processes involved in agriculture, you can ask students who have observed those processes to describe – using learner experiences. II. If the school wishes to organize a talk on health issues, a local health worker may be invited to address the children - using community resources.",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT a characteristic of teacher-centered approach?",
+            "options": [
+              "Teacher is the sole source of knowledge",
+              "Students are passive recipients",
+              "Emphasis on rote learning",
+              "Students actively construct knowledge"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following social skills are necessary in a child for using Co-operative learning method?",
+            "options": [
+              "Communication and listening skills",
+              "Competitive skills",
+              "Independent work skills",
+              "Memorization skills"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is related to the learning objective?",
+            "options": [
+              "New learning material is presented",
+              "Arriving at some general ideas",
+              "Base for the delivery of lesson",
+              "Strengthening acquisition of new learning material"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The main objective of the National Repository of Open Educational Resources (NROER) is to make available",
+            "options": [
+              "Printed textbooks to schools",
+              "Digital resources to teachers and students",
+              "Only audio-visual content",
+              "Question banks for exams"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the fundamental cognitive skill that involves the retention and recall of information?",
+            "options": [
+              "Memory",
+              "Attention",
+              "Perception",
+              "Problem solving"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following statements is correct regarding management of individualized learning?",
+            "options": [
+              "It is teacher-centered",
+              "It focuses on the needs of individual learners",
+              "It uses only group activities",
+              "It ignores learner differences"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following statements is correct regarding teachers' role in the Information and Communication Technology environment? I. Teacher acts as a facilitator",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which classroom strategy is best for encouraging aesthetic learning?",
+            "options": [
+              "Silent reading tests",
+              "Dramatisation",
+              "Repetition drills",
+              "Dictation"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "According to Taba (1962), which of the following is a key aspect of curriculum planning?",
+            "options": [
+              "Teacher-centered approach",
+              "Grassroots approach",
+              "Centralized approach",
+              "Textbook-centered approach"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following should planning for subject pedagogy take into account?",
+            "options": [
+              "Single teaching method",
+              "Learner diversity",
+              "Uniform assessment",
+              "Rigid curriculum"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What is the role of a teacher in the Problem Solving method of teaching-learning process?",
+            "options": [
+              "To provide direct solutions",
+              "To act as a facilitator and guide",
+              "To dictate notes",
+              "To conduct exams only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT a method that stimulate divergent thinking?",
+            "options": [
+              "Brainstorming",
+              "Free writing",
+              "Keeping a journal",
+              "Mind Calibrating"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "According to Carl Jung, which of the following is NOT a general characteristic of an introvert?",
+            "options": [
+              "Neglectful of ailments and personal belongings",
+              "Rather reserved",
+              "Lacking in confidence",
+              "Shy"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "IDEAL model for problem solving was developed by ______.",
+            "options": [
+              "Bransford",
+              "Ballord",
+              "Bandura",
+              "Lev Vygotsky"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT one of the attitude of the effective teacher?",
+            "options": [
+              "Passing and responsibility",
+              "Encouraging creativity",
+              "Fostering individualized instruction",
+              "Sensitively accepting diversity"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Effective teaching developing assessment continuity is ______.",
+            "options": [
+              "Not expected",
+              "Not necessary",
+              "Not mandatory",
+              "Mandatory"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A ______ teacher need to perform a variety of functions in addition to those performed by the class teacher, work as a friend, philosopher and guide to the children, parents and the class teacher.",
+            "options": [
+              "Itinerant teacher",
+              "Integrated educator",
+              "Class teacher",
+              "Therapist"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In order to introduce the blind child to school the resource/ itinerant teacher should contact ________ to explain the programme and their role.",
+            "options": [
+              "Classmates",
+              "Parents",
+              "Relatives",
+              "Headmaster/class teacher"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "In an inclusive school students eat at the same lunch table and play together in the playground. What type of inclusion is this?",
+            "options": [
+              "Physical inclusion",
+              "Academic inclusion",
+              "Political inclusion",
+              "Social inclusion"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT the scope of Inclusive Education?",
+            "options": [
+              "Valuing all students equally",
+              "Reducing barriers to learning",
+              "Viewing difference between students as a problem",
+              "Focusing increase participation of all students in the cultural programs"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is true in context of productive computer session?",
+            "options": [
+              "Establishment of ground rules",
+              "Letting pupils use the computer casually",
+              "No rules required",
+              "Only teacher uses computer"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "What according to Piaget is the activity pertaining to the Preoperational Stage of children?",
+            "options": [
+              "Conservation",
+              "Object permanence",
+              "Symbolic play",
+              "Abstract reasoning"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is referred as the building blocks of thinking as per Piaget?",
+            "options": [
+              "Schemas",
+              "Assimilation",
+              "Accommodation",
+              "Equilibration"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As per Jean Piaget, a child nodding his head in response to a telephonic conversation is an example of ______.",
+            "options": [
+              "Egocentrism",
+              "Animism",
+              "Artificialism",
+              "Centration"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Cognitive skills of children develop through social interactions with parents, teachers and other more able peers. Who expressed this approach to cognitive development?",
+            "options": [
+              "Jean Piaget",
+              "Sigmund Freud",
+              "Lev Vygotsky",
+              "Lawrence Kohlberg"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "A 19-month-old child asks his mother for water and utters 'ma paani'. In which stage of language development is this child?",
+            "options": [
+              "Telegraphic stage",
+              "Babbling stage",
+              "One phrase stage",
+              "Halo phrase stage"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "According to contextual view, to which of the following systems does family belong?",
+            "options": [
+              "Exosystem",
+              "Macrosystem",
+              "Microsystem",
+              "Chronosystem"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Name the Indian psychologist who suggested that the ecology of a child could be...",
+            "options": [
+              "Urie Bronfenbrenner",
+              "Lev Vygotsky",
+              "Jean Piaget",
+              "Lawrence Kohlberg"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following factors influence the actual teaching-learning processes and practices? I. Role of teachers II. Beliefs and assumption III. Modes of evaluation IV. Processes of classroom interaction",
+            "options": [
+              "I and II only",
+              "I, II, III and IV",
+              "II, III and IV only",
+              "I, III and IV only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following combinations of examples - common features is correct? When you teach on the processes involved in agriculture, you can ask students who have observed those processes to describe – using learner experiences. II. If the school wishes to organize a talk on health issues, a local health worker may be invited to address the children - using community resources.",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]

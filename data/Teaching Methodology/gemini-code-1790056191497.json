@@ -1,0 +1,260 @@
+[
+  {
+    "id": "dsssb_teaching_methodology_practice_sets",
+    "title": "Teaching Methodology - DSSSB Practice Sets",
+    "sections": [
+      {
+        "name": "DSSSB TGT Computer Science - Practice Set 1 (Based on Official Papers)",
+        "durationMinutes": 10,
+        "questions": [
+          {
+            "q": "Which of the following is a prime factor that helps decide the teaching method employed by a teacher in the classroom?",
+            "options": [
+              "Classroom environment",
+              "Subject matter",
+              "Objective of the lesson",
+              "Teacher’s learning style"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which method of teaching is also known as the ‘Heuristic method’?",
+            "options": [
+              "Discovery method",
+              "Play-way method",
+              "Lecture method",
+              "Project method"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is an example of 'descriptive' teaching, in which input is directly provided by the teacher?",
+            "options": [
+              "Project Method",
+              "Question and Answer Method",
+              "Lecture Method",
+              "Sampling Method"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The given examples come under different approaches to learning. Associate them properly. (a) Lecture method, (b) Whole group discussion, (c) Small group discussion, (d) Simulations, (e) Projects",
+            "options": [
+              "(a) and (b) -- student centered; (c), (d) and (e) -- teacher centered",
+              "(a) and (b) -- teacher centered; (c), (d) and (e) -- student centered",
+              "(a), (b) and (c) -- teacher centered; (d) and (e) -- student centered",
+              "(a) -- teacher centered; (b), (c), (d) and (e) -- student centered"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following are commonly identified skills in the teaching-learning process? I. Skill in putting question II. Skill in introducing the topic III. Skill in non-verbal cues IV. Skill in explanation",
+            "options": [
+              "I and II only",
+              "I, II, III and IV",
+              "II, III and IV only",
+              "I, III and IV only"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Collaborative group work is important for enhancing pupil participation. Which of the following are key features of effective group work discussions? I. Pupils asking question II. Pupils actively and persistently seeking help from peers",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As a teacher, which of the following techniques you can adopt in the classroom/school to use imitation for enabling young students to acquire positive and socially desirable behaviour? I. When any student imitates positive behaviour, try to recognize it and provide verbal praise encouraging him/her to repeat it. II. While teaching history and social science to students, always highlight the positive aspects of the important characters for imitation by the students.",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "“Internal organs, three dimensional geometric figures are best understood with models”. A teacher uses various learning materials to create an inclusive classroom. The given statement represents which of the following learning material?",
+            "options": [
+              "Our surrounding environment",
+              "Tactual materials in the form of real objects",
+              "Visual materials in the form of pictures or photographs",
+              "Information and communication technology"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following statement is NOT correct? I. Gender discrimination can be direct and indirect. II. Gender discrimination can be blatant or subtle.",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Broadly, motor skills are classified into locomotor and manipulative skills. Which of the following activities are included in locomotor skills? I. Climbing II. Running III. Walking",
+            "options": [
+              "II and III",
+              "I and II",
+              "Only III",
+              "I, II and III"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      },
+      {
+        "name": "DSSSB TGT Computer Science - Practice Set 2 (From YouTube & Online Sources)",
+        "durationMinutes": 10,
+        "questions": [
+          {
+            "q": "Which of the following is NOT a step of the Herbartian model?",
+            "options": [
+              "Preparation",
+              "Presentation",
+              "Teaching aids",
+              "Application"
+            ],
+            "answer": 2,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which teaching approach prioritises learner autonomy and decision-making during the learning process?",
+            "options": [
+              "Direct Instruction",
+              "Inquiry-Based Learning",
+              "Lecture Method",
+              "Demonstration Method"
+            ],
+            "answer": 1,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is a key aspect of subject pedagogy planning in education?",
+            "options": [
+              "Aligning lesson plans with curriculum standards while incorporating strategies that",
+              "Focusing only on textbook completion",
+              "Ignoring student backgrounds",
+              "Using a single teaching method for all topics"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is NOT a good technique to enable the learners to learn the subject and the content?",
+            "options": [
+              "Encouraging rote memorization",
+              "Using varied teaching methods",
+              "Connecting content to real life",
+              "Promoting critical thinking"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "The emphasis of the ____________________ is on understanding cognitive theories of learning and their contribution to various methods of teaching.",
+            "options": [
+              "Intellectual/Academic Approach",
+              "Behavioural Approach",
+              "Humanistic Approach",
+              "Constructivist Approach"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "As a teacher while using literature, attention must be paid to which of the following points? I. Not complete but partial understanding of study material is required",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is not one of the normal behaviours of a teacher in a class that falls under excellence variations?",
+            "options": [
+              "Change in mental behavior",
+              "Clarity in speech",
+              "Use of examples",
+              "Enthusiasm"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following are the usefulness of competency based approach in teaching-learning process? I. It keeps the learner away from rote memorization.",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Demonstration method of teaching is a ______.",
+            "options": [
+              "teacher centered method",
+              "subject centered method",
+              "student centered method",
+              "learner centered method"
+            ],
+            "answer": 0,
+            "marks": 1,
+            "negative": 0.25
+          },
+          {
+            "q": "Which of the following is/are the characteristics of an effective method of teaching and learning? I. Matches the mental ability and needs of the students II. Develops critical thinking of the children III. Provides a scope for development of life skills in children",
+            "options": [
+              "Only I",
+              "Only II",
+              "II and III",
+              "I, II and III"
+            ],
+            "answer": 3,
+            "marks": 1,
+            "negative": 0.25
+          }
+        ]
+      }
+    ]
+  }
+]
