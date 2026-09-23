@@ -1,0 +1,1338 @@
+[
+  {
+    "id": "dsssb-tgt-cs-1aug2021",
+    "title": "DSSSB TGT Computer Science - 1 Aug 2021 (Discipline Sections)",
+    "sections": [
+      {
+        "name": "Computer Science I",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "Which of the following statement(s) is/are correct?\nI. Metropolitan area network is a collection of Local area network\nII. Metropolitan area network support both data and voices transmission",
+            "options": [
+              "Only II",
+              "Only I",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617233"
+          },
+          {
+            "q": "1 picoseconds = ______",
+            "options": [
+              "10–12 seconds",
+              "10–18 seconds",
+              "10–9 seconds",
+              "10–15 seconds"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617219"
+          },
+          {
+            "q": "How many interchanges will happen when the sequence of letters of “SORTED” is sorted\nusing bubble sort?",
+            "options": [
+              "6",
+              "36",
+              "11",
+              "18"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617229"
+          },
+          {
+            "q": "Which statements is correct regarding main () function in C++?\nI. It is a user deﬁned function.\nII. It is a pre-deﬁned function.",
+            "options": [
+              "Neither I nor II",
+              "Only II",
+              "Both I and II",
+              "Only I"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617226"
+          },
+          {
+            "q": "Due to which property a computer can work for hours without creating any error and without\ngrumbling?",
+            "options": [
+              "Diligence",
+              "No I.Q",
+              "Speed",
+              "Versatility"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617218"
+          },
+          {
+            "q": "Which inbuilt function in C is used to read string from system console?",
+            "options": [
+              "getchar ()",
+              "getche ()",
+              "puts ()",
+              "cgets ()"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617227"
+          },
+          {
+            "q": "What is the output of the following code written in C?\nvoid main()\n{\nprintf(\"%d%d%d\",62,062,0x62);\n}",
+            "options": [
+              "506298",
+              "629850",
+              "625098",
+              "986250"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617228"
+          },
+          {
+            "q": "Which of the following statement is/are correct?",
+            "options": [
+              "Both I and II",
+              "Neither I nor II",
+              "Only II",
+              "Only I"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617220"
+          },
+          {
+            "q": "Consider the following New-order strategy for traversing a binary tree.\nI. Visit the right subtree of node using new-order\nII. Visit the left subtree of node using new-order\nIII. Visit the node.\nWhat is the new-order traversal of the given tree?",
+            "options": [
+              "A, B, C, D, E, F, G, H, I, J, K",
+              "K, J, I, H, G, F, E, D, C, B, A",
+              "A, B, C, D, K, J, I, H, G, F, E",
+              "B, D, C, A, G, F, H, E, I, J, K"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617230"
+          },
+          {
+            "q": "Consider the following segment of C++ code.\nint j, n;\nfor(j=1;j<=n; )\nj=j*2;\nWhat is the number of comparisons made in the execution of the loop for any n > 0?",
+            "options": [
+              "log2(n + 1)",
+              "log2 n + 1",
+              "n + 1",
+              "(n + 1)/2"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617231"
+          },
+          {
+            "q": "What is the maximum running time of binary search algorithm, when n = 12,000?",
+            "options": [
+              "12",
+              "15",
+              "13",
+              "14"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617224"
+          },
+          {
+            "q": "If x + iy = tan (A + iB), then what is the value of x2 + y2 + 2x cot 2A – 2?",
+            "options": [
+              "0",
+              "–1",
+              "1",
+              "2"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617216"
+          },
+          {
+            "q": "What is the worst case time complexity of bubble sort?",
+            "options": [
+              "O(x2)",
+              "O(x)",
+              "O(log2x)",
+              "O(xlog2x)"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617225"
+          },
+          {
+            "q": "______ is a controlled electronic switch fabricated using a semiconductor.",
+            "options": [
+              "Transistor",
+              "Hard-disk",
+              "Monitor",
+              "Coupler"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617222"
+          },
+          {
+            "q": "Which of the following statement is/are correct?\nI. The largest four digit number in base 7 is 7777.\nII. The smallest four digit number in base 8 is 1111.",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617221"
+          },
+          {
+            "q": "Ans",
+            "options": [
+              "1",
+              "0",
+              "2",
+              "–2"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617215"
+          },
+          {
+            "q": "______ is used for management, maintenance and retrieval of the data stored in the\ndatabase.",
+            "options": [
+              "Processing Software",
+              "System Software",
+              "Operating System",
+              "Database Management System"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617232"
+          },
+          {
+            "q": "What is the minimum value of function y = x2 in the interval [1, 6]?",
+            "options": [
+              "3",
+              "1",
+              "2",
+              "4"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617214"
+          },
+          {
+            "q": "______ is a system software package that converts a high level language program to\nmachine language.",
+            "options": [
+              "Editor",
+              "Debugger",
+              "Emulator",
+              "Compiler"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617223"
+          },
+          {
+            "q": "A partner who just lends his name to the partnership ﬁrm is known as a ______.",
+            "options": [
+              "General Partner",
+              "Limited Partner",
+              "Nominal Partner",
+              "Sleeping Partner"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617217"
+          }
+        ]
+      },
+      {
+        "name": "Computer Science II",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "The values of the attributes in a database describe a particular ______.",
+            "options": [
+              "Entity",
+              "Tuple",
+              "Field",
+              "View"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617252"
+          },
+          {
+            "q": "How many NOR gates are used to get AND gate form them?",
+            "options": [
+              "3",
+              "4",
+              "1",
+              "2"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617242"
+          },
+          {
+            "q": "Which of the following is a type of transmission mode?\nI. Simplex mode\nII. Half simplex mode\nIII. Duplex mode",
+            "options": [
+              "I, II and III",
+              "I and III",
+              "II and III",
+              "I and II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617236"
+          },
+          {
+            "q": "Minimize the three variable logic function using the following K-Map.\nf(A, B, C) = Sm(0, 2, 5, 7)",
+            "options": [
+              "",
+              "",
+              "",
+              ""
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617244"
+          },
+          {
+            "q": "According to ______ law, the force between two charges is directly proportional to the\nproduct of theirs charges.",
+            "options": [
+              "Coulomb’s",
+              "Kirchoff’s",
+              "Ohm’s",
+              "Gauss’s"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617240"
+          },
+          {
+            "q": "A railway crossing has 4 railway tracks. If a train comes on atleast 1 of the tracks, the\ncrossing has to be closed. Which gate can be used to implement this?",
+            "options": [
+              "AND",
+              "NAND",
+              "OR",
+              "NOR"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617243"
+          },
+          {
+            "q": "Which of the following is an advantage of use of multiplexers?\nI. Logic design is simpliﬁed\nII. Minimizes IC package count\nIII. Simpliﬁcation of logic expression is not required",
+            "options": [
+              "I and III",
+              "II and III",
+              "I and II",
+              "I, II and III"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617246"
+          },
+          {
+            "q": "The ability to input data directly into a computer system by speaking to it is known as\n______.",
+            "options": [
+              "speaker recognition",
+              "speaker identiﬁcation",
+              "speech recognition",
+              "speech enhancement"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617239"
+          },
+          {
+            "q": "Simplify the following expression.",
+            "options": [
+              "",
+              "A + B + C",
+              "1",
+              ""
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617247"
+          },
+          {
+            "q": "Which of the following is NOT a Structured Query Language Data type?",
+            "options": [
+              "INTERVAL",
+              "BASE",
+              "REAL",
+              "TIME STAMP"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617253"
+          },
+          {
+            "q": "When data is frequently added to or deleted from a ﬁle, the volatility of the ﬁle is ______.",
+            "options": [
+              "low",
+              "zero",
+              "moderate",
+              "high"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617251"
+          },
+          {
+            "q": "Which of the following statement is/are correct regarding sequential ﬁle organization?\nI. Entire ﬁle must be read for new record insertion and record deletion\nII. On an average, half of the records in the ﬁle must be processed to ﬁnd the location of a\nrecord",
+            "options": [
+              "Only II",
+              "Both I and II",
+              "Neither I nor II",
+              "Only I"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617250"
+          },
+          {
+            "q": "In ______ computer network, there is no host computer for controlling other computers and\nall stations are equal.",
+            "options": [
+              "Star",
+              "Tree",
+              "Ring",
+              "Bus"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617238"
+          },
+          {
+            "q": "What is the full form of DASD in database management system?",
+            "options": [
+              "Disk Access Storage Device",
+              "Digital Access Storage Device",
+              "Dynamic Access Storage Device",
+              "Direct Access Storage Device"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617249"
+          },
+          {
+            "q": "______ is a device that combines a large number of low speed transmission lines into a high\nspeed line.",
+            "options": [
+              "Demultiplexer",
+              "Switch",
+              "Repeater",
+              "Multiplexer"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617234"
+          },
+          {
+            "q": "Which of the following pair is/are correct?\nI. Astable multivibrator – Flip Flop\nII. Bistable multivibrator – Free running",
+            "options": [
+              "Neither I nor II",
+              "Both I and II",
+              "Only II",
+              "Only I"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617245"
+          },
+          {
+            "q": "Simplify the following Boolean Expression?",
+            "options": [
+              "B",
+              "",
+              "A + B",
+              "AB"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617241"
+          },
+          {
+            "q": "Which of the following is a type of network topology?\nI. Star topology\nII. Bus topology\nIII. Car topology",
+            "options": [
+              "I and III",
+              "I and II",
+              "II and III",
+              "I, II and III"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617235"
+          },
+          {
+            "q": "Which one of the following is an impact printer?",
+            "options": [
+              "Inkjet printer",
+              "Thermal printer",
+              "Laser printer",
+              "Dot-matrix printer"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617237"
+          },
+          {
+            "q": "Which of the following is not a key attribute of information?",
+            "options": [
+              "Timeliness",
+              "Isolation",
+              "Accuracy",
+              "Relevancy"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617248"
+          }
+        ]
+      },
+      {
+        "name": "Computer Science III",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "In ______ model, software is developed in a series of incremental releases.\nI. Spiral\nII. Sequential",
+            "options": [
+              "Neither I nor II",
+              "Only II",
+              "Only I",
+              "Both I and II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617264"
+          },
+          {
+            "q": "JAVA compiler translates source code into ______.",
+            "options": [
+              "high language code",
+              "assembly code",
+              "symbolic code",
+              "byte code"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617268"
+          },
+          {
+            "q": "If a memory partition of size 80k is allocated to a process of size 60k then the 20k of the\npartition is wasted and cannot be allocated to any process. It is called ______.",
+            "options": [
+              "external fragmentation",
+              "worst ﬁt",
+              "best ﬁt",
+              "internal fragmentation"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617273"
+          },
+          {
+            "q": "Which page replacement algorithm has Belady’s anomaly?",
+            "options": [
+              "FIFO page replacement",
+              "Least recent used page replacement",
+              "Optimal page replacement",
+              "Not recently used page replacement"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617271"
+          },
+          {
+            "q": "Which statement(s) is/are correct regarding the Boolean algebra?\nI. It facilitate the analysis and design of digital circuits.\nII. Expresses in algebraic form the input-output relationship of logic diagram.",
+            "options": [
+              "Only I",
+              "Both I and II",
+              "Neither I nor II",
+              "Only II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617255"
+          },
+          {
+            "q": "Two modules are said to be common coupled in software design if ______.",
+            "options": [
+              "they communicate through an elementary data item",
+              "they communicate via a composite data",
+              "they share same global data areas",
+              "they share their code"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617266"
+          },
+          {
+            "q": "What is equivalent of the following Boolean expression?",
+            "options": [
+              "x",
+              "",
+              "",
+              "xy"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617256"
+          },
+          {
+            "q": "Which of the following is/are correct regarding accounting process?\nI. A provision is a charge against proﬁt\nII. Reserve is an appropriation of proﬁt",
+            "options": [
+              "Neither I nor II",
+              "Both I and II",
+              "Only I",
+              "Only II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617260"
+          },
+          {
+            "q": "What is the other name of White-box testing?",
+            "options": [
+              "Glass-box testing",
+              "Open-box testing",
+              "Red-box testing",
+              "Close-box testing"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617262"
+          },
+          {
+            "q": "When there is a memory wastage within the memory partition itself then it known as ______.",
+            "options": [
+              "Internal fragmentation",
+              "Compaction",
+              "Belady’s Anomaly",
+              "External fragmentation"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617272"
+          },
+          {
+            "q": "Which of the following statement(s) is/are correct regarding software project management?\nI. PERT charts can be derived automatically form Gantt charts.\nII. Gantt charts cannot be automatically derived from PERT charts.",
+            "options": [
+              "Only I",
+              "Neither I nor II",
+              "Both I and II",
+              "Only II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617267"
+          },
+          {
+            "q": "In java script a ______ function can be deﬁned as a function passed into another function as\na parameter.",
+            "options": [
+              "call front",
+              "roll back",
+              "roll front",
+              "call back"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617258"
+          },
+          {
+            "q": "What is the full form of SQA in software engineering?",
+            "options": [
+              "Software Quality Activity",
+              "System Quality Assurance",
+              "Software Quality Assurance",
+              "Service Quality Activity"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617263"
+          },
+          {
+            "q": "What is the output of the given java code?",
+            "options": [
+              "0",
+              "256",
+              "128",
+              "32"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617270"
+          },
+          {
+            "q": "The input-output relationship of the binary variable for each gate can be represented in\ntabular form by a ______.",
+            "options": [
+              "truth table",
+              "symbol table",
+              "characteristic table",
+              "decision table"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617254"
+          },
+          {
+            "q": "Which of the following is/are correct?\nI. All permanent accounts are balanced and carried forward to the next accounting period.\nII. The temporary accounts are closed at the end of the accounting period.",
+            "options": [
+              "Neither I nor II",
+              "Only II",
+              "Both I and II",
+              "Only I"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617261"
+          },
+          {
+            "q": "Which of the following statement(s) is/are correct regarding java programming?\nI. Place a semicolon immediately after a method header\nII. Deﬁne a method outside the braces of a class deﬁnition",
+            "options": [
+              "Neither I nor II",
+              "Only I",
+              "Both I and II",
+              "Only II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617269"
+          },
+          {
+            "q": "What is AJAX in ASP.NET?",
+            "options": [
+              "Associated java script and XML",
+              "Asynchronous java script and HTML",
+              "Associated java script and HTML",
+              "Asynchronous java script and XML"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617259"
+          },
+          {
+            "q": "A module of a software is said to be logically cohesive if ______.",
+            "options": [
+              "all the elements of the module perform similar operations like error handling, data input etc",
+              "if the set of functions of the module are all part of a procedure",
+              "different elements of the module cooperate to achieve a single function for example managing an employee’s pay roll",
+              "all the elements of the module performs different operations alternatively"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617265"
+          },
+          {
+            "q": "Which of the following symbol represent the NOR gate?",
+            "options": [
+              "Only I",
+              "Both I and II",
+              "Only II",
+              "Neither I nor II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617257"
+          }
+        ]
+      },
+      {
+        "name": "Computer Science IV",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "The rate at which page fault occurs is known as ______.",
+            "options": [
+              "compaction",
+              "thrashing",
+              "paging",
+              "swapping"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617275"
+          },
+          {
+            "q": "Which of the following effects of the price change can inﬂuence the consumer’s optimal\nchoice?\nI. The change in the relative price of a good.\nII. The change in the purchasing power of a consumer.\nIII. Sudden reduction in the minimum support price of a commodity.",
+            "options": [
+              "I and II",
+              "Only III",
+              "I, II and III",
+              "Only I"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617280"
+          },
+          {
+            "q": "Which of the following is a type of information system?",
+            "options": [
+              "Online Processing System",
+              "Real-time Processing System",
+              "Distributed Processing System",
+              "Transaction Processing System"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617291"
+          },
+          {
+            "q": "A certain percentage of deposits which a bank must keep in the form of cash with the RBI is\ncalled ______.",
+            "options": [
+              "Open Market Operations",
+              "Cash Reserve Ratio",
+              "Liquidity Adjustment Facility",
+              "Statutory Liquidity Ratio"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617278"
+          },
+          {
+            "q": "Which of the following statement(s) is/are correct regarding the strategies required to\nincrease the visibility of e-commerce website?\nI. The website name should be sensible that it can be guessed.\nII. Uploading contents like special offers or eye catching information for the regular\nfollowers can increase traﬃc on the website.\nIII. Icons of social networks on the website have no major inﬂuence on e-visibility.",
+            "options": [
+              "II and III",
+              "I, II and III",
+              "Only II",
+              "I and II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617286"
+          },
+          {
+            "q": "Which of the following is not used to calculate Hash functions?",
+            "options": [
+              "Folding method",
+              "Modular method",
+              "Rehashing",
+              "Division method"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617289"
+          },
+          {
+            "q": "______ is a process of lifting the process from memory and placing it on disk.",
+            "options": [
+              "Swapping in",
+              "Paging",
+              "Thrashing",
+              "Swapping out"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617276"
+          },
+          {
+            "q": "Which of the following is not a operating system for mobile computing?",
+            "options": [
+              "Symbian OS",
+              "Manet OS",
+              "Palm OS",
+              "Windows Mobile"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617293"
+          },
+          {
+            "q": "Which statement is/are true about the OSI model?\nI. Layer 1 through 3 are end-to-end\nII. Layer 4 through 7 are chained",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617283"
+          },
+          {
+            "q": "Which of the following business models fall into the category of ‘Native Internet Business\nModels’?\nI. Library Model\nII. Subscription Model",
+            "options": [
+              "Only II",
+              "Both I and II",
+              "Neither I nor II",
+              "Only I"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617285"
+          },
+          {
+            "q": "Which of the following statement(s) is/are correct regarding about the undirected graph?\nI. Number of odd degree vertices is even.\nII. Sum of degrees of all vertices is even.",
+            "options": [
+              "Neither I nor II",
+              "Only II",
+              "Only I",
+              "Both I and II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617288"
+          },
+          {
+            "q": "Which layer in OSI model is responsible for the dialogue control and token management?",
+            "options": [
+              "Network layer",
+              "Transport layer",
+              "Session layer",
+              "Physical layer"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617281"
+          },
+          {
+            "q": "In OSI model network layer is responsible for ______.",
+            "options": [
+              "Token management",
+              "Dialog control",
+              "Physical transmission",
+              "Routing"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617282"
+          },
+          {
+            "q": "Consider a main memory with the capacity of 4 page frames which are initially empty. If the\npage reference string is 1, 3, 4, 4, 3, 2, 1, 7, 5, 6 then what is the number of page fault using\nFIFO page replacement algorithm?",
+            "options": [
+              "9",
+              "6",
+              "8",
+              "7"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617277"
+          },
+          {
+            "q": "Which of the following characteristic(s) of expert systems is/are correct?\nI. The direction of interaction is from machine to the user.\nII. Its domain of knowledge is narrow.\nIII. Information is produced by analysis of operational and external data.",
+            "options": [
+              "I, II and III",
+              "I and III",
+              "I and II",
+              "Only II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617292"
+          },
+          {
+            "q": "Which statement(s) is/are correct regarding node N deletion in binary search tree?\nI. If node N has no children then just replace location of N in the parent node by the null\npointer.\nII. If node N has two children, then replace it by preorder successor.",
+            "options": [
+              "Neither I nor II",
+              "Both I and II",
+              "Only I",
+              "Only II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617290"
+          },
+          {
+            "q": "If two non-continuous free partition of size ‘a’ and ‘b’ are available. A process of size ‘c’\ncannot be allocated even when a + b > c, a < c and b < c. This problem is known as ______.",
+            "options": [
+              "worst ﬁt",
+              "external fragmentation",
+              "quick ﬁt",
+              "internal fragmentation"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617274"
+          },
+          {
+            "q": "Which of the following method(s) is/are used to measure the aggregate value of goods and\nservices produced in an economy?\nI. Expenditure method\nII. Income method\nIII. Product method",
+            "options": [
+              "I and III",
+              "I, II and III",
+              "Only III",
+              "I and II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617279"
+          },
+          {
+            "q": "Which statement is correct regarding binary search tree?\nI. The value at node N is less than every value in the left subtree of node.\nII. The value at node N is greater than or equal to every value in the right subtree of N.",
+            "options": [
+              "Only I",
+              "Neither I nor II",
+              "Both I and II",
+              "Only II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617287"
+          },
+          {
+            "q": "Layer ﬁve of OSI model is ______.",
+            "options": [
+              "Transport layer",
+              "Presentation layer",
+              "Session layer",
+              "Network layer"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617284"
+          }
+        ]
+      },
+      {
+        "name": "Computer Science V",
+        "durationMinutes": 20,
+        "questions": [
+          {
+            "q": "How many different levels of heading does HTML support?",
+            "options": [
+              "5",
+              "7",
+              "6",
+              "9"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617295"
+          },
+          {
+            "q": "If f(1) = 4 and f(5) = 6, then what is the value of f(3) using Lagrange’s interpolation?",
+            "options": [
+              "5",
+              "6.5",
+              "4",
+              "3"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617303"
+          },
+          {
+            "q": "Rearrange steps involved in top-down design programming?\nI. Analyze the problem\nII. Revise and resequence\nIII. Write the main module\nIV. Connect the modules in proper order\nV. Write the remaining modules",
+            "options": [
+              "III ⟶ I ⟶ V ⟶ IV ⟶ II",
+              "I ⟶ III ⟶ V ⟶ IV ⟶ II",
+              "V ⟶ III ⟶ I ⟶ IV ⟶ II",
+              "II ⟶ IV ⟶ V ⟶ III ⟶ I"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617300"
+          },
+          {
+            "q": "Which symbol in ﬂowchart is used for representing start and end?",
+            "options": [
+              "",
+              "",
+              "⟶",
+              ""
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617299"
+          },
+          {
+            "q": "If P is the mean of Poisson distribution, then what is the standard deviation?",
+            "options": [
+              "P2",
+              "",
+              "",
+              "P"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617301"
+          },
+          {
+            "q": "A question in mathematics is given to three students P, Q and R whose chances of solving\nare 1/3, 1/4, 1/5 respectively. What is the probability that the problem will be solved?",
+            "options": [
+              "0.6",
+              "0.7",
+              "0.8",
+              "0.4"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617302"
+          },
+          {
+            "q": "Which HTML tag is used to embed Java Script scripts in a page?",
+            "options": [
+              "",
+              "",
+              "",
+              ""
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617296"
+          },
+          {
+            "q": "Which of the following methods can be used to organise notes for interpreting an\ninformation?\nI. Flow chart\nII. Transition devices",
+            "options": [
+              "Neither I nor II",
+              "Only I",
+              "Both I and II",
+              "Only II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617298"
+          },
+          {
+            "q": "______ is the process of identifying, organizing, storing and disseminating information within\nan organization.",
+            "options": [
+              "Knowledge management",
+              "Management information system",
+              "Human resource management",
+              "Financial management"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617297"
+          },
+          {
+            "q": "The maximum number of points that can be displayed without overlap on a CRT is referred\nto as ______.",
+            "options": [
+              "phosphorescence",
+              "resolution",
+              "persistence",
+              "aspect ratio"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617294"
+          },
+          {
+            "q": "Which of the following is/are the indicator(s) of empowered women?\nI. Participation in social change\nII. Participation in developmental process",
+            "options": [
+              "Only I",
+              "Neither I nor II",
+              "Both I and II",
+              "Only II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617313"
+          },
+          {
+            "q": "______ is the key process of teacher-centered approach.\nI. Memorizing\nII. Recalling from memory",
+            "options": [
+              "Only I",
+              "Both I and II",
+              "Neither I nor II",
+              "Only II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617304"
+          },
+          {
+            "q": "Which of the following statement(s) is/are NOT correct?\nI. Sanskrit is the standard language of Brahmanic society.\nII. Persian is the standard language of Iranians.",
+            "options": [
+              "Neither I nor II",
+              "Only II",
+              "Only I",
+              "Both I and II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617309"
+          },
+          {
+            "q": "At the elementary level, how awareness of regional arts and crafts help?\nI. To recognise and promote traditional and contemporary art and art pieces.\nII. To sensitise the children about the pluralistic cultural legacy of India – awareness of local\ncrafts.",
+            "options": [
+              "Neither I nor II",
+              "Only I",
+              "Only II",
+              "Both I and II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617311"
+          },
+          {
+            "q": "In Hindi every noun can have ______ forms in principle.",
+            "options": [
+              "8",
+              "4",
+              "6",
+              "2"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617308"
+          },
+          {
+            "q": "______ is the type of assessment.\nI. Formative assessment\nII. Summative assessment",
+            "options": [
+              "Neither I nor II",
+              "Only II",
+              "Only I",
+              "Both I and II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617307"
+          },
+          {
+            "q": "There are various factors on which our choice of words, our selection of sentences are\nalways dependent. Which of the following are those factors?\nI. The context\nII. The place where we speak\nIII. The theme",
+            "options": [
+              "I and II",
+              "II and III",
+              "I, II and III",
+              "I and III"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617310"
+          },
+          {
+            "q": "Gender discrimination can be ______.\nI. direct\nII. indirect",
+            "options": [
+              "Only I",
+              "Only II",
+              "Both I and II",
+              "Neither I nor II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617312"
+          },
+          {
+            "q": "एक श\n\nक के प म, आपको यह अहसास करना होगा क अ धगम के आकलन का पूरा दा य व और उसका\nअनुवतन आप पर होता है। न न ल खत म से वह/वे कौन सा/से पहलू है/ह जस पर आपका यान आव यक\nहै?\nI. आपको अपने नणय लेने के लए पया त मा ा म माण एक करने चा हए।\nII. आपको काय पूरा करने म कु छ व ा थय के सामने आयी चुनौ तय के बारे म संवेदनशील होने क\n\nआव यकता होगी।",
+            "options": [
+              "ना ही I ना ही II",
+              "के वल I",
+              "I तथा II दोन",
+              "के वल II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617306"
+          },
+          {
+            "q": "न न ल खत म से कौन सा/से कथन सही नह है/ह?\nI. म ट\n\nेड और म ट तर वाली\nतय म, श ण अ धगम साम ी श क को क ा के भावी बंधन करने\nम मह वपूण सहायता दान करती है।\nII. श ण अ धगम साम ी भावशाली व-अ धगम के लए आव यक होती है।",
+            "options": [
+              "के वल I",
+              "के वल II",
+              "I तथा II दोन",
+              "ना ही I ना ही II"
+            ],
+            "answer": null,
+            "marks": 1,
+            "negative": 0.25,
+            "questionId": "54062617305"
+          }
+        ]
+      }
+    ]
+  }
+]
